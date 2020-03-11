@@ -13,7 +13,7 @@
   - [Web Applications](#web-applications)
   - [Android Apps](#android-apps)
   - [IOS Apps](#ios-apps)
-  - [Telegram / WhatsApp](#telegram-/-whatsApp)
+  - [Telegram / WhatsApp](#telegram--whatsApp)
 - [Contribute](#contribute)
 
 ## Open Source Projects
