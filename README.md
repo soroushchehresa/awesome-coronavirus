@@ -1,4 +1,5 @@
 # Awesome Coronavirus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 > Useful projects for COVID-19 (2019 novel Coronavirus)
 
 COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers around the world are building applications for the public to get up-to-date and accurate information as quickly as possible.
@@ -12,11 +13,14 @@ If you are a developer, you may also be able to contribute to some of these appl
 </p>
 
 ## Contents
+
 - [Open Source Projects](#open-source-projects)
   - [API](#api)
-  - [Data](#data)
-  - [Stats](#Stats)
-  - [Charts](#charts)
+  - [Data, Charts, Stats, Analysis](#data-charts-stats-analysis)
+  - [Deep Learning](#deep-learning)
+  - [Maps](#maps)
+  - [Applications and Bots](#applications-and-bots)
+  - [Packages and Scripts](#packages-and-scripts)
 
 - [Apps](#apps)
   - [Open Source](#open-source-apps)
@@ -24,16 +28,19 @@ If you are a developer, you may also be able to contribute to some of these appl
   - [Android Apps](#android-apps)
   - [IOS Apps](#ios-apps)
   - [Telegram / WhatsApp](#telegram--whatsApp)
+  
 - [Contribute](#contribute)
 
 ## Open Source Projects
 
 #### API
+
 - [coronavirus-tracker (API)](https://github.com/ExpDev07/coronavirus-tracker-api)
 - [COVID-2019 API | CoronaVirus 2019 Global Cases](https://github.com/nat236919/Covid2019API)
 - [Coronavirus REST API Flutter Course](https://github.com/bizz84/coronavirus_rest_api_flutter_course)
 
 #### Data, Charts, Stats, Analysis
+
 - [Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE](https://github.com/CSSEGISandData/COVID-19)
 - [2019 Wuhan Coronavirus data (COVID-19 / 2019-nCoV)](https://github.com/globalcitizen/2019-wuhan-coronavirus-data)
 - [Nextstrain build for novel coronavirus (nCoV)](https://github.com/nextstrain/ncov)
@@ -53,15 +60,18 @@ If you are a developer, you may also be able to contribute to some of these appl
 - [Real-time estimation of the novel coronavirus incubation time](https://github.com/HopkinsIDD/ncov_incubation)
 
 #### Deep Learning
+
 - [Deep Learning Coronavirus Cure](https://github.com/mattroconnor/deep_learning_coronavirus_cure)
 
 #### Maps
+
 - [Choropleth Map of the 2019 Novel Coronavirus Outbreak](https://github.com/ncovis/choropleth)
 - [Noval Coronavirus Infection Map](https://github.com/jakobzhao/virus)
 - [Wuhan coronavirus outbreak](https://github.com/antonlukin/2019-nCoV)
 - [COVID-19 (2019-nCOV / SARS-CoV-2) Coronavirus Map](https://github.com/stevenliuyi/covid19)
 
-#### Bots and Applications
+#### Applications and Bots
+
 - [The Coronavirus Dashboard](https://github.com/RamiKrispin/coronavirus_dashboard)
 - [2019 nCoV realtime track system](https://github.com/hysios/coronavirus)
 - [2019-ncov-api](https://github.com/sorxrob/2019-ncov-api)
@@ -70,6 +80,7 @@ If you are a developer, you may also be able to contribute to some of these appl
 - [Monitoring service and bot to give updates about COVID-19 (Novel Coronavirus)](https://github.com/the-robot/covid19-updates)
 
 #### Packages and Scripts
+
 - [Novel Corona virus](https://github.com/datasets/covid-19)
 - [Spring Boot Java app to track coronavirus confirmed cases across the globe](https://github.com/koushikkothagal/coronavirus-tracker)
 - [data2019nCoV R Package](https://github.com/eebrown/data2019nCoV)
@@ -80,11 +91,13 @@ If you are a developer, you may also be able to contribute to some of these appl
 ## Apps
 
 #### Open Source Apps
+
 - [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker)
 - [Novel Coronavirus (COVID-19) Tracker](https://github.com/JohnCoene/coronavirus)
 - [Corona Virus Tracker & Advices iOS App with SwiftUI](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI)
 
 #### Web Applications
+
 - [CoronaTracker](https://www.coronatracker.com)
 - [Coronavirus.app](https://coronavirus.app)
 - [the_wuhan_virus](https://thewuhanvirus.com)
@@ -121,6 +134,7 @@ If you were thinking of making an iOS App for the App Store, do read this: [Appl
 - [Coronavírus - SUS](https://apps.apple.com/br/app/coronav%C3%ADrus-sus/id1408008382)
 
 #### Telegram / WhatsApp
+
 - [CoronaTracker-Public](https://t.me/coronatracker_public)
 - [SG Fight Coronavirus](https://t.me/sgFight)
 - [Gov.sg](https://go.gov.sg/whatsapp)
