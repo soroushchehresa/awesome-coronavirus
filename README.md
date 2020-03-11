@@ -6,14 +6,9 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 **If you are a developer, you may also be able to contribute to some of these projects.**
 
-## Get to Know
-
-- [World Health Organisation - Coronavirus](https://www.who.int/health-topics/coronavirus)
-- [World Health Organisation - Novel coronavirus (COVID-19)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
-- [World Health Organisation - Coronavirus disease (COVID-19) advice for the public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
-- [World Health Organisation - Q&A on coronaviruses (COVID-19)](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses)
-
 ## Contents
+
+- [Get to Know](#get-to-know)
 
 - [Open Source Projects](#open-source-projects)
   - [API](#api)
@@ -42,6 +37,13 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 - [Interactive Applications](#interactive-applications)
 
 - [Contribute](#contribute)
+
+## Get to Know
+
+- [World Health Organisation - Coronavirus](https://www.who.int/health-topics/coronavirus)
+- [World Health Organisation - Novel coronavirus (COVID-19)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+- [World Health Organisation - Coronavirus disease (COVID-19) advice for the public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
+- [World Health Organisation - Q&A on coronaviruses (COVID-19)](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses)
 
 ## Open Source Projects
 
