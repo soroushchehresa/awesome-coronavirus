@@ -58,6 +58,11 @@ Open Source
 - [Novel Coronavirus (COVID-19) Tracker](https://github.com/JohnCoene/coronavirus)
 - [Corona Virus Tracker & Advices iOS App with SwiftUI](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI)
 
+Closed Source
+
+- [Coronavírus - SUS](https://apps.apple.com/br/app/coronav%C3%ADrus-sus/id1408008382)
+- [HEALTHLYNKED COVID-19 Tracke](https://apps.apple.com/us/app/healthlynked-covid-19-tracker/id1500575377)
+
 
 ## Contribute
 Contributions welcome!
