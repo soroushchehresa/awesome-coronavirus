@@ -197,7 +197,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 ## Current Status
 
 - [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) - World Health Orginization.
-- [CDC](https://www.cdc.gov/coronavirus/2019-ncov/about/index.html)- Center for Disease control.
+- [CDC](https://www.cdc.gov/coronavirus/2019-ncov/about/index.html) - Center for Disease control.
 
 ## Contribute
 
