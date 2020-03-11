@@ -57,23 +57,22 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 #### Data, Charts, Stats, Analysis
 
-- [Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE](https://github.com/CSSEGISandData/COVID-19)
-- [2019 Wuhan Coronavirus data (COVID-19 / 2019-nCoV)](https://github.com/globalcitizen/2019-wuhan-coronavirus-data)
-- [Nextstrain build for novel coronavirus (nCoV)](https://github.com/nextstrain/ncov)
-- [Query stats of infected coronavirus cases](https://github.com/GuangchuangYu/nCov2019)
-- [The coronavirus dataset](https://github.com/RamiKrispin/coronavirus)
-- [Analysis of 2019-nCov coronavirus data](https://github.com/jianxu305/nCov2019_analysis)
-- [Official information of Coronavirus disease 2019 (COVID-19) in South Korea](https://github.com/jihoo-kim/Coronavirus-Dataset)
-- [Analysis and reports based on novel coronavirus (nCoV-2019) data](https://github.com/docligot/coronatracker-analytics)
-- [ARTIC nanopore protocol for nCoV2019 novel coronavirus](https://github.com/artic-network/artic-ncov2019)
-- [CSV format for the coronavirus R package dataset](https://github.com/RamiKrispin/coronavirus-csv)
-- [Charts and Data on Coronavirus (COVID-19)](https://github.com/alext234/coronavirus-stats)
-- [Track data for Coronavirus for your country](https://github.com/lazargugleta/coronavirusStats)
-- [Efforts towards proposing a potentially highly active molecule against a target protein of the 2019 Novel Coronavirus](https://github.com/tmacdou4/2019-nCov)
-- [Daily database to display data in the form of a graph and map using the libraries matplotlib and folium](https://github.com/joaotinti75/Coronavirus)
-- [Charts and Data on Coronavirus (COVID-19)](https://github.com/alext234/coronavirus-stats)
-
-- [Real-time estimation of the novel coronavirus incubation time](https://github.com/HopkinsIDD/ncov_incubation)
+- [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE.
+- [globalcitizen/2019-wuhan-coronavirus-dat](https://github.com/globalcitizen/2019-wuhan-coronavirus-data) - 2019 Wuhan Coronavirus data (COVID-19 / 2019-nCoV).
+- [nextstrain/ncov](https://github.com/nextstrain/ncov) - Nextstrain build for novel coronavirus (nCoV).
+- [GuangchuangYu/nCov2019](https://github.com/GuangchuangYu/nCov2019) - Query stats of infected coronavirus cases.
+- [RamiKrispin/coronavirus](https://github.com/RamiKrispin/coronavirus) - The coronavirus dataset.
+- [jianxu305/nCov2019_analysis](https://github.com/jianxu305/nCov2019_analysis) - Analysis of 2019-nCov coronavirus data.
+- [jihoo-kim/Coronavirus-Dataset](https://github.com/jihoo-kim/Coronavirus-Dataset) - Official information of Coronavirus disease 2019 (COVID-19) in South Korea.
+- [docligot/coronatracker-analytics](https://github.com/docligot/coronatracker-analytics) - Analysis and reports based on novel coronavirus (nCoV-2019) data.
+- [artic-network/artic-ncov2019](https://github.com/artic-network/artic-ncov2019) - ARTIC nanopore protocol for nCoV2019 novel coronavirus.
+- [RamiKrispin/coronavirus-csv](https://github.com/RamiKrispin/coronavirus-csv) - CSV format for the coronavirus R package dataset.
+- [alext234/coronavirus-stats](https://github.com/alext234/coronavirus-stats) - Charts and Data on Coronavirus (COVID-19).
+- [lazargugleta/coronavirusStats](https://github.com/lazargugleta/coronavirusStats) - Track data for Coronavirus for your country.
+- [tmacdou4/2019-nCov](https://github.com/tmacdou4/2019-nCov) - Efforts towards proposing a potentially highly active molecule against a target protein of the 2019 Novel Coronavirus.
+- [joaotinti75/Coronavirus](https://github.com/joaotinti75/Coronavirus) - Daily database to display data in the form of a graph and map using the libraries matplotlib and folium.
+- [alext234/coronavirus-stats](https://github.com/alext234/coronavirus-stats) - Charts and Data on Coronavirus (COVID-19).
+- [HopkinsIDD/ncov_incubation](https://github.com/HopkinsIDD/ncov_incubation) - Real-time estimation of the novel coronavirus incubation time.
 
 #### Deep Learning
 
