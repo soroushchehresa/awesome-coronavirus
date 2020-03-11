@@ -37,6 +37,8 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
   
 - [Current Status](#current-status)
 
+- [Research Outlets](#research-outlets)
+
 - [Interactive Applications](#interactive-applications)
 
 - [Contribute](#contribute)
@@ -175,6 +177,16 @@ If you were thinking of making an iOS App for the App Store, do read this: [Appl
 
 #### WhatsApp
 - [Gov.sg](https://go.gov.sg/whatsapp)
+
+## Research Outlets
+ - [The Lancet COVID-19 Resource Centre](https://www.thelancet.com/coronavirus) - Journal page that aggregates coronavirus related research output.
+ - [American Society for Microbiology](https://journals.asm.org/search/coronavirus%20jcode%3Aaem%7C%7Caac%7C%7Ccdli%7C%7Ccmr%7C%7Ceukcell%7C%7Ciai%7C%7Cjb%7C%7Cjcm%7C%7Cjvi%7C%7Cmbio%7C%7Cmmbr%7C%7Cga%7C%7Cmcb%7C%7Cmsph%7C%7Cmsys%20limit_from%3A2019-01-01%20limit_to%3A2020-01-23%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard?_ga=2.34252577.1885462816.1583650093-393486013.1583650093) - AMS search portal
+ - [American Chemical Society](https://pubs.acs.org/page/vi/chemistry_coronavirus_research?utm_source=pubs_content_marketing&utm_medium=axial&utm_campaign=0120_JHS_coronavirus&ref=pubs_content_marketing#) - Free issue of ACS with a focus on coronavirus
+ - [Annals of Internal Medicine](https://annals.org/aim/pages/coronavirus-content) - Annals page showcasing paper submissions
+ - [European Respiratory Journal](https://erj.ersjournals.com/cc/sars-cov-2-and-covid-19) - ERJ journal portal on coronaviruses
+ - [Oxford Academic](https://academic.oup.com/journals/pages/coronavirus?cc=us&lang=en&#997df937b5eb5a4ab1a9) - Page of journal articles on the coronavirus
+ - [Jama Network](https://jamanetwork.com/journals/jama/pages/coronavirus-alert) - A variery of papers that span clinicians and researchers
+ - [Springer Nature](https://www.springernature.com/gp/researchers/campaigns/coronavirus) - Springer Nature campaign page
 
 ## Interactive Applications
 
