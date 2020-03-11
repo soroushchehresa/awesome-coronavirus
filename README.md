@@ -35,6 +35,8 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
   - [Telegram](#telegram)
   - [WhatsApp](#twitter)
   
+- [Current Status](#current-status)
+  
 - [Contribute](#contribute)
 
 ## Open Source Projects
@@ -171,6 +173,10 @@ If you were thinking of making an iOS App for the App Store, do read this: [Appl
 
 #### WhatsApp
 - [Gov.sg](https://go.gov.sg/whatsapp)
+
+## Current Status
+- [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+- [CDC](https://www.cdc.gov/coronavirus/2019-ncov/about/index.html)
 
 
 ## Contribute
