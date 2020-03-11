@@ -27,7 +27,6 @@ Open Source
 - [2019 nCoV realtime track system](https://github.com/hysios/coronavirus)
 - [Choropleth Map of the 2019 Novel Coronavirus Outbreak](https://github.com/ncovis/choropleth)
 - [Novel Corona virus](https://github.com/datasets/covid-19)
-- [Map, data and timeline of coronavirus (2019-nCoV)](https://github.com/sorxrob/2019-ncov-api)
 - [Noval Coronavirus Infection Map](https://github.com/jakobzhao/virus)
 - [Analysis and reports based on novel coronavirus (nCoV-2019) data](https://github.com/docligot/coronatracker-analytics)
 - [ARTIC nanopore protocol for nCoV2019 novel coronavirus](https://github.com/artic-network/artic-ncov2019)
@@ -35,6 +34,19 @@ Open Source
 - [COVID-2019 API | CoronaVirus 2019 Global Cases](https://github.com/nat236919/Covid2019API)
 - [Wuhan coronavirus outbreak](https://github.com/antonlukin/2019-nCoV)
 - [Spring Boot Java app to track coronavirus confirmed cases across the globe](https://github.com/koushikkothagal/coronavirus-tracker)
+- [2019-ncov-frontend](https://github.com/sorxrob/2019-ncov-api)
+- [2019-ncov-frontend](https://github.com/sorxrob/2019-ncov-frontend)
+- [Coronavirus REST API Flutter Course](https://github.com/bizz84/coronavirus_rest_api_flutter_course)
+- [Charts and Data on Coronavirus (COVID-19)](https://github.com/alext234/coronavirus-stats)
+- [data2019nCoV R Package](https://github.com/eebrown/data2019nCoV)
+- [COVID 19 (2019-nCoV) Web Dashboard](https://github.com/onlyphantom/coronavirus)
+- [Track data for Coronavirus for your country](https://github.com/lazargugleta/coronavirusStats)
+- [COVID-19 (2019-nCOV / SARS-CoV-2) Coronavirus Map](https://github.com/stevenliuyi/covid19)
+- [Efforts towards proposing a potentially highly active molecule against a target protein of the 2019 Novel Coronavirus](https://github.com/tmacdou4/2019-nCov)
+- [Jupyter notebooks and python scripts for investigating the 2019 coronavirus outbreak](https://github.com/pdtyreus/coronavirus-ds)
+- [Daily database to display data in the form of a graph and map using the libraries matplotlib and folium](https://github.com/joaotinti75/Coronavirus)
+- [Charts and Data on Coronavirus (COVID-19)](https://github.com/alext234/coronavirus-stats)
+- [Data on the 2019 Novel Coronavirus Outbreak (R Package)](https://github.com/eebrown/data2019nCoV)
 
 ## Apps
 
