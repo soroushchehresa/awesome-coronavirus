@@ -178,9 +178,11 @@ If you were thinking of making an iOS App for the App Store, do read this: [Appl
 - [Wuhan Quarantine #nCoV #武汉封城](https://t.me/wuhanquarantinefrom20200123)
 
 #### WhatsApp
+
 - [Gov.sg](https://go.gov.sg/whatsapp)
 
 ## Research Outlets
+
  - [The Lancet COVID-19 Resource Centre](https://www.thelancet.com/coronavirus) - Journal page that aggregates coronavirus related research output.
  - [American Society for Microbiology](https://journals.asm.org/search/coronavirus%20jcode%3Aaem%7C%7Caac%7C%7Ccdli%7C%7Ccmr%7C%7Ceukcell%7C%7Ciai%7C%7Cjb%7C%7Cjcm%7C%7Cjvi%7C%7Cmbio%7C%7Cmmbr%7C%7Cga%7C%7Cmcb%7C%7Cmsph%7C%7Cmsys%20limit_from%3A2019-01-01%20limit_to%3A2020-01-23%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard?_ga=2.34252577.1885462816.1583650093-393486013.1583650093) - AMS search portal
  - [American Chemical Society](https://pubs.acs.org/page/vi/chemistry_coronavirus_research?utm_source=pubs_content_marketing&utm_medium=axial&utm_campaign=0120_JHS_coronavirus&ref=pubs_content_marketing#) - Free issue of ACS with a focus on coronavirus
@@ -192,15 +194,16 @@ If you were thinking of making an iOS App for the App Store, do read this: [Appl
 
 ## Interactive Applications
 
-- [University of Virginia: COVID-19 Surveillance Dashboard](http://nssac.bii.virginia.edu/covid-19/dashboard)
-- [Johns Hopkins CSSE: Coronavirus COVID-19 Global Cases](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
-- [WHO Novel Coronavirus (COVID-19) Situation](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
-- [Worldometer](https://www.worldometers.info/coronavirus/)
+- [University of Virginia: COVID-19 Surveillance Dashboard](http://nssac.bii.virginia.edu/covid-19/dashboard/) - Dashboard showing 
+- [Johns Hopkins CSSE: Coronavirus COVID-19 Global Cases](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - Dashboard application providing interaction to global case data
+- [WHO Novel Coronavirus (COVID-19) Situation](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd) - WHO data visualization page
+- [Worldometer](https://www.worldometers.info/coronavirus/) - Showcasing coronavirus stats
 
 ## Current Status
-- [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
-- [CDC](https://www.cdc.gov/coronavirus/2019-ncov/about/index.html)
 
+- [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) - World Health Orginization
+- [CDC](https://www.cdc.gov/coronavirus/2019-ncov/about/index.html)- Center for Disease control
 
 ## Contribute
+
 Contributions welcome!
