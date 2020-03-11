@@ -1,9 +1,9 @@
 # Awesome Coronavirus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > Useful projects for COVID-19 (2019 novel Coronavirus)
 
-- [Coronavirus](https://www.who.int/health-topics/coronavirus)
-- [Coronavirus disease (COVID-19) advice for the public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
-- [Q&A on coronaviruses (COVID-19)](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses)
+COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers around the world are building applications for the public to get up-to-date and accurate information as quickly as possible.
+
+If you are a developer, you may also be able to contribute to some of these applications.
 
 ## Contents
 - [Open Source Projects](#open-sourceprojects)
