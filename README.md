@@ -36,7 +36,9 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
   - [WhatsApp](#twitter)
   
 - [Current Status](#current-status)
-  
+
+- [Interactive Applications](#interactive-applications)
+
 - [Contribute](#contribute)
 
 ## Open Source Projects
@@ -173,6 +175,13 @@ If you were thinking of making an iOS App for the App Store, do read this: [Appl
 
 #### WhatsApp
 - [Gov.sg](https://go.gov.sg/whatsapp)
+
+## Interactive Applications
+
+- [University of Virginia: COVID-19 Surveillance Dashboard](http://nssac.bii.virginia.edu/covid-19/dashboard)
+- [Johns Hopkins CSSE: Coronavirus COVID-19 Global Cases](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+- [WHO Novel Coronavirus (COVID-19) Situation](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
+- [Worldometer](https://www.worldometers.info/coronavirus/)
 
 ## Current Status
 - [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
