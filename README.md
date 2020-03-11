@@ -56,12 +56,12 @@
 
 ## Apps
 
-### Open Source
+#### Open Source
 - [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker)
 - [Novel Coronavirus (COVID-19) Tracker](https://github.com/JohnCoene/coronavirus)
 - [Corona Virus Tracker & Advices iOS App with SwiftUI](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI)
 
-### Web Applications
+#### Web Applications
 - [CoronaTracker](https://www.coronatracker.com)
 - [Coronavirus.app](https://coronavirus.app)
 - [the_wuhan_virus](https://thewuhanvirus.com)
@@ -80,16 +80,16 @@
 - [covid](https://github.com/lifen-labs/covid)
 - [Outbreak map of novel coronavirus 2019-nCoV](https://coronavirus.zone)
 
-### Android Apps
+#### Android Apps
 - [코로나맵100m](https://play.google.com/store/apps/details?id=com.tina3d.corona100m&amp;hl=en_US)
 
-### IOS Apps
+#### IOS Apps
 - [Relief Central](https://apps.apple.com/us/app/relief-central/id353219185)
 - [HEALTHLYNKED COVID-19 Tracker](https://apps.apple.com/us/app/healthlynked-covid-19-tracker/id1500575377)
 - [CoronaTracker](https://github.com/MhdHejazi/Corona)
 - [Coronavírus - SUS](https://apps.apple.com/br/app/coronav%C3%ADrus-sus/id1408008382)
 
-### Telegram / WhatsApp
+#### Telegram / WhatsApp
 - [CoronaTracker-Public](https://t.me/coronatracker_public)
 - [SG Fight Coronavirus](https://t.me/sgFight)
 - [Gov.sg](https://go.gov.sg/whatsapp)
