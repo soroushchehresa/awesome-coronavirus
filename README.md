@@ -92,7 +92,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 - [hysios/coronavirus](https://github.com/hysios/coronavirus) - 2019 nCoV realtime track system based Scrapy + influxdb + grafana + NLTK + Stanford CoreNLP.
 - [sorxrob/2019-ncov-frontend](https://github.com/sorxrob/2019-ncov-frontend) - Map, data and timeline of coronavirus (2019-nCoV).
 - [onlyphantom/coronavirus](https://github.com/onlyphantom/coronavirus) - A Shiny Web App tutorial inspecting the COVID-19 (2019-nCoV) epidemic.
-- [the-robot/covid19-updates)](https://github.com/the-robot/covid19-updates) - Monitoring service and bot to give updates about COVID-19 (Novel Coronavirus).
+- [the-robot/covid19-updates](https://github.com/the-robot/covid19-updates) - Monitoring service and bot to give updates about COVID-19 (Novel Coronavirus).
 
 #### Packages and Scripts
 
