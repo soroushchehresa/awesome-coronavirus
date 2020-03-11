@@ -76,7 +76,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 #### Deep Learning
 
-- [Deep Learning Coronavirus Cure](https://github.com/mattroconnor/deep_learning_coronavirus_cure)
+- [deep_learning_coronavirus_cur](https://github.com/mattroconnor/deep_learning_coronavirus_cure) - Using deep learning to generate novel molecules as candidates for binding with coronavirus protease.
 
 #### Maps
 
