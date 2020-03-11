@@ -5,6 +5,12 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 If you are a developer, you may also be able to contribute to some of these applications.
 
+<p>
+  <sub>
+    If you are somehow confused by the terms <em>Coronavirus</em>, <em>COVID-19</em> or that we are currently experiencing a widespread epidemic, do get some background here: <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">World Health Organisation - Novel coronavirus (COVID-19)</a>
+  </sub>
+</p>
+
 ## Contents
 - [Open Source Projects](#open-sourceprojects)
 
