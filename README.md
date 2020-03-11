@@ -75,6 +75,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 - [Noval Coronavirus Infection Map](https://github.com/jakobzhao/virus)
 - [Wuhan coronavirus outbreak](https://github.com/antonlukin/2019-nCoV)
 - [COVID-19 (2019-nCOV / SARS-CoV-2) Coronavirus Map](https://github.com/stevenliuyi/covid19)
+- [interactive map presenting nCoV-19 spread in Iran](https://github.com/par6n/ncov-19)
 
 #### Applications and Bots
 
@@ -84,7 +85,6 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 - [2019-ncov-frontend](https://github.com/sorxrob/2019-ncov-frontend)
 - [COVID 19 (2019-nCoV) Web Dashboard](https://github.com/onlyphantom/coronavirus)
 - [Monitoring service and bot to give updates about COVID-19 (Novel Coronavirus)](https://github.com/the-robot/covid19-updates)
-- [interactive map presenting nCoV-19 spread in Iran](https://github.com/par6n/ncov-19)
 
 #### Packages and Scripts
 
