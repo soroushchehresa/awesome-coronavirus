@@ -81,9 +81,17 @@
 - [Outbreak map of novel coronavirus 2019-nCoV](https://coronavirus.zone)
 
 #### Android Apps
+
+If you were thinking of making an Android App for the Play Store, do note that due to their [Sensitive Events policy](https://play.google.com/about/restricted-content/inappropriate-content/#!?zippy_activeEl=sensitive-events#sensitive-events) they have taken down several apps related to COVID-19
+
 - [코로나맵100m](https://play.google.com/store/apps/details?id=com.tina3d.corona100m&amp;hl=en_US)
+- [~~CoronaVirus Tracker 2019-nCoV~~](https://play.google.com/store/apps/details?id=com.agmostudio.coronatracker&hl=en)
+- [~~Coronavirus Tracker - latest information and news~~](https://play.google.com/store/apps/details?id=com.R4yan.CoronavirusTracker)
 
 #### IOS Apps
+
+If you were thinking of making an iOS App for the App Store, do read this: [Apple is rejecting coronavirus apps that aren't from health organizations](https://www.cnbc.com/2020/03/05/apple-rejects-coronavirus-apps-that-arent-from-health-organizations.html)
+
 - [Relief Central](https://apps.apple.com/us/app/relief-central/id353219185)
 - [HEALTHLYNKED COVID-19 Tracker](https://apps.apple.com/us/app/healthlynked-covid-19-tracker/id1500575377)
 - [CoronaTracker](https://github.com/MhdHejazi/Corona)
