@@ -22,9 +22,9 @@ If you are a developer, you may also be able to contribute to some of these appl
   - [Applications and Bots](#applications-and-bots)
   - [Packages and Scripts](#packages-and-scripts)
 
-- [Apps](#apps)
+- [Applications](#applications)
   - [Open Source](#open-source-apps)
-  - [Web Applications](#web-applications)
+  - [Web Apps](#web-apps)
   - [Android Apps](#android-apps)
   - [IOS Apps](#ios-apps)
   - [Telegram / WhatsApp](#telegram--whatsApp)
@@ -88,7 +88,7 @@ If you are a developer, you may also be able to contribute to some of these appl
 - [Data on the 2019 Novel Coronavirus Outbreak (R Package)](https://github.com/eebrown/data2019nCoV)
 
 
-## Apps
+## Applications
 
 #### Open Source Apps
 
@@ -96,7 +96,7 @@ If you are a developer, you may also be able to contribute to some of these appl
 - [Novel Coronavirus (COVID-19) Tracker](https://github.com/JohnCoene/coronavirus)
 - [Corona Virus Tracker & Advices iOS App with SwiftUI](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI)
 
-#### Web Applications
+#### Web Apps
 
 - [CoronaTracker](https://www.coronatracker.com)
 - [Coronavirus.app](https://coronavirus.app)
