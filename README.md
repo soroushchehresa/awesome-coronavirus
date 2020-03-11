@@ -8,10 +8,10 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 ## Get to Know
 
-- [Coronavirus](https://www.who.int/health-topics/coronavirus)
+- [World Health Organisation - Coronavirus](https://www.who.int/health-topics/coronavirus)
 - [World Health Organisation - Novel coronavirus (COVID-19)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
-- [Coronavirus disease (COVID-19) advice for the public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
-- [Q&A on coronaviruses (COVID-19)](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses)
+- [World Health Organisation - Coronavirus disease (COVID-19) advice for the public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
+- [World Health Organisation - Q&A on coronaviruses (COVID-19)](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses)
 
 ## Contents
 
