@@ -133,15 +133,11 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 #### Android Apps
 
-If you were thinking of making an Android App for the Play Store, do note that due to their [Sensitive Events policy](https://play.google.com/about/restricted-content/inappropriate-content/#!?zippy_activeEl=sensitive-events#sensitive-events) they have taken down several apps related to COVID-19.
-
 - [코로나맵100m](https://play.google.com/store/apps/details?id=com.tina3d.corona100m&amp;hl=en_US) - 코백 - 코로나맵 정보 알림 서비스.
 - [~~CoronaVirus Tracker 2019-nCoV~~](https://play.google.com/store/apps/details?id=com.agmostudio.coronatracker&hl=en) - Statistics, map of cases.
 - [~~Coronavirus Tracker - latest information and news~~](https://play.google.com/store/apps/details?id=com.R4yan.CoronavirusTracker) - Location based statistics, news, charts, maps based dashboard.
 
 #### IOS Apps
-
-If you were thinking of making an iOS App for the App Store, do read this: [Apple is rejecting coronavirus apps that aren't from health organizations](https://www.cnbc.com/2020/03/05/apple-rejects-coronavirus-apps-that-arent-from-health-organizations.html).
 
 - [Relief Central](https://apps.apple.com/us/app/relief-central/id353219185) - Coronavirus (COVID-19) Updates.
 - [HEALTHLYNKED COVID-19 Tracker](https://apps.apple.com/us/app/healthlynked-covid-19-tracker/id1500575377) - Corona virus tracker.
