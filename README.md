@@ -4,7 +4,6 @@
 - [Coronavirus](https://www.who.int/health-topics/coronavirus)
 - [Coronavirus disease (COVID-19) advice for the public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
 - [Q&A on coronaviruses (COVID-19)](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses)
-- [Choropleth Map of the 2019 Novel Coronavirus Outbreak](https://github.com/ncovis/choropleth)
 
 ## Contents
 - [Projects](#projects)
@@ -22,6 +21,7 @@ Open Source
 - [Analysis of 2019-nCov coronavirus data](https://github.com/jianxu305/nCov2019_analysis)
 - [Deep Learning Coronavirus Cure](https://github.com/mattroconnor/deep_learning_coronavirus_cure)
 - [Official information of Coronavirus disease 2019 (COVID-19) in South Korea](https://github.com/jihoo-kim/Coronavirus-Dataset)
+- [Choropleth Map of the 2019 Novel Coronavirus Outbreak](https://github.com/ncovis/choropleth)
 - [coronavirus-tracker (API)](https://github.com/ExpDev07/coronavirus-tracker-api)
 - [The Coronavirus Dashboard](https://github.com/RamiKrispin/coronavirus_dashboard)
 - [2019 nCoV realtime track system](https://github.com/hysios/coronavirus)
@@ -47,6 +47,8 @@ Open Source
 - [Daily database to display data in the form of a graph and map using the libraries matplotlib and folium](https://github.com/joaotinti75/Coronavirus)
 - [Charts and Data on Coronavirus (COVID-19)](https://github.com/alext234/coronavirus-stats)
 - [Data on the 2019 Novel Coronavirus Outbreak (R Package)](https://github.com/eebrown/data2019nCoV)
+- [Real-time estimation of the novel coronavirus incubation time](https://github.com/HopkinsIDD/ncov_incubation)
+- [Monitoring service and bot to give updates about COVID-19 (Novel Coronavirus)](https://github.com/the-robot/covid19-updates)
 
 ## Apps
 
