@@ -77,7 +77,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 #### Deep Learning
 
-- [deep_learning_coronavirus_cur](https://github.com/mattroconnor/deep_learning_coronavirus_cure) - Using deep learning to generate novel molecules as candidates for binding with coronavirus protease.
+- [mattroconnor/deep_learning_coronavirus_cur](https://github.com/mattroconnor/deep_learning_coronavirus_cure) - Using deep learning to generate novel molecules as candidates for binding with coronavirus protease.
 
 #### Maps
 
@@ -97,11 +97,11 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 #### Packages and Scripts
 
-- [Novel Corona virus](https://github.com/datasets/covid-19)
-- [Spring Boot Java app to track coronavirus confirmed cases across the globe](https://github.com/koushikkothagal/coronavirus-tracker)
-- [data2019nCoV R Package](https://github.com/eebrown/data2019nCoV)
-- [Jupyter notebooks and python scripts for investigating the 2019 coronavirus outbreak](https://github.com/pdtyreus/coronavirus-ds)
-- [Data on the 2019 Novel Coronavirus Outbreak (R Package)](https://github.com/eebrown/data2019nCoV)
+- [datasets/covid-19](https://github.com/datasets/covid-19) - Novel Coronavirus 2019.
+- [koushikkothagal/coronavirus-tracker](https://github.com/koushikkothagal/coronavirus-tracker) - Spring Boot Java app to track coronavirus confirmed cases across the globe.
+- [eebrown/data2019nCoV](https://github.com/eebrown/data2019nCoV) - Data on the 2019 Novel Coronavirus Outbreak (R Package).
+- [pdtyreus/coronavirus-ds](https://github.com/pdtyreus/coronavirus-ds) - Jupyter notebooks and python scripts for investigating the 2019 coronavirus outbreak.
+- [eebrown/data2019nCoV](https://github.com/eebrown/data2019nCoV) - Data on the 2019 Novel Coronavirus Outbreak (R Package).
 
 
 ## Applications
