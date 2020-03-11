@@ -113,23 +113,22 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 #### Web Apps
 
-- [CoronaTracker](https://www.coronatracker.com)
-- [Coronavirus.app](https://coronavirus.app)
-- [the_wuhan_virus](https://thewuhanvirus.com)
-- [SG Wuhan](https://sgwuhan.xose.net)
-- [Coronavirus](https://coronavirus.site)
-- [Corona Board](http://coronaboard-env.csgy3mxprm.eu-west-1.elasticbeanstalk.com)
-- [2019-nCoV Worldwide](https://the2019ncov.com)
-- [wuflu.live](https://wuflu.live)
-- [Outbreak MY](https://www.outbreak.my)
-- [Epidemic Tracker](https://www.epidemictracker.com/2019-Novel-Coronavirus-2019-nCoV)
-- [COVID19Japan](COVID19Japan.com)
-- [Coronavirus Tracker](https://coronavirus.visualdatahq.com)
-- [Official MOH Dashboard](https://go.gov.sg/covid-19-dashboard)
-- [Coronavirus](https://coronavirus.john-coene.com/)
-- [corona.rade.ir](https://corona.rade.ir)
-- [covid](https://github.com/lifen-labs/covid)
-- [Outbreak map of novel coronavirus 2019-nCoV](https://coronavirus.zone)
+- [coronatracker.com](https://www.coronatracker.com) - CORONATRACKER.com is a community-based project powered by over 460 volunteers from across the globe, ranging from data scientists, medical professionals, UI/UX designers, fullstack developers, to the general public.
+- [coronavirus.app](https://coronavirus.app) - Coronavirus statistics by map.
+- [thewuhanvirus.com](https://thewuhanvirus.com) - Coronavirus statistics by the countries.
+- [sgwuhan.xose.net](https://sgwuhan.xose.net) - Coronavirus map.
+- [coronavirus.site](https://coronavirus.site) - RECOMENDACIONES Y MEDIDAS PREVENTIVAS PARA EVITAR QUE EL VIRUS AVANCE.
+- [the2019ncov.com](https://the2019ncov.com) - Map, data and timeline of coronavirus (2019-nCoV).
+- [wuflu.live](https://wuflu.live) - Real-time updates and stats for the Coronavirus.
+- [outbreak.my](https://www.outbreak.my) - Malaysia outbreakmMonitor and live updates.
+- [epidemictracker.com](https://www.epidemictracker.com/2019-Novel-Coronavirus-2019-nCoV) - Epidemic Tracking and Data Science.
+- [COVID19Japan.com](https://COVID19Japan.com) - Japan COVID-19 Coronavirus Tracker.
+- [coronavirus.visualdatahq.com](https://coronavirus.visualdatahq.com) - Coronavirus Tracker.
+- [go.gov.sg/covid-19-dashboard](https://go.gov.sg/covid-19-dashboard) - Official Update of COVID -19 Situation in Singapore.
+- [shiny.john-coene.com/coronavirus](https://shiny.john-coene.com/coronavirus) - Coronavirus Tracker.
+- [corona.rade.ir](https://corona.rade.ir) - نقشه‌ی مبتلایان به ویروس COVID-19 در ایران.
+- [coronavirus.zone](https://coronavirus.zone) - Outbreak map of novel coronavirus 2019-nCoV.
+- [balad.ir](https://balad.ir/search/corona-test-hospitals) - مراکز ویژه کرونا بر روی نقشه.
 
 #### Android Apps
 
