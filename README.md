@@ -53,6 +53,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 - [Covid2019API](https://github.com/nat236919/Covid2019API) - This API provides the information regarding '2019 Novel Coronavirus (Covid2019)'. It contains a number of confirmed, death, and recovered cases based on the data provided by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE).
 - [coronavirus_rest_api_flutter_course](https://github.com/bizz84/coronavirus_rest_api_flutter_course) - Coronavirus REST API Flutter Course.
 - [coronavirus](https://coronavirus.john-coene.com/#/api) - An open-source nCov-2019 tracker API.
+- [2019-ncov-api](https://github.com/sorxrob/2019-ncov-api) - Map, data and timeline of coronavirus (2019-nCoV).
 
 #### Data, Charts, Stats, Analysis
 
@@ -80,20 +81,19 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 #### Maps
 
-- [choropleth](https://github.com/ncovis/choropleth) - Choropleth Map of the 2019 Novel Coronavirus Outbreak.
-- [virus](https://github.com/jakobzhao/virus) - Noval Coronavirus Infection Map.
-- [2019-nCoV](https://github.com/antonlukin/2019-nCoV) - Wuhan coronavirus outbreak.
-- [covid19](https://github.com/stevenliuyi/covid19) - An interactive, animated COVID-19 coronavirus map.
-- [ncov-19](https://github.com/par6n/ncov-19) - A simple page featuring an interactive map presenting nCoV-19 spread in Iran.
+- [ncovis/choropleth](https://github.com/ncovis/choropleth) - Choropleth Map of the 2019 Novel Coronavirus Outbreak.
+- [jakobzhao/virus](https://github.com/jakobzhao/virus) - Noval Coronavirus Infection Map.
+- [antonlukin/2019-nCoV](https://github.com/antonlukin/2019-nCoV) - Wuhan coronavirus outbreak.
+- [stevenliuyi/covid19](https://github.com/stevenliuyi/covid19) - An interactive, animated COVID-19 coronavirus map.
+- [par6n/ncov-19](https://github.com/par6n/ncov-19) - A simple page featuring an interactive map presenting nCoV-19 spread in Iran.
 
 #### Applications and Bots
 
-- [The Coronavirus Dashboard](https://github.com/RamiKrispin/coronavirus_dashboard)
-- [2019 nCoV realtime track system](https://github.com/hysios/coronavirus)
-- [2019-ncov-api](https://github.com/sorxrob/2019-ncov-api)
-- [2019-ncov-frontend](https://github.com/sorxrob/2019-ncov-frontend)
-- [COVID 19 (2019-nCoV) Web Dashboard](https://github.com/onlyphantom/coronavirus)
-- [Monitoring service and bot to give updates about COVID-19 (Novel Coronavirus)](https://github.com/the-robot/covid19-updates)
+- [RamiKrispin/coronavirus_dashboard](https://github.com/RamiKrispin/coronavirus_dashboard) - Coronavirus dashboard provides an overview of the 2019 Novel Coronavirus COVID-19 (2019-nCoV) epidemic.
+- [hysios/coronavirus](https://github.com/hysios/coronavirus) - 2019 nCoV realtime track system based Scrapy + influxdb + grafana + NLTK + Stanford CoreNLP.
+- [sorxrob/2019-ncov-frontend](https://github.com/sorxrob/2019-ncov-frontend) - Map, data and timeline of coronavirus (2019-nCoV).
+- [onlyphantom/coronavirus](https://github.com/onlyphantom/coronavirus) - A Shiny Web App tutorial inspecting the COVID-19 (2019-nCoV) epidemic.
+- [the-robot/covid19-updates)](https://github.com/the-robot/covid19-updates) - Monitoring service and bot to give updates about COVID-19 (Novel Coronavirus).
 
 #### Packages and Scripts
 
