@@ -152,19 +152,19 @@ If you were thinking of making an iOS App for the App Store, do read this: [Appl
 
 #### Twitter
 
-- [ncov201920](https://twitter.com/ncov201920)
-- [CoronaVirusFlu](https://twitter.com/CoronaVirusFlu)
-- [NCOVNEWS](https://twitter.com/NCOVNEWS)
-- [BotCorona](https://twitter.com/BotCorona)
-- [CoronaVirusInfo](https://twitter.com/CoronaVirusInfo)
-- [PneumoniaWuhan](https://twitter.com/PneumoniaWuhan)
-- [coronavcharts](https://twitter.com/coronavcharts)
-- [TrackerCorona](https://twitter.com/TrackerCorona)
-- [COVID19](https://twitter.com/V2019N)
-- [CoronaVirus Updates](https://twitter.com/COVID19Update)
-- [Coronavirus CoVid-19 Updates](https://twitter.com/subgap)
-- [Coronavirus (COVID-19) Alerts](https://twitter.com/coronaviruscare)
-- [COVID19 Updates in Asia](https://twitter.com/SEACoronavirus)
+- [ncov201920](https://twitter.com/ncov201920) - Hello. I am new Coronavirus nCoV 2019/2020. I was born/made in Wuhan. I like airplanes, travel, food and all things viral. Follow me and I may not chase you
+- [CoronaVirusFlu](https://twitter.com/CoronaVirusFlu) - Updates, News Reports, and Articles regarding the spread of the 2019 novel Coronavirus originating in Wuhan, China. Stay up to date on the spread of the virus
+- [NCOVNEWS](https://twitter.com/NCOVNEWS) - Coronavirus ALERT⚠️ Follow us for CoronaVirus breaking news around the world
+- [BotCorona](https://twitter.com/BotCorona) - A bot that keeps track of the #CoronaVirus Data gets tweeted every 2 hours
+- [CoronaVirusInfo](https://twitter.com/CoronaVirusInfo) - We're here to help you with any info concerning #2019nCoV (Coronavirus)
+- [PneumoniaWuhan](https://twitter.com/PneumoniaWuhan) - News headlines about the Wuhan origin Coronavirus from journals, media, experts and researchers. Updated frequently. A Unique Resource - Curated by Dave Roberts
+- [coronavcharts](https://twitter.com/coronavcharts) - Your number #1 source on charts and “news” for #Coronavirus
+- [TrackerCorona](https://twitter.com/TrackerCorona) - I am a bot that collects U.S nCoV data from John Hopkins University and the U.S CDC and makes graphs! I am still in early development so there may be some bugs
+- [COVID19](https://twitter.com/V2019N) - "Everything we do before a pandemic will seem alarmist. Everything we do after will seem inadequate" -M. Leavitt, DHHS
+- [CoronaVirus Updates](https://twitter.com/COVID19Update) - I am a #PH Professional.Breaking News and Updates About #coronavirus,Truth, No Rumors. Safety Tips
+- [Coronavirus CoVid-19 Updates](https://twitter.com/subgap) - This account will tweet the current confirmed CoronaVirus #Covid-19 #NCOV infections
+- [Coronavirus (COVID-19) Alerts](https://twitter.com/coronaviruscare) - #COVID19 (#Coronavirus) Alerts, News & Info from reputed sources. Updates & Verified Facts on #2019nCoV Research, Strategies & Cures. Only truth, no rumours
+- [COVID19 Updates in Asia](https://twitter.com/SEACoronavirus) - Updates on #coronavirus #COVID19 #coronaoutbreak #SARSCoV2 #ไวรัสโคโรน่า #VirusCorona #코로나바이러스 #コロナウイルス in the Larger Western Pacific Region
 
 #### Telegram
 
