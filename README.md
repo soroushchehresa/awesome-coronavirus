@@ -29,12 +29,12 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
   - [Twitter](#twitter)
   - [Telegram](#telegram)
   - [WhatsApp](#twitter)
-  
-- [Current Status](#current-status)
 
 - [Research Outlets](#research-outlets)
 
 - [Interactive Applications](#interactive-applications)
+
+- [Current Status](#current-status)
 
 - [Contribute](#contribute)
 
