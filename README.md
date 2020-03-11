@@ -143,10 +143,10 @@ If you were thinking of making an Android App for the Play Store, do note that d
 
 If you were thinking of making an iOS App for the App Store, do read this: [Apple is rejecting coronavirus apps that aren't from health organizations](https://www.cnbc.com/2020/03/05/apple-rejects-coronavirus-apps-that-arent-from-health-organizations.html)
 
-- [Relief Central](https://apps.apple.com/us/app/relief-central/id353219185)
-- [HEALTHLYNKED COVID-19 Tracker](https://apps.apple.com/us/app/healthlynked-covid-19-tracker/id1500575377)
-- [CoronaTracker](https://github.com/MhdHejazi/Corona)
-- [Coronavírus - SUS](https://apps.apple.com/br/app/coronav%C3%ADrus-sus/id1408008382)
+- [Relief Central](https://apps.apple.com/us/app/relief-central/id353219185) - Coronavirus (COVID-19) Updates
+- [HEALTHLYNKED COVID-19 Tracker](https://apps.apple.com/us/app/healthlynked-covid-19-tracker/id1500575377) - Corona virus tracker
+- [CoronaTracker](https://github.com/MhdHejazi/Corona) - Coronavirus tracker app for iOS & macOS with map & charts
+- [Coronavírus - SUS](https://apps.apple.com/br/app/coronav%C3%ADrus-sus/id1408008382) - O Ministério da Saúde lança o app Coronavírus-SUS com o objetivo de conscientizar a população sobre o Corona Vírus COVID-19
 
 ## Social
 
