@@ -149,7 +149,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 - [ncov201920](https://twitter.com/ncov201920) - Hello. I am new Coronavirus nCoV 2019/2020. I was born/made in Wuhan. I like airplanes, travel, food and all things viral. Follow me and I may not chase you.
 - [CoronaVirusFlu](https://twitter.com/CoronaVirusFlu) - Updates, News Reports, and Articles regarding the spread of the 2019 novel Coronavirus originating in Wuhan, China. Stay up to date on the spread of the virus.
-- [NCOVNEWS](https://twitter.com/NCOVNEWS) - Coronavirus ALERT⚠️ Follow us for CoronaVirus breaking news around the world.
+- [NCOVNEWS](https://twitter.com/NCOVNEWS) - Coronavirus ALERT Follow us for CoronaVirus breaking news around the world.
 - [BotCorona](https://twitter.com/BotCorona) - A bot that keeps track of the #CoronaVirus Data gets tweeted every 2 hours.
 - [CoronaVirusInfo](https://twitter.com/CoronaVirusInfo) - We're here to help you with any info concerning #2019nCoV (Coronavirus).
 - [PneumoniaWuhan](https://twitter.com/PneumoniaWuhan) - News headlines about the Wuhan origin Coronavirus from journals, media, experts and researchers. Updated frequently. A Unique Resource - Curated by Dave Roberts.
