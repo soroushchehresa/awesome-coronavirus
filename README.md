@@ -4,6 +4,7 @@
 - [Coronavirus](https://www.who.int/health-topics/coronavirus)
 - [Coronavirus disease (COVID-19) advice for the public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
 - [Q&A on coronaviruses (COVID-19)](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses)
+- [Choropleth Map of the 2019 Novel Coronavirus Outbreak](https://github.com/ncovis/choropleth)
 
 ## Contents
 - [Open Source](#open-source)
@@ -18,6 +19,8 @@
 - [Analysis of 2019-nCov coronavirus data](https://github.com/jianxu305/nCov2019_analysis)
 - [Deep Learning Coronavirus Cure](https://github.com/mattroconnor/deep_learning_coronavirus_cure)
 - [Official information of Coronavirus disease 2019 (COVID-19) in South Korea](https://github.com/jihoo-kim/Coronavirus-Dataset)
+- [coronavirus-tracker (API)](https://github.com/ExpDev07/coronavirus-tracker-api)
+- [The Coronavirus Dashboard](https://github.com/RamiKrispin/coronavirus_dashboard)
 
 ## Apps
 - [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker)
