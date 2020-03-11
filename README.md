@@ -30,6 +30,11 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
   - [IOS Apps](#ios-apps)
   - [Telegram / WhatsApp](#telegram--whatsApp)
   
+- [Social](#social)
+  - [Twitter](#twitter)
+  - [Telegram](#telegram)
+  - [WhatsApp](#twitter)
+  
 - [Contribute](#contribute)
 
 ## Open Source Projects
@@ -134,17 +139,37 @@ If you were thinking of making an iOS App for the App Store, do read this: [Appl
 - [CoronaTracker](https://github.com/MhdHejazi/Corona)
 - [Coronavírus - SUS](https://apps.apple.com/br/app/coronav%C3%ADrus-sus/id1408008382)
 
-#### Telegram / WhatsApp
+## Social
+
+#### Twitter
+
+- [ncov201920](https://twitter.com/ncov201920)
+- [CoronaVirusFlu](https://twitter.com/CoronaVirusFlu)
+- [NCOVNEWS](https://twitter.com/NCOVNEWS)
+- [BotCorona](https://twitter.com/BotCorona)
+- [CoronaVirusInfo](https://twitter.com/CoronaVirusInfo)
+- [PneumoniaWuhan](https://twitter.com/PneumoniaWuhan)
+- [coronavcharts](https://twitter.com/coronavcharts)
+- [TrackerCorona](https://twitter.com/TrackerCorona)
+- [COVID19](https://twitter.com/V2019N)
+- [CoronaVirus Updates](https://twitter.com/COVID19Update)
+- [Coronavirus CoVid-19 Updates](https://twitter.com/subgap)
+- [Coronavirus (COVID-19) Alerts](https://twitter.com/coronaviruscare)
+- [COVID19 Updates in Asia](https://twitter.com/SEACoronavirus)
+
+#### Telegram
 
 - [CoronaTracker-Public](https://t.me/coronatracker_public)
 - [SG Fight Coronavirus](https://t.me/sgFight)
-- [Gov.sg](https://go.gov.sg/whatsapp)
 - [Coronavirus Updates](https://t.me/coronavirusupdates)
 - [Coronavirus Info](https://t.me/coronavirusinfo)
 - [Wuhan 2019 Novel Coronavirus](https://t.me/TheWuhanVirus)
 - [SG-Wuhan 2019-nCoV Watchgroup](https://t.me/SGWuhan2019nCoV)
 - [SG Wuhan Coronavirus Info Group](https://t.me/SGWuhanCoronaVirusNews)
 - [Wuhan Quarantine #nCoV #武汉封城](https://t.me/wuhanquarantinefrom20200123)
+
+#### WhatsApp
+- [Gov.sg](https://go.gov.sg/whatsapp)
 
 
 ## Contribute
