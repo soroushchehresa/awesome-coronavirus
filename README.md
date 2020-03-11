@@ -49,9 +49,9 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 #### API
 
-- [coronavirus-tracker (API)](https://github.com/ExpDev07/coronavirus-tracker-api)
-- [COVID-2019 API | CoronaVirus 2019 Global Cases](https://github.com/nat236919/Covid2019API)
-- [Coronavirus REST API Flutter Course](https://github.com/bizz84/coronavirus_rest_api_flutter_course)
+- [coronavirus-tracker](https://github.com/ExpDev07/coronavirus-tracker-api) - This is a fast (< 200ms) and basic API for tracking development of the new coronavirus (COVID-19, SARS-CoV-2). It's written in python using Flask
+- [Covid2019API](https://github.com/nat236919/Covid2019API) - This API provides the information regarding '2019 Novel Coronavirus (Covid2019)'. It contains a number of confirmed, death, and recovered cases based on the data provided by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE)
+- [coronavirus_rest_api_flutter_course](https://github.com/bizz84/coronavirus_rest_api_flutter_course) - Coronavirus REST API Flutter Course
 
 #### Data, Charts, Stats, Analysis
 
