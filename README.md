@@ -115,6 +115,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 - [coronatracker.com](https://www.coronatracker.com) - CORONATRACKER.com is a community-based project powered by over 460 volunteers from across the globe, ranging from data scientists, medical professionals, UI/UX designers, fullstack developers, to the general public.
 - [coronavirus.app](https://coronavirus.app) - Coronavirus statistics by map.
+- [coronavirusinfections.org](https://coronavirusinfections.org) - Health information on coronavirus infections with detailed statistics from around the world. Data can be exported in 7 different formats.
 - [thewuhanvirus.com](https://thewuhanvirus.com) - Coronavirus statistics by the countries.
 - [sgwuhan.xose.net](https://sgwuhan.xose.net) - Coronavirus map.
 - [coronavirus.site](https://coronavirus.site) - RECOMENDACIONES Y MEDIDAS PREVENTIVAS PARA EVITAR QUE EL VIRUS AVANCE.
