@@ -107,10 +107,10 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 #### Open Source Apps
 
-- [CoronaWidget](https://github.com/MG-ng/Virus-Ticker-Widget) - Android App to display a homescreen widget and useful websites in fullscreen
 - [CoronaTracker](https://github.com/MhdHejazi/CoronaTracker) - Coronavirus tracker app for iOS & macOS with map & charts.
 - [coronavirus](https://github.com/JohnCoene/coronavirus) - Novel Coronavirus (COVID-19) Tracker.
 - [CoronaVirusTrackerSwiftUI](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI) - Corona Virus Tracker & Advices iOS App with SwiftUI.
+- [CoronaWidget](https://github.com/MG-ng/Virus-Ticker-Widget) - Android App to display a homescreen widget and useful websites in fullscreen
 
 #### Web Apps
 
