@@ -21,5 +21,5 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 ## Contribute
 
-Contributions welcome!
+Contributions welcome! Read the [contribution guidelines](https://github.com/soroushchehresa/awesome-coronavirus/blob/master/contributing.md) first.
 
