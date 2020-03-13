@@ -18,3 +18,8 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 <% for (j in curated[i].repos) { %><%= curated[i].repos[j].stargazers_count %> | [@<%= curated[i].repos[j].owner.login %>](<%= curated[i].repos[j].owner.html_url %>)/[**<%= curated[i].repos[j].name %>**](<%= curated[i].repos[j].html_url %>) | <%= curated[i].repos[j].description %> | <% if(curated[i].repos[j].homepage) { %>[:arrow_upper_right:](<%= curated[i].repos[j].homepage %>)<% } %>
 <% } %>
 <% } %>
+
+## Contribute
+
+Contributions welcome!
+
