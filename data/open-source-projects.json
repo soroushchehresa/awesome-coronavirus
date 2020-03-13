@@ -1,0 +1,35 @@
+{
+  "title": "Open Source Projects",
+  "list" :  [
+    {
+      "category": "API",
+      "repositories": [
+        "ExpDev07/coronavirus-tracker",
+        "nat236919/Covid2019API",
+        "bizz84/coronavirus_rest_api_flutter_course",
+        "sorxrob/2019-ncov-api"
+      ]
+    },
+    {
+      "category": "Statistics",
+      "repositories": [
+        "CSSEGISandData/COVID-19",
+        "globalcitizen/2019-wuhan-coronavirus-dat",
+        "nextstrain/ncov",
+        "GuangchuangYu/nCov2019",
+        "RamiKrispin/coronavirus",
+        "jianxu305/nCov2019_analysis",
+        "jihoo-kim/Coronavirus-Dataset",
+        "docligot/coronatracker-analytics",
+        "artic-network/artic-ncov2019",
+        "RamiKrispin/coronavirus-csv",
+        "alext234/coronavirus-stats",
+        "lazargugleta/coronavirusStats",
+        "tmacdou4/2019-nCov",
+        "joaotinti75/Coronavirus",
+        "alext234/coronavirus-stats",
+        "HopkinsIDD/ncov_incubation"
+      ]
+    }
+  ]
+}
