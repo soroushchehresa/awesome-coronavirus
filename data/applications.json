@@ -1,0 +1,104 @@
+{
+  "title": "Applications",
+  "list" :  [
+    {
+      "category": "Open Source Apps",
+      "repositories": [
+        "MhdHejazi/CoronaTracker",
+        "JohnCoene/coronavirus",
+        "alfianlosari/CoronaVirusTrackerSwiftUI",
+        "MG-ng/Virus-Ticker-Widget"
+      ]
+    },
+    {
+      "category": "Web Apps",
+      "list": [
+        {
+          "title": "coronatracker.com",
+          "url": "https://www.coronatracker.com",
+          "description": "CORONATRACKER.com is a community-based project powered by over 460 volunteers from across the globe, ranging from data scientists, medical professionals, UI/UX designers, fullstack developers, to the general public."
+        },
+        {
+          "title": "coronavirus.app",
+          "url": "https://coronavirus.app",
+          "description": "Coronavirus statistics by map."
+        },
+        {
+          "title": "coronavirusinfections.org",
+          "url": "https://coronavirusinfections.org",
+          "description": "Health information on coronavirus infections with detailed statistics from around the world. Data can be exported in 7 different formats."
+        },
+        {
+          "title": "thewuhanvirus.com",
+          "url": "https://thewuhanvirus.com",
+          "description": "Coronavirus statistics by the countries."
+        },
+        {
+          "title": "sgwuhan.xose.net",
+          "url": "https://sgwuhan.xose.net",
+          "description": "Coronavirus map."
+        },
+        {
+          "title": "coronavirus.site",
+          "url": "https://coronavirus.site",
+          "description": "RECOMENDACIONES Y MEDIDAS PREVENTIVAS PARA EVITAR QUE EL VIRUS AVANCE."
+        },
+        {
+          "title": "the2019ncov.com",
+          "url": "https://the2019ncov.com",
+          "description": "Map, data and timeline of coronavirus (2019-nCoV)."
+        },
+        {
+          "title": "wuflu.live",
+          "url": "https://wuflu.live",
+          "description": "Real-time updates and stats for the Coronavirus."
+        },
+        {
+          "title": "outbreak.my",
+          "url": "https://www.outbreak.my",
+          "description": "Malaysia outbreakmMonitor and live updates."
+        },
+        {
+          "title": "epidemictracker.com",
+          "url": "https://www.epidemictracker.com/2019-Novel-Coronavirus-2019-nCoV",
+          "description": "Epidemic Tracking and Data Science."
+        },
+        {
+          "title": "COVID19Japan.com",
+          "url": "https://COVID19Japan.com",
+          "description": "Japan COVID-19 Coronavirus Tracker."
+        },
+        {
+          "title": "coronavirus.visualdatahq.com",
+          "url": "https://coronavirus.visualdatahq.com",
+          "description": "Coronavirus Tracker."
+        },
+        {
+          "title": "go.gov.sg/covid-19-dashboard",
+          "url": "https://go.gov.sg/covid-19-dashboard",
+          "description": "Official Update of COVID -19 Situation in Singapore."
+        },
+        {
+          "title": "shiny.john-coene.com/coronavirus",
+          "url": "https://shiny.john-coene.com/coronavirus",
+          "description": "Coronavirus Tracker."
+        },
+        {
+          "title": "corona.rade.ir",
+          "url": "https://corona.rade.ir",
+          "description": "نقشه‌ی مبتلایان به ویروس COVID-19 در ایران."
+        },
+        {
+          "title": "coronavirus.zone",
+          "url": "https://coronavirus.zone",
+          "description": "Outbreak map of novel coronavirus 2019-nCoV."
+        },
+        {
+          "title": "balad.ir",
+          "url": "https://balad.ir/search/corona-test-hospitals",
+          "description": "مراکز درمانی ویژه کرونا بر روی نقشه."
+        },
+      ]
+    }
+  ]
+}
