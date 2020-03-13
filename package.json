@@ -1,0 +1,21 @@
+{
+  "name": "awesome-coronavirus",
+  "version": "1.0.0",
+  "description": "Useful projects and resources for COVID-19 (2019 novel Coronavirus)",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "node src/index.js"
+  },
+  "keywords": [
+    "awesome-coronavirus",
+    "awesome",
+    "coronavirus",
+    "corona"
+  ],
+  "author": "Soroush Chehresa",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "github": "^2.1.0"
+  }
+}
