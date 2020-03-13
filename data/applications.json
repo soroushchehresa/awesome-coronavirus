@@ -3,7 +3,7 @@
   "list" :  [
     {
       "category": "Open Source Apps",
-      "repositories": [
+      "list": [
         {
           "title": "MhdHejazi/CoronaTracker",
           "url": "https://www.github.com/MhdHejazi/CoronaTracker",
