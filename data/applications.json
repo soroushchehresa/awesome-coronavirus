@@ -97,8 +97,28 @@
           "title": "balad.ir",
           "url": "https://balad.ir/search/corona-test-hospitals",
           "description": "مراکز درمانی ویژه کرونا بر روی نقشه."
-        },
+        }
       ]
-    }
+    },
+    {
+      "category": "Android Apps",
+      "repositories": [
+        {
+          "title": "코로나맵100m",
+          "url": "https://play.google.com/store/apps/details?id=com.tina3d.corona100m&amp;hl=en_US",
+          "description": "코백 - 코로나맵 정보 알림 서비스."
+        },
+        {
+          "title": "~~CoronaVirus Tracker 2019-nCoV~~",
+          "url": "https://play.google.com/store/apps/details?id=com.agmostudio.coronatracker&hl=en",
+          "description": "Statistics, map of cases."
+        },
+        {
+          "title": "~~Coronavirus Tracker - latest information and news~~",
+          "url": "https://play.google.com/store/apps/details?id=com.R4yan.CoronavirusTracker",
+          "description": "Location based statistics, news, charts, maps based dashboard."
+        }
+      ]
+    },
   ]
 }
