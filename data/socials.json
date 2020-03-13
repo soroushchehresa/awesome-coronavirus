@@ -1,0 +1,130 @@
+{
+  "title": "Socials",
+  "list" :  [
+    {
+      "category": "Twitter",
+      "list": [
+        {
+          "title": "ncov201920",
+          "url": "https://twitter.com/ncov201920",
+          "description": "Hello. I am new Coronavirus nCoV 2019/2020. I was born/made in Wuhan. I like airplanes, travel, food and all things viral. Follow me and I may not chase you."
+        },
+        {
+          "title": "CoronaVirusFlu",
+          "url": "https://twitter.com/CoronaVirusFlu",
+          "description": "Updates, News Reports, and Articles regarding the spread of the 2019 novel Coronavirus originating in Wuhan, China. Stay up to date on the spread of the virus."
+        },
+        {
+          "title": "NCOVNEWS",
+          "url": "https://twitter.com/NCOVNEWS",
+          "description": "Coronavirus ALERT Follow us for CoronaVirus breaking news around the world."
+        },
+        {
+          "title": "BotCorona",
+          "url": "https://twitter.com/BotCorona",
+          "description": "A bot that keeps track of the #CoronaVirus Data gets tweeted every 2 hours."
+        },
+        {
+          "title": "CoronaVirusInfo",
+          "url": "https://twitter.com/CoronaVirusInfo",
+          "description": "We're here to help you with any info concerning #2019nCoV (Coronavirus)."
+        },
+        {
+          "title": "PneumoniaWuhan",
+          "url": "https://twitter.com/PneumoniaWuhan",
+          "description": "News headlines about the Wuhan origin Coronavirus from journals, media, experts and researchers. Updated frequently. A Unique Resource - Curated by Dave Roberts."
+        },
+        {
+          "title": "coronavcharts",
+          "url": "https://twitter.com/coronavcharts",
+          "description": "Your number #1 source on charts and “news” for #Coronavirus."
+        },
+        {
+          "title": "TrackerCorona",
+          "url": "https://twitter.com/TrackerCorona",
+          "description": "I am a bot that collects U.S nCoV data from John Hopkins University and the U.S CDC and makes graphs! I am still in early development so there may be some bugs."
+        },
+        {
+          "title": "COVID19",
+          "url": "https://twitter.com/V2019N",
+          "description": "Everything we do before a pandemic will seem alarmist. Everything we do after will seem inadequate -M. Leavitt, DHHS."
+        },
+        {
+          "title": "CoronaVirus Updates",
+          "url": "https://twitter.com/COVID19Update",
+          "description": "I am a #PH Professional.Breaking News and Updates About #coronavirus,Truth, No Rumors. Safety Tips."
+        },
+        {
+          "title": "Coronavirus CoVid-19 Updates",
+          "url": "https://twitter.com/subgap",
+          "description": "This account will tweet the current confirmed CoronaVirus #Covid-19 #NCOV infections."
+        },
+        {
+          "title": "Coronavirus (COVID-19) Alerts",
+          "url": "https://twitter.com/coronaviruscare",
+          "description": "#COVID19 (#Coronavirus) Alerts, News & Info from reputed sources. Updates & Verified Facts on #2019nCoV Research, Strategies & Cures. Only truth, no rumours."
+        },
+        {
+          "title": "COVID19 Updates in Asia",
+          "url": "https://twitter.com/SEACoronavirus",
+          "description": "Updates on #coronavirus #COVID19 #coronaoutbreak #SARSCoV2 #ไวรัสโคโรน่า #VirusCorona #코로나바이러스 #コロナウイルス in the Larger Western Pacific Region."
+        }
+      ]
+    },
+    {
+      "category": "Telegram",
+      "list": [
+        {
+          "title": "CoronaTracker-Public",
+          "url": "https://t.me/coronatracker_public",
+          "description": ""
+        },
+        {
+          "title": "SG Fight Coronavirus",
+          "url": "https://t.me/sgFight",
+          "description": ""
+        },
+        {
+          "title": "Coronavirus Updates",
+          "url": "https://t.me/coronavirusupdates",
+          "description": ""
+        },
+        {
+          "title": "Coronavirus Info",
+          "url": "https://t.me/coronavirusinfo",
+          "description": ""
+        },
+        {
+          "title": "Wuhan 2019 Novel Coronavirus",
+          "url": "https://t.me/TheWuhanVirus",
+          "description": ""
+        },
+        {
+          "title": "SG-Wuhan 2019-nCoV Watchgroup",
+          "url": "https://t.me/SGWuhan2019nCoV",
+          "description": ""
+        },
+        {
+          "title": "SG Wuhan Coronavirus Info Group",
+          "url": "https://t.me/SGWuhanCoronaVirusNews",
+          "description": ""
+        },
+        {
+          "title": "Wuhan Quarantine #nCoV #武汉封城",
+          "url": "https://t.me/wuhanquarantinefrom20200123",
+          "description": ""
+        },
+      ]
+    },
+    {
+      "category": "WhatsApp",
+      "list": [
+        {
+          "title": "Gov.sg",
+          "url": "https://go.gov.sg/whatsapp",
+          "description": ""
+        },
+      ]
+    }
+  ]
+}
