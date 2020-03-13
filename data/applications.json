@@ -4,10 +4,26 @@
     {
       "category": "Open Source Apps",
       "repositories": [
-        "MhdHejazi/CoronaTracker",
-        "JohnCoene/coronavirus",
-        "alfianlosari/CoronaVirusTrackerSwiftUI",
-        "MG-ng/Virus-Ticker-Widget"
+        {
+          "title": "MhdHejazi/CoronaTracker",
+          "url": "https://www.github.com/MhdHejazi/CoronaTracker",
+          "description": "Coronavirus tracker app for iOS & macOS with map & charts."
+        },
+        {
+          "title": "JohnCoene/coronavirus",
+          "url": "https://www.github.com/JohnCoene/coronavirus",
+          "description": "Novel Coronavirus (COVID-19) Tracker."
+        },
+        {
+          "title": "alfianlosari/CoronaVirusTrackerSwiftUI",
+          "url": "https://www.github.com/alfianlosari/CoronaVirusTrackerSwiftUI",
+          "description": "Corona Virus Tracker & Advices iOS App with SwiftUI."
+        },
+        {
+          "title": "MG-ng/Virus-Ticker-Widget",
+          "url": "https://www.github.com/MG-ng/Virus-Ticker-Widget",
+          "description": "Android App to display a homescreen widget and useful websites in fullscreen."
+        },
       ]
     },
     {
@@ -102,7 +118,27 @@
     },
     {
       "category": "Android Apps",
-      "repositories": [
+      "list": [
+        {
+          "title": "코로나맵100m",
+          "url": "https://play.google.com/store/apps/details?id=com.tina3d.corona100m&amp;hl=en_US",
+          "description": "코백 - 코로나맵 정보 알림 서비스."
+        },
+        {
+          "title": "~~CoronaVirus Tracker 2019-nCoV~~",
+          "url": "https://play.google.com/store/apps/details?id=com.agmostudio.coronatracker&hl=en",
+          "description": "Statistics, map of cases."
+        },
+        {
+          "title": "~~Coronavirus Tracker - latest information and news~~",
+          "url": "https://play.google.com/store/apps/details?id=com.R4yan.CoronavirusTracker",
+          "description": "Location based statistics, news, charts, maps based dashboard."
+        }
+      ]
+    },
+    {
+      "category": "IOS Apps",
+      "list": [
         {
           "title": "코로나맵100m",
           "url": "https://play.google.com/store/apps/details?id=com.tina3d.corona100m&amp;hl=en_US",
