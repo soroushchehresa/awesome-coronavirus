@@ -30,6 +30,42 @@
         "alext234/coronavirus-stats",
         "HopkinsIDD/ncov_incubation"
       ]
+    },
+    {
+      "category": "Learning",
+      "repositories": [
+        "mattroconnor/deep_learning_coronavirus_cur"
+      ]
+    },
+    {
+      "category": "Maps",
+      "repositories": [
+        "ncovis/choropleth",
+        "jakobzhao/virus",
+        "antonlukin/2019-nCoV",
+        "stevenliuyi/covid19",
+        "par6n/ncov-19"
+      ]
+    },
+    {
+      "category": "Applications and Bots",
+      "repositories": [
+        "RamiKrispin/coronavirus_dashboard",
+        "hysios/coronavirus",
+        "sorxrob/2019-ncov-frontend",
+        "onlyphantom/coronavirus",
+        "the-robot/covid19-updates"
+      ]
+    },
+    {
+      "category": "Packages and Scripts",
+      "repositories": [
+        "datasets/covid-19",
+        "koushikkothagal/coronavirus-tracker",
+        "eebrown/data2019nCoV",
+        "pdtyreus/coronavirus-ds",
+        "eebrown/data2019nCoV"
+      ]
     }
   ]
 }
