@@ -203,4 +203,4 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 ## Contribute
 
-Contributions welcome!
+If you want to contribute, note that you should only update `README.md`.
