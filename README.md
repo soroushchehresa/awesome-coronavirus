@@ -116,7 +116,6 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 - [coronatracker.com](https://www.coronatracker.com) - CORONATRACKER.com is a community-based project powered by over 460 volunteers from across the globe, ranging from data scientists, medical professionals, UI/UX designers, fullstack developers, to the general public.
 - [coronavirus.app](https://coronavirus.app) - Coronavirus statistics by map.
-- [talksub.com/covid19](https://talksub.com/covid19) - For US. Interactive map, per state data table, chart, news articles.
 - [coronavirusinfections.org](https://coronavirusinfections.org) - Health information on coronavirus infections with detailed statistics from around the world. Data can be exported in 7 different formats.
 - [thewuhanvirus.com](https://thewuhanvirus.com) - Coronavirus statistics by the countries.
 - [sgwuhan.xose.net](https://sgwuhan.xose.net) - Coronavirus map.
@@ -132,6 +131,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 - [corona.rade.ir](https://corona.rade.ir) - نقشه‌ی مبتلایان به ویروس COVID-19 در ایران.
 - [coronavirus.zone](https://coronavirus.zone) - Outbreak map of novel coronavirus 2019-nCoV.
 - [balad.ir](https://balad.ir/search/corona-test-hospitals) - مراکز ویژه کرونا بر روی نقشه.
+- [talksub.com/covid19](https://talksub.com/covid19) - For US. Interactive map, per state data table, chart, news articles.
 
 #### Android Apps
 
