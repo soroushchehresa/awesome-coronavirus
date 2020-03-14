@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/soroushchehresa/awesome-coronavirus/master/awesome-coronavirus.png" width="300px" />
+</p>
+
+<br>
+
 # Awesome Coronavirus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Useful projects and resources for COVID-19 (2019 novel Coronavirus)
