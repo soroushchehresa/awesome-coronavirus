@@ -145,19 +145,19 @@
       "category": "IOS Apps",
       "list": [
         {
-          "title": "코로나맵100m",
-          "url": "https://play.google.com/store/apps/details?id=com.tina3d.corona100m&amp;hl=en_US",
-          "description": "코백 - 코로나맵 정보 알림 서비스."
+          "title": "Relief Central",
+          "url": "https://apps.apple.com/us/app/relief-central/id353219185",
+          "description": "Coronavirus (COVID-19) Updates."
         },
         {
-          "title": "~~CoronaVirus Tracker 2019-nCoV~~",
-          "url": "https://play.google.com/store/apps/details?id=com.agmostudio.coronatracker&hl=en",
-          "description": "Statistics, map of cases."
+          "title": "HEALTHLYNKED COVID-19 Tracker",
+          "url": "https://apps.apple.com/us/app/healthlynked-covid-19-tracker/id1500575377",
+          "description": "Corona virus tracker."
         },
         {
-          "title": "~~Coronavirus Tracker - latest information and news~~",
-          "url": "https://play.google.com/store/apps/details?id=com.R4yan.CoronavirusTracker",
-          "description": "Location based statistics, news, charts, maps based dashboard."
+          "title": "Coronavírus - SUS",
+          "url": "https://apps.apple.com/br/app/coronav%C3%ADrus-sus/id1408008382",
+          "description": "O Ministério da Saúde lança o app Coronavírus-SUS com o objetivo de conscientizar a população sobre o Corona Vírus COVID-19."
         }
       ]
     }

@@ -62,7 +62,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 8212 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
+ | 8216 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
  | 671 | [@nextstrain](https://github.com/nextstrain)/[**ncov**](https://github.com/nextstrain/ncov) | Nextstrain build for novel coronavirus (nCoV) |
  | 240 | [@GuangchuangYu](https://github.com/GuangchuangYu)/[**nCov2019**](https://github.com/GuangchuangYu/nCov2019) | query stats of infected coronavirus cases |
  | 121 | [@RamiKrispin](https://github.com/RamiKrispin)/[**coronavirus**](https://github.com/RamiKrispin/coronavirus) | The coronavirus dataset |
@@ -162,9 +162,9 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 | Link | Description  |
 |:-----|:-------------|
-| [코로나맵100m](https://play.google.com/store/apps/details?id=com.tina3d.corona100m&amp;amp;hl=en_US) | 코백 - 코로나맵 정보 알림 서비스. |
-| [~~CoronaVirus Tracker 2019-nCoV~~](https://play.google.com/store/apps/details?id=com.agmostudio.coronatracker&amp;hl=en) | Statistics, map of cases. |
-| [~~Coronavirus Tracker - latest information and news~~](https://play.google.com/store/apps/details?id=com.R4yan.CoronavirusTracker) | Location based statistics, news, charts, maps based dashboard. |
+| [Relief Central](https://apps.apple.com/us/app/relief-central/id353219185) | Coronavirus (COVID-19) Updates. |
+| [HEALTHLYNKED COVID-19 Tracker](https://apps.apple.com/us/app/healthlynked-covid-19-tracker/id1500575377) | Corona virus tracker. |
+| [Coronavírus - SUS](https://apps.apple.com/br/app/coronav%C3%ADrus-sus/id1408008382) | O Ministério da Saúde lança o app Coronavírus-SUS com o objetivo de conscientizar a população sobre o Corona Vírus COVID-19. |
 
 
 
