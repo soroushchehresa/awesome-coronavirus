@@ -106,6 +106,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
+ | 317 | [@phildini](https://github.com/phildini)/[**stayinghomeclub**](https://github.com/phildini/stayinghomeclub) | A list of all the companies WFH or events changed because of covid-19 |
  | 65 | [@sorxrob](https://github.com/sorxrob)/[**2019-ncov-frontend**](https://github.com/sorxrob/2019-ncov-frontend) | Map, data and timeline of coronavirus (2019-nCoV) |
  | 49 | [@hysios](https://github.com/hysios)/[**coronavirus**](https://github.com/hysios/coronavirus) | 2019 nCoV realtime track system based Scrapy + influxdb + grafana + NLTK + Stanford CoreNLP |
  | 36 | [@the-robot](https://github.com/the-robot)/[**covid19-updates**](https://github.com/the-robot/covid19-updates) | Monitoring service and bot to give updates about COVID-19 (Novel Coronavirus) |
