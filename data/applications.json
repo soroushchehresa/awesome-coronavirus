@@ -123,6 +123,11 @@
           "title": "veille-coronavirus.fr",
           "url": "https://veille-coronavirus.fr",
           "description": "Tableau de bord de suivi de l’épidémie de coronavirus en France."
+        },
+        {
+          "title": "opendatadpc.maps.arcgis.com",
+          "url": "http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1",
+          "description": "COVID-19 ITALIA."
         }
       ]
     },
