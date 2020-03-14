@@ -118,6 +118,11 @@
           "title": "talksub.com/covid19",
           "url": "https://talksub.com/covid19",
           "description": "For US. Interactive map, per state data table, chart, news articles."
+        },
+        {
+          "title": "veille-coronavirus.fr",
+          "url": "https://veille-coronavirus.fr",
+          "description": "Tableau de bord de suivi de l’épidémie de coronavirus en France."
         }
       ]
     },
