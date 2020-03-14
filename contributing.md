@@ -5,6 +5,7 @@ If you want to contribute, note that you should only update `data/*.json`.
 
 Ensure your pull request adheres to the following guidelines:
 
+- Place your item at end of the related list.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
 - Keep descriptions short and simple, but descriptive.
