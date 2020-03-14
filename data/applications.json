@@ -113,6 +113,11 @@
           "title": "balad.ir",
           "url": "https://balad.ir/search/corona-test-hospitals",
           "description": "مراکز درمانی ویژه کرونا بر روی نقشه."
+        },
+        {
+          "title": "talksub.com/covid19",
+          "url": "https://talksub.com/covid19",
+          "description": "For US. Interactive map, per state data table, chart, news articles."
         }
       ]
     },
