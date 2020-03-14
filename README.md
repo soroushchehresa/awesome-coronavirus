@@ -131,6 +131,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 - [corona.rade.ir](https://corona.rade.ir) - نقشه‌ی مبتلایان به ویروس COVID-19 در ایران.
 - [coronavirus.zone](https://coronavirus.zone) - Outbreak map of novel coronavirus 2019-nCoV.
 - [balad.ir](https://balad.ir/search/corona-test-hospitals) - مراکز ویژه کرونا بر روی نقشه.
+- [talksub.com/covid19](https://talksub.com/covid19) - For US. Interactive map, per state data table, chart, news articles.
 
 #### Android Apps
 
