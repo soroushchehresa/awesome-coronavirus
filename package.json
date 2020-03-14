@@ -15,6 +15,7 @@
   "author": "Soroush Chehresa",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "ejs": "^2.4.2",
     "github": "^2.1.0"
   }

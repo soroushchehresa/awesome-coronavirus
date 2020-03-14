@@ -23,7 +23,7 @@
           "title": "MG-ng/Virus-Ticker-Widget",
           "url": "https://www.github.com/MG-ng/Virus-Ticker-Widget",
           "description": "Android App to display a homescreen widget and useful websites in fullscreen."
-        },
+        }
       ]
     },
     {
@@ -160,6 +160,6 @@
           "description": "Location based statistics, news, charts, maps based dashboard."
         }
       ]
-    },
+    }
   ]
 }

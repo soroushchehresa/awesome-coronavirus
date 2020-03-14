@@ -1,6 +1,6 @@
 {
-  "title": "Socials",
-  "list" :  [
+  "title": "Social",
+  "list": [
     {
       "category": "Twitter",
       "list": [
@@ -75,55 +75,50 @@
       "category": "Telegram",
       "list": [
         {
-          "title": "CoronaTracker-Public",
-          "url": "https://t.me/coronatracker_public",
-          "description": ""
-        },
-        {
           "title": "SG Fight Coronavirus",
           "url": "https://t.me/sgFight",
-          "description": ""
+          "description": "Let's Fight Coronavirus together in Singapore."
         },
         {
           "title": "Coronavirus Updates",
           "url": "https://t.me/coronavirusupdates",
-          "description": ""
+          "description": "Info-sharing on COVID-19."
         },
         {
           "title": "Coronavirus Info",
           "url": "https://t.me/coronavirusinfo",
-          "description": ""
+          "description": "Today's top stories regarding the COVID-19 Pandemic."
         },
         {
           "title": "Wuhan 2019 Novel Coronavirus",
           "url": "https://t.me/TheWuhanVirus",
-          "description": ""
-        },
-        {
-          "title": "SG-Wuhan 2019-nCoV Watchgroup",
-          "url": "https://t.me/SGWuhan2019nCoV",
-          "description": ""
+          "description": "A collation of Singapore News Articles on 2019-nCoV Wuhan Virus COVID-2019."
         },
         {
           "title": "SG Wuhan Coronavirus Info Group",
           "url": "https://t.me/SGWuhanCoronaVirusNews",
-          "description": ""
+          "description": "Providing news and updates on the Wuhan Coronavirus."
         },
         {
           "title": "Wuhan Quarantine #nCoV #武汉封城",
           "url": "https://t.me/wuhanquarantinefrom20200123",
-          "description": ""
+          "description": "点击标签查看相关消息：新闻 生活实景 求助信息 捐赠 应灾技巧 专家解答 辟谣 重要通知 疫情动态"
         },
+        {
+          "title": "CoronaTracker-Public",
+          "url": "https://t.me/coronatracker_public",
+          "description": "CoronaTracker-Public super group."
+        }
       ]
     },
     {
       "category": "WhatsApp",
       "list": [
         {
-          "title": "Gov.sg",
+          "title": "latest information about the COVID-19",
           "url": "https://go.gov.sg/whatsapp",
-          "description": ""
-        },
+          "description": "Gov.sg WhatsApp Subscription"
+        }
       ]
     }
   ]

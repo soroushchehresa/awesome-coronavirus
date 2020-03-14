@@ -1,0 +1,15 @@
+{
+  "title": "Current Status",
+  "list": [
+    {
+      "title": "WHO",
+      "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+      "description": "World Health Orginization."
+    },
+    {
+      "title": "CDC",
+      "url": "https://www.cdc.gov/coronavirus/2019-ncov/about/index.html",
+      "description": "Center for Disease control."
+    }
+  ]
+}

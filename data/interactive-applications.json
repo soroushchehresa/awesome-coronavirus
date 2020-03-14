@@ -1,0 +1,25 @@
+{
+  "title": "Interactive Applications",
+  "list": [
+    {
+      "title": "University of Virginia: COVID-19 Surveillance Dashboard",
+      "url": "http://nssac.bii.virginia.edu/covid-19/dashboard",
+      "description": "Dashboard showing."
+    },
+    {
+      "title": "Johns Hopkins CSSE: Coronavirus COVID-19 Global Cases",
+      "url": "https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6",
+      "description": "Dashboard application providing interaction to global case data."
+    },
+    {
+      "title": "WHO Novel Coronavirus (COVID-19) Situation",
+      "url": "https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd",
+      "description": "WHO data visualization page."
+    },
+    {
+      "title": "Worldometer",
+      "url": "https://www.worldometers.info/coronavirus",
+      "description": "Showcasing coronavirus stats."
+    }
+  ]
+}
