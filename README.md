@@ -160,6 +160,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | [veille-coronavirus.fr](https://veille-coronavirus.fr) | Tableau de bord de suivi de l’épidémie de coronavirus en France. |
 | [opendatadpc.maps.arcgis.com](http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1) | COVID-19 ITALIA. |
 | [alessiodl.github.io/COVID19Dashboard](https://alessiodl.github.io/COVID19Dashboard/dist/index.html) | CoViD-19 Dashboard Italia. |
+| [coronaviruslive.it](https://coronaviruslive.it) | Situazione Coronavirus in Italia - LIVE |
 
 #### Android Apps
 
