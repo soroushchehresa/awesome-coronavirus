@@ -164,6 +164,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | [alessiodl.github.io/COVID19Dashboard](https://alessiodl.github.io/COVID19Dashboard/dist/index.html) | CoViD-19 Dashboard Italia. |
 | [coronaviruslive.it](https://coronaviruslive.it) | Situazione Coronavirus in Italia - LIVE |
 | [stayinghome.club](https://stayinghome.club) | A list of all the companies WFH or events changed because of covid-19. |
+| [korona.ws](https://korona.ws) | Koronawirus w Polsce. |
 
 #### Android Apps
 
