@@ -65,7 +65,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 8 | [@bizz84](https://github.com/bizz84)/[**coronavirus_rest_api_flutter_course**](https://github.com/bizz84/coronavirus_rest_api_flutter_course) | Coronavirus REST API Flutter Course |
  | 2 | [@ExpDev07](https://github.com/ExpDev07)/[**coronavirus-tracker**](https://github.com/ExpDev07/coronavirus-tracker) | 🦠 A live tracker and visualization of the coronavirus (2019-nCoV). Consists purely of a frontend written in EmberJS. |
 
-#### Statistics
+#### Statistics and Data
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
