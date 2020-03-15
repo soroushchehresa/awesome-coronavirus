@@ -41,10 +41,6 @@
       "anchor": "applications",
       "list": [
         {
-          "title": "Open Source Apps",
-          "anchor": "open-source-apps"
-        },
-        {
           "title": "Web Apps",
           "anchor": "web-apps"
         },
