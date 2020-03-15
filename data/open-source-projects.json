@@ -32,7 +32,8 @@
         "alext234/coronavirus-stats",
         "HopkinsIDD/ncov_incubation",
         "BlankerL/DXY-COVID-19-Data",
-        "virtadpt/exocortex-agents"
+        "virtadpt/exocortex-agents",
+        "coronafighter/coronaSEIR"
       ]
     },
     {
