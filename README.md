@@ -17,7 +17,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 - [Open Source Projects](#open-source-projects)
   - [API](#api)
-  - [Statistics](#statistics)
+  - [Statistics and Data](#statistics-and-data)
   - [Learning](#learning)
   - [Maps](#maps)
   - [Applications and Bots](#applications-and-bots)
