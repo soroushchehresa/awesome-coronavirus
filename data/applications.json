@@ -2,36 +2,6 @@
   "title": "Applications",
   "list" :  [
     {
-      "category": "Open Source Apps",
-      "list": [
-        {
-          "title": "soroushchehresa/iran-coronavirus",
-          "url": "https://github.com/soroushchehresa/iran-coronavirus",
-          "description": "IOS & Android app about Coronavirus in Iran built with React-Native and TypeScript."
-        },
-        {
-          "title": "MhdHejazi/CoronaTracker",
-          "url": "https://www.github.com/MhdHejazi/CoronaTracker",
-          "description": "Coronavirus tracker app for iOS & macOS with map & charts."
-        },
-        {
-          "title": "JohnCoene/coronavirus",
-          "url": "https://www.github.com/JohnCoene/coronavirus",
-          "description": "Novel Coronavirus (COVID-19) Tracker."
-        },
-        {
-          "title": "alfianlosari/CoronaVirusTrackerSwiftUI",
-          "url": "https://www.github.com/alfianlosari/CoronaVirusTrackerSwiftUI",
-          "description": "Corona Virus Tracker & Advices iOS App with SwiftUI."
-        },
-        {
-          "title": "MG-ng/Virus-Ticker-Widget",
-          "url": "https://www.github.com/MG-ng/Virus-Ticker-Widget",
-          "description": "Android App to display a homescreen widget and useful websites in fullscreen."
-        }
-      ]
-    },
-    {
       "category": "Web Apps",
       "list": [
         {
