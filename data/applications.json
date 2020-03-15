@@ -5,6 +5,11 @@
       "category": "Open Source Apps",
       "list": [
         {
+          "title": "soroushchehresa/iran-coronavirus",
+          "url": "https://github.com/soroushchehresa/iran-coronavirus",
+          "description": "IOS & Android app about Coronavirus in Iran built with React-Native and TypeScript."
+        },
+        {
           "title": "MhdHejazi/CoronaTracker",
           "url": "https://www.github.com/MhdHejazi/CoronaTracker",
           "description": "Coronavirus tracker app for iOS & macOS with map & charts."
