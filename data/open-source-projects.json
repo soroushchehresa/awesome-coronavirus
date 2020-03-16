@@ -33,7 +33,8 @@
         "HopkinsIDD/ncov_incubation",
         "BlankerL/DXY-COVID-19-Data",
         "virtadpt/exocortex-agents",
-        "coronafighter/coronaSEIR"
+        "coronafighter/coronaSEIR",
+        "pcm-dpc/COVID-19"
       ]
     },
     {
