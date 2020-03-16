@@ -36,7 +36,8 @@
         "coronafighter/coronaSEIR",
         "pcm-dpc/COVID-19",
         "pomber/covid19",
-        "globalcitizen/2019-wuhan-coronavirus-data"
+        "globalcitizen/2019-wuhan-coronavirus-data",
+        "arnoudbuzing/wolfram-coronavirus"
       ]
     },
     {
