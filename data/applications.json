@@ -128,6 +128,11 @@
           "title": "coronainusa.com",
           "url": "https://www.coronainusa.com",
           "description": "Corona Virus Near Me."
+        },
+        {
+          "title": "covid19esp.herokuapp.com",
+          "url": "https://covid19esp.herokuapp.com",
+          "description": "Coronavirus en Español - Panel de estadísticas en Español con los últimos datos recibidos."
         }
       ]
     },
