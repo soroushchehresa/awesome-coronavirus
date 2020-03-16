@@ -35,7 +35,8 @@
         "virtadpt/exocortex-agents",
         "coronafighter/coronaSEIR",
         "pcm-dpc/COVID-19",
-        "pomber/covid19"
+        "pomber/covid19",
+        "globalcitizen/2019-wuhan-coronavirus-data"
       ]
     },
     {
