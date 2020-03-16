@@ -69,17 +69,17 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 10245 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
- | 2035 | [@pcm-dpc](https://github.com/pcm-dpc)/[**COVID-19**](https://github.com/pcm-dpc/COVID-19) | COVID-19 Italia - Monitoraggio situazione |
- | 1113 | [@BlankerL](https://github.com/BlankerL)/[**DXY-COVID-19-Data**](https://github.com/BlankerL/DXY-COVID-19-Data) | 2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse |
- | 742 | [@nextstrain](https://github.com/nextstrain)/[**ncov**](https://github.com/nextstrain/ncov) | Nextstrain build for novel coronavirus (nCoV) |
- | 566 | [@globalcitizen](https://github.com/globalcitizen)/[**2019-wuhan-coronavirus-data**](https://github.com/globalcitizen/2019-wuhan-coronavirus-data) | 2019 Wuhan Coronavirus data (COVID-19 / 2019-nCoV) |
- | 256 | [@GuangchuangYu](https://github.com/GuangchuangYu)/[**nCov2019**](https://github.com/GuangchuangYu/nCov2019) | query stats of infected coronavirus cases |
+ | 10289 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
+ | 2041 | [@pcm-dpc](https://github.com/pcm-dpc)/[**COVID-19**](https://github.com/pcm-dpc/COVID-19) | COVID-19 Italia - Monitoraggio situazione |
+ | 1114 | [@BlankerL](https://github.com/BlankerL)/[**DXY-COVID-19-Data**](https://github.com/BlankerL/DXY-COVID-19-Data) | 2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse |
+ | 743 | [@nextstrain](https://github.com/nextstrain)/[**ncov**](https://github.com/nextstrain/ncov) | Nextstrain build for novel coronavirus (nCoV) |
+ | 570 | [@globalcitizen](https://github.com/globalcitizen)/[**2019-wuhan-coronavirus-data**](https://github.com/globalcitizen/2019-wuhan-coronavirus-data) | 2019 Wuhan Coronavirus data (COVID-19 / 2019-nCoV) |
+ | 257 | [@GuangchuangYu](https://github.com/GuangchuangYu)/[**nCov2019**](https://github.com/GuangchuangYu/nCov2019) | query stats of infected coronavirus cases |
  | 136 | [@RamiKrispin](https://github.com/RamiKrispin)/[**coronavirus**](https://github.com/RamiKrispin/coronavirus) | The coronavirus dataset |
  | 123 | [@jihoo-kim](https://github.com/jihoo-kim)/[**Coronavirus-Dataset**](https://github.com/jihoo-kim/Coronavirus-Dataset) | [CSV] Dataset of CoronaVirus disease 2019 (COVID-19) in South Korea (from KCDC) |
  | 69 | [@jianxu305](https://github.com/jianxu305)/[**nCov2019_analysis**](https://github.com/jianxu305/nCov2019_analysis) | Analysis of 2019-nCov coronavirus data |
  | 41 | [@tmacdou4](https://github.com/tmacdou4)/[**2019-nCov**](https://github.com/tmacdou4/2019-nCov) | Efforts towards proposing a potentially highly active molecule against a target protein of the 2019 Novel Coronavirus |
- | 39 | [@pomber](https://github.com/pomber)/[**covid19**](https://github.com/pomber/covid19) | JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily |
+ | 40 | [@pomber](https://github.com/pomber)/[**covid19**](https://github.com/pomber/covid19) | JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily |
  | 36 | [@alext234](https://github.com/alext234)/[**coronavirus-stats**](https://github.com/alext234/coronavirus-stats) | Automatically scrape data and statistics on Coronavirus to make them easily accessible in CSV format |
  | 36 | [@alext234](https://github.com/alext234)/[**coronavirus-stats**](https://github.com/alext234/coronavirus-stats) | Automatically scrape data and statistics on Coronavirus to make them easily accessible in CSV format |
  | 25 | [@HopkinsIDD](https://github.com/HopkinsIDD)/[**ncov_incubation**](https://github.com/HopkinsIDD/ncov_incubation) | Estimating the incubation time of the novel coronavirus (nCoV-2019) based on traveler data using coarse data tools |
@@ -103,7 +103,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
  | 144 | [@ncovis](https://github.com/ncovis)/[**choropleth**](https://github.com/ncovis/choropleth) | Choropleth Map of the 2019 Novel Coronavirus Outbreak. |
- | 50 | [@stevenliuyi](https://github.com/stevenliuyi)/[**covid19**](https://github.com/stevenliuyi/covid19) | an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries (including China, Italy, Korea, Japan, France, Germany, United States) |
+ | 51 | [@stevenliuyi](https://github.com/stevenliuyi)/[**covid19**](https://github.com/stevenliuyi/covid19) | an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries (including China, Italy, Korea, Japan, France, Germany, United States) |
  | 50 | [@konradkalemba](https://github.com/konradkalemba)/[**korona.ws**](https://github.com/konradkalemba/korona.ws) | Map of confirmed coronavirus cases in Poland |
  | 45 | [@jakobzhao](https://github.com/jakobzhao)/[**virus**](https://github.com/jakobzhao/virus) | Noval Coronavirus Infection Map |
  | 37 | [@antonlukin](https://github.com/antonlukin)/[**2019-nCoV**](https://github.com/antonlukin/2019-nCoV) | Wuhan coronavirus outbreak |
@@ -113,13 +113,13 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 423 | [@MhdHejazi](https://github.com/MhdHejazi)/[**CoronaTracker**](https://github.com/MhdHejazi/CoronaTracker) | Coronavirus tracker app for iOS &amp; macOS with maps &amp; charts |
- | 358 | [@phildini](https://github.com/phildini)/[**stayinghomeclub**](https://github.com/phildini/stayinghomeclub) | A list of all the companies WFH or events changed because of covid-19 |
+ | 428 | [@MhdHejazi](https://github.com/MhdHejazi)/[**CoronaTracker**](https://github.com/MhdHejazi/CoronaTracker) | Coronavirus tracker app for iOS &amp; macOS with maps &amp; charts |
+ | 359 | [@phildini](https://github.com/phildini)/[**stayinghomeclub**](https://github.com/phildini/stayinghomeclub) | A list of all the companies WFH or events changed because of covid-19 |
  | 203 | [@JohnCoene](https://github.com/JohnCoene)/[**coronavirus**](https://github.com/JohnCoene/coronavirus) | 🦠 Novel Coronavirus (COVID-19) Tracker |
- | 123 | [@alfianlosari](https://github.com/alfianlosari)/[**CoronaVirusTrackerSwiftUI**](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI) | Corona Virus Tracker &amp; Advices iOS App with SwiftUI |
+ | 124 | [@alfianlosari](https://github.com/alfianlosari)/[**CoronaVirusTrackerSwiftUI**](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI) | Corona Virus Tracker &amp; Advices iOS App with SwiftUI |
  | 72 | [@sorxrob](https://github.com/sorxrob)/[**2019-ncov-frontend**](https://github.com/sorxrob/2019-ncov-frontend) | 🌏Map, data and timeline of coronavirus (COVID-19) |
  | 54 | [@hysios](https://github.com/hysios)/[**coronavirus**](https://github.com/hysios/coronavirus) | 2019 nCoV realtime track system based Scrapy + influxdb + grafana + NLTK + Stanford CoreNLP |
- | 49 | [@heremaps](https://github.com/heremaps)/[**here-covid-19-tracker**](https://github.com/heremaps/here-covid-19-tracker) | Using HERE Technologies APIs, fork and build your own COVID-19 Tracker. For a live version, see the website. |
+ | 50 | [@heremaps](https://github.com/heremaps)/[**here-covid-19-tracker**](https://github.com/heremaps/here-covid-19-tracker) | Using HERE Technologies APIs, fork and build your own COVID-19 Tracker. For a live version, see the website. |
  | 37 | [@the-robot](https://github.com/the-robot)/[**covid19-updates**](https://github.com/the-robot/covid19-updates) | Monitoring service and bot to give updates about COVID-19 (Novel Coronavirus) |
  | 16 | [@RamiKrispin](https://github.com/RamiKrispin)/[**coronavirus_dashboard**](https://github.com/RamiKrispin/coronavirus_dashboard) | The Coronavirus Dashboard  |
  | 10 | [@arik-so](https://github.com/arik-so)/[**coronavirus**](https://github.com/arik-so/coronavirus) |  |
@@ -172,6 +172,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | [korona.ws](https://korona.ws) | Koronawirus w Polsce. |
 | [coronainusa.com](https://www.coronainusa.com) | Corona Virus Near Me. |
 | [covid19esp.herokuapp.com](https://covid19esp.herokuapp.com) | Coronavirus en Español - Panel de estadísticas en Español con los últimos datos recibidos. |
+| [italy.coronavirusinfections.org](https://italy.coronavirusinfections.org) | Health information on coronavirus infections with detailed statistics from Italy. The data can be exported in 7 different formats. |
 
 #### Android Apps
 
