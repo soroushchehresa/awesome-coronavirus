@@ -123,6 +123,11 @@
           "title": "korona.ws",
           "url": "https://korona.ws",
           "description": "Koronawirus w Polsce."
+        },
+        {
+          "title": "coronainusa.com",
+          "url": "https://www.coronainusa.com",
+          "description": "Corona Virus Near Me."
         }
       ]
     },
