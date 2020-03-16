@@ -34,7 +34,8 @@
         "BlankerL/DXY-COVID-19-Data",
         "virtadpt/exocortex-agents",
         "coronafighter/coronaSEIR",
-        "pcm-dpc/COVID-19"
+        "pcm-dpc/COVID-19",
+        "pomber/covid19"
       ]
     },
     {
