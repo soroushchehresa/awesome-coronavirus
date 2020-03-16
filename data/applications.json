@@ -133,6 +133,11 @@
           "title": "covid19esp.herokuapp.com",
           "url": "https://covid19esp.herokuapp.com",
           "description": "Coronavirus en Español - Panel de estadísticas en Español con los últimos datos recibidos."
+        },
+        {
+          "title": "italy.coronavirusinfections.org",
+          "url": "https://italy.coronavirusinfections.org",
+          "description": "Health information on coronavirus infections with detailed statistics from Italy. The data can be exported in 7 different formats."
         }
       ]
     },
