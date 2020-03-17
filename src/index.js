@@ -21,6 +21,7 @@ const researchOutletsData = require('../data/research-outlets.json');
 const interactiveApplicationsData = require('../data/interactive-applications.json');
 const currentStatusData = require('../data/current-status.json');
 const contentsData = require('../data/contents.json');
+const educationData = require('../data/education.json');
 
 const github = new GitHubApi({
   debug: DEBUG,
@@ -78,6 +79,7 @@ Promise
       researchOutlets: researchOutletsData,
       interactiveApplications: interactiveApplicationsData,
       currentStatus: currentStatusData,
+      education: educationData,
     };
     const template = fs.readFileSync(templateFilePath, 'utf8');
     const markdown = ejs.render(template, data);
