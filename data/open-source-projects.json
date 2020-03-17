@@ -10,7 +10,8 @@
         "sorxrob/2019-ncov-api",
         "BlankerL/DXY-COVID-19-Crawler",
         "isjeffcom/coronvirusFigureUK",
-        "andreagrandi/covid-api"
+        "andreagrandi/covid-api",
+        "rlindskog/covid19-graphql"
       ]
     },
     {
