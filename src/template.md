@@ -46,6 +46,13 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 <% } %>
 <% } %>
 
+## <%= education.title %>
+
+| Link  | Description  |
+|:------|:-------------|
+<% for (i in education.list) { %>| [<%= education.list[i].title %>](<%= education.list[i].url %>) | <%= education.list[i].description %> |
+<% } %>
+
 ## <%= social.title %>
 
 <% for (i in social.list) { %>#### <%= social.list[i].category %>
