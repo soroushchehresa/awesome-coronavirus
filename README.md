@@ -220,6 +220,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | [Coronavirus CoVid-19 Updates](https://twitter.com/subgap) | This account will tweet the current confirmed CoronaVirus #Covid-19 #NCOV infections. |
 | [Coronavirus (COVID-19) Alerts](https://twitter.com/coronaviruscare) | #COVID19 (#Coronavirus) Alerts, News &amp; Info from reputed sources. Updates &amp; Verified Facts on #2019nCoV Research, Strategies &amp; Cures. Only truth, no rumours. |
 | [COVID19 Updates in Asia](https://twitter.com/SEACoronavirus) | Updates on #coronavirus #COVID19 #coronaoutbreak #SARSCoV2 #ไวรัสโคโรน่า #VirusCorona #코로나바이러스 #コロナウイルス in the Larger Western Pacific Region. |
+| [The COVID Tracking Project](https://twitter.com/COVID19Tracking) | Comprehensive US state-level coronavirus testing data |
 
 #### Telegram
 
