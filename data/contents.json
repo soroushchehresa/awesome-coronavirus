@@ -15,8 +15,12 @@
           "anchor": "api"
         },
         {
-          "title": "Statistics and Data",
-          "anchor": "statistics-and-data"
+          "title": "Statistics and Datasets",
+          "anchor": "statistics-and-datasets"
+        },
+        {
+          "title": "Models",
+          "anchor": "models"
         },
         {
           "title": "Learning",
