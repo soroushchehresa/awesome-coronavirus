@@ -253,6 +253,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [SG Wuhan Coronavirus Info Group](https://t.me/SGWuhanCoronaVirusNews) | Providing news and updates on the Wuhan Coronavirus. |
 | [Wuhan Quarantine #nCoV #武汉封城](https://t.me/wuhanquarantinefrom20200123) | 点击标签查看相关消息：新闻 生活实景 求助信息 捐赠 应灾技巧 专家解答 辟谣 重要通知 疫情动态 |
 | [CoronaTracker-Public](https://t.me/coronatracker_public) | CoronaTracker-Public super group. |
+| [Covid19 LiveUpdate](https://t.me/covid19liveupdate) | Coronavirus outbreak COVID-19 live situation update. |
 
 #### WhatsApp
 
