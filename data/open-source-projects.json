@@ -11,7 +11,8 @@
         "BlankerL/DXY-COVID-19-Crawler",
         "isjeffcom/coronvirusFigureUK",
         "andreagrandi/covid-api",
-        "rlindskog/covid19-graphql"
+        "rlindskog/covid19-graphql",
+        "COVID19Tracking/covid-tracking-api"
       ]
     },
     {
