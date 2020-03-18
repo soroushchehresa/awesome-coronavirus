@@ -284,6 +284,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [Johns Hopkins CSSE: Coronavirus COVID-19 Global Cases](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) | Dashboard application providing interaction to global case data. |
 | [WHO Novel Coronavirus (COVID-19) Situation](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd) | WHO data visualization page. |
 | [Worldometer](https://www.worldometers.info/coronavirus) | Showcasing coronavirus stats. |
+| [COVID-19 Dashboard](https://www.cov19.xyz/) | Coronavirus outbreak dashboard |
 
 
 ## Current Status
