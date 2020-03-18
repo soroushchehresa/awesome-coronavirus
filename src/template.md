@@ -85,7 +85,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 <% } %>
 
 ## 💰 Donation (bitcoin) 💰
-#### Buy me some vitamins to boost my immune system during the coronavirus outbreak, I would maintain this repository if I was alive!
+#### Buy me some vitamins to boost my immune system during the coronavirus outbreak, I would maintain this repository if I was alive :)
 
 <img src="https://i.imgur.com/9IgberJ.png" width="180" >
 
