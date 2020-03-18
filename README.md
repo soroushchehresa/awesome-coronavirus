@@ -70,7 +70,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 |:-----------:|:-------------|:-------------|
  | 1340 | [@BlankerL](https://github.com/BlankerL)/[**DXY-COVID-19-Crawler**](https://github.com/BlankerL/DXY-COVID-19-Crawler) | 2019新型冠状病毒疫情实时爬虫及API | COVID-19/2019-nCoV Realtime Infection Crawler and API |
  | 467 | [@mathdroid](https://github.com/mathdroid)/[**covid-19-api**](https://github.com/mathdroid/covid-19-api) | COVID-19 global data (from JHU CSSE for now) as-a-service |
- | 229 | [@NovelCOVID](https://github.com/NovelCOVID)/[**API**](https://github.com/NovelCOVID/API) | API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain |
+ | 230 | [@NovelCOVID](https://github.com/NovelCOVID)/[**API**](https://github.com/NovelCOVID/API) | API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain |
  | 73 | [@nat236919](https://github.com/nat236919)/[**Covid2019API**](https://github.com/nat236919/Covid2019API) | COVID-2019 API | CoronaVirus 2019 Global Cases |
  | 25 | [@sorxrob](https://github.com/sorxrob)/[**2019-ncov-api**](https://github.com/sorxrob/2019-ncov-api) | Map, data and timeline of coronavirus (COVID-19) |
  | 22 | [@amodm](https://github.com/amodm)/[**api-covid19-in**](https://github.com/amodm/api-covid19-in) | COVID Rest API for India data, using Cloudflare Workers |
@@ -85,7 +85,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 11710 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
+ | 11712 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
  | 2208 | [@pcm-dpc](https://github.com/pcm-dpc)/[**COVID-19**](https://github.com/pcm-dpc/COVID-19) | COVID-19 Italia - Monitoraggio situazione |
  | 1150 | [@BlankerL](https://github.com/BlankerL)/[**DXY-COVID-19-Data**](https://github.com/BlankerL/DXY-COVID-19-Data) | 2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse |
  | 787 | [@nextstrain](https://github.com/nextstrain)/[**ncov**](https://github.com/nextstrain/ncov) | Nextstrain build for novel coronavirus (nCoV) |
@@ -111,7 +111,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 67 | [@pennsignals](https://github.com/pennsignals)/[**chime**](https://github.com/pennsignals/chime) | COVID-19 Hospital Impact Model for Epidemics |
+ | 68 | [@pennsignals](https://github.com/pennsignals)/[**chime**](https://github.com/pennsignals/chime) | COVID-19 Hospital Impact Model for Epidemics |
  | 29 | [@HopkinsIDD](https://github.com/HopkinsIDD)/[**ncov_incubation**](https://github.com/HopkinsIDD/ncov_incubation) | Estimating the incubation time of the novel coronavirus (nCoV-2019) based on traveler data using coarse data tools |
  | 9 | [@coronafighter](https://github.com/coronafighter)/[**coronaSEIR**](https://github.com/coronafighter/coronaSEIR) | Simple SEIR model Python script for the COVID-19 pandemic with real world data comparison. |
 
