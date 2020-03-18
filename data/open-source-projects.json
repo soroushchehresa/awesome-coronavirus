@@ -15,7 +15,7 @@
       ]
     },
     {
-      "category": "Statistics and Data",
+      "category": "Statistics and Datasets",
       "repositories": [
         "CSSEGISandData/COVID-19",
         "globalcitizen/2019-wuhan-coronavirus-dat",
@@ -32,14 +32,19 @@
         "tmacdou4/2019-nCov",
         "joaotinti75/Coronavirus",
         "alext234/coronavirus-stats",
-        "HopkinsIDD/ncov_incubation",
         "BlankerL/DXY-COVID-19-Data",
         "virtadpt/exocortex-agents",
-        "coronafighter/coronaSEIR",
         "pcm-dpc/COVID-19",
         "pomber/covid19",
         "globalcitizen/2019-wuhan-coronavirus-data",
         "arnoudbuzing/wolfram-coronavirus"
+      ]
+    },
+    {
+      "category": "Models",
+      "repositories": [
+        "HopkinsIDD/ncov_incubation",
+        "coronafighter/coronaSEIR"
       ]
     },
     {
