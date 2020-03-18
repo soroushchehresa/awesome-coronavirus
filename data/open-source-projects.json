@@ -12,7 +12,8 @@
         "isjeffcom/coronvirusFigureUK",
         "andreagrandi/covid-api",
         "rlindskog/covid19-graphql",
-        "COVID19Tracking/covid-tracking-api"
+        "COVID19Tracking/covid-tracking-api",
+        "amodm/api-covid19-in"
       ]
     },
     {
