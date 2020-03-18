@@ -8,9 +8,16 @@
 
 > Useful projects and resources for COVID-19 (2019 novel Coronavirus)
 
-COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers around the world are building applications for the public to get up-to-date and accurate information as quickly as possible.
+COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers around the world are building applications for the public to get up-to-date and accurate information as quickly as possible. <br>
+If you are a developer, you may also be able to contribute to some of these projects.
 
-**If you are a developer, you may also be able to contribute to some of these projects.**
+## Donation (bitcoin) 💰
+#### Buy me some vitamins to boost my immune system during the coronavirus outbreak, I would maintain this repository if I was alive.
+
+<img src="https://i.imgur.com/9IgberJ.png" width="180" >
+
+`1CddWa57gyqTQEgf5oiQ4DbpLufAiEyMTm`
+
 
 ## <%= contents.title %>
 <% for (i in contents.list) { %>- [<%= contents.list[i].category %>](#<%= contents.list[i].anchor %>)
