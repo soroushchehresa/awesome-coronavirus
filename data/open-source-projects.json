@@ -75,7 +75,8 @@
         "JohnCoene/coronavirus",
         "alfianlosari/CoronaVirusTrackerSwiftUI",
         "MG-ng/Virus-Ticker-Widget",
-        "heremaps/here-covid-19-tracker"
+        "heremaps/here-covid-19-tracker",
+        "aleskandro/covid19-charts-spreading-rapidity"
       ]
     },
     {
