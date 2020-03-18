@@ -70,7 +70,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 |:-----------:|:-------------|:-------------|
  | 1340 | [@BlankerL](https://github.com/BlankerL)/[**DXY-COVID-19-Crawler**](https://github.com/BlankerL/DXY-COVID-19-Crawler) | 2019新型冠状病毒疫情实时爬虫及API | COVID-19/2019-nCoV Realtime Infection Crawler and API |
  | 467 | [@mathdroid](https://github.com/mathdroid)/[**covid-19-api**](https://github.com/mathdroid/covid-19-api) | COVID-19 global data (from JHU CSSE for now) as-a-service |
- | 230 | [@NovelCOVID](https://github.com/NovelCOVID)/[**API**](https://github.com/NovelCOVID/API) | API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain |
+ | 231 | [@NovelCOVID](https://github.com/NovelCOVID)/[**API**](https://github.com/NovelCOVID/API) | API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain |
  | 73 | [@nat236919](https://github.com/nat236919)/[**Covid2019API**](https://github.com/nat236919/Covid2019API) | COVID-2019 API | CoronaVirus 2019 Global Cases |
  | 25 | [@sorxrob](https://github.com/sorxrob)/[**2019-ncov-api**](https://github.com/sorxrob/2019-ncov-api) | Map, data and timeline of coronavirus (COVID-19) |
  | 22 | [@amodm](https://github.com/amodm)/[**api-covid19-in**](https://github.com/amodm/api-covid19-in) | COVID Rest API for India data, using Cloudflare Workers |
@@ -199,6 +199,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [coronainusa.com](https://www.coronainusa.com) | Corona Virus Near Me. |
 | [covid19esp.herokuapp.com](https://covid19esp.herokuapp.com) | Coronavirus en Español - Panel de estadísticas en Español con los últimos datos recibidos. |
 | [italy.coronavirusinfections.org](https://italy.coronavirusinfections.org) | Health information on coronavirus infections with detailed statistics from Italy. The data can be exported in 7 different formats. |
+| [covid-api.com](https://covid-api.com) | COVID-19 Statistics API based on public data by Johns Hopkins CSSE |
 
 #### Android Apps
 
