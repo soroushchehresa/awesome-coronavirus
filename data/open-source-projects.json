@@ -1,6 +1,6 @@
 {
   "title": "Open Source Projects",
-  "list" :  [
+  "list": [
     {
       "category": "API",
       "repositories": [
@@ -11,7 +11,9 @@
         "BlankerL/DXY-COVID-19-Crawler",
         "isjeffcom/coronvirusFigureUK",
         "andreagrandi/covid-api",
-        "rlindskog/covid19-graphql"
+        "rlindskog/covid19-graphql",
+        "NovelCOVID/API",
+        "mathdroid/covid-19-api"
       ]
     },
     {
@@ -39,7 +41,8 @@
         "pcm-dpc/COVID-19",
         "pomber/covid19",
         "globalcitizen/2019-wuhan-coronavirus-data",
-        "arnoudbuzing/wolfram-coronavirus"
+        "arnoudbuzing/wolfram-coronavirus",
+        "opencovid19-fr/data"
       ]
     },
     {
@@ -77,7 +80,8 @@
         "MG-ng/Virus-Ticker-Widget",
         "heremaps/here-covid-19-tracker",
         "aleskandro/covid19-charts-spreading-rapidity",
-        "dsfsi/covid19za"
+        "dsfsi/covid19za",
+        "julianschiavo/Covidcheck"
       ]
     },
     {
