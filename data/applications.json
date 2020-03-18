@@ -138,6 +138,11 @@
           "title": "italy.coronavirusinfections.org",
           "url": "https://italy.coronavirusinfections.org",
           "description": "Health information on coronavirus infections with detailed statistics from Italy. The data can be exported in 7 different formats."
+        },
+        {
+          "title": "covid-api.com",
+          "url": "https://covid-api.com",
+          "description": "COVID-19 Statistics API based on public data by Johns Hopkins CSSE"
         }
       ]
     },
