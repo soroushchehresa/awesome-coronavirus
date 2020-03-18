@@ -50,7 +50,8 @@
       "repositories": [
         "HopkinsIDD/ncov_incubation",
         "coronafighter/coronaSEIR",
-        "pennsignals/chime"
+        "pennsignals/chime",
+        "daveselinger/covid-19-hackathon"
       ]
     },
     {
