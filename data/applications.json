@@ -143,6 +143,11 @@
           "title": "covid-api.com",
           "url": "https://covid-api.com",
           "description": "COVID-19 Statistics API based on public data by Johns Hopkins CSSE"
+        },
+        {
+          "title": "CovidStats",
+          "url": "https://www.covidstats.com",
+          "description": "Coronavirus charts and reports"
         }
       ]
     },
