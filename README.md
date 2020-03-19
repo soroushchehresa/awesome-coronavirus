@@ -82,7 +82,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 12191 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
+ | 12192 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
  | 2266 | [@pcm-dpc](https://github.com/pcm-dpc)/[**COVID-19**](https://github.com/pcm-dpc/COVID-19) | COVID-19 Italia - Monitoraggio situazione |
  | 1158 | [@BlankerL](https://github.com/BlankerL)/[**DXY-COVID-19-Data**](https://github.com/BlankerL/DXY-COVID-19-Data) | 2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse |
  | 796 | [@nextstrain](https://github.com/nextstrain)/[**ncov**](https://github.com/nextstrain/ncov) | Nextstrain build for novel coronavirus (nCoV) |
@@ -197,6 +197,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [covid19esp.herokuapp.com](https://covid19esp.herokuapp.com) | Coronavirus en Español - Panel de estadísticas en Español con los últimos datos recibidos. |
 | [italy.coronavirusinfections.org](https://italy.coronavirusinfections.org) | Health information on coronavirus infections with detailed statistics from Italy. The data can be exported in 7 different formats. |
 | [covid-api.com](https://covid-api.com) | COVID-19 Statistics API based on public data by Johns Hopkins CSSE |
+| [CovidStats](https://www.covidstats.com) | Coronavirus charts and reports |
 
 #### Android Apps
 
