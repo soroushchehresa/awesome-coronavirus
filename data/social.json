@@ -108,6 +108,11 @@
           "title": "CoronaTracker-Public",
           "url": "https://t.me/coronatracker_public",
           "description": "CoronaTracker-Public super group."
+        },
+        {
+          "title": "Covid19 live update",
+          "url": "https://t.me/covid19liveupdate",
+          "description": "Coronavirus outbreak COVID-19 live situation update."
         }
       ]
     },
