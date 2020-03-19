@@ -104,6 +104,12 @@
         "pdtyreus/coronavirus-ds",
         "eebrown/data2019nCoV"
       ]
+    },
+    {
+      "category": "Other Collections",
+      "repositories": [
+        "tomByrer/awesome-awesome-covid19"
+      ]
     }
   ]
 }
