@@ -148,6 +148,11 @@
           "title": "CovidStats",
           "url": "https://www.covidstats.com",
           "description": "Coronavirus charts and reports"
+        },
+        {
+          "title": "covidabruzzo.it",
+          "url": "https://covidabruzzo.it",
+          "description": "Coronavirus in Abruzzo - I dati aggiornati"
         }
       ]
     },
