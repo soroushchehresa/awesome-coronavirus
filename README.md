@@ -200,6 +200,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [italy.coronavirusinfections.org](https://italy.coronavirusinfections.org) | Health information on coronavirus infections with detailed statistics from Italy. The data can be exported in 7 different formats. |
 | [covid-api.com](https://covid-api.com) | COVID-19 Statistics API based on public data by Johns Hopkins CSSE |
 | [CovidStats](https://www.covidstats.com) | Coronavirus charts and reports |
+| [covidabruzzo.it](https://covidabruzzo.it) | Coronavirus in Abruzzo - I dati aggiornati |
 
 #### Android Apps
 
