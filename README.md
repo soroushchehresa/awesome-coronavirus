@@ -201,7 +201,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [covid-api.com](https://covid-api.com) | COVID-19 Statistics API based on public data by Johns Hopkins CSSE |
 | [CovidStats](https://www.covidstats.com) | Coronavirus charts and reports |
 | [covidabruzzo.it](https://covidabruzzo.it) | Coronavirus in Abruzzo - I dati aggiornati |
-| [Work From Home Gigs](https://bit.ly/WFH-143) | Work from home options during COVID-19 pandemic, updated weekly.|
+| [Work From Home Gigs](https://bit.ly/WFH143) | Work from home options during COVID-19 pandemic, updated weekly.|
 
 #### Android Apps
 
