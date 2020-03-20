@@ -20,6 +20,12 @@
       ]
     },
     {
+      "category": "CLI",
+      "repositories": [
+        "ahmadawais/corona-cli"
+      ]
+    },
+    {
       "category": "Statistics and Datasets",
       "repositories": [
         "CSSEGISandData/COVID-19",
