@@ -37,6 +37,10 @@
         {
           "title": "Packages and Scripts",
           "anchor": "packages-and-scripts"
+        },
+        {
+          "title": "CLI",
+          "anchor": "cli"
         }
       ]
     },
