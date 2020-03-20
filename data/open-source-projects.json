@@ -16,7 +16,8 @@
         "COVID19Tracking/covid-tracking-api",
         "amodm/api-covid19-in",
         "NovelCOVID/API",
-        "mathdroid/covid-19-api"
+        "mathdroid/covid-19-api",
+        "NovelCOVID/API"
       ]
     },
     {
@@ -43,7 +44,8 @@
         "pomber/covid19",
         "globalcitizen/2019-wuhan-coronavirus-data",
         "arnoudbuzing/wolfram-coronavirus",
-        "opencovid19-fr/data"
+        "opencovid19-fr/data",
+        "covid19india/covid19india"
       ]
     },
     {
