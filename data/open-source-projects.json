@@ -20,12 +20,6 @@
       ]
     },
     {
-      "category": "CLI",
-      "repositories": [
-        "ahmadawais/corona-cli"
-      ]
-    },
-    {
       "category": "Statistics and Datasets",
       "repositories": [
         "CSSEGISandData/COVID-19",
@@ -112,6 +106,12 @@
         "pdtyreus/coronavirus-ds",
         "eebrown/data2019nCoV"
       ]
-    }
+    },
+    {
+      "category": "CLI",
+      "repositories": [
+        "ahmadawais/corona-cli"
+      ]
+    },
   ]
 }
