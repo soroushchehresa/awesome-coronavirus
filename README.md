@@ -69,6 +69,7 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 614 | [@ExpDev07](https://github.com/ExpDev07)/[**coronavirus-tracker-api**](https://github.com/ExpDev07/coronavirus-tracker-api) | 🦠 A simple and fast (&lt; 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It&#39;s written in python using the 🍼 Flask framework. |
  | 536 | [@mathdroid](https://github.com/mathdroid)/[**covid-19-api**](https://github.com/mathdroid/covid-19-api) | COVID-19 global data (from JHU CSSE for now) as-a-service |
  | 366 | [@NovelCOVID](https://github.com/NovelCOVID)/[**API**](https://github.com/NovelCOVID/API) | API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain |
+  | 83 | [@AhmadAwais](https://github.com/AhmadAwais)/[**corona-cli**](https://github.com/ahmadawais/corona-cli) | 🦠 Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain within your command line interface. Both worldwide for every country or for one country. Fast response time (< 100ms) |
  | 82 | [@nat236919](https://github.com/nat236919)/[**Covid2019API**](https://github.com/nat236919/Covid2019API) | COVID-2019 API | CoronaVirus 2019 Global Cases |
  | 31 | [@amodm](https://github.com/amodm)/[**api-covid19-in**](https://github.com/amodm/api-covid19-in) | COVID Rest API for India data, using Cloudflare Workers |
  | 28 | [@sorxrob](https://github.com/sorxrob)/[**2019-ncov-api**](https://github.com/sorxrob/2019-ncov-api) | Map, data and timeline of coronavirus (COVID-19) |
