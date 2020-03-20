@@ -106,6 +106,12 @@
         "pdtyreus/coronavirus-ds",
         "eebrown/data2019nCoV"
       ]
-    }
+    },
+    {
+      "category": "CLI",
+      "repositories": [
+        "ahmadawais/corona-cli"
+      ]
+    },
   ]
 }
