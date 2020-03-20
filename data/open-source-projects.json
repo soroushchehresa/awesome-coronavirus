@@ -16,7 +16,8 @@
         "COVID19Tracking/covid-tracking-api",
         "amodm/api-covid19-in",
         "mathdroid/covid-19-api",
-        "NovelCOVID/API"
+        "NovelCOVID/API",
+        "episphere/corona"  
       ]
     },
     {
