@@ -163,6 +163,11 @@
           "title": "Corona-tracker",
           "url": "https://corona-tracker-2020.netlify.com/",
           "description": "Web app to track Coronavirus with primary focus on India"
+        },
+        {
+          "title": "Covid-19 statistics",
+          "url": "https://souryvath.github.io/ng-covid-19/",
+          "description": "Web app to get covid-19 statistics around the world, built for french people"
         }
       ]
     },
