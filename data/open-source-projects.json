@@ -17,7 +17,8 @@
         "amodm/api-covid19-in",
         "mathdroid/covid-19-api",
         "NovelCOVID/API",
-        "episphere/corona"  
+        "episphere/corona",
+        "lkd70/coronapi"
       ]
     },
     {
