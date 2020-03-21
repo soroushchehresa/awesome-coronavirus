@@ -19,7 +19,8 @@
         "NovelCOVID/API",
         "episphere/corona",
         "marlon360/rki-covid-api",
-        "lkd70/coronapi"
+        "lkd70/coronapi",
+        "ChrisMichaelPerezSantiago/covid19"
       ]
     },
     {
