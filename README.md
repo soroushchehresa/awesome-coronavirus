@@ -72,7 +72,7 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 1370 | [@BlankerL](https://github.com/BlankerL)/[**DXY-COVID-19-Crawler**](https://github.com/BlankerL/DXY-COVID-19-Crawler) | 2019新型冠状病毒疫情实时爬虫及API | COVID-19/2019-nCoV Realtime Infection Crawler and API |
  | 691 | [@ExpDev07](https://github.com/ExpDev07)/[**coronavirus-tracker-api**](https://github.com/ExpDev07/coronavirus-tracker-api) | 🦠 A simple and fast (&lt; 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It&#39;s written in python using the 🍼 Flask framework. Supports multiple sources! |
  | 581 | [@mathdroid](https://github.com/mathdroid)/[**covid-19-api**](https://github.com/mathdroid/covid-19-api) | COVID-19 global data (from JHU CSSE for now) as-a-service |
- | 501 | [@NovelCOVID](https://github.com/NovelCOVID)/[**API**](https://github.com/NovelCOVID/API) | API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain |
+ | 502 | [@NovelCOVID](https://github.com/NovelCOVID)/[**API**](https://github.com/NovelCOVID/API) | API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain |
  | 89 | [@nat236919](https://github.com/nat236919)/[**Covid2019API**](https://github.com/nat236919/Covid2019API) | COVID-2019 API | CoronaVirus 2019 Global Cases |
  | 44 | [@amodm](https://github.com/amodm)/[**api-covid19-in**](https://github.com/amodm/api-covid19-in) | COVID Rest API for India data, using Cloudflare Workers |
  | 29 | [@sorxrob](https://github.com/sorxrob)/[**2019-ncov-api**](https://github.com/sorxrob/2019-ncov-api) | Map, data and timeline of coronavirus (COVID-19) |
@@ -91,7 +91,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 13655 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
+ | 13656 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
  | 2468 | [@pcm-dpc](https://github.com/pcm-dpc)/[**COVID-19**](https://github.com/pcm-dpc/COVID-19) | COVID-19 Italia - Monitoraggio situazione |
  | 1198 | [@BlankerL](https://github.com/BlankerL)/[**DXY-COVID-19-Data**](https://github.com/BlankerL/DXY-COVID-19-Data) | 2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse |
  | 835 | [@nextstrain](https://github.com/nextstrain)/[**ncov**](https://github.com/nextstrain/ncov) | Nextstrain build for novel coronavirus (nCoV) |
@@ -134,7 +134,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
  | 149 | [@ncovis](https://github.com/ncovis)/[**choropleth**](https://github.com/ncovis/choropleth) | Choropleth Map of the 2019 Novel Coronavirus Outbreak. |
- | 92 | [@stevenliuyi](https://github.com/stevenliuyi)/[**covid19**](https://github.com/stevenliuyi/covid19) | an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries (including China, Italy, Korea, Japan, France, Germany, United States) |
+ | 93 | [@stevenliuyi](https://github.com/stevenliuyi)/[**covid19**](https://github.com/stevenliuyi/covid19) | an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries (including China, Italy, Korea, Japan, France, Germany, United States) |
  | 73 | [@jakobzhao](https://github.com/jakobzhao)/[**virus**](https://github.com/jakobzhao/virus) | Noval Coronavirus Infection Map |
  | 59 | [@konradkalemba](https://github.com/konradkalemba)/[**korona.ws**](https://github.com/konradkalemba/korona.ws) | Map of confirmed coronavirus cases in Poland |
  | 51 | [@opencovid19-fr](https://github.com/opencovid19-fr)/[**dashboard**](https://github.com/opencovid19-fr/dashboard) | Tableau de bord de suivi de l&#39;épidémie de nouveau coronavirus |
@@ -169,7 +169,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 78 | [@datasets](https://github.com/datasets)/[**covid-19**](https://github.com/datasets/covid-19) | Novel Coronavirus 2019 |
+ | 79 | [@datasets](https://github.com/datasets)/[**covid-19**](https://github.com/datasets/covid-19) | Novel Coronavirus 2019 |
  | 24 | [@koushikkothagal](https://github.com/koushikkothagal)/[**coronavirus-tracker**](https://github.com/koushikkothagal/coronavirus-tracker) | Spring Boot Java app to track coronavirus confirmed cases across the globe |
  | 24 | [@eebrown](https://github.com/eebrown)/[**data2019nCoV**](https://github.com/eebrown/data2019nCoV) | Data on the 2019 Novel Coronavirus Outbreak (R Package) |
  | 24 | [@eebrown](https://github.com/eebrown)/[**data2019nCoV**](https://github.com/eebrown/data2019nCoV) | Data on the 2019 Novel Coronavirus Outbreak (R Package) |
@@ -319,7 +319,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [Interprofessional Care Plans Guide - Pneumonia — Adult](https://www.elsevier.com/__data/assets/pdf_file/0008/974627/CPG_IP_Pneumonia-Adult.pdf) | These Interprofessional Care Plans provide an evidence-based and individualizable Interprofessional plan of care to manage fever and the possible development of pneumonia, which is consistent with the presentation of this virus. |
 | [Interprofessional Care Plans Guide - Pneumonia — Pediatric](https://www.elsevier.com/__data/assets/pdf_file/0009/974628/CPG_IP_Pneumonia-Peds.pdf) | These Interprofessional Care Plans provide an evidence-based and individualizable Interprofessional plan of care to manage fever and the possible development of pneumonia, which is consistent with the presentation of this virus. |
 | [Patient engagement resources - Patient Education document (Novel Coronavirus Infection)](https://www.elsevier.com/__data/assets/pdf_file/0011/974621/Novel-Coronavirus-Infection.pdf) | Patient engagement resources use plain language to support shared decision-making between patients and healthcare providers. |
-| [ScienceDirect Articles](https://www.sciencedirect.com/search/advanced?qs=%22COVID-19%22%20OR%20Coronavirus%20OR%20%22Corona%20virus%22%20OR%20%222019-nCoV%22%20OR%20%22SARS-CoV%22%20OR%20%22MERS-CoV%22%20OR%20%E2%80%9CSevere%20Acute%20Respiratory%20Syndrome%E2%80%9D%20OR%20%E2%80%9CMiddle%20East%20Respiratory%20Syndrome%E2%80%9D&amp;show=100&amp;ent=true) | ScienceDirect is a website based on Explore and research about scientific, technical, and medical |
+| [ScienceDirect Articles](https://www.sciencedirect.com/search/advanced?qs=%22COVID-19%22%20OR%20Coronavirus%20OR%20%22Corona%20virus%22%20OR%20%222019-nCoV%22%20OR%20%22SARS-CoV%22%20OR%20%22MERS-CoV%22%20OR%20%E2%80%9CSevere%20Acute%20Respiratory%20Syndrome%E2%80%9D%20OR%20%E2%80%9CMiddle%20East%20Respiratory%20Syndrome%E2%80%9D&amp;show=100&amp;ent=true) | ScienceDirect is a website based on explore and research about scientific, technical, medical and etc. |
 
 
 ## Research Outlets
