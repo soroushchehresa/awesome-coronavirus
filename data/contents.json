@@ -82,6 +82,10 @@
         {
           "title": "WhatsApp",
           "anchor": "whatsApp"
+        },
+        {
+          "title": "Forum",
+          "anchor": "forum"
         }
       ]
     },
