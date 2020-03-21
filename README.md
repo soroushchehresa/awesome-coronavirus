@@ -89,9 +89,9 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 13654 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
- | 2467 | [@pcm-dpc](https://github.com/pcm-dpc)/[**COVID-19**](https://github.com/pcm-dpc/COVID-19) | COVID-19 Italia - Monitoraggio situazione |
- | 1197 | [@BlankerL](https://github.com/BlankerL)/[**DXY-COVID-19-Data**](https://github.com/BlankerL/DXY-COVID-19-Data) | 2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse |
+ | 13655 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
+ | 2468 | [@pcm-dpc](https://github.com/pcm-dpc)/[**COVID-19**](https://github.com/pcm-dpc/COVID-19) | COVID-19 Italia - Monitoraggio situazione |
+ | 1198 | [@BlankerL](https://github.com/BlankerL)/[**DXY-COVID-19-Data**](https://github.com/BlankerL/DXY-COVID-19-Data) | 2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse |
  | 835 | [@nextstrain](https://github.com/nextstrain)/[**ncov**](https://github.com/nextstrain/ncov) | Nextstrain build for novel coronavirus (nCoV) |
  | 583 | [@globalcitizen](https://github.com/globalcitizen)/[**2019-wuhan-coronavirus-data**](https://github.com/globalcitizen/2019-wuhan-coronavirus-data) | 2019 Wuhan Coronavirus data (COVID-19 / 2019-nCoV) |
  | 294 | [@GuangchuangYu](https://github.com/GuangchuangYu)/[**nCov2019**](https://github.com/GuangchuangYu/nCov2019) | query stats of infected coronavirus cases |
@@ -115,7 +115,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 425 | [@midas-network](https://github.com/midas-network)/[**COVID-19**](https://github.com/midas-network/COVID-19) | 2019 novel coronavirus repository |
+ | 426 | [@midas-network](https://github.com/midas-network)/[**COVID-19**](https://github.com/midas-network/COVID-19) | 2019 novel coronavirus repository |
  | 114 | [@pennsignals](https://github.com/pennsignals)/[**chime**](https://github.com/pennsignals/chime) | COVID-19 Hospital Impact Model for Epidemics |
  | 32 | [@HopkinsIDD](https://github.com/HopkinsIDD)/[**ncov_incubation**](https://github.com/HopkinsIDD/ncov_incubation) | Estimating the incubation time of the novel coronavirus (nCoV-2019) based on traveler data using coarse data tools |
  | 11 | [@coronafighter](https://github.com/coronafighter)/[**coronaSEIR**](https://github.com/coronafighter/coronaSEIR) | Simple SEIR model Python script for the COVID-19 pandemic with real world data comparison. |
@@ -293,6 +293,31 @@ If you are a developer, you may also be able to contribute to some of these proj
 |:----------|:-------------|
 | [Entraide Coronavirus](https://www.entraidecoronavirus.fr) | Forum pour favoriser l&#39;entraide et la solidarité pendant la pandémie de COVID-19 |
 
+
+
+## Articles and Books
+
+| Link  | Description  |
+|:------|:-------------|
+| [Wuhan Coronavirus (COVID-19)](https://www.amazon.com/Wuhan-Coronavirus-COVID-19-expensive-threatenings-ebook/dp/B0863P6BTD/ref=sr_1_8?crid=2T6ZLXTXJ0L7D&amp;dchild=1&amp;keywords=coronavirus&amp;qid=1584822799&amp;s=books&amp;sprefix=corona%2Caps%2C161&amp;sr=1-8) | Secret Tested Ways to Protect YOUR Business From Wuhan Coronavirus (COVID-19) |
+| [101 Science-Based Tips That Could Save Your Life](https://www.amazon.com/Coronavirus-Prevention-Handbook-Science-Based-Could-ebook/dp/B085DKMXGY/ref=sr_1_7?crid=2T6ZLXTXJ0L7D&amp;dchild=1&amp;keywords=coronavirus&amp;qid=1584822799&amp;s=books&amp;sprefix=corona%2Caps%2C161&amp;sr=1-7) | From Dr. Wang Zhou and his colleagues at the Wuhan Center for Disease Control and Prevention comes a must-have guide for preparing for an outbreak of the coronavirus virus (COVID-19). |
+| [Chinese Coronavirus Pandemic Hits The USA](https://www.amazon.com/Virus-China-Chinese-Coronavirus-Pandemic-ebook/dp/B08639Q279/ref=sr_1_10?crid=2T6ZLXTXJ0L7D&amp;dchild=1&amp;keywords=coronavirus&amp;qid=1584822799&amp;s=books&amp;sprefix=corona%2Caps%2C161&amp;sr=1-10) | This is a story of a middle-class family that still has to work outside the home during the event while also observing the responses of the multitude of agencies involved in such an immense task at hand from inside the system and from their home sweet home. |
+| [Coronavirus quarantine/lock down/work from home adventure](https://www.amazon.com/Find-Yourself-Wake-Stop-Freaking-ebook/dp/B0863HWXYV/ref=sr_1_5?crid=2T6ZLXTXJ0L7D&amp;dchild=1&amp;keywords=coronavirus&amp;qid=1584822799&amp;s=books&amp;sprefix=corona%2Caps%2C161&amp;sr=1-5) | You’ve wanted to make a change for some time, maybe wishing you could just escape to a retreat for a couple of weeks to get your head on straight. Well, it might not be Bali, but it’s a break, and you should take advantage! |
+| [The 2020 Coronavirus Recession Economic Crisis Series Bundle](https://www.amazon.com/Coronavirus-Recession-Economic-Crisis-Bundle-ebook/dp/B0863LF494/ref=sr_1_4?crid=2T6ZLXTXJ0L7D&amp;dchild=1&amp;keywords=coronavirus&amp;qid=1584822799&amp;s=books&amp;sprefix=corona%2Caps%2C161&amp;sr=1-4) | Books 1-4: How to Prepare for the Market Crash, How to Get Rich During the Market Crash, ... Guide (The 2020 Recession Economic Crisis) |
+| [Corona-Virus Wissenswertes und Tipps](https://www.amazon.com/Corona-Virus-Wissenswertes-Tipps-50-seitiger-%C3%9Cberlebensleitfaden-ebook/dp/B085YD1V8T/ref=sr_1_2?crid=2T6ZLXTXJ0L7D&amp;dchild=1&amp;keywords=coronavirus&amp;qid=1584822799&amp;s=books&amp;sprefix=corona%2Caps%2C161&amp;sr=1-2) | Wie Sie sich und Ihre Familie schützen; 50-seitiger Überlebensleitfaden (German Edition) |
+| [Medical Microbiology - 4th edition](https://www.ncbi.nlm.nih.gov/books/NBK7627) | Medical Microbiology begins with a review of the immune system, focusing on the body&#39;s response to invading microorganisms. |
+| [Answers to Your Coronavirus Questions](https://www.nytimes.com/article/free-e-book-answers-to-your-coronavirus-questions.html) | Covid-19 cases continue to be confirmed. By following some basic steps, you can help reduce your risk and do your part to protect others. |
+| [Novel coronavirus (COVID-19) infection](https://www.elsevier.com/__data/assets/pdf_file/0010/977698/novel-coronavirus-covid-19-infection-12-Mar-20.pdf) | Clinical Overviews are easy-to-scan clinically focused medical topic summaries designed to match the clinician workflow. |
+| [Clinical Skills for Nursing - Skills checklist (Isolation Precautions and Personal Protective Equipment)](https://www.elsevier.com/__data/assets/pdf_file/0010/977698/novel-coronavirus-covid-19-infection-12-Mar-20.pdf) | Clinical Skills for Nursing provides the highest quality evidence for nursing practice procedures for nurses to care for patients. |
+| [Clinical Skills for Nursing - Skills checklist](https://www.elsevier.com/__data/assets/pdf_file/0003/974622/Isolation-Precautions_Personal-Protective-Equipment-Checklist.pdf) | Isolation Precautions and Personal Protective Equipment. |
+| [Clinical Skills for Nursing - Isolation Precautions](https://www.elsevier.com/__data/assets/pdf_file/0004/974623/Isolation-Precautions_Personal-Protective-Equipment.pdf) | ersonal Protective Equipment. |
+| [Clinical Skills for Nursing - FAQ](https://www.elsevier.com/__data/assets/pdf_file/0011/979544/2019-nCoV-NAHPPE-FAQV3.pdf) | based the recommendations made by the CDC and WHO for nurses and patients. |
+| [Interprofessional Care Plans Guide - Fever — Adult](https://www.elsevier.com/__data/assets/pdf_file/0006/974625/CPG_IP_Fever-Adult.pdf) | These Interprofessional Care Plans provide an evidence-based and individualizable Interprofessional plan of care to manage fever and the possible development of pneumonia, which is consistent with the presentation of this virus. |
+| [Interprofessional Care Plans Guide - Fever — Pediatric](https://www.elsevier.com/__data/assets/pdf_file/0007/974626/CPG_IP_Fever-Peds.pdf) | These Interprofessional Care Plans provide an evidence-based and individualizable Interprofessional plan of care to manage fever and the possible development of pneumonia, which is consistent with the presentation of this virus. |
+| [Interprofessional Care Plans Guide - Pneumonia — Adult](https://www.elsevier.com/__data/assets/pdf_file/0008/974627/CPG_IP_Pneumonia-Adult.pdf) | These Interprofessional Care Plans provide an evidence-based and individualizable Interprofessional plan of care to manage fever and the possible development of pneumonia, which is consistent with the presentation of this virus. |
+| [Interprofessional Care Plans Guide - Pneumonia — Pediatric](https://www.elsevier.com/__data/assets/pdf_file/0009/974628/CPG_IP_Pneumonia-Peds.pdf) | These Interprofessional Care Plans provide an evidence-based and individualizable Interprofessional plan of care to manage fever and the possible development of pneumonia, which is consistent with the presentation of this virus. |
+| [Patient engagement resources - Patient Education document (Novel Coronavirus Infection)](https://www.elsevier.com/__data/assets/pdf_file/0011/974621/Novel-Coronavirus-Infection.pdf) | Patient engagement resources use plain language to support shared decision-making between patients and healthcare providers. |
+| [ScienceDirect Articles](https://www.sciencedirect.com/search/advanced?qs=%22COVID-19%22%20OR%20Coronavirus%20OR%20%22Corona%20virus%22%20OR%20%222019-nCoV%22%20OR%20%22SARS-CoV%22%20OR%20%22MERS-CoV%22%20OR%20%E2%80%9CSevere%20Acute%20Respiratory%20Syndrome%E2%80%9D%20OR%20%E2%80%9CMiddle%20East%20Respiratory%20Syndrome%E2%80%9D&amp;show=100&amp;ent=true) | ScienceDirect is a website based on Explore and research about scientific, technical, and medical |
 
 
 ## Research Outlets
