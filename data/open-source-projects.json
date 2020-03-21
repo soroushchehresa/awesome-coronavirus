@@ -56,7 +56,8 @@
         "HopkinsIDD/ncov_incubation",
         "coronafighter/coronaSEIR",
         "pennsignals/chime",
-        "daveselinger/covid-19-hackathon"
+        "daveselinger/covid-19-hackathon",
+        "midas-network/COVID-19"
       ]
     },
     {
