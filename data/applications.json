@@ -178,6 +178,11 @@
           "title": "Official Covid-19 Philippines",
           "url": "https://ncovtracker.doh.gov.ph/",
           "description": "Official government website for tracking covid-19 for the Philippines."
+        },
+        {
+          "title": "Coronavirus Monitor",
+          "url": "https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/",
+          "description": "Coronavirus monitor, mainly for Germany"
         }
       ]
     },
