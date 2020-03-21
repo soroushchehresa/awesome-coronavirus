@@ -183,6 +183,11 @@
           "title": "Coronavirus Monitor",
           "url": "https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/",
           "description": "Coronavirus monitor, mainly for Germany"
+        },
+        {
+          "title": "Covid-19 in Morocco",
+          "url": "http://covidmaroc.ma/",
+          "description": "Morocco COVID-19 Coronavirus Tracker"
         }
       ]
     },
