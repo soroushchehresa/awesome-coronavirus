@@ -63,6 +63,13 @@ If you are a developer, you may also be able to contribute to some of these proj
 <% } %>
 <% } %>
 
+## <%= books.title %>
+
+| Link  | Description  |
+|:------|:-------------|
+<% for (i in books.list) { %>| [<%= books.list[i].title %>](<%= books.list[i].url %>) | <%= books.list[i].description %> |
+<% } %>
+
 ## <%= researchOutlets.title %>
 
 | Link  | Description  |
