@@ -125,6 +125,16 @@
           "description": "Gov.sg WhatsApp Subscription"
         }
       ]
+    },
+    {
+      "category": "Forum",
+      "list": [
+        {
+          "title": "Entraide Coronavirus",
+          "url": "https://www.entraidecoronavirus.fr",
+          "description": "Forum pour favoriser l'entraide et la solidarité pendant la pandémie de COVID-19"
+        }
+      ]
     }
   ]
 }
