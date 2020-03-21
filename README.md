@@ -38,6 +38,8 @@ If you are a developer, you may also be able to contribute to some of these proj
   - [WhatsApp](#whatsApp)
   - [Forum](#forum)
 
+- [Articles and Books](#articles-and-books)
+
 - [Research Outlets](#research-outlets)
 
 - [Interactive Applications](#interactive-applications)
