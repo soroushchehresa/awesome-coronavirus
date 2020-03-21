@@ -96,7 +96,6 @@
         "aleskandro/covid19-charts-spreading-rapidity",
         "dsfsi/covid19za",
         "julianschiavo/Covidcheck",
-        "warengonzaga/covid19-tracker-cli",
         "yohix/corona"
       ]
     },
@@ -113,7 +112,9 @@
     {
       "category": "CLI",
       "repositories": [
-        "ahmadawais/corona-cli"
+        "ahmadawais/corona-cli",
+        "warengonzaga/covid19-tracker-cli",
+        "sagarkarira/coronavirus-tracker-cli"
       ]
     }
   ]
