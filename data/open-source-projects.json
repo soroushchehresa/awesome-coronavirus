@@ -18,6 +18,7 @@
         "mathdroid/covid-19-api",
         "NovelCOVID/API",
         "episphere/corona",
+        "marlon360/rki-covid-api",
         "lkd70/coronapi"
       ]
     },
