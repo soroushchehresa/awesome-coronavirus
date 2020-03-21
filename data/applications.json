@@ -168,6 +168,16 @@
           "title": "Covid-19 statistics",
           "url": "https://souryvath.github.io/ng-covid-19/",
           "description": "Web app to get covid-19 statistics around the world, built for french people"
+        },
+        {
+          "title": "Covid-19 Philippines",
+          "url": "https://covid19ph.com",
+          "description": "Website to get covid-19 statistics for the Philippines."
+        },
+        {
+          "title": "Official Covid-19 Philippines",
+          "url": "https://ncovtracker.doh.gov.ph/",
+          "description": "Official government website for tracking covid-19 for the Philippines."
         }
       ]
     },
