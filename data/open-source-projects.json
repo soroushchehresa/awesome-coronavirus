@@ -124,8 +124,7 @@
     {
       "category": "Hardware",
       "repositories": [
-        "jcl5m1/ventilator",
-	"open-source-ventilator/OpenLung"
+        "jcl5m1/ventilator"
       ]
     }
   ]
