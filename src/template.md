@@ -12,8 +12,6 @@
 	<hr>
 	<br>
 	<br>
-	<br>
-	<br>
 </div>
 
 <br>
