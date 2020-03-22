@@ -1,6 +1,7 @@
 <div align="center">
 	<img src="/awesome-coronavirus.png" width="300px">
 	<br>
+	<br>
 	<hr>
 	<p>
 	<a href="#donation-and-sponsoring" style="font-size: 30px">
@@ -8,7 +9,6 @@
 	</a>
 	</p>
 	<hr>
-	<br>
 	<br>
 	<br>
 	<br>
