@@ -250,6 +250,16 @@
           "description": "O Ministério da Saúde lança o app Coronavírus-SUS com o objetivo de conscientizar a população sobre o Corona Vírus COVID-19."
         }
       ]
+    },
+    {
+      "category": "Mac Apps",
+      "list": [
+        {
+          "title": "CoronaBar",
+          "url": "https://github.com/duarteocarmo/coronabar",
+          "description": "Track Coronavirus cases in your menu bar. Free and open source."
+        }
+      ]
     }
   ]
 }
