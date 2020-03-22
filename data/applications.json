@@ -188,6 +188,11 @@
           "title": "Covid-19 in Morocco",
           "url": "http://covidmaroc.ma/",
           "description": "Morocco COVID-19 Coronavirus Tracker"
+        },
+        {
+          "title": "CORONAFLASH",
+          "url": "https://coronaflash.com",
+          "description": "World-wide Coronavirus stats and predictions, and a toilet-paper predictor"
         }
       ]
     },
