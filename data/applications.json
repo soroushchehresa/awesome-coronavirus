@@ -203,6 +203,11 @@
           "title": "COVID-19 World dashboard",
           "url": "https://cov19.xyz/",
           "description": "Coronavirus outbreak COVID-19 World dashboard. Data updated everyminute, for every country, state/region, province/city"
+        },
+        {
+          "title": "class4corona",
+          "url": "https://class4corona.com",
+          "description": "Teach/learn during the global pandemic."
         }
       ]
     },
