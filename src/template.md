@@ -1,6 +1,18 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/soroushchehresa/awesome-coronavirus/master/awesome-coronavirus.png" width="300px" />
-</p>
+<div align="center">
+	<img src="/awesome-coronavirus.png" width="300px">
+	<br>
+	<hr>
+	<p>
+	<a href="#donation-and-sponsoring" style="font-size: 30px">
+	<b>Become a sponsor</b>
+	</a>
+	</p>
+	<hr>
+	<br>
+	<br>
+	<br>
+	<br>
+</div>
 
 <br>
 
