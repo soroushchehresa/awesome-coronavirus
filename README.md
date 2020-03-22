@@ -239,6 +239,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [~~CoronaVirus Tracker 2019-nCoV~~](https://play.google.com/store/apps/details?id=com.agmostudio.coronatracker&amp;hl=en) | Statistics, map of cases. |
 | [~~Coronavirus Tracker - latest information and news~~](https://play.google.com/store/apps/details?id=com.R4yan.CoronavirusTracker) | Location based statistics, news, charts, maps based dashboard. |
 | [COVID-19 Tracker](https://github.com/madhavtripathi05/COVID_19_TRACKER) | A Minimal Design application made with Flutter for checking current info on Novel Corona Virus Outbreak. |
+| [Corona Tracker](https://github.com/PsychoDevs69/CoronaTracker) | Open Source project of an Android App for tracking corona virus spread, using public API.  |
 
 #### IOS Apps
 
