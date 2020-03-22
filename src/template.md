@@ -97,6 +97,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 #### Bitcoin
 <img src="https://i.imgur.com/9IgberJ.png" width="120" >
+
 `1CddWa57gyqTQEgf5oiQ4DbpLufAiEyMTm`
 
 #### Patreon
