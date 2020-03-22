@@ -193,6 +193,11 @@
           "title": "CORONAFLASH",
           "url": "https://coronaflash.com",
           "description": "World-wide Coronavirus stats and predictions, and a toilet-paper predictor"
+        },
+        {
+          "title": "California Coronavirus",
+          "url": "https://californiacoronavirus.org/",
+          "description": "California Coronavirus Map"
         }
       ]
     },
