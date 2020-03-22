@@ -117,7 +117,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
-### You can be a sponsor of this repository and place you on the top of this page. For this offer please contact me with the following Email address:
+### You can become a sponsor of `awesome-coronavirus` and be placed at the top of this page under the logo. For this offer please contact me with the following Email address:
 #### `s1996ch@gmail.com`
 
 ## Contribution
