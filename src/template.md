@@ -3,8 +3,10 @@
 	<br>
 	<hr>
 	<p>
+	Become a sponsor:
+        <br>
 	<a href="#donation-and-sponsoring" style="font-size: 30px">
-	<b>Become a sponsor</b>
+	<b>Donation and Sponsoring</b>
 	</a>
 	</p>
 	<hr>
