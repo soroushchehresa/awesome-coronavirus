@@ -198,6 +198,11 @@
           "title": "California Coronavirus",
           "url": "https://californiacoronavirus.org/",
           "description": "California Coronavirus Map"
+        },
+        {
+          "title": "COVID-19 World dashboard",
+          "url": "https://cov19.xyz/",
+          "description": "Coronavirus outbreak COVID-19 World dashboard. Data updated everyminute, for every country, state/region, province/city"
         }
       ]
     },
