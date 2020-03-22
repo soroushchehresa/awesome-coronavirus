@@ -182,6 +182,12 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 265 | [@ahmadawais](https://github.com/ahmadawais)/[**corona-cli**](https://github.com/ahmadawais/corona-cli) |  🦠 Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain in the command line. Both worldwide for all countries, for one country, or for the US States. Fast response time (&lt; 100ms). |
  | 6 | [@WarenGonzaga](https://github.com/WarenGonzaga)/[**covid19-tracker-cli**](https://github.com/WarenGonzaga/covid19-tracker-cli) | Track COVID-19 cases from command line interface. Fast response time (~&lt; 100ms). curl https://covid19tracker.xyz |
 
+#### Hardware
+
+| :star2:     | Repository   | Description  |
+|:-----------:|:-------------|:-------------|
+ | 1001 | [@jcl5m1](https://github.com/jcl5m1)/[**ventilator**](https://github.com/jcl5m1/ventilator) | Low-Cost Open Source Ventilator or PAPR |
+
 
 
 ## Applications
