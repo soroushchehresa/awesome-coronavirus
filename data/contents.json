@@ -41,6 +41,10 @@
         {
           "title": "CLI",
           "anchor": "cli"
+        },
+        {
+          "title": "Hardware",
+          "anchor": "hardware"
         }
       ]
     },
