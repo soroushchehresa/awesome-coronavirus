@@ -120,6 +120,13 @@
         "warengonzaga/covid19-tracker-cli",
         "sagarkarira/coronavirus-tracker-cli"
       ]
+    },
+    {
+      "category": "Hardware",
+      "repositories": [
+        "jcl5m1/ventilator",
+	"open-source-ventilator/OpenLung"
+      ]
     }
   ]
 }
