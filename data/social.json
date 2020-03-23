@@ -98,6 +98,11 @@
           "title": "latest information about the COVID-19",
           "url": "https://go.gov.sg/whatsapp",
           "description": "Gov.sg WhatsApp Subscription"
+        },
+        {
+          "title": "WHO Health Alert",
+          "url": "http://bit.ly/who-covid19-whatsapp",
+          "description": "WHO WhatsApp Subscription for COVID-19 related information"
         }
       ]
     },
