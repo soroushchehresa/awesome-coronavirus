@@ -372,7 +372,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 | Link  | Description  |
 |:------|:-------------|
-| [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) | World Health Orginization. |
+| [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) | World Health Organization. |
 | [CDC](https://www.cdc.gov/coronavirus/2019-ncov/about/index.html) | Center for Disease control. |
 
 
