@@ -184,7 +184,6 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 25 | [@koushikkothagal](https://github.com/koushikkothagal)/[**coronavirus-tracker**](https://github.com/koushikkothagal/coronavirus-tracker) | Spring Boot Java app to track coronavirus confirmed cases across the globe |
  | 24 | [@eebrown](https://github.com/eebrown)/[**data2019nCoV**](https://github.com/eebrown/data2019nCoV) | Data on the 2019 Novel Coronavirus Outbreak (R Package) |
  | 24 | [@pdtyreus](https://github.com/pdtyreus)/[**coronavirus-ds**](https://github.com/pdtyreus/coronavirus-ds) | Jupyter notebooks and python scripts for investigating the 2019 coronavirus outbreak |
- | 24 | [@eebrown](https://github.com/eebrown)/[**data2019nCoV**](https://github.com/eebrown/data2019nCoV) | Data on the 2019 Novel Coronavirus Outbreak (R Package) |
 
 #### CLI
 
