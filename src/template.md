@@ -4,7 +4,7 @@
 	<hr>
 	<p>
 	<h2>Sponsors</h2>
-	<a href="https://starhub.soroushapps.com"><img src="https://i.imgur.com/H5SELmm.png" width="300px"></a>
+	<a href="https://starhub.soroushapps.com"><img src="https://i.imgur.com/H5SELmm.png" width="250px"></a>
 	<br>
 	<br>
 		<a href="#you-can-become-a-sponsor-of-awesome-coronavirus-and-be-placed-at-the-top-of-this-page-under-the-logo-for-this-offer-please-contact-me-with-the-following-email-address">
