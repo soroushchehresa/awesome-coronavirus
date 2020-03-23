@@ -252,6 +252,8 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [California Coronavirus](https://californiacoronavirus.org/) | California Coronavirus Map |
 | [COVID-19 World dashboard](https://cov19.xyz/) | Coronavirus outbreak COVID-19 World dashboard. Data updated everyminute, for every country, state/region, province/city |
 | [class4corona](https://class4corona.com) | Teach/learn during the global pandemic. |
+| [corona helden](https://corona-helden-app-prod.azurewebsites.net/search) | Platform to connect medical institutions with qualified helpers in case of health care system overload (prototype, oss) |
+
 
 #### Android Apps
 
