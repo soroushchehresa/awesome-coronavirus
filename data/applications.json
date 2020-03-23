@@ -223,6 +223,11 @@
           "title": "COVID-19 Tracker",
           "url": "https://github.com/madhavtripathi05/COVID_19_TRACKER",
           "description": "A Minimal Design application made with Flutter for checking current info on Novel Corona Virus Outbreak."
+        },
+        {
+          "title": "Corona Tracker",
+          "url": "https://github.com/PsychoDevs69/CoronaTracker",
+          "description": "Open Source project of an Android App for tracking corona virus spread, using public API."
         }
       ]
     },
