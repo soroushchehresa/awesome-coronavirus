@@ -1,5 +1,8 @@
 <div align="center">
+	<br>
 	<img src="/awesome-coronavirus.png" width="300px">
+	<br>
+	<br>
 	<br>
 	<hr>
 	<p>
