@@ -9,7 +9,7 @@
 	<h2>Sponsors</h2>
 	<div align="left">
 		<a href="https://starhub.soroushapps.com"><img src="https://i.imgur.com/H5SELmm.png" width="270px"></a>
-		<a href="#you-can-become-a-sponsor-of-awesome-coronavirus-and-be-placed-at-the-top-of-this-page-under-the-logo-for-this-offer-please-contact-me-with-the-following-email-address"><img src="https://lh3.googleusercontent.com/proxy/jDXUuzIiq_tl_lmC3A09EBD63brSmWrQ8gYgUqtxg303hVUWuc0vgAwbD4e_RRtxt0U-c9oG6pASZYClWoBtSayB4NCgxNW8lM7kMy1ftrN4" width="150px"></a>
+		<a href="#you-can-become-a-sponsor-of-awesome-coronavirus-and-be-placed-at-the-top-of-this-page-under-the-logo-for-this-offer-please-contact-me-with-the-following-email-address"><img src="https://i.imgur.com/oOUqI9m.png" width="150px"></a>
 	</div>
 	<br>
         <br>
