@@ -217,6 +217,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 | Link | Description  |
 |:-----|:-------------|
+| [covid-2020.io](https://www.covid-2020.io/) | COVID-2020 • if you're worried ~ if you're not worried • timely and accurate USA infographic.|
 | [coronatracker.com](https://www.coronatracker.com) | CORONATRACKER.com is a community-based project powered by over 460 volunteers from across the globe, ranging from data scientists, medical professionals, UI/UX designers, fullstack developers, to the general public. |
 | [coronavirus.app](https://coronavirus.app) | Coronavirus statistics by map. |
 | [coronavirusinfections.org](https://coronavirusinfections.org) | Health information on coronavirus infections with detailed statistics from around the world. Data can be exported in 7 different formats. |
