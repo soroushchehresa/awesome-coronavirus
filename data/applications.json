@@ -208,6 +208,11 @@
           "title": "class4corona",
           "url": "https://class4corona.com",
           "description": "Teach/learn during the global pandemic."
+        },
+        {
+          "title": "corona helden",
+          "url": "https://corona-helden-app-prod.azurewebsites.net/search",
+          "description": "Platform to connect medical institutions with qualified helpers in case of health care system overload (prototype, oss)."
         }
       ]
     },
