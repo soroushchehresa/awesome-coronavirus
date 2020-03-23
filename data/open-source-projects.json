@@ -58,7 +58,8 @@
         "coronafighter/coronaSEIR",
         "pennsignals/chime",
         "daveselinger/covid-19-hackathon",
-        "midas-network/COVID-19"
+        "midas-network/COVID-19",
+        "neherlab/covid19_scenarios"
       ]
     },
     {
