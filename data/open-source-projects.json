@@ -130,7 +130,8 @@
     {
       "category": "Hardware",
       "repositories": [
-        "jcl5m1/ventilator"
+        "jcl5m1/ventilator",
+        "ProtofyTeam/OxyGEN"
       ]
     }
   ]
