@@ -113,7 +113,8 @@
         "koushikkothagal/coronavirus-tracker",
         "eebrown/data2019nCoV",
         "pdtyreus/coronavirus-ds",
-        "eebrown/data2019nCoV"
+        "eebrown/data2019nCoV",
+        "benhur07b/covid19-load-qgis"
       ]
     },
     {
