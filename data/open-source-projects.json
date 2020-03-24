@@ -48,7 +48,8 @@
         "globalcitizen/2019-wuhan-coronavirus-data",
         "arnoudbuzing/wolfram-coronavirus",
         "opencovid19-fr/data",
-        "covid19india/covid19india"
+        "covid19india/covid19india",
+        "kalisio/covid-19"
       ]
     },
     {
