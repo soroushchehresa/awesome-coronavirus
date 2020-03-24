@@ -75,10 +75,10 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 | Link  | Description  |
 |:------|:-------------|
-| [Coronavirus](https://www.who.int/health-topics/coronavirus) | World Health Organisation. |
-| [Novel coronavirus (COVID-19)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) | World Health Organisation. |
-| [Coronavirus disease (COVID-19) advice for the public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) | World Health Organisation. |
-| [Q&amp;A on coronaviruses (COVID-19)](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses) | World Health Organisation. |
+| [Coronavirus](https://www.who.int/health-topics/coronavirus) | World Health Organization. |
+| [Novel coronavirus (COVID-19)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) | World Health Organization. |
+| [Coronavirus disease (COVID-19) advice for the public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) | World Health Organization. |
+| [Q&amp;A on coronaviruses (COVID-19)](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses) | World Health Organization. |
 
 
 ## Open Source Projects
