@@ -396,7 +396,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 ## Donation and Sponsoring
 
-### Donate me with buying me some vitamins to boost my immune system during the coronavirus outbreak, I would maintain this repository if I was alive :) 
+Donate me with buying me some vitamins to boost my immune system during the coronavirus outbreak, I would maintain this repository if I was alive :) 
 
 #### Bitcoin
 <img src="https://i.imgur.com/9IgberJ.png" width="120" >
@@ -408,7 +408,9 @@ If you are a developer, you may also be able to contribute to some of these proj
 	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
-### You can become a sponsor of `awesome-coronavirus` and be placed at the top of this page under the logo. For this offer please contact me with the following Email address:
+<br>
+
+You can become a sponsor of `awesome-coronavirus` and be placed at the top of this page under the logo. For this offer please contact me with the following Email address:
 #### `s1996ch@gmail.com`
 
 ## Contribution
