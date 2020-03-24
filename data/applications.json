@@ -213,6 +213,11 @@
           "title": "corona helden",
           "url": "https://corona-helden-app-prod.azurewebsites.net/search",
           "description": "Platform to connect medical institutions with qualified helpers in case of health care system overload (prototype, oss)."
+        },
+        {
+          "title": "GocoronaGo",
+          "url": "https://gocoronago.ml",
+          "description": "GocoronaGo website shows the latest COVID-19 (CoronaVirus) stats in India along with charts, maps and Growth Rate."
         }
       ]
     },
