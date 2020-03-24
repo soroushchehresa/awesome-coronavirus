@@ -59,7 +59,8 @@
         "pennsignals/chime",
         "daveselinger/covid-19-hackathon",
         "midas-network/COVID-19",
-        "neherlab/covid19_scenarios"
+        "neherlab/covid19_scenarios",
+        "Mythobeast/epidemicmodels"
       ]
     },
     {
