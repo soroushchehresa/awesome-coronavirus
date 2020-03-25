@@ -223,6 +223,11 @@
           "title": "coronastatistics.live",
           "url": "https://coronastatistics.live",
           "description": "Get the latest toll numbers for the Novel Coronavirus epidemic, see affected regions, stats, casualties and more information to track, stay vigilant and travel safe."
+        },
+        {
+          "title": "covidstatus.com",
+          "url": "http://covidstatus.com",
+          "description": "CovidStatus - A location-aware app with clean UI that puts you at the center of local covid-19 news with realtime updates."
         }
       ]
     },
