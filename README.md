@@ -206,7 +206,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 725 | [@ahmadawais](https://github.com/ahmadawais)/[**corona-cli**](https://github.com/ahmadawais/corona-cli) |  🦠 Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain in the command line. Both worldwide for all countries, for one country, or for the US States. Fast response time (&lt; 100ms). |
+ | 726 | [@ahmadawais](https://github.com/ahmadawais)/[**corona-cli**](https://github.com/ahmadawais/corona-cli) |  🦠 Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain in the command line. Both worldwide for all countries, for one country, or for the US States. Fast response time (&lt; 100ms). |
  | 685 | [@sagarkarira](https://github.com/sagarkarira)/[**coronavirus-tracker-cli**](https://github.com/sagarkarira/coronavirus-tracker-cli) | Track conronavirus cases from command line. curl https://corona-stats.online/ |
  | 56 | [@garrylachman](https://github.com/garrylachman)/[**covid19-cli**](https://github.com/garrylachman/covid19-cli) | Corona Virus (Covid 19) BASH Tracking CLI |
  | 18 | [@WarenGonzaga](https://github.com/WarenGonzaga)/[**covid19-tracker-cli**](https://github.com/WarenGonzaga/covid19-tracker-cli) | Track Novel Coronavirus (COVID-19) or Coronavirus disease cases from command line interface. It Supports terminal for linux and macos, command prompt for windows, and termux for android. Fast response time (~&lt; 100ms). curl https://covid19tracker.xyz |
@@ -270,6 +270,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [corona helden](https://corona-helden-app-prod.azurewebsites.net/search) | Platform to connect medical institutions with qualified helpers in case of health care system overload (prototype, oss). |
 | [GocoronaGo](https://gocoronago.ml) | GocoronaGo website shows the latest COVID-19 (CoronaVirus) stats in India along with charts, maps and Growth Rate. |
 | [coronastatistics.live](https://coronastatistics.live) | Get the latest toll numbers for the Novel Coronavirus epidemic, see affected regions, stats, casualties and more information to track, stay vigilant and travel safe. |
+| [covidstatus.com](http://covidstatus.com) | CovidStatus - A location-aware app with clean UI that puts you at the center of local covid-19 news with realtime updates. |
 
 #### Android Apps
 
