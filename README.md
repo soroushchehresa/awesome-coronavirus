@@ -112,7 +112,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 |:-----------:|:-------------|:-------------|
  | 15521 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
  | 2677 | [@pcm-dpc](https://github.com/pcm-dpc)/[**COVID-19**](https://github.com/pcm-dpc/COVID-19) | COVID-19 Italia - Monitoraggio situazione |
- | 1255 | [@BlankerL](https://github.com/BlankerL)/[**DXY-COVID-19-Data**](https://github.com/BlankerL/DXY-COVID-19-Data) | 2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse |
+ | 1256 | [@BlankerL](https://github.com/BlankerL)/[**DXY-COVID-19-Data**](https://github.com/BlankerL/DXY-COVID-19-Data) | 2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse |
  | 875 | [@nextstrain](https://github.com/nextstrain)/[**ncov**](https://github.com/nextstrain/ncov) | Nextstrain build for novel coronavirus (nCoV) |
  | 593 | [@globalcitizen](https://github.com/globalcitizen)/[**2019-wuhan-coronavirus-data**](https://github.com/globalcitizen/2019-wuhan-coronavirus-data) | 2019 Wuhan Coronavirus data (COVID-19 / 2019-nCoV) |
  | 332 | [@pomber](https://github.com/pomber)/[**covid19**](https://github.com/pomber/covid19) | JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily |
@@ -267,6 +267,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [class4corona](https://class4corona.com) | Teach/learn during the global pandemic. |
 | [corona helden](https://corona-helden-app-prod.azurewebsites.net/search) | Platform to connect medical institutions with qualified helpers in case of health care system overload (prototype, oss). |
 | [GocoronaGo](https://gocoronago.ml) | GocoronaGo website shows the latest COVID-19 (CoronaVirus) stats in India along with charts, maps and Growth Rate. |
+| [coronastatistics.live](https://coronastatistics.live) | Get the latest toll numbers for the Novel Coronavirus epidemic, see affected regions, stats, casualties and more information to track, stay vigilant and travel safe. |
 
 #### Android Apps
 
