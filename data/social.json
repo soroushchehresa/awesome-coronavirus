@@ -103,6 +103,11 @@
           "title": "WHO Health Alert",
           "url": "http://bit.ly/who-covid19-whatsapp",
           "description": "WHO WhatsApp Subscription for COVID-19 related information"
+        },
+        {
+          "title": "COVID19.GO.ID",
+          "url": "https://bit.ly/INDONESIACOVID19WABOT",
+          "description": "Indonesian WhatsApp Bot for COVID-19 information"
         }
       ]
     },
