@@ -1,6 +1,6 @@
 {
   "title": "Applications",
-  "list" :  [
+  "list": [
     {
       "category": "Web Apps",
       "list": [
@@ -243,6 +243,11 @@
           "title": "worldometers.info",
           "url": "https://www.worldometers.info/coronavirus",
           "description": "Coronavirus Live Update Stats."
+        },
+        {
+          "title": "COVID-19 Tracker For Pakistan",
+          "url": "https://pakistan-covid19.herokuapp.com",
+          "description": "COVID 19 Tracker For Pakistan"
         }
       ]
     },
