@@ -27,7 +27,6 @@
     {
       "category": "Statistics and Datasets",
       "repositories": [
-        "OssamaRafique/Corona-Statistics-And-Tracker-Dashboard-Angular-9",
         "CSSEGISandData/COVID-19",
         "globalcitizen/2019-wuhan-coronavirus-dat",
         "nextstrain/ncov",
@@ -50,7 +49,8 @@
         "arnoudbuzing/wolfram-coronavirus",
         "opencovid19-fr/data",
         "covid19india/covid19india",
-        "kalisio/covid-19"
+        "kalisio/covid-19",
+        "OssamaRafique/Corona-Statistics-And-Tracker-Dashboard-Angular-9"
       ]
     },
     {
@@ -73,8 +73,7 @@
     },
     {
       "category": "Maps",
-      "repositories": [,
-        "OssamaRafique/Corona-Statistics-And-Tracker-Dashboard-Angular-9",
+      "repositories": [
         "ncovis/choropleth",
         "jakobzhao/virus",
         "antonlukin/2019-nCoV",
