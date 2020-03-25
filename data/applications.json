@@ -253,6 +253,11 @@
           "title": "Corona Tracker",
           "url": "https://github.com/PsychoDevs69/CoronaTracker",
           "description": "Open Source project of an Android App for tracking corona virus spread, using public API."
+        },
+        {
+          "title": "COVID-19 Daily Report Viewer for Android",
+          "url": "https://github.com/bluebillxp/android-covid19-reportviewer",
+          "description": "The COVID-19 daily report viewer on Android presents info from CSSE@JHU open-sourced data repo."
         }
       ]
     },
