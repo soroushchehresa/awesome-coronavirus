@@ -233,6 +233,16 @@
           "title": "COVID-19 Tracker Ita",
           "url": "https://polilluminato.github.io/covid19trackerita/",
           "description": "Charts with the data on the emergency of Codiv-19 in Italy with data provided by the Department of Civil Protection."
+        },
+        {
+          "title": "worldcoronavirus.org",
+          "url": "https://worldcoronavirus.org",
+          "description": "Coronavirus (COVID-19) Pandemic Global Information & Statistics."
+        },
+        {
+          "title": "worldometers.info",
+          "url": "https://www.worldometers.info/coronavirus",
+          "description": "Coronavirus Live Update Stats."
         }
       ]
     },
