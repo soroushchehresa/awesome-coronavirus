@@ -9,7 +9,7 @@
 	<h2>Sponsors</h2>
 	<div align="left">
 		<a href="https://starhub.soroushapps.com"><img src="https://i.imgur.com/H5SELmm.png" width="270px"></a>
-		<a href="#donation-and-sponsoring"><img src="https://i.imgur.com/hkIMxlF.png" width="170px"></a>
+		<a href="#s1996chgmailcom"><img src="https://i.imgur.com/hkIMxlF.png" width="170px"></a>
 	</div>
 	<br>
         <br>
