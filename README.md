@@ -160,7 +160,7 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 143 | [@stevenliuyi](https://github.com/stevenliuyi)/[**covid19**](https://github.com/stevenliuyi/covid19) | an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries (including China, Italy, Korea, Japan, France, Germany, United States) |
  | 103 | [@jakobzhao](https://github.com/jakobzhao)/[**virus**](https://github.com/jakobzhao/virus) | Noval Coronavirus Infection Map |
  | 68 | [@opencovid19-fr](https://github.com/opencovid19-fr)/[**dashboard**](https://github.com/opencovid19-fr/dashboard) | Tableau de bord de suivi de l&#39;épidémie de nouveau coronavirus |
- | 63 | [@konradkalemba](https://github.com/konradkalemba)/[**korona.ws**](https://github.com/konradkalemba/korona.ws) | 🗺 Coronavirus interactive map of Poland  |
+ | 64 | [@konradkalemba](https://github.com/konradkalemba)/[**korona.ws**](https://github.com/konradkalemba/korona.ws) | 🗺 Coronavirus interactive map of Poland  |
  | 43 | [@antonlukin](https://github.com/antonlukin)/[**2019-nCoV**](https://github.com/antonlukin/2019-nCoV) | Wuhan coronavirus outbreak |
  | 13 | [@par6n](https://github.com/par6n)/[**ncov-19**](https://github.com/par6n/ncov-19) | A simple page featuring an interactive map presenting nCoV-19 spread in Iran |
  | 1 | [@ankitchouhan1020](https://github.com/ankitchouhan1020)/[**corona**](https://github.com/ankitchouhan1020/corona) | Map of confirmed coronavirus cases in India |
@@ -399,6 +399,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [Worldometer](https://www.worldometers.info/coronavirus) | Showcasing coronavirus stats. |
 | [Coronalysis](https://www.coronalysis.com) | Dashboard based on maps and graphs, along with scientific documentation. |
 | [COVID-19 Dashboard](https://www.cov19.xyz) | Coronavirus outbreak dashboard. |
+| [COVID-19 Live Dashboard](https://coronavirus.davidb.dev/) | Responsive covid 19 Live data Dashboard with time travel and predictions |
 
 
 ## Current Status
