@@ -164,6 +164,7 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 43 | [@antonlukin](https://github.com/antonlukin)/[**2019-nCoV**](https://github.com/antonlukin/2019-nCoV) | Wuhan coronavirus outbreak |
  | 13 | [@par6n](https://github.com/par6n)/[**ncov-19**](https://github.com/par6n/ncov-19) | A simple page featuring an interactive map presenting nCoV-19 spread in Iran |
  | 1 | [@ankitchouhan1020](https://github.com/ankitchouhan1020)/[**corona**](https://github.com/ankitchouhan1020/corona) | Map of confirmed coronavirus cases in India |
+ | 1 | [@bumbeishvili](https://github.com/bumbeishvili)/[**coronavirus.davidb.dev**](https://github.com/bumbeishvili/coronavirus.davidb.dev) | The most complete , covid-19 live dashboard, with time travel and predictions |
 
 #### Applications and Bots
 
