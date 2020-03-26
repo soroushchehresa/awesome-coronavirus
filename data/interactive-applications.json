@@ -30,6 +30,11 @@
       "title": "COVID-19 Dashboard",
       "url": "https://www.cov19.xyz",
       "description": "Coronavirus outbreak dashboard."
+    },
+    {
+      "title": "COVID-19 Live Dashboard",
+      "url": "https://coronavirus.davidb.dev/",
+      "description": "Responsive covid 19 Live data Dashboard with time travel and predictions"
     }
   ]
 }
