@@ -248,6 +248,11 @@
           "title": "COVID-19 Tracker For Pakistan",
           "url": "https://pakistan-covid19.herokuapp.com",
           "description": "COVID 19 Tracker For Pakistan"
+        },
+        {
+          "title": "Help with COVID",
+          "url": "https://helpwithcovid.com",
+          "description": "COVID-19 projects looking for volunteers"
         }
       ]
     },
