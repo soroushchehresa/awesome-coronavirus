@@ -83,6 +83,8 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 ## Open Source Projects
 
+Projects aggregator – [https://covid19projects.now.sh](https://covid19projects.now.sh?source=awesome-coronavirus)
+
 #### API
 
 | :star2:     | Repository   | Description  |
