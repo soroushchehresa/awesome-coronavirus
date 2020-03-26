@@ -40,6 +40,11 @@
       "title": "ADSP: COVID-19 Live Dashboard - England",
       "url": "https://adsp.ai/demos/coronavirus-england/",
       "description": "COVID-19 Dashboard for England case data including maps"
+    },
+    {
+      "title": "covid19-at: COVID-19 Live Dashboard - Austria",
+      "url": "https://covid19.spiessknafl.at",
+      "description": "COVID-19 Dashboard for Austria case data including maps"
     }
   ]
 }
