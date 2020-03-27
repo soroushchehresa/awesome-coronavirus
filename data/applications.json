@@ -268,6 +268,11 @@
           "title": "contactracing.app",
           "url": "https://contacttracing.app/",
           "description": "Notify your friends & family (and their peers) if you fall ill."
+        },
+        {
+          "title": "rona19.live",
+          "url": "https://rona19.live/",
+          "description": "Web app displaying COVID-19 statistics and information."
         }
       ]
     },
