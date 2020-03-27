@@ -5,6 +5,11 @@
       "category": "Web Apps",
       "list": [
         {
+          "title": "contactracing.app",
+          "url": "https://contacttracing.app/",
+          "description": "Notify your friends & family (and their peers) if you fall ill."
+        },
+        {
           "title": "coronatracker.com",
           "url": "https://www.coronatracker.com",
           "description": "CORONATRACKER.com is a community-based project powered by over 460 volunteers from across the globe, ranging from data scientists, medical professionals, UI/UX designers, fullstack developers, to the general public."
