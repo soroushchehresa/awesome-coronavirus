@@ -258,7 +258,12 @@
           "title": "COVID19 statistics Pakistan",
           "url": "https://covid-19-pk.herokuapp.com",
           "description": "COVID-19 Data Tracker For Pakistan"
-        }
+        },
+        {
+          "title": "COVID Explore",
+          "url": "https://www.covidexplore.com",
+          "description": "Assessing the different impacts of COVID-19 on the world through data."
+        },
       ]
     },
     {
