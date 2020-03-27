@@ -112,7 +112,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
  | 16545 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
- | 2796 | [@pcm-dpc](https://github.com/pcm-dpc)/[**COVID-19**](https://github.com/pcm-dpc/COVID-19) | COVID-19 Italia - Monitoraggio situazione |
+ | 2797 | [@pcm-dpc](https://github.com/pcm-dpc)/[**COVID-19**](https://github.com/pcm-dpc/COVID-19) | COVID-19 Italia - Monitoraggio situazione |
  | 1282 | [@BlankerL](https://github.com/BlankerL)/[**DXY-COVID-19-Data**](https://github.com/BlankerL/DXY-COVID-19-Data) | 2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse |
  | 903 | [@nextstrain](https://github.com/nextstrain)/[**ncov**](https://github.com/nextstrain/ncov) | Nextstrain build for novel coronavirus (nCoV) |
  | 598 | [@globalcitizen](https://github.com/globalcitizen)/[**2019-wuhan-coronavirus-data**](https://github.com/globalcitizen/2019-wuhan-coronavirus-data) | 2019 Wuhan Coronavirus data (COVID-19 / 2019-nCoV) |
@@ -131,6 +131,7 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 26 | [@arnoudbuzing](https://github.com/arnoudbuzing)/[**wolfram-coronavirus**](https://github.com/arnoudbuzing/wolfram-coronavirus) | Wolfram Language code and notebooks related to the coronavirus outbreak |
  | 24 | [@virtadpt](https://github.com/virtadpt)/[**exocortex-agents**](https://github.com/virtadpt/exocortex-agents) | A collection of sample Huginn agents I use to demonstrate how they&#39;re put together, and a little of what they can do. |
  | 20 | [@docligot](https://github.com/docligot)/[**coronatracker-analytics**](https://github.com/docligot/coronatracker-analytics) | Analysis and reports based on novel coronavirus (nCoV-2019) data.  |
+ | 17 | [@coviddata](https://github.com/coviddata)/[**covid-api**](https://github.com/coviddata/covid-api) | Daily COVID-19 statistics by country, region, and city |
  | 16 | [@lazargugleta](https://github.com/lazargugleta)/[**coronavirusStats**](https://github.com/lazargugleta/coronavirusStats) | Track data for Coronavirus for your country. |
  | 8 | [@joaotinti75](https://github.com/joaotinti75)/[**Coronavirus**](https://github.com/joaotinti75/Coronavirus) | this code uses a daily database to display data in the form of a graph and map using the libraries matplotlib and folium |
  | 6 | [@kalisio](https://github.com/kalisio)/[**covid-19**](https://github.com/kalisio/covid-19) | Données cartographiques concernant l&#39;épidémie de COVID-19 en France |
@@ -191,6 +192,7 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 10 | [@YogaSakti](https://github.com/YogaSakti)/[**CoronaNotifier**](https://github.com/YogaSakti/CoronaNotifier) | Covid-19 Whatsapp Bot Indonesia |
  | 5 | [@yohix](https://github.com/yohix)/[**corona**](https://github.com/yohix/corona) | 🦠 COVID-19 Tracker - Mobile App |
  | 4 | [@aleskandro](https://github.com/aleskandro)/[**covid19-charts-spreading-rapidity**](https://github.com/aleskandro/covid19-charts-spreading-rapidity) | Covid19 simple charts, spreading, rapidity and acceleration |
+ | 4 | [@iamrohitsuthar](https://github.com/iamrohitsuthar)/[**gocoronago**](https://github.com/iamrohitsuthar/gocoronago) | gocoronago website shows the latest COVID-19 stats in india |
  | 3 | [@bluebillxp](https://github.com/bluebillxp)/[**android-covid19-reportviewer**](https://github.com/bluebillxp/android-covid19-reportviewer) | This is the COVID-19 daily report viewer on Android presents data from CSSE@JHU open-sourced data repo. |
  | 3 | [@onlyphantom](https://github.com/onlyphantom)/[**coronavirus**](https://github.com/onlyphantom/coronavirus) | A Shiny Web App tutorial inspecting the COVID-19 (2019-nCoV) epidemic |
  | 2 | [@soroushchehresa](https://github.com/soroushchehresa)/[**iran-coronavirus**](https://github.com/soroushchehresa/iran-coronavirus) | IOS &amp; Android app about Coronavirus in Iran built with React-Native and TypeScript  |
