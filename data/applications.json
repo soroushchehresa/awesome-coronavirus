@@ -253,6 +253,11 @@
           "title": "Help with COVID",
           "url": "https://helpwithcovid.com",
           "description": "COVID-19 projects looking for volunteers"
+        },
+        {
+          "title": "COVID19 statistics Pakistan",
+          "url": "https://covid-19-pk.herokuapp.com",
+          "description": "COVID-19 Data Tracker For Pakistan"
         }
       ]
     },

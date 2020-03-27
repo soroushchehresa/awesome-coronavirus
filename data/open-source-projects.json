@@ -53,7 +53,9 @@
         "kalisio/covid-19",
         "OssamaRafique/Corona-Statistics-And-Tracker-Dashboard-Angular-9",
         "rfearing/temp-covid-resources",
-        "coviddata/covid-api"
+        "coviddata/covid-api",
+        "datasets/covid-19",
+        "PhantasWeng/coronavirus-daily-dashboard"
       ]
     },
     {
@@ -113,7 +115,9 @@
         "YogaSakti/CoronaNotifier",
         "bluebillxp/android-covid19-reportviewer",
         "AaronWard/covidify",
-        "LuisReinoso/covid-19-community-tracker"
+        "LuisReinoso/covid-19-community-tracker",
+        "iamrohitsuthar/gocoronago",
+        "nthopinion/covid19"
       ]
     },
     {
