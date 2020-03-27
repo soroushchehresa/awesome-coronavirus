@@ -258,6 +258,11 @@
           "title": "COVID19 statistics Pakistan",
           "url": "https://covid-19-pk.herokuapp.com",
           "description": "COVID-19 Data Tracker For Pakistan"
+        },
+        {
+          "title": "contactracing.app",
+          "url": "https://contacttracing.app/",
+          "description": "Notify your friends & family (and their peers) if you fall ill."
         }
       ]
     },
