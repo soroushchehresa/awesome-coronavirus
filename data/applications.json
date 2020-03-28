@@ -288,6 +288,11 @@
           "title": "2019ncov.chinacdc.cn",
           "url": "http://2019ncov.chinacdc.cn/2019-nCoV",
           "description": "新型冠状病毒肺炎疫情分布"
+        },
+        {
+          "title": "australia-covid19.herokuapp.com",
+          "url": "https://australia-covid19.herokuapp.com",
+          "description": "Update of COVID-19 Situation in Australia.(Including New south wales situation)"
         }
       ]
     },
