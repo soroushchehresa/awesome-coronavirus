@@ -246,6 +246,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [coronavirus.visualdatahq.com](https://coronavirus.visualdatahq.com) | Coronavirus Tracker. |
 | [go.gov.sg/covid-19-dashboard](https://go.gov.sg/covid-19-dashboard) | Official Update of COVID -19 Situation in Singapore. |
 | [shiny.john-coene.com/coronavirus](https://shiny.john-coene.com/coronavirus) | Coronavirus Tracker. |
+| [myowinthein.github.io/codash](https://github.com/myowinthein/codash) | A fast & simple corona virus dashboard built by pure HTML, CSS & JavaScript. |
 | [corona.rade.ir](https://corona.rade.ir) | نقشه‌ی مبتلایان به ویروس COVID-19 در ایران. |
 | [coronavirus.zone](https://coronavirus.zone) | Outbreak map of novel coronavirus 2019-nCoV. |
 | [balad.ir](https://balad.ir/search/corona-test-hospitals) | مراکز درمانی ویژه کرونا بر روی نقشه. |
@@ -422,7 +423,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 ## Donation and Sponsoring
 
-Donate me with buying me some vitamins to boost my immune system during the coronavirus outbreak, I would maintain this repository if I was alive :) 
+Donate me with buying me some vitamins to boost my immune system during the coronavirus outbreak, I would maintain this repository if I was alive :)
 
 #### Bitcoin
 <img src="https://i.imgur.com/9IgberJ.png" width="120" >
