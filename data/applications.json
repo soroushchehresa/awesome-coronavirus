@@ -269,6 +269,11 @@
           "url": "https://contacttracing.app/",
           "description": "Notify your friends & family (and their peers) if you fall ill."
         }
+        {
+          "title": "covidtrack.net",
+          "url": "https://covidtrack.net",
+          "description": "SVG map of Covid Data via John Hopkins & Covidtrack.com github.com/SeanQuinn781/react-maps-flask-covid"
+        }
       ]
     },
     {
