@@ -86,7 +86,7 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 1096 | [@NovelCOVID](https://github.com/NovelCOVID)/[**API**](https://github.com/NovelCOVID/API) | API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain |
  | 957 | [@ExpDev07](https://github.com/ExpDev07)/[**coronavirus-tracker-api**](https://github.com/ExpDev07/coronavirus-tracker-api) | 🦠 A simple and fast (&lt; 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It&#39;s written in python using the 🔥 FastAPI framework. Supports multiple sources! |
  | 747 | [@mathdroid](https://github.com/mathdroid)/[**covid-19-api**](https://github.com/mathdroid/covid-19-api) | COVID-19 global data (from JHU CSSE for now) as-a-service |
- | 120 | [@amodm](https://github.com/amodm)/[**api-covid19-in**](https://github.com/amodm/api-covid19-in) | COVID Rest API for India data, using Cloudflare Workers |
+ | 121 | [@amodm](https://github.com/amodm)/[**api-covid19-in**](https://github.com/amodm/api-covid19-in) | COVID Rest API for India data, using Cloudflare Workers |
  | 104 | [@nat236919](https://github.com/nat236919)/[**Covid2019API**](https://github.com/nat236919/Covid2019API) | COVID-2019 API | CoronaVirus 2019 Global Cases |
  | 55 | [@rlindskog](https://github.com/rlindskog)/[**covid19-graphql**](https://github.com/rlindskog/covid19-graphql) | COVID-19 GraphQL API |
  | 40 | [@COVID19Tracking](https://github.com/COVID19Tracking)/[**covid-tracking-api**](https://github.com/COVID19Tracking/covid-tracking-api) | COVID-19 Rest &amp; GraphQL API for US data, using Cloudflare Workers |
