@@ -16,7 +16,8 @@
 
 <br>
 
-# Awesome Coronavirus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://img.shields.io/travis/soroushchehresa/awesome-coronavirus" alt="build status">
+# Awesome Coronavirus 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://img.shields.io/github/license/soroushchehresa/awesome-coronavirus"> <img src="https://img.shields.io/travis/soroushchehresa/awesome-coronavirus" alt="build status">
 
 > Useful projects and resources for COVID-19 (2019 novel Coronavirus)
 
