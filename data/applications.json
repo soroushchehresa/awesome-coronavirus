@@ -112,7 +112,7 @@
         {
           "title": "coronaviruslive.it",
           "url": "https://coronaviruslive.it",
-          "description": "Situazione Coronavirus in Italia - LIVE"
+          "description": "Situazione Coronavirus in Italia - LIVE."
         },
         {
           "title": "stayinghome.club",
@@ -142,32 +142,32 @@
         {
           "title": "covid-api.com",
           "url": "https://covid-api.com",
-          "description": "COVID-19 Statistics API based on public data by Johns Hopkins CSSE"
+          "description": "COVID-19 Statistics API based on public data by Johns Hopkins CSSE."
         },
         {
           "title": "CovidStats",
           "url": "https://www.covidstats.com",
-          "description": "Coronavirus charts and reports"
+          "description": "Coronavirus charts and reports."
         },
         {
           "title": "covidabruzzo.it",
           "url": "https://covidabruzzo.it",
-          "description": "Coronavirus in Abruzzo - I dati aggiornati"
+          "description": "Coronavirus in Abruzzo - I dati aggiornati."
         },
         {
           "title": "Work From Home Gigs",
           "url": "https://bit.ly/WFH143",
-          "description": "A weekly updated list of work from home jobs during the COVID-19 Pandemic"
+          "description": "A weekly updated list of work from home jobs during the COVID-19 Pandemic."
         },
         {
           "title": "Corona-tracker",
-          "url": "https://corona-tracker-2020.netlify.com/",
-          "description": "Web app to track Coronavirus with primary focus on India"
+          "url": "https://corona-tracker-2020.netlify.com",
+          "description": "Web app to track Coronavirus with primary focus on India."
         },
         {
           "title": "Covid-19 statistics",
-          "url": "https://souryvath.github.io/ng-covid-19/",
-          "description": "Web app to get covid-19 statistics around the world, built for french people"
+          "url": "https://souryvath.github.io/ng-covid-19",
+          "description": "Web app to get covid-19 statistics around the world, built for french people."
         },
         {
           "title": "Covid-19 Philippines",
@@ -181,28 +181,28 @@
         },
         {
           "title": "Coronavirus Monitor",
-          "url": "https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/",
-          "description": "Coronavirus monitor, mainly for Germany"
+          "url": "https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit",
+          "description": "Coronavirus monitor, mainly for Germany."
         },
         {
           "title": "Covid-19 in Morocco",
           "url": "http://covidmaroc.ma/",
-          "description": "Morocco COVID-19 Coronavirus Tracker"
+          "description": "Morocco COVID-19 Coronavirus Tracker."
         },
         {
           "title": "CORONAFLASH",
           "url": "https://coronaflash.com",
-          "description": "World-wide Coronavirus stats and predictions, and a toilet-paper predictor"
+          "description": "World-wide Coronavirus stats and predictions, and a toilet-paper predictor."
         },
         {
           "title": "California Coronavirus",
           "url": "https://californiacoronavirus.org/",
-          "description": "California Coronavirus Map"
+          "description": "California Coronavirus Map."
         },
         {
           "title": "COVID-19 World dashboard",
-          "url": "https://cov19.xyz/",
-          "description": "Coronavirus outbreak COVID-19 World dashboard. Data updated everyminute, for every country, state/region, province/city"
+          "url": "https://cov19.xyz",
+          "description": "Coronavirus outbreak COVID-19 World dashboard. Data updated everyminute, for every country, state/region, province/city."
         },
         {
           "title": "class4corona",
@@ -247,17 +247,17 @@
         {
           "title": "COVID-19 Tracker For Pakistan",
           "url": "https://pakistan-covid19.herokuapp.com",
-          "description": "COVID 19 Tracker For Pakistan"
+          "description": "COVID 19 Tracker For Pakistan."
         },
         {
           "title": "Help with COVID",
           "url": "https://helpwithcovid.com",
-          "description": "COVID-19 projects looking for volunteers"
+          "description": "COVID-19 projects looking for volunteers."
         },
         {
           "title": "COVID19 statistics Pakistan",
           "url": "https://covid-19-pk.herokuapp.com",
-          "description": "COVID-19 Data Tracker For Pakistan"
+          "description": "COVID-19 Data Tracker For Pakistan."
         },
         {
           "title": "COVID Explore",
@@ -266,13 +266,23 @@
         },
         {
           "title": "contactracing.app",
-          "url": "https://contacttracing.app/",
+          "url": "https://contacttracing.app",
           "description": "Notify your friends & family (and their peers) if you fall ill."
         },
         {
           "title": "CVOID-19 India",
-          "url": "https://covid-19india.netlify.com/",
-          "description": "Covid 19 Tracker for India With Awesome UI + PWA, Made with Svelte"
+          "url": "https://covid-19india.netlify.com",
+          "description": "Covid 19 Tracker for India With Awesome UI + PWA, Made with Svelte."
+        },
+        {
+          "title": "rona19.live",
+          "url": "https://rona19.live",
+          "description": "Web app displaying COVID-19 statistics and information."
+        },
+        {
+          "title": "covidtrack.net",
+          "url": "https://covidtrack.net",
+          "description": "SVG map of Covid Data via John Hopkins & Covidtrack.com github.com/SeanQuinn781/react-maps-flask-covid."
         }
       ]
     },
