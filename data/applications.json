@@ -293,6 +293,11 @@
           "title": "australia-covid19.herokuapp.com",
           "url": "https://australia-covid19.herokuapp.com",
           "description": "Update of COVID-19 Situation in Australia.(Including New south wales situation)"
+        },
+        {
+          "title": "The Cost of COVID-19",
+          "url": "https://covidcost.now.sh/",
+          "description": "Tracking the cost of COVID-19 across China, Europe and the United States in human lives and economies."
         }
       ]
     },
