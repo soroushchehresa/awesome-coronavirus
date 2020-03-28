@@ -283,6 +283,11 @@
           "title": "covidtrack.net",
           "url": "https://covidtrack.net",
           "description": "SVG map of Covid Data via John Hopkins & Covidtrack.com github.com/SeanQuinn781/react-maps-flask-covid."
+        },
+        {
+          "title": "2019ncov.chinacdc.cn",
+          "url": "http://2019ncov.chinacdc.cn/2019-nCoV",
+          "description": "新型冠状病毒肺炎疫情分布"
         }
       ]
     },
