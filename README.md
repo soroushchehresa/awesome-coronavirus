@@ -296,7 +296,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [2019ncov.chinacdc.cn](http://2019ncov.chinacdc.cn/2019-nCoV) | 新型冠状病毒肺炎疫情分布 |
 | [australia-covid19.herokuapp.com](https://australia-covid19.herokuapp.com) | Update of COVID-19 Situation in Australia.(Including New south wales situation) |
 | [The Cost of COVID-19](https://covidcost.now.sh) | Tracking the cost of COVID-19 across China, Europe and the United States in human lives and economies. |
-| [Flattening the curve | COVID-19 🦠](https://flattening-the-curve.commutatus.com) | A simple dashboard to track flattening of the curve by plotting the no.of active COVID-19 / Coronavirus cases over a period of time by countries. |
+| [Flattening the curve \| COVID-19 🦠](https://flattening-the-curve.commutatus.com) | A simple dashboard to track flattening of the curve by plotting the no.of active COVID-19 / Coronavirus cases over a period of time by countries. |
 | [covintern.com](https://covintern.com/jobs) | Internship cancellation tracker and remote internship aggregator for affected students. |
 
 #### Android Apps
