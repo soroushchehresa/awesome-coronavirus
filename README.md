@@ -83,7 +83,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
  | 1428 | [@BlankerL](https://github.com/BlankerL)/[**DXY-COVID-19-Crawler**](https://github.com/BlankerL/DXY-COVID-19-Crawler) | 2019新型冠状病毒疫情实时爬虫及API | COVID-19/2019-nCoV Realtime Infection Crawler and API |
- | 1164 | [@NovelCOVID](https://github.com/NovelCOVID)/[**API**](https://github.com/NovelCOVID/API) | API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain |
+ | 1165 | [@NovelCOVID](https://github.com/NovelCOVID)/[**API**](https://github.com/NovelCOVID/API) | API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain |
  | 977 | [@ExpDev07](https://github.com/ExpDev07)/[**coronavirus-tracker-api**](https://github.com/ExpDev07/coronavirus-tracker-api) | 🦠 A simple and fast (&lt; 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It&#39;s written in python using the 🔥 FastAPI framework. Supports multiple sources! |
  | 760 | [@mathdroid](https://github.com/mathdroid)/[**covid-19-api**](https://github.com/mathdroid/covid-19-api) | COVID-19 global data (from JHU CSSE for now) as-a-service |
  | 132 | [@amodm](https://github.com/amodm)/[**api-covid19-in**](https://github.com/amodm/api-covid19-in) | COVID Rest API for India data, using Cloudflare Workers |
@@ -296,7 +296,8 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [covidtrack.net](https://covidtrack.net) | SVG map of Covid Data via John Hopkins &amp; Covidtrack.com github.com/SeanQuinn781/react-maps-flask-covid. |
 | [2019ncov.chinacdc.cn](http://2019ncov.chinacdc.cn/2019-nCoV) | 新型冠状病毒肺炎疫情分布 |
 | [australia-covid19.herokuapp.com](https://australia-covid19.herokuapp.com) | Update of COVID-19 Situation in Australia.(Including New south wales situation) |
-| [covintern.com](https://covintern.com/jobs/) | Internship cancellation tracker and remote internship aggregator for affected students. |
+| [Flattening the curve | COVID-19 🦠](https://flattening-the-curve.commutatus.com) | A simple dashboard to track flattening of the curve by plotting the no.of active COVID-19 / Coronavirus cases over a period of time by countries. |
+| [covintern.com](https://covintern.com/jobs) | Internship cancellation tracker and remote internship aggregator for affected students. |
 
 #### Android Apps
 
