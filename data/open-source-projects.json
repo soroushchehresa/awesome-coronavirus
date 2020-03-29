@@ -145,7 +145,8 @@
         "ahmadawais/corona-cli",
         "warengonzaga/covid19-tracker-cli",
         "sagarkarira/coronavirus-tracker-cli",
-        "garrylachman/covid19-cli"
+        "garrylachman/covid19-cli",
+        "MouadBH/coronapy-cli"
       ]
     },
     {
