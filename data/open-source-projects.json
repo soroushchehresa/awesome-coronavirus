@@ -57,6 +57,7 @@
         "coviddata/covid-api",
         "datasets/covid-19",
         "PhantasWeng/coronavirus-daily-dashboard",
+        "cipriancraciun/covid19-datasets",
         "pcm-dpc/COVID-19"
       ]
     },
