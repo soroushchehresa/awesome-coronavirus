@@ -10,6 +10,11 @@
       "title": "CDC",
       "url": "https://www.cdc.gov/coronavirus/2019-ncov/about/index.html",
       "description": "Center for Disease control."
+    },
+    {
+      "title": "ECDC",
+      "url": "https://www.ecdc.europa.eu/en/novel-coronavirus-china",
+      "description": " European Centre for Disease Prevention and Control"
     }
   ]
 }
