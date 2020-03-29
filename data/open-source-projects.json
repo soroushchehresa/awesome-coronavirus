@@ -56,7 +56,8 @@
         "rfearing/temp-covid-resources",
         "coviddata/covid-api",
         "datasets/covid-19",
-        "PhantasWeng/coronavirus-daily-dashboard"
+        "PhantasWeng/coronavirus-daily-dashboard",
+        "cipriancraciun/covid19-datasets"
       ]
     },
     {
