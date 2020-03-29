@@ -295,8 +295,13 @@
           "description": "Update of COVID-19 Situation in Australia.(Including New south wales situation)"
         },
         {
+          "title": "Flattening the curve | COVID-19 🦠",
+          "url": "https://flattening-the-curve.commutatus.com",
+          "description": "A simple dashboard to track flattening of the curve by plotting the no.of active COVID-19 / Coronavirus cases over a period of time by countries."
+        },
+        {
           "title": "covintern.com",
-          "url": "https://covintern.com/jobs/",
+          "url": "https://covintern.com/jobs",
           "description": "Internship cancellation tracker and remote internship aggregator for affected students."
         }
       ]
