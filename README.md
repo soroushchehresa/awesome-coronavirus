@@ -246,7 +246,6 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [coronavirus.visualdatahq.com](https://coronavirus.visualdatahq.com) | Coronavirus Tracker. |
 | [go.gov.sg/covid-19-dashboard](https://go.gov.sg/covid-19-dashboard) | Official Update of COVID -19 Situation in Singapore. |
 | [shiny.john-coene.com/coronavirus](https://shiny.john-coene.com/coronavirus) | Coronavirus Tracker. |
-| [myowinthein.github.io/codash](https://github.com/myowinthein/codash) | A fast & simple corona virus dashboard built by pure HTML, CSS & JavaScript. |
 | [corona.rade.ir](https://corona.rade.ir) | نقشه‌ی مبتلایان به ویروس COVID-19 در ایران. |
 | [coronavirus.zone](https://coronavirus.zone) | Outbreak map of novel coronavirus 2019-nCoV. |
 | [balad.ir](https://balad.ir/search/corona-test-hospitals) | مراکز درمانی ویژه کرونا بر روی نقشه. |
@@ -286,6 +285,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [COVID19 statistics Pakistan](https://covid-19-pk.herokuapp.com) | COVID-19 Data Tracker For Pakistan |
 | [COVID Explore](https://www.covidexplore.com) | Assessing the different impacts of COVID-19 on the world through data. |
 | [contactracing.app](https://contacttracing.app/) | Notify your friends &amp; family (and their peers) if you fall ill. |
+| [myowinthein.github.io/codash](https://github.com/myowinthein/codash) | A simple & fast corona virus dashboard built by pure HTML, CSS & JavaScript. |
 
 #### Android Apps
 
