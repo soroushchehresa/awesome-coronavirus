@@ -99,6 +99,7 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 3 | [@AlaeddineMessadi](https://github.com/AlaeddineMessadi)/[**COVID-19-REPORT-API**](https://github.com/AlaeddineMessadi/COVID-19-REPORT-API) | ⚕️🚑    COVID-19 API Service to keep tracking cases worldwide 🌍 |
  | 3 | [@elias-garcia](https://github.com/elias-garcia)/[**covid-19-spain**](https://github.com/elias-garcia/covid-19-spain) | 🇪🇸 REST API which exposes all of the COVID-19 stats for Spain extracted from the official spanish government daily reports. |
  | 2 | [@episphere](https://github.com/episphere)/[**corona**](https://github.com/episphere/corona) | Exploring realtime interoperability with COVID-19 data |
+ | 0 | [@jotatsu](https://github.com/jotatsu)/[**digital-shield**](https://github.com/jotatsu/Digital-Shield) | An application for contact tracing in real time using bluetooth, privacy oriented |
 
 #### Statistics and Datasets
 
