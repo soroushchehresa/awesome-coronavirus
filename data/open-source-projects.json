@@ -91,7 +91,12 @@
         "konradkalemba/korona.ws",
         "ankitchouhan1020/corona",
         "opencovid19-fr/dashboard",
-        "bustbyte/coronastatus"
+        "bustbyte/coronastatus",
+        {
+          "repo": "reach4help/reach4help",
+          "subdir": "map",
+          "description": "A map of COVID-19 mutual-aid projects and organizations around the world"
+        }
       ]
     },
     {
