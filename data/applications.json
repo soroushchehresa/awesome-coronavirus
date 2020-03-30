@@ -313,6 +313,11 @@
           "title": "COVID-2019.es",
           "url": "http://covid-2019.es",
           "description": "Spain coronavirus tracker. Offers daily JSON data parsed from official government sources."
+        },
+          {
+          "title": "viruscovid.tech (COVID-19 Tracker)🦠",
+          "url": "https://viruscovid.tech",
+          "description": "Track the spread of the COVID-19 outbreak in real-time for your country."
         }
       ]
     },
