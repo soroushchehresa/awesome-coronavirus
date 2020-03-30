@@ -311,7 +311,7 @@
         },
         {
           "title": "COVID-2019.es",
-          "url": "http://covid-2019.es/",
+          "url": "http://covid-2019.es",
           "description": "Spain coronavirus tracker. Offers daily JSON data parsed from official government sources."
         }
       ]
