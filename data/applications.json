@@ -308,15 +308,15 @@
           "title": "covintern.com",
           "url": "https://covintern.com/jobs",
           "description": "Internship cancellation tracker and remote internship aggregator for affected students."
+        },{
+          "title": "COVID-2019.es",
+          "url": "http://covid-2019.es",
+          "description": "Spain coronavirus tracker. Offers daily JSON data parsed from official government sources."
         },
         {
           "title": "Bluetooth corona tracer",
           "url": "https://github.com/helloworldkr/Bluetooth-ble-beamer-and-scanner-for-tracing-corona-virus-infected-individual",
           "description": "This is an open source skeleton app similar to Singapore 'Trace Together' app for Covid 19 tracing using ble beacons"
-        },{
-          "title": "COVID-2019.es",
-          "url": "http://covid-2019.es",
-          "description": "Spain coronavirus tracker. Offers daily JSON data parsed from official government sources."
         }
       ]
     },
