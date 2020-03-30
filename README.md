@@ -299,6 +299,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [The Cost of COVID-19](https://covidcost.now.sh) | Tracking the cost of COVID-19 across China, Europe and the United States in human lives and economies. |
 | [Flattening the curve - COVID-19 🦠](https://flattening-the-curve.commutatus.com) | A simple dashboard to track flattening of the curve by plotting the no.of active COVID-19 / Coronavirus cases over a period of time by countries. |
 | [covintern.com](https://covintern.com/jobs) | Internship cancellation tracker and remote internship aggregator for affected students. |
+| [COVID-2019.es](http://covid-2019.es/) | Spain COVID tracker, offers daily JSON data. |
 
 #### Android Apps
 
