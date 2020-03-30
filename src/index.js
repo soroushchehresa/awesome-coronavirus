@@ -39,12 +39,19 @@ github.authenticate({
 const repositories = openSourceProjectsData.list
   .map(item => {
     const fetchReposPromise = item.repositories
-      .map(repoPath => {
-        const separatedRepoPath = repoPath.split('/');
-        return github.repos.get({
+      .map(async data => {
+        let info;
+        if (typeof data === "string") {
+          info = {repo: data};
+        } else {
+          info = data;
+        }
+        const separatedRepoPath = info.repo.split('/');
+        const repo = await github.repos.get({
           user: separatedRepoPath[0],
           repo: separatedRepoPath[1],
         });
+        return {repo, info};
       });
     const allSettled = fetchReposPromise.map(p => Promise.resolve(p)
       .then(
@@ -55,14 +62,26 @@ const repositories = openSourceProjectsData.list
       .then(rawResult => {
         const result = rawResult
           .filter(({ state, value, reason }) => {
-            if (state === 'fulfilled' && value && value.name && value.owner) {
+            if (state === 'fulfilled' && value && value.repo.name && value.repo.owner) {
               return true;
             }
           })
           .map(({ value }) => value);
         return {
           category: item.category,
-          repositories: result.sort((a, b) => a.stargazers_count < b.stargazers_count ? 1 : -1),
+          repositories:
+            result
+              .sort((a, b) => a.repo.stargazers_count < b.repo.stargazers_count ? 1 : -1)
+              .map(r => ({
+                stargazers_count: r.repo.stargazers_count,
+                owner: r.repo.owner,
+                name: r.info.subdir ?
+                  `${r.repo.name}/${r.info.subdir}` : r.repo.name,
+                html_url: r.info.subdir ?
+                  `${r.repo.html_url}/tree/${r.repo.default_branch}/${r.info.subdir}` :
+                  r.repo.html_url,
+                description: r.info.description || r.repo.description
+              })),
           anchor: item.anchor || item.category.toLowerCase(),
         };
       });
