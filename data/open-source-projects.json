@@ -2,6 +2,12 @@
   "title": "Open Source Projects",
   "list": [
     {
+      "category": "Data Stream",
+      "repositories": [
+        "SolaceLabs/jhu-covid19-stream-processors"
+      ]
+    },
+    {
       "category": "API",
       "repositories": [
         "ExpDev07/coronavirus-tracker",
