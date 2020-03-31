@@ -27,11 +27,6 @@
       "description": "Dashboard based on maps and graphs, along with scientific documentation."
     },
     {
-      "title": "Coronavirus Country Comparator",
-      "url": "https://boogheta.github.io/coronavirus-countries/",
-      "description": "Rich web interface to control various d3.js visualizations of confirmed and deceased cases data reported by JHU CSSE in all countries."
-    },
-    {
       "title": "COVID-19 Dashboard",
       "url": "https://www.cov19.xyz",
       "description": "Coronavirus outbreak dashboard."
@@ -50,6 +45,11 @@
       "title": "covid19-at: COVID-19 Live Dashboard - Austria",
       "url": "https://covid19.spiessknafl.at",
       "description": "COVID-19 Dashboard for Austria case data including maps"
-    }
+    },
+    {
+      "title": "Coronavirus Country Comparator",
+      "url": "https://boogheta.github.io/coronavirus-countries",
+      "description": "Rich web interface to control various d3.js visualizations of confirmed and deceased cases data reported by JHU CSSE in all countries."
+    },
   ]
 }
