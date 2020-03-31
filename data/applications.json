@@ -323,6 +323,11 @@
           "title": "CoronaTab",
           "url": "https://coronatab.app",
           "description": "Free & Open Source Dashboard + Browser Extension + RESTful API"
+        },
+        {
+          "title": "COVID-19 en Perú",
+          "url": "https://castagnetto.site/peru/dashboard-peru-covid-19.html",
+          "description": "COVID-19: Casos totales tamizados en el Perú"
         }
       ]
     },
