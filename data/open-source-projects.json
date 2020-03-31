@@ -160,6 +160,12 @@
         "jcl5m1/ventilator",
         "ProtofyTeam/OxyGEN"
       ]
+    },
+    {
+      "category": "Data Stream",
+      "repositories": [
+        "SolaceLabs/jhu-covid19-stream-processors"
+      ]
     }
   ]
 }
