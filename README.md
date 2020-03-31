@@ -55,6 +55,8 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 - [Interactive Applications](#interactive-applications)
 
+- [Hackathons](#hackathons)
+
 - [Current Status](#current-status)
 
 - [Donation and Sponsoring](#donation-and-sponsoring)
@@ -443,6 +445,17 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [ADSP: COVID-19 Live Dashboard - England](https://adsp.ai/demos/coronavirus-england/) | COVID-19 Dashboard for England case data including maps |
 | [covid19-at: COVID-19 Live Dashboard - Austria](https://covid19.spiessknafl.at) | COVID-19 Dashboard for Austria case data including maps |
 | [Coronavirus Country Comparator](https://boogheta.github.io/coronavirus-countries) | Rich web interface to control various d3.js visualizations of confirmed and deceased cases data reported by JHU CSSE in all countries. |
+
+
+## Hackathons
+
+| Link  | Description  |
+|:------|:-------------|
+| [#BuildforCOVID19 Global Online Hackathon](https://covid-global-hackathon.devpost.com) | The COVID-19 Global Hackathon is an opportunity for developers to build software solutions that drive social impact, with the aim of tackling some of the challenges related to the current coronavirus (COVID-19) pandemic. |
+| [codevscovid19](https://www.codevscovid19.org) | Create solutions to address COVID19 Challenges. |
+| [#WirvsVirus: hacking to fight the crisis](https://www.deutschland.de/en/topic/knowledge/hackathon-on-corona-wirvsvirus-brings-solutions) | The Federal Government&#39;s &#39;Hackathon&#39; has yielded lots of suggestions for solving problems to do with the Corona crisis. This was Germany&#39;s biggest digital competition of ideas to date. |
+| [Official COVID-19 hackathon in Sweden](https://www.hackthecrisis.se) | Official COVID-19 hackathon in Sweden. An initiative by The Swedish Government. |
+| [StudentsAgainstCorona](https://www.facebook.com/groups/485526048998480) | A Facebook group for students want to help about Coronavirus. |
 
 
 ## Current Status
