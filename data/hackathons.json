@@ -1,0 +1,30 @@
+{
+  "title": "Hackathons",
+  "list": [
+    {
+      "title": "#BuildforCOVID19 Global Online Hackathon",
+      "url": "https://covid-global-hackathon.devpost.com",
+      "description": "The COVID-19 Global Hackathon is an opportunity for developers to build software solutions that drive social impact, with the aim of tackling some of the challenges related to the current coronavirus (COVID-19) pandemic."
+    },
+    {
+      "title": "codevscovid19",
+      "url": "https://www.codevscovid19.org",
+      "description": "Create solutions to address COVID19 Challenges."
+    },
+    {
+      "title": "#WirvsVirus: hacking to fight the crisis",
+      "url": "https://www.deutschland.de/en/topic/knowledge/hackathon-on-corona-wirvsvirus-brings-solutions",
+      "description": "The Federal Government's 'Hackathon' has yielded lots of suggestions for solving problems to do with the Corona crisis. This was Germany's biggest digital competition of ideas to date."
+    },
+    {
+      "title": "Official COVID-19 hackathon in Sweden",
+      "url": "https://www.hackthecrisis.se",
+      "description": "Official COVID-19 hackathon in Sweden. An initiative by The Swedish Government."
+    },
+    {
+      "title": "StudentsAgainstCorona",
+      "url": "https://www.facebook.com/groups/485526048998480",
+      "description": "A Facebook group for students want to help about Coronavirus."
+    }
+  ]
+}
