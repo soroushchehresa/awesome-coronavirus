@@ -50,6 +50,6 @@
       "title": "Coronavirus Country Comparator",
       "url": "https://boogheta.github.io/coronavirus-countries",
       "description": "Rich web interface to control various d3.js visualizations of confirmed and deceased cases data reported by JHU CSSE in all countries."
-    },
+    }
   ]
 }
