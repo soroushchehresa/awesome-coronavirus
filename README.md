@@ -314,6 +314,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [COVID-2019.es](http://covid-2019.es) | Spain coronavirus tracker. Offers daily JSON data parsed from official government sources. |
 | [viruscovid.tech (COVID-19 Tracker)](https://viruscovid.tech) | Track the spread of the COVID-19 outbreak in real-time for your country. |
 | [CoronaTab](https://coronatab.app) | Free &amp; Open Source Dashboard + Browser Extension + RESTful API |
+| [COVID-19 en Perú](https://castagnetto.site/peru/dashboard-peru-covid-19.html) | COVID-19: Casos totales tamizados en el Perú |
 
 #### Android Apps
 
