@@ -74,7 +74,8 @@
         "daveselinger/covid-19-hackathon",
         "midas-network/COVID-19",
         "neherlab/covid19_scenarios",
-        "Mythobeast/epidemicmodels"
+        "Mythobeast/epidemicmodels",
+        "institutefordiseasemodeling/covasim"
       ]
     },
     {
