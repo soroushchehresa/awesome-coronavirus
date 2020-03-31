@@ -313,6 +313,16 @@
           "title": "COVID-2019.es",
           "url": "http://covid-2019.es",
           "description": "Spain coronavirus tracker. Offers daily JSON data parsed from official government sources."
+        },
+        {
+          "title": "viruscovid.tech (COVID-19 Tracker)",
+          "url": "https://viruscovid.tech",
+          "description": "Track the spread of the COVID-19 outbreak in real-time for your country."
+        },
+        {
+          "title": "CoronaTab",
+          "url": "https://coronatab.app",
+          "description": "Free & Open Source Dashboard + Browser Extension + RESTful API"
         }
       ]
     },
@@ -348,6 +358,11 @@
           "title": "Reach4Help",
           "url": "https://www.reach4help.org",
           "description": "Connecting Persons In Need with Volunteers in a simple and efficient way."
+        },
+        {
+          "title": "COVID-19 Tracker for Xamarin.Forms",
+          "url": "https://github.com/anaselhajjaji/covid19.xamarin.forms",
+          "description": "Simple Xamarin.Forms Application for COVID-19 statistics, it shows the differents statistics by countries. Application deployed in: [Microsoft AppCenter](https://install.appcenter.ms/users/elhajjajianas/apps/covid19/distribution_groups/public%20release)"
         }
       ]
     },
