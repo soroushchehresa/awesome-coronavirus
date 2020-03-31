@@ -23,6 +23,7 @@ const currentStatusData = require('../data/current-status.json');
 const contentsData = require('../data/contents.json');
 const educationData = require('../data/education.json');
 const booksData = require('../data/books.json');
+const hackathonsData = require('../data/hackathons.json');
 
 const github = new GitHubApi({
   debug: DEBUG,
@@ -82,6 +83,7 @@ Promise
       currentStatus: currentStatusData,
       education: educationData,
       books: booksData,
+      hackathons: hackathonsData,
     };
     const template = fs.readFileSync(templateFilePath, 'utf8');
     const markdown = ejs.render(template, data);
