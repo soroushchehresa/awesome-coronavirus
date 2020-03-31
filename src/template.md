@@ -93,6 +93,13 @@ If you are a developer, you may also be able to contribute to some of these proj
 <% for (i in interactiveApplications.list) { %>| [<%= interactiveApplications.list[i].title %>](<%= interactiveApplications.list[i].url %>) | <%= interactiveApplications.list[i].description %> |
 <% } %>
 
+## <%= hackathons.title %>
+
+| Link  | Description  |
+|:------|:-------------|
+<% for (i in hackathons.list) { %>| [<%= hackathons.list[i].title %>](<%= hackathons.list[i].url %>) | <%= hackathons.list[i].description %> |
+<% } %>
+
 ## <%= currentStatus.title %>
 
 | Link  | Description  |
