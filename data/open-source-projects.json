@@ -163,6 +163,6 @@
       "repositories": [
         "SolaceLabs/jhu-covid19-stream-processors"
       ]
-    },
+    }
   ]
 }
