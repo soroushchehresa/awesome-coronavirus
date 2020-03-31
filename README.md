@@ -34,6 +34,7 @@ If you are a developer, you may also be able to contribute to some of these proj
   - [Packages and Scripts](#packages-and-scripts)
   - [CLI](#cli)
   - [Hardware](#hardware)
+  - [Data Stream](#data-stream)
 
 - [Applications](#applications)
   - [Web Apps](#web-apps)
@@ -164,6 +165,7 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 124 | [@jakobzhao](https://github.com/jakobzhao)/[**virus**](https://github.com/jakobzhao/virus) | Noval Coronavirus Infection Map |
  | 70 | [@konradkalemba](https://github.com/konradkalemba)/[**korona.ws**](https://github.com/konradkalemba/korona.ws) | 🗺 Coronavirus interactive map of Poland  |
  | 46 | [@antonlukin](https://github.com/antonlukin)/[**2019-nCoV**](https://github.com/antonlukin/2019-nCoV) | Wuhan coronavirus outbreak |
+ | 14 | [@reach4help](https://github.com/reach4help)/[**reach4help**](https://github.com/reach4help/reach4help) | Main Monorepo for Reach4Help Aid |
  | 13 | [@par6n](https://github.com/par6n)/[**ncov-19**](https://github.com/par6n/ncov-19) | A simple page featuring an interactive map presenting nCoV-19 spread in Iran |
  | 2 | [@ankitchouhan1020](https://github.com/ankitchouhan1020)/[**corona**](https://github.com/ankitchouhan1020/corona) | Map of confirmed coronavirus cases in India |
 
@@ -231,6 +233,12 @@ If you are a developer, you may also be able to contribute to some of these proj
 |:-----------:|:-------------|:-------------|
  | 1492 | [@jcl5m1](https://github.com/jcl5m1)/[**ventilator**](https://github.com/jcl5m1/ventilator) | Low-Cost Open Source Ventilator or PAPR |
  | 119 | [@ProtofyTeam](https://github.com/ProtofyTeam)/[**OxyGEN**](https://github.com/ProtofyTeam/OxyGEN) | OxyGEN |
+
+#### Data Stream
+
+| :star2:     | Repository   | Description  |
+|:-----------:|:-------------|:-------------|
+ | 7 | [@SolaceLabs](https://github.com/SolaceLabs)/[**jhu-covid19-stream-processors**](https://github.com/SolaceLabs/jhu-covid19-stream-processors) | Stream Information &amp; Example Applications for Processing JHU COVID-19 data available as streams over Solace |
 
 
 
