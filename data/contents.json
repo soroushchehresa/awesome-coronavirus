@@ -45,6 +45,10 @@
         {
           "title": "Hardware",
           "anchor": "hardware"
+        },
+        {
+          "title": "Data Stream",
+          "anchor": "data-stream"
         }
       ]
     },
