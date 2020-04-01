@@ -378,6 +378,11 @@
           "title": "COVID-19 Tracker for Xamarin.Forms",
           "url": "https://github.com/anaselhajjaji/covid19.xamarin.forms",
           "description": "Simple Xamarin.Forms Application for COVID-19 statistics, it shows the differents statistics by countries. Application deployed in: [Microsoft AppCenter](https://install.appcenter.ms/users/elhajjajianas/apps/covid19/distribution_groups/public%20release)"
+        },
+        {
+          "title": "Vironator",
+          "url": "https://github.com/dabigjoe6/react-native-covid19",
+          "description": "A React Native app created to track COVID-19 cases and also provide users with important information."
         }
       ]
     },
