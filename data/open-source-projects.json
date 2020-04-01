@@ -76,7 +76,8 @@
         "midas-network/COVID-19",
         "neherlab/covid19_scenarios",
         "Mythobeast/epidemicmodels",
-        "institutefordiseasemodeling/covasim"
+        "institutefordiseasemodeling/covasim",
+        "p-j-r/covid-19"
       ]
     },
     {
