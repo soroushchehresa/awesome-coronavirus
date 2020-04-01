@@ -174,7 +174,7 @@
       ]
     },
     {
-      "category: "Plugin",
+      "category: "Plugins",
       "repositories" : [
         "ghaake/stay-home-snackbar"
       ]
