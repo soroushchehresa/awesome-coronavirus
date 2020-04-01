@@ -253,6 +253,11 @@
           "title": "Help with COVID",
           "url": "https://helpwithcovid.com",
           "description": "COVID-19 projects looking for volunteers"
+        },
+        {
+          "title": "COVID-19 projects aggregator",
+          "url": "https://covid19projects.now.sh",
+          "description": "COVID-19 projects in one place"
         }
       ]
     },
