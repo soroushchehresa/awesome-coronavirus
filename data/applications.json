@@ -328,6 +328,11 @@
           "title": "COVID-19 en Perú",
           "url": "https://castagnetto.site/peru/dashboard-peru-covid-19.html",
           "description": "COVID-19: Casos totales tamizados en el Perú"
+        },
+        {
+          "title": "COVID-19 Türkiye",
+          "url": "https://ozdemirburak.com/koronavirus-haritasi",
+          "description": "Coronavirus dashboard and map in Turkish."
         }
       ]
     },
