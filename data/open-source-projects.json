@@ -146,7 +146,8 @@
         "eebrown/data2019nCoV",
         "pdtyreus/coronavirus-ds",
         "eebrown/data2019nCoV",
-        "benhur07b/covid19-load-qgis"
+        "benhur07b/covid19-load-qgis",
+        "ghaake/stay-home-snackbar"
       ]
     },
     {
