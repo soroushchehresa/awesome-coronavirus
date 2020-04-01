@@ -172,6 +172,12 @@
       "repositories": [
         "SolaceLabs/jhu-covid19-stream-processors"
       ]
+    },
+    {
+      "category: "Plugin",
+      "repositories" : [
+        "ghaake/stay-home-snackbar"
+      ]
     }
   ]
 }
