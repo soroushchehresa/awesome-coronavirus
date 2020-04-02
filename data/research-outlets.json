@@ -40,6 +40,11 @@
       "title": "Springer Nature",
       "url": "https://www.springernature.com/gp/researchers/campaigns/coronavirus",
       "description": "Springer Nature campaign page."
-    }
+    },
+    {
+      "title": "COVID-19 Open Research Dataset (CORD-19)",
+      "url": "https://pages.semanticscholar.org/coronavirus-research",
+      "description": "Coronavirus papers in machine-readable (JSON) format."
+    }    
   ]
 }
