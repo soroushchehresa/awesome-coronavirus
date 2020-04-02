@@ -88,6 +88,11 @@
           "title": "Covid19 live update",
           "url": "https://t.me/covid19liveupdate",
           "description": "Coronavirus outbreak COVID-19 live situation update."
+        },
+        {
+          "title": "COVID-19 Norway",
+          "url": "https://t.me/covid19norge",
+          "description": "Live Coronavirus-statistics in Norway."
         }
       ]
     },
