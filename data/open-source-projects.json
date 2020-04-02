@@ -68,7 +68,6 @@
     {
       "category": "Models",
       "repositories": [
-        "funcional-health-analytics/covid19-analytics",
         "HopkinsIDD/ncov_incubation",
         "coronafighter/coronaSEIR",
         "pennsignals/chime",
@@ -77,7 +76,8 @@
         "neherlab/covid19_scenarios",
         "Mythobeast/epidemicmodels",
         "institutefordiseasemodeling/covasim",
-        "p-j-r/covid-19"
+        "p-j-r/covid-19",
+        "funcional-health-analytics/covid19-analytics"
       ]
     },
     {
