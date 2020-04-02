@@ -68,6 +68,7 @@
     {
       "category": "Models",
       "repositories": [
+        "funcional-health-analytics/covid19-analytics",
         "HopkinsIDD/ncov_incubation",
         "coronafighter/coronaSEIR",
         "pennsignals/chime",
