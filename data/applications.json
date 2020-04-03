@@ -378,6 +378,11 @@
           "title": "COVID-19 Tracker for Xamarin.Forms",
           "url": "https://github.com/anaselhajjaji/covid19.xamarin.forms",
           "description": "Simple Xamarin.Forms Application for COVID-19 statistics, it shows the differents statistics by countries. Application deployed in: [Microsoft AppCenter](https://install.appcenter.ms/users/elhajjajianas/apps/covid19/distribution_groups/public%20release)"
+        },
+        {
+          "title": "Corona Tracker",
+          "url": "https://github.com/varundeva/CoronaTracker",
+          "description": "A Simple application to track Global,country, state and distrcict wise corona details. State and District available for India only"
         }
       ]
     },
