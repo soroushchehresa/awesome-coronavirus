@@ -235,6 +235,7 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 75 | [@garrylachman](https://github.com/garrylachman)/[**covid19-cli**](https://github.com/garrylachman/covid19-cli) | Corona Virus (Covid 19) BASH Tracking CLI |
  | 24 | [@MouadBH](https://github.com/MouadBH)/[**coronapy-cli**](https://github.com/MouadBH/coronapy-cli) | A command line tool in python to fetch worldwide data about COVID-19 |
  | 3 | [@soroushchehresa](https://github.com/soroushchehresa)/[**cli-corona**](https://github.com/soroushchehresa/cli-corona) | 📈 Track the COVID-19 (2019 novel Coronavirus) in the command line |
+ | 6 | [@OpenGene](https://github.com/OpenGene)/[**fastv**](https://github.com/OpenGene/fastv) | An ultra-fast tool to detect viral sequence from sequencing data for detection of viral infectious diseases, like COVID-19 |
 
 #### Hardware
 
