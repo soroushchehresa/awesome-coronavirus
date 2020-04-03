@@ -155,6 +155,7 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 7 | [@funcional-health-analytics](https://github.com/funcional-health-analytics)/[**covid19-analytics**](https://github.com/funcional-health-analytics/covid19-analytics) | Analysis of the COVID19 outbreak in Brazil mainly through epidemic and hospitalization models, by the Health Analytics and Prospera consulting business units of Funcional Heatlh Tech. |
  | 4 | [@daveselinger](https://github.com/daveselinger)/[**covid-19-hackathon**](https://github.com/daveselinger/covid-19-hackathon) | COVID state-by-state analysis. Please look at by_state_covid_analysis.ipynb. It can be opened directly into Google Colab. See the readme below for accompanying video and summary result presentations. |
  | 4 | [@Mythobeast](https://github.com/Mythobeast)/[**epidemicmodels**](https://github.com/Mythobeast/epidemicmodels) | SIR, SEIR, and beyond |
+ | 3 | [@WARMTeam](https://github.com/WARMTeam)/[**CoVid19**](https://github.com/WARMTeam/CoVid19) | A collection of GAMA (http://gama-platform.org) models on various aspects of the CoVid19 pandemics  |
  | 1 | [@p-j-r](https://github.com/p-j-r)/[**covid-19**](https://github.com/p-j-r/covid-19) | Mathematical modelling for the spread of the novel coronavirus. SIR, stochastic, Gillespie and beyond! |
 
 #### Learning
