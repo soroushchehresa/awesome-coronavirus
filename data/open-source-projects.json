@@ -62,7 +62,9 @@
         "nytimes/covid-19-data",
         "cipriancraciun/covid19-datasets",
         "colaboradados/colaboradados.github.io",
-        "jmcastagnetto/covid-19-peru-data"
+        "jmcastagnetto/covid-19-peru-data",
+        "ieee8023/covid-chestxray-dataset",
+        "FoldingAtHome/coronavirus"
       ]
     },
     {
