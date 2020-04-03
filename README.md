@@ -467,6 +467,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [#WirvsVirus: hacking to fight the crisis](https://www.deutschland.de/en/topic/knowledge/hackathon-on-corona-wirvsvirus-brings-solutions) | The Federal Government&#39;s &#39;Hackathon&#39; has yielded lots of suggestions for solving problems to do with the Corona crisis. This was Germany&#39;s biggest digital competition of ideas to date. |
 | [Official COVID-19 hackathon in Sweden](https://www.hackthecrisis.se) | Official COVID-19 hackathon in Sweden. An initiative by The Swedish Government. |
 | [StudentsAgainstCorona](https://www.facebook.com/groups/485526048998480) | A Facebook group for students want to help about Coronavirus. |
+| [IBM call for code - COVID-19](https://developer.ibm.com/callforcode/getstarted/covid-19/) | With the unprecedented effect of COVID-19, unite to help communities across the globe deal with the impact of the greatest crisis of modern times. |
 | [#hackfromhome](https://www.hackfromhome.com) | An anti-viral virtual hackathon. |
 
 
