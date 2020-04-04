@@ -22,6 +22,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 
 ## Contents
+- [Contribution Guidelines](/contributing.md)
 - [Get to Know](#get-to-know)
 
 - [Open Source Projects](#open-source-projects)
@@ -493,7 +494,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 |:------|:-------------|
 | [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) | World Health Orginization. |
 | [CDC](https://www.cdc.gov/coronavirus/2019-ncov/about/index.html) | Center for Disease control. |
-| [ECDC](https://www.ecdc.europa.eu/en/novel-coronavirus-china) |  European Centre for Disease Prevention and Control |
+| [ECDC](https://www.ecdc.europa.eu/en/covid-19-pandemic) |  European Centre for Disease Prevention and Control |
 
 
 ## Donation and Sponsoring
