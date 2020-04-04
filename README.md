@@ -111,7 +111,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 |:-----------:|:-------------|:-------------|
  | 18946 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
  | 3533 | [@nytimes](https://github.com/nytimes)/[**covid-19-data**](https://github.com/nytimes/covid-19-data) | An ongoing repository of data on coronavirus cases and deaths in the U.S. |
- | 3030 | [@pcm-dpc](https://github.com/pcm-dpc)/[**COVID-19**](https://github.com/pcm-dpc/COVID-19) | COVID-19 Italia - Monitoraggio situazione |
+ | 3031 | [@pcm-dpc](https://github.com/pcm-dpc)/[**COVID-19**](https://github.com/pcm-dpc/COVID-19) | COVID-19 Italia - Monitoraggio situazione |
  | 1496 | [@ieee8023](https://github.com/ieee8023)/[**covid-chestxray-dataset**](https://github.com/ieee8023/covid-chestxray-dataset) | We are building an open database of COVID-19 cases with chest X-ray or CT images. |
  | 1342 | [@BlankerL](https://github.com/BlankerL)/[**DXY-COVID-19-Data**](https://github.com/BlankerL/DXY-COVID-19-Data) | 2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse |
  | 988 | [@FoldingAtHome](https://github.com/FoldingAtHome)/[**coronavirus**](https://github.com/FoldingAtHome/coronavirus) | Folding@home COVID-19 efforts |
@@ -394,6 +394,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [Covid19 live update](https://t.me/covid19liveupdate) | Coronavirus outbreak COVID-19 live situation update. |
 | [COVID-19 Norway](https://t.me/covid19norge) | Live Coronavirus-statistics in Norway. |
 | [Coronavirus Germany Chat](https://t.me/CoronavirusGermanyChat) | Super-group for News, Informationen, Updates &amp; Austausch zum Thema Coronavirus in Germany. |
+| [@COVID19NowBot](https://t.me/COVID19NowBot) | A bot that can fetch information and numbers of COVID-19 cases around the globe. Available in 🇺🇸, 🇧🇷, 🇫🇷. |
 | [Covid19India](https://t.me/CoronaUpdateLatest) | Telegram Channel for Latest Corona Virus Updates in India. |
 
 #### WhatsApp
