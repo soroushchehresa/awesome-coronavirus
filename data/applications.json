@@ -338,6 +338,11 @@
           "title": "COVID-19 projects aggregator",
           "url": "https://covid19projects.now.sh?source=awesome-coronavirus-github",
           "description": "COVID-19 projects in one place"
+        },
+        {
+          "title": "stats-coronavirus.com",
+          "url": "https://stats-coronavirus.com",
+          "description": "STATS-CORONAVIRUS.com is an open source project that aims to collect data about the Novel Cornavirus. It acts as a portal for the public to keep track of the latest analytics and news development about the COVID-19"
         }
       ]
     },
