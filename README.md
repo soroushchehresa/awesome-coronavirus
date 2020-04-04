@@ -281,7 +281,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [COVID19Japan.com](https://COVID19Japan.com) | Japan COVID-19 Coronavirus Tracker. |
 | [coronavirus.visualdatahq.com](https://coronavirus.visualdatahq.com) | Coronavirus Tracker. |
 | [go.gov.sg/covid-19-dashboard](https://go.gov.sg/covid-19-dashboard) | Official Update of COVID -19 Situation in Singapore. |
-| [shiny.john-coene.com/coronavirus](https://shiny.john-coene.com/coronavirus) | Coronavirus Tracker. |
+| [shiny.john-coene.com/coronavirus](https://shiny.john-coene.com/coronavirus/) | Coronavirus Tracker. |
 | [corona.rade.ir](https://corona.rade.ir) | نقشه‌ی مبتلایان به ویروس COVID-19 در ایران. |
 | [coronavirus.zone](https://coronavirus.zone) | Outbreak map of novel coronavirus 2019-nCoV. |
 | [balad.ir](https://balad.ir/search/corona-test-hospitals) | مراکز درمانی ویژه کرونا بر روی نقشه. |
@@ -303,19 +303,19 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [Covid-19 statistics](https://souryvath.github.io/ng-covid-19) | Web app to get covid-19 statistics around the world, built for french people. |
 | [Covid-19 Philippines](https://covid19ph.com) | Website to get covid-19 statistics for the Philippines. |
 | [Official Covid-19 Philippines](https://ncovtracker.doh.gov.ph/) | Official government website for tracking covid-19 for the Philippines. |
-| [Coronavirus Monitor](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit) | Coronavirus monitor, mainly for Germany. |
-| [Covid-19 in Morocco](http://covidmaroc.ma/) | Morocco COVID-19 Coronavirus Tracker. |
+| [Coronavirus Monitor](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/) | Coronavirus monitor, mainly for Germany. |
+| [Covid-19 in Morocco](http://www.covidmaroc.ma/) | Morocco COVID-19 Coronavirus Tracker. |
 | [CORONAFLASH](https://coronaflash.com) | World-wide Coronavirus stats and predictions, and a toilet-paper predictor. |
 | [California Coronavirus](https://californiacoronavirus.org/) | California Coronavirus Map. |
-| [COVID-19 World dashboard](https://cov19.xyz) | Coronavirus outbreak COVID-19 World dashboard. Data updated everyminute, for every country, state/region, province/city. |
+| [COVID-19 World dashboard](https://www.cov19.xyz/) | Coronavirus outbreak COVID-19 World dashboard. Data updated everyminute, for every country, state/region, province/city. |
 | [class4corona](https://class4corona.com) | Teach/learn during the global pandemic. |
 | [corona helden](https://corona-helden-app-prod.azurewebsites.net/search) | Platform to connect medical institutions with qualified helpers in case of health care system overload (prototype, oss). |
 | [GocoronaGo](https://gocoronago.ml) | GocoronaGo website shows the latest COVID-19 (CoronaVirus) stats in India along with charts, maps and Growth Rate. |
 | [coronastatistics.live](https://coronastatistics.live) | Get the latest toll numbers for the Novel Coronavirus epidemic, see affected regions, stats, casualties and more information to track, stay vigilant and travel safe. |
-| [covidstatus.com](http://covidstatus.com) | CovidStatus - A location-aware app with clean UI that puts you at the center of local covid-19 news with realtime updates. |
+| [covidstatus.com](https://covidstatus.com/) | CovidStatus - A location-aware app with clean UI that puts you at the center of local covid-19 news with realtime updates. |
 | [COVID-19 Tracker Ita](https://polilluminato.github.io/covid19trackerita/) | Charts with the data on the emergency of Codiv-19 in Italy with data provided by the Department of Civil Protection. |
 | [worldcoronavirus.org](https://worldcoronavirus.org) | Coronavirus (COVID-19) Pandemic Global Information &amp; Statistics. |
-| [worldometers.info](https://www.worldometers.info/coronavirus) | Coronavirus Live Update Stats. |
+| [worldometers.info](https://www.worldometers.info/coronavirus/) | Coronavirus Live Update Stats. |
 | [COVID-19 Tracker For Pakistan](https://pakistan-covid19.herokuapp.com) | COVID 19 Tracker For Pakistan. |
 | [Help with COVID](https://helpwithcovid.com) | COVID-19 projects looking for volunteers. |
 | [COVID19 statistics Pakistan](https://covid-19-pk.herokuapp.com) | COVID-19 Data Tracker For Pakistan. |
@@ -324,12 +324,12 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [CVOID-19 India](https://covid-19india.netlify.com) | Covid 19 Tracker for India With Awesome UI + PWA, Made with Svelte. |
 | [rona19.live](https://rona19.live) | Web app displaying COVID-19 statistics and information. |
 | [covidtrack.net](https://covidtrack.net) | SVG map of Covid Data via John Hopkins &amp; Covidtrack.com github.com/SeanQuinn781/react-maps-flask-covid. |
-| [2019ncov.chinacdc.cn](http://2019ncov.chinacdc.cn/2019-nCoV) | 新型冠状病毒肺炎疫情分布 |
+| [2019ncov.chinacdc.cn](http://2019ncov.chinacdc.cn/2019-nCoV/) | 新型冠状病毒肺炎疫情分布 |
 | [australia-covid19.herokuapp.com](https://australia-covid19.herokuapp.com) | Update of COVID-19 Situation in Australia.(Including New south wales situation) |
 | [The Cost of COVID-19](https://covidcost.now.sh) | Tracking the cost of COVID-19 across China, Europe and the United States in human lives and economies. |
 | [Flattening the curve - COVID-19 🦠](https://flattening-the-curve.commutatus.com) | A simple dashboard to track flattening of the curve by plotting the no.of active COVID-19 / Coronavirus cases over a period of time by countries. |
-| [covintern.com](https://covintern.com/jobs) | Internship cancellation tracker and remote internship aggregator for affected students. |
-| [COVID-2019.es](http://covid-2019.es) | Spain coronavirus tracker. Offers daily JSON data parsed from official government sources. |
+| [covintern.com](https://covintern.com/jobs/) | Internship cancellation tracker and remote internship aggregator for affected students. |
+| [COVID-2019.es](https://covid-2019.es/) | Spain coronavirus tracker. Offers daily JSON data parsed from official government sources. |
 | [viruscovid.tech (COVID-19 Tracker)](https://viruscovid.tech) | Track the spread of the COVID-19 outbreak in real-time for your country. |
 | [CoronaTab](https://coronatab.app) | Free &amp; Open Source Dashboard + Browser Extension + RESTful API |
 | [COVID-19 en Perú](https://castagnetto.site/peru/dashboard-peru-covid-19.html) | COVID-19: Casos totales tamizados en el Perú |
@@ -346,7 +346,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [~~Coronavirus Tracker - latest information and news~~](https://play.google.com/store/apps/details?id=com.R4yan.CoronavirusTracker) | Location based statistics, news, charts, maps based dashboard. |
 | [COVID-19 Tracker](https://github.com/madhavtripathi05/COVID_19_TRACKER) | A Minimal Design application made with Flutter for checking current info on Novel Corona Virus Outbreak. |
 | [Corona Tracker](https://github.com/PsychoDevs69/CoronaTracker) | Open Source project of an Android App for tracking corona virus spread, using public API. |
-| [Reach4Help](https://www.reach4help.org) | Connecting Persons In Need with Volunteers in a simple and efficient way. |
+| [Reach4Help](https://reach4help.org/) | Connecting Persons In Need with Volunteers in a simple and efficient way. |
 | [COVID-19 Tracker for Xamarin.Forms](https://github.com/anaselhajjaji/covid19.xamarin.forms) | Simple Xamarin.Forms Application for COVID-19 statistics, it shows the differents statistics by countries. Application deployed in: [Microsoft AppCenter](https://install.appcenter.ms/users/elhajjajianas/apps/covid19/distribution_groups/public%20release) |
 
 #### IOS Apps
@@ -425,7 +425,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [Coronavirus quarantine/lock down/work from home adventure](https://www.amazon.com/Find-Yourself-Wake-Stop-Freaking-ebook/dp/B0863HWXYV/ref=sr_1_5?crid=2T6ZLXTXJ0L7D&amp;dchild=1&amp;keywords=coronavirus&amp;qid=1584822799&amp;s=books&amp;sprefix=corona%2Caps%2C161&amp;sr=1-5) | You’ve wanted to make a change for some time, maybe wishing you could just escape to a retreat for a couple of weeks to get your head on straight. Well, it might not be Bali, but it’s a break, and you should take advantage! |
 | [The 2020 Coronavirus Recession Economic Crisis Series Bundle](https://www.amazon.com/Coronavirus-Recession-Economic-Crisis-Bundle-ebook/dp/B0863LF494/ref=sr_1_4?crid=2T6ZLXTXJ0L7D&amp;dchild=1&amp;keywords=coronavirus&amp;qid=1584822799&amp;s=books&amp;sprefix=corona%2Caps%2C161&amp;sr=1-4) | Books 1-4: How to Prepare for the Market Crash, How to Get Rich During the Market Crash, ... Guide (The 2020 Recession Economic Crisis) |
 | [Corona-Virus Wissenswertes und Tipps](https://www.amazon.com/Corona-Virus-Wissenswertes-Tipps-50-seitiger-%C3%9Cberlebensleitfaden-ebook/dp/B085YD1V8T/ref=sr_1_2?crid=2T6ZLXTXJ0L7D&amp;dchild=1&amp;keywords=coronavirus&amp;qid=1584822799&amp;s=books&amp;sprefix=corona%2Caps%2C161&amp;sr=1-2) | Wie Sie sich und Ihre Familie schützen; 50-seitiger Überlebensleitfaden (German Edition) |
-| [Medical Microbiology - 4th edition](https://www.ncbi.nlm.nih.gov/books/NBK7627) | Medical Microbiology begins with a review of the immune system, focusing on the body&#39;s response to invading microorganisms. |
+| [Medical Microbiology - 4th edition](https://www.ncbi.nlm.nih.gov/books/NBK7627/) | Medical Microbiology begins with a review of the immune system, focusing on the body&#39;s response to invading microorganisms. |
 | [Answers to Your Coronavirus Questions](https://www.nytimes.com/article/free-e-book-answers-to-your-coronavirus-questions.html) | Covid-19 cases continue to be confirmed. By following some basic steps, you can help reduce your risk and do your part to protect others. |
 | [Novel coronavirus (COVID-19) infection](https://www.elsevier.com/__data/assets/pdf_file/0010/977698/novel-coronavirus-covid-19-infection-12-Mar-20.pdf) | Clinical Overviews are easy-to-scan clinically focused medical topic summaries designed to match the clinician workflow. |
 | [Clinical Skills for Nursing - Skills checklist (Isolation Precautions and Personal Protective Equipment)](https://www.elsevier.com/__data/assets/pdf_file/0010/977698/novel-coronavirus-covid-19-infection-12-Mar-20.pdf) | Clinical Skills for Nursing provides the highest quality evidence for nursing practice procedures for nurses to care for patients. |
@@ -454,14 +454,14 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [Jama Network](https://jamanetwork.com/journals/jama/pages/coronavirus-alert) | A variery of papers that span clinicians and researchers. |
 | [Springer Nature](https://www.springernature.com/gp/researchers/campaigns/coronavirus) | Springer Nature campaign page. |
 | [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research) | Coronavirus papers in machine-readable (JSON) format. |
-| [COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility) | Google&#39;s Community Mobility Reports aimed to provide insights into what has changed in response to policies aimed at combating COVID-19. |
+| [COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/) | Google&#39;s Community Mobility Reports aimed to provide insights into what has changed in response to policies aimed at combating COVID-19. |
 
 
 ## Interactive Applications
 
 | Link  | Description  |
 |:------|:-------------|
-| [University of Virginia: COVID-19 Surveillance Dashboard](http://nssac.bii.virginia.edu/covid-19/dashboard) | Dashboard showing. |
+| [University of Virginia: COVID-19 Surveillance Dashboard](https://nssac.bii.virginia.edu/covid-19/dashboard) | Dashboard showing. |
 | [Johns Hopkins CSSE: Coronavirus COVID-19 Global Cases](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) | Dashboard application providing interaction to global case data. |
 | [WHO Novel Coronavirus (COVID-19) Situation](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd) | WHO data visualization page. |
 | [Worldometer](https://www.worldometers.info/coronavirus) | Showcasing coronavirus stats. |
@@ -492,7 +492,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 |:------|:-------------|
 | [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) | World Health Orginization. |
 | [CDC](https://www.cdc.gov/coronavirus/2019-ncov/about/index.html) | Center for Disease control. |
-| [ECDC](https://www.ecdc.europa.eu/en/novel-coronavirus-china) |  European Centre for Disease Prevention and Control |
+| [ECDC](https://www.ecdc.europa.eu/en/covid-19-pandemic) |  European Centre for Disease Prevention and Control |
 
 
 ## Donation and Sponsoring
