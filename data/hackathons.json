@@ -25,6 +25,16 @@
       "title": "StudentsAgainstCorona",
       "url": "https://www.facebook.com/groups/485526048998480",
       "description": "A Facebook group for students want to help about Coronavirus."
+    },
+    {
+      "title": "IBM call for code - COVID-19",
+      "url": "https://developer.ibm.com/callforcode/getstarted/covid-19/",
+      "description": "With the unprecedented effect of COVID-19, unite to help communities across the globe deal with the impact of the greatest crisis of modern times."
+    },
+    {
+      "title": "#hackfromhome",
+      "url": "https://www.hackfromhome.com",
+      "description": "An anti-viral virtual hackathon."
     }
   ]
 }
