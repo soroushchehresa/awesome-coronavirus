@@ -98,6 +98,11 @@
           "title": "Coronavirus Germany Chat",
           "url": "https://t.me/CoronavirusGermanyChat",
           "description": "Super-group for News, Informationen, Updates & Austausch zum Thema Coronavirus in Germany."
+        },
+        {
+          "title": "@COVID19NowBot",
+          "url": "https://t.me/COVID19NowBot",
+          "description": "A bot that can fetch information and numbers of COVID-19 cases around the globe. Available in 🇺🇸, 🇧🇷, 🇫🇷."
         }
       ]
     },
