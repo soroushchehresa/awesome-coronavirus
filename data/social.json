@@ -43,6 +43,11 @@
           "title": "The COVID Tracking Project",
           "url": "https://twitter.com/COVID19Tracking",
           "description": "Comprehensive US state-level coronavirus testing data"
+        },
+        {
+          "title": "GoCoronaBot India",
+          "url": "https://twitter.com/GoCoronaBot",
+          "description": "Bot that tweets the latest coronavirus stats in India."
         }
       ]
     },
@@ -98,6 +103,11 @@
           "title": "Coronavirus Germany Chat",
           "url": "https://t.me/CoronavirusGermanyChat",
           "description": "Super-group for News, Informationen, Updates & Austausch zum Thema Coronavirus in Germany."
+        },
+        {
+          "title": "Covid19India",
+          "url": "https://t.me/CoronaUpdateLatest",
+          "description": "Telegram Channel for Latest Corona Virus Updates in India."
         }
       ]
     },
