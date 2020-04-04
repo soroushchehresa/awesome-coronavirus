@@ -22,7 +22,6 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 
 ## Contents
-- [Contribution Guidelines](/contributing.md)
 - [Get to Know](#get-to-know)
 
 - [Open Source Projects](#open-source-projects)
