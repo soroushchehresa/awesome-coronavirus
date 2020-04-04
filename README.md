@@ -375,6 +375,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [Coronavirus (COVID-19) Alerts](https://twitter.com/coronaviruscare) | #COVID19 (#Coronavirus) Alerts, News &amp; Info from reputed sources. Updates &amp; Verified Facts on #2019nCoV Research, Strategies &amp; Cures. Only truth, no rumours. |
 | [COVID19 Updates in Asia](https://twitter.com/SEACoronavirus) | Updates on #coronavirus #COVID19 #coronaoutbreak #SARSCoV2 #ไวรัสโคโรน่า #VirusCorona #코로나바이러스 #コロナウイルス in the Larger Western Pacific Region. |
 | [The COVID Tracking Project](https://twitter.com/COVID19Tracking) | Comprehensive US state-level coronavirus testing data |
+| [GoCoronaBot India](https://twitter.com/GoCoronaBot) | Bot that tweets the latest coronavirus stats in India. |
 
 #### Telegram
 
@@ -390,6 +391,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [Covid19 live update](https://t.me/covid19liveupdate) | Coronavirus outbreak COVID-19 live situation update. |
 | [COVID-19 Norway](https://t.me/covid19norge) | Live Coronavirus-statistics in Norway. |
 | [Coronavirus Germany Chat](https://t.me/CoronavirusGermanyChat) | Super-group for News, Informationen, Updates &amp; Austausch zum Thema Coronavirus in Germany. |
+| [Covid19India](https://t.me/CoronaUpdateLatest) | Telegram Channel for Latest Corona Virus Updates in India. |
 
 #### WhatsApp
 
