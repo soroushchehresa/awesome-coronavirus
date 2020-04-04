@@ -63,9 +63,12 @@
         "cipriancraciun/covid19-datasets",
         "colaboradados/colaboradados.github.io",
         "jmcastagnetto/covid-19-peru-data",
+        "UCSD-AI4H/COVID-CT",
+        "openZH/covid_19",
         "ieee8023/covid-chestxray-dataset",
         "FoldingAtHome/coronavirus",
-        "cjvanlissa/COVID19_metadata"
+        "cjvanlissa/COVID19_metadata",
+        "AlaeddineMessadi/COVID-19-REPORT-DASHBOARD"
       ]
     },
     {
@@ -81,7 +84,8 @@
         "institutefordiseasemodeling/covasim",
         "p-j-r/covid-19",
         "funcional-health-analytics/covid19-analytics",
-        "WARMTeam/CoVid19"
+        "WARMTeam/CoVid19",
+        "ImperialCollegeLondon/covid19model"
       ]
     },
     {
@@ -140,7 +144,8 @@
         "nploi/corona_tracker",
         "helloworldkr/Bluetooth-ble-beamer-and-scanner-for-tracing-corona-virus-infected-individual",
         "boogheta/coronavirus-countries",
-        "onl1ner/CovidKazakhstan"
+        "onl1ner/CovidKazakhstan",
+        "dabigjoe6/react-native-covid19"
       ]
     },
     {
