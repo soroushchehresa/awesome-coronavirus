@@ -22,7 +22,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 
 ## <%= contents.title %>
-[**Contribution Guidelines**](https://github.com/soroushchehresa/awesome-coronavirus/blob/master/contributing.md)
+- [Contribution Guidelines](/contributing.md)
 <% for (i in contents.list) { %>- [<%= contents.list[i].category %>](#<%= contents.list[i].anchor %>)
 <% for (j in contents.list[i].list) { %>  - [<%= contents.list[i].list[j].title %>](#<%= contents.list[i].list[j].anchor %>)
 <% } %>
