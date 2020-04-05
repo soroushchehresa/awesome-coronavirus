@@ -45,6 +45,11 @@
       "title": "COVID-19 Open Research Dataset (CORD-19)",
       "url": "https://pages.semanticscholar.org/coronavirus-research",
       "description": "Coronavirus papers in machine-readable (JSON) format."
-    }    
+    },
+    {
+      "title": "COVID-19 Community Mobility Reports",
+      "url": "https://www.google.com/covid19/mobility",
+      "description": "Google's Community Mobility Reports aimed to provide insights into what has changed in response to policies aimed at combating COVID-19."
+    }
   ]
 }
