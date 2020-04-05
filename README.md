@@ -41,7 +41,7 @@ If you are a developer, you may also be able to contribute to some of these proj
   - [Android Apps](#android-apps)
   - [IOS Apps](#ios-apps)
 
-- [Education](#education)
+- [Education and Courses](#education-and-courses)
 
 - [Social](#social)
   - [Twitter](#twitter)
