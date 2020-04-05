@@ -388,6 +388,11 @@
           "title": "MeFee Temp Tracker",
           "url": "https://mefee.org",
           "description": "MeFee lets you easily track your temperature to build up baseline data so that you can get personalized early warning notifications if your temperature is out of your normal range."
+        },
+        {
+          "title": "Covid Tracker",
+          "url": "https://github.com/destructo570/CovidTracker",
+          "description": "A minimal designed app to track current statistics of COVID-19 across the world and detailed state-wise statistics of India along with some other useful info about covid-19."
         }
       ]
     },
