@@ -353,7 +353,7 @@
           "title": "CoronaBoard",
           "url": "https://corona-board.soaple.endpoint.ainize.ai/",
           "description": "Global dashboard for monitoring Corona virus(COVID-19) powered by [StickyBoard](https://github.com/soaple/stickyboard/) open source project."
-        },
+        }
       ]
     },
     {
