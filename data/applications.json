@@ -348,6 +348,11 @@
           "title": "covidaid.ch",
           "url": "https://covidaid.ch",
           "description": "covidaid.ch is an open source website that aims to help swiss companies and entrepreneurs to calculate the amount of state aid they can get during the COVID 19 crisis."
+        },
+        {
+          "title": "CoronaBoard",
+          "url": "https://corona-board.soaple.endpoint.ainize.ai/",
+          "description": "Global dashboard for monitoring Corona virus(COVID-19) powered by [StickyBoard](https://github.com/soaple/stickyboard/) open source project."
         }
       ]
     },
