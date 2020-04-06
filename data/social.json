@@ -113,6 +113,11 @@
           "title": "Covid19India",
           "url": "https://t.me/CoronaUpdateLatest",
           "description": "Telegram Channel for Latest Corona Virus Updates in India."
+        },
+        {
+          "title": "@coronapandemicbot",
+          "url": "https://t.me/coronapandemicbot",
+          "description": "A bot that gives you up-to-date statistics on the worldwide spread of the COVID-19 disease."
         }
       ]
     },
