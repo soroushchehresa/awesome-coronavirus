@@ -339,6 +339,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [COVID-19 Türkiye](https://ozdemirburak.com/koronavirus-haritasi) | Coronavirus dashboard and map in Turkish. |
 | [COVID-19 projects aggregator](https://covid19projects.now.sh?source=awesome-coronavirus-github) | COVID-19 projects in one place |
 | [stats-coronavirus.com](https://stats-coronavirus.com) | STATS-CORONAVIRUS.com is an open source project that aims to collect data about the Novel Cornavirus. It acts as a portal for the public to keep track of the latest analytics and news development about the COVID-19 |
+| [CoronaBoard](https://corona-board.soaple.endpoint.ainize.ai/) | Global dashboard for monitoring Corona virus(COVID-19) powered by [StickyBoard](https://github.com/soaple/stickyboard/) open source project. |
 
 #### Android Apps
 
