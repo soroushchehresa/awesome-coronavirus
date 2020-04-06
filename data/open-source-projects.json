@@ -28,7 +28,8 @@
         "ryo-ma/covid19-japan-web-api",
         "AtilioA/COVID19-ES-Py",
         "pastelsky/covid-19-mobility-tracker",
-        "Laeyoung/COVID-19-API"
+        "Laeyoung/COVID-19-API",
+        "alegoritma/covid-19-lite"
       ]
     },
     {
