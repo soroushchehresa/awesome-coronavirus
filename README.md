@@ -113,7 +113,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 19481 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
+ | 19482 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
  | 3764 | [@nytimes](https://github.com/nytimes)/[**covid-19-data**](https://github.com/nytimes/covid-19-data) | An ongoing repository of data on coronavirus cases and deaths in the U.S. |
  | 3079 | [@pcm-dpc](https://github.com/pcm-dpc)/[**COVID-19**](https://github.com/pcm-dpc/COVID-19) | COVID-19 Italia - Monitoraggio situazione |
  | 1731 | [@covid19india](https://github.com/covid19india)/[**covid19india-react**](https://github.com/covid19india/covid19india-react) | 📊 Source code of the main website |
@@ -357,6 +357,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [~~Coronavirus Tracker - latest information and news~~](https://play.google.com/store/apps/details?id=com.R4yan.CoronavirusTracker) | Location based statistics, news, charts, maps based dashboard. |
 | [COVID-19 Tracker](https://github.com/madhavtripathi05/COVID_19_TRACKER) | A Minimal Design application made with Flutter for checking current info on Novel Corona Virus Outbreak. |
 | [Corona Tracker](https://github.com/PsychoDevs69/CoronaTracker) | Open Source project of an Android App for tracking corona virus spread, using public API. |
+| [Corona Finder](https://github.com/dastpeyman/corona_finder) | An Android application with language kotlin and java that shows the statistics of people with corona on the map using public API and informs a person about corona with a questionnaire. |
 | [Reach4Help](https://www.reach4help.org) | Connecting Persons In Need with Volunteers in a simple and efficient way. |
 | [COVID-19 Tracker for Xamarin.Forms](https://github.com/anaselhajjaji/covid19.xamarin.forms) | Simple Xamarin.Forms Application for COVID-19 statistics, it shows the differents statistics by countries. Application deployed in: [Microsoft AppCenter](https://install.appcenter.ms/users/elhajjajianas/apps/covid19/distribution_groups/public%20release) |
 | [MeFee Temp Tracker](https://mefee.org) | MeFee lets you easily track your temperature to build up baseline data so that you can get personalized early warning notifications if your temperature is out of your normal range. |
