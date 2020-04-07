@@ -358,6 +358,11 @@
           "title": "Corona Virüsü Bilgilendirme Merkezi",
           "url": "https://kov19.com",
           "description": "Coronavirus dashboard and map in Turkish. Also include other informations."
+        },
+        {
+          "title": "Coronavirus Chrome Extension",
+          "url": "https://chrome.google.com/webstore/detail/coronavirus-tips-new-tab/konbgoghafhpdebefnmcbbmbgoakjfkp",
+          "description": "A chrome extension to help promote the W.H.O. coronavirus guidelines."
         }
       ]
     },
