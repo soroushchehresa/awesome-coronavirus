@@ -390,6 +390,11 @@
           "description": "Open Source project of an Android App for tracking corona virus spread, using public API."
         },
         {
+          "title": "Corona Finder",
+          "url": "https://github.com/dastpeyman/corona_finder",
+          "description": "An Android application with language kotlin and java that shows the statistics of people with corona on the map using public API and informs a person about corona with a questionnaire."
+        },
+        {
           "title": "Reach4Help",
           "url": "https://www.reach4help.org",
           "description": "Connecting Persons In Need with Volunteers in a simple and efficient way."
