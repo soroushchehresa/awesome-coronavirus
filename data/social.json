@@ -43,6 +43,11 @@
           "title": "The COVID Tracking Project",
           "url": "https://twitter.com/COVID19Tracking",
           "description": "Comprehensive US state-level coronavirus testing data"
+        },
+        {
+          "title": "GoCoronaBot India",
+          "url": "https://twitter.com/GoCoronaBot",
+          "description": "Bot that tweets the latest coronavirus stats in India."
         }
       ]
     },
@@ -88,6 +93,31 @@
           "title": "Covid19 live update",
           "url": "https://t.me/covid19liveupdate",
           "description": "Coronavirus outbreak COVID-19 live situation update."
+        },
+        {
+          "title": "COVID-19 Norway",
+          "url": "https://t.me/covid19norge",
+          "description": "Live Coronavirus-statistics in Norway."
+        },
+        {
+          "title": "Coronavirus Germany Chat",
+          "url": "https://t.me/CoronavirusGermanyChat",
+          "description": "Super-group for News, Informationen, Updates & Austausch zum Thema Coronavirus in Germany."
+        },
+        {
+          "title": "@COVID19NowBot",
+          "url": "https://t.me/COVID19NowBot",
+          "description": "A bot that can fetch information and numbers of COVID-19 cases around the globe. Available in 🇺🇸, 🇧🇷, 🇫🇷."
+        },
+        {
+          "title": "Covid19India",
+          "url": "https://t.me/CoronaUpdateLatest",
+          "description": "Telegram Channel for Latest Corona Virus Updates in India."
+        },
+        {
+          "title": "@coronapandemicbot",
+          "url": "https://t.me/coronapandemicbot",
+          "description": "A bot that gives you up-to-date statistics on the worldwide spread of the COVID-19 disease."
         }
       ]
     },

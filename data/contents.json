@@ -45,6 +45,10 @@
         {
           "title": "Hardware",
           "anchor": "hardware"
+        },
+        {
+          "title": "Data Stream",
+          "anchor": "data-stream"
         }
       ]
     },
@@ -67,8 +71,8 @@
       ]
     },
     {
-      "category": "Education",
-      "anchor": "education",
+      "category": "Education and Courses",
+      "anchor": "education-and-courses",
       "list": []
     },
     {
@@ -106,6 +110,11 @@
     {
       "category": "Interactive Applications",
       "anchor": "interactive-applications",
+      "list": []
+    },
+    {
+      "category": "Hackathons",
+      "anchor": "hackathons",
       "list": []
     },
     {
