@@ -107,7 +107,7 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 4 | [@elias-garcia](https://github.com/elias-garcia)/[**covid-19-spain**](https://github.com/elias-garcia/covid-19-spain) | 🇪🇸 REST API which exposes all of the COVID-19 stats for Spain extracted from the official spanish government daily reports. |
  | 2 | [@episphere](https://github.com/episphere)/[**corona**](https://github.com/episphere/corona) | Exploring realtime interoperability with COVID-19 data |
  | 0 | [@AtilioA](https://github.com/AtilioA)/[**COVID19-ES-Py**](https://github.com/AtilioA/COVID19-ES-Py) | 🛠 API em Python para consulta de casos de COVID-19 no estado do Espírito Santo. |
- | 14 | [@LeafyCode](https://github.com/LeafyCode)/[**survive-together-web**](https://github.com/LeafyCode/survive-together-web) | This app allows people in countries which have imposed curfew to post what they need so who ever distribute them can find those in need. Also people who distribute items can post about their services. |
+ | 14 | [@LeafyCode](https://github.com/LeafyCode)/[**survive-together-web**](https://github.com/LeafyCode/survive-together-web) | Allows people in countries which have curfew to post what they need so who ever distribute them can find those in need. Also distributors can post about their services. |
 
 #### Statistics and Datasets
 
