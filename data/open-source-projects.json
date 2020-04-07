@@ -28,7 +28,8 @@
         "ryo-ma/covid19-japan-web-api",
         "AtilioA/COVID19-ES-Py",
         "pastelsky/covid-19-mobility-tracker",
-        "Laeyoung/COVID-19-API"
+        "Laeyoung/COVID-19-API",
+        "alegoritma/covid-19-lite"
       ]
     },
     {
@@ -55,7 +56,7 @@
         "globalcitizen/2019-wuhan-coronavirus-data",
         "arnoudbuzing/wolfram-coronavirus",
         "opencovid19-fr/data",
-        "covid19india/covid19india",
+        "covid19india/covid19india-react",
         "kalisio/covid-19",
         "OssamaRafique/Corona-Statistics-And-Tracker-Dashboard-Angular-9",
         "rfearing/temp-covid-resources",
@@ -154,7 +155,8 @@
         "varundeva/CoronaTracker",
         "destructo570/CovidTracker",
         "bluesquare-io/covid-19-app",
-        "calpt/CoronaPandemicBot"
+        "calpt/CoronaPandemicBot",
+        "njoyard/corona"
       ]
     },
     {
