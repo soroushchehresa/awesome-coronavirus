@@ -349,6 +349,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [covidaid.ch](https://covidaid.ch) | covidaid.ch is an open source website that aims to help swiss companies and entrepreneurs to calculate the amount of state aid they can get during the COVID 19 crisis. |
 | [CoronaBoard](https://corona-board.soaple.endpoint.ainize.ai/) | Global dashboard for monitoring Corona virus(COVID-19) powered by [StickyBoard](https://github.com/soaple/stickyboard/) open source project. |
 | [Corona Virüsü Bilgilendirme Merkezi](https://kov19.com) | Coronavirus dashboard and map in Turkish. Also include other informations. |
+| [covid19dashboards](https://covid19dashboards.com) | Site that offer an accessible way for data professionals to share dashboards (that are updated with new data automatically) without requiring any expertise in front-end development. |
 
 #### Android Apps
 
