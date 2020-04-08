@@ -363,6 +363,11 @@
           "title": "Coronavirus Chrome Extension",
           "url": "https://chrome.google.com/webstore/detail/coronavirus-tips-new-tab/konbgoghafhpdebefnmcbbmbgoakjfkp",
           "description": "A chrome extension to help promote the W.H.O. coronavirus guidelines."
+        },
+        {
+          "title": "covid19dashboards",
+          "url": "https://covid19dashboards.com",
+          "description": "an accessible way for data professionals to share dashboards (that are updated with new data automatically) without requiring any expertise in front-end development."
         }
       ]
     },
