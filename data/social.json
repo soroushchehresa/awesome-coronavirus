@@ -118,6 +118,11 @@
           "title": "@coronapandemicbot",
           "url": "https://t.me/coronapandemicbot",
           "description": "A bot that gives you up-to-date statistics on the worldwide spread of the COVID-19 disease."
+        },
+        {
+          "title": "@CovidRadar",
+          "url": "https://t.me/CovidRradarBot",
+          "description": "Coronavirus Cases: statistics, charts and trends"
         }
       ]
     },
