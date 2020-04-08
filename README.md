@@ -115,7 +115,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 19657 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
+ | 19659 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
  | 3813 | [@nytimes](https://github.com/nytimes)/[**covid-19-data**](https://github.com/nytimes/covid-19-data) | An ongoing repository of data on coronavirus cases and deaths in the U.S. |
  | 3085 | [@pcm-dpc](https://github.com/pcm-dpc)/[**COVID-19**](https://github.com/pcm-dpc/COVID-19) | COVID-19 Italia - Monitoraggio situazione |
  | 1821 | [@covid19india](https://github.com/covid19india)/[**covid19india-react**](https://github.com/covid19india/covid19india-react) | 📊 Source code of the main website |
@@ -353,6 +353,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [CoronaBoard](https://corona-board.soaple.endpoint.ainize.ai/) | Global dashboard for monitoring Corona virus(COVID-19) powered by [StickyBoard](https://github.com/soaple/stickyboard/) open source project. |
 | [Corona Virüsü Bilgilendirme Merkezi](https://kov19.com) | Coronavirus dashboard and map in Turkish. Also include other informations. |
 | [Coronavirus Chrome Extension](https://chrome.google.com/webstore/detail/coronavirus-tips-new-tab/konbgoghafhpdebefnmcbbmbgoakjfkp) | A chrome extension to help promote the W.H.O. coronavirus guidelines. |
+| [covid19dashboards](https://covid19dashboards.com) | an accessible way for data professionals to share dashboards (that are updated with new data automatically) without requiring any expertise in front-end development. |
 
 #### Android Apps
 
