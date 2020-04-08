@@ -30,7 +30,8 @@
         "pastelsky/covid-19-mobility-tracker",
         "Laeyoung/COVID-19-API",
         "alegoritma/covid-19-lite",
-        "covid19india/api"
+        "covid19india/api",
+        "yedhink/covid19-kerala-api"
       ]
     },
     {
