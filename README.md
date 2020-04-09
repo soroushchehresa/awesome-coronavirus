@@ -423,6 +423,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [@COVID19NowBot](https://t.me/COVID19NowBot) | A bot that can fetch information and numbers of COVID-19 cases around the globe. Available in 🇺🇸, 🇧🇷, 🇫🇷. |
 | [Covid19India](https://t.me/CoronaUpdateLatest) | Telegram Channel for Latest Corona Virus Updates in India. |
 | [@coronapandemicbot](https://t.me/coronapandemicbot) | A bot that gives you up-to-date statistics on the worldwide spread of the COVID-19 disease. |
+| [@CovidRadar](https://t.me/CovidRradarBot) | Coronavirus Cases: statistics, charts and trends |
 
 #### WhatsApp
 
