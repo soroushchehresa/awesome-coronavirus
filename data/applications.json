@@ -368,6 +368,11 @@
           "title": "covid19dashboards",
           "url": "https://covid19dashboards.com",
           "description": "an accessible way for data professionals to share dashboards (that are updated with new data automatically) without requiring any expertise in front-end development."
+        },
+        {
+          "title": "nCovid-19",
+          "url" : "https://ncovid-19.live",
+          "description": "Real-time worldwide and India(state-wise) Covid-19 statistics along with map."
         }
       ]
     },
