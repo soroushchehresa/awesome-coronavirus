@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<img src="/awesome-coronavirus.png" width="600px">
+	<img src="/awesome-coronavirus.png" width="550px">
 	<br>
 	<br>
 	<br>

@@ -373,6 +373,11 @@
           "title": "Corona Info - India",
           "url": "https://coronavirusapp.github.io",
           "description": "Coronavirus Mobile Dashboard for India - Live Statistics (Refreshes every minute) | Helpline Numbers | Risks & Precautions"
+        },
+        {
+          "title": "nCovid-19",
+          "url" : "https://ncovid-19.live",
+          "description": "Real-time worldwide and India(state-wise) Covid-19 statistics along with map."
         }
       ]
     },
