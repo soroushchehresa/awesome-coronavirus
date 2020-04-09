@@ -428,6 +428,11 @@
           "title": "MeFee Temp Tracker",
           "url": "https://mefee.org",
           "description": "MeFee lets you easily track your temperature to build up baseline data so that you can get personalized early warning notifications if your temperature is out of your normal range."
+        },
+        {
+          "title": "Corona Info - India",
+          "url": "https://coronavirusapp.github.io/android.html",
+          "description": "Coronavirus Mobile Dashboard for India - Live Statistics (Refreshes every minute) | Helpline Numbers | Risks & Precautions"
         }
       ]
     },
