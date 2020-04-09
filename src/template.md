@@ -13,12 +13,12 @@
 	<br>
 </div>
 
-# Awesome Coronavirus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://img.shields.io/github/license/soroushchehresa/awesome-coronavirus"> <img src="https://img.shields.io/travis/soroushchehresa/awesome-coronavirus" alt="build status">
+# Awesome Coronavirus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://img.shields.io/github/license/soroushchehresa/awesome-coronavirus"> <img src="https://img.shields.io/travis/soroushchehresa/awesome-coronavirus" alt="build status"> [<img src="https://img.shields.io/badge/sponsors-become%20a%20sponsor-blueviolet">](#donation-and-sponsoring)
 
 > Useful projects and resources for COVID-19 (2019 novel Coronavirus)
 
 COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers around the world are building applications for the public to get up-to-date and accurate information as quickly as possible. <br>
-If you are a developer, you may also be able to contribute to some of these projects. [[Contribution Guidelines](https://github.com/soroushchehresa/awesome-coronavirus/blob/master/contributing.md)]
+If you are a developer, you may also be able to contribute to some of these projects.
 
 
 ## <%= contents.title %>
@@ -93,6 +93,13 @@ If you are a developer, you may also be able to contribute to some of these proj
 <% for (i in interactiveApplications.list) { %>| [<%= interactiveApplications.list[i].title %>](<%= interactiveApplications.list[i].url %>) | <%= interactiveApplications.list[i].description %> |
 <% } %>
 
+## <%= hackathons.title %>
+
+| Link  | Description  |
+|:------|:-------------|
+<% for (i in hackathons.list) { %>| [<%= hackathons.list[i].title %>](<%= hackathons.list[i].url %>) | <%= hackathons.list[i].description %> |
+<% } %>
+
 ## <%= currentStatus.title %>
 
 | Link  | Description  |
@@ -116,7 +123,7 @@ Donate me with buying me some vitamins to boost my immune system during the coro
 
 <hr>
 
-You can become a sponsor of `awesome-coronavirus` and be placed at the top of this page under the logo. For this offer please contact me with the following Email address:
+You can become a sponsor of `awesome-coronavirus` and be placed at the top of this repository in the [sponsor's section](#sponsors). If you are interested to become a sponsor please contact me with the following Email address:
 #### `s1996ch@gmail.com`
 
 ## Contribution

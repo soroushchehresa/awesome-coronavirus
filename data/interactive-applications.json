@@ -45,6 +45,16 @@
       "title": "covid19-at: COVID-19 Live Dashboard - Austria",
       "url": "https://covid19.spiessknafl.at",
       "description": "COVID-19 Dashboard for Austria case data including maps"
+    },
+    {
+      "title": "Coronavirus Country Comparator",
+      "url": "https://boogheta.github.io/coronavirus-countries",
+      "description": "Rich web interface to control various d3.js visualizations of confirmed and deceased cases data reported by JHU CSSE in all countries."
+    },
+    {
+      "title": "Covid-19 Charts",
+      "url": "https://corona.njoyard.fr",
+      "description": "Visualization tool for JHU CSSE Covid-19 data using EmberJS and Chart.js"
     }
   ]
 }

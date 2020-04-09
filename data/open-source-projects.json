@@ -23,7 +23,15 @@
         "ChrisMichaelPerezSantiago/covid19",
         "AlaeddineMessadi/COVID-19-REPORT-API",
         "cinemast/covid19-at",
-        "elias-garcia/covid-19-spain"
+        "elias-garcia/covid-19-spain",
+        "PotentialWeb/CoronaTab",
+        "ryo-ma/covid19-japan-web-api",
+        "AtilioA/COVID19-ES-Py",
+        "pastelsky/covid-19-mobility-tracker",
+        "Laeyoung/COVID-19-API",
+        "alegoritma/covid-19-lite",
+        "covid19india/api",
+        "yedhink/covid19-kerala-api"
       ]
     },
     {
@@ -50,7 +58,7 @@
         "globalcitizen/2019-wuhan-coronavirus-data",
         "arnoudbuzing/wolfram-coronavirus",
         "opencovid19-fr/data",
-        "covid19india/covid19india",
+        "covid19india/covid19india-react",
         "kalisio/covid-19",
         "OssamaRafique/Corona-Statistics-And-Tracker-Dashboard-Angular-9",
         "rfearing/temp-covid-resources",
@@ -59,7 +67,17 @@
         "PhantasWeng/coronavirus-daily-dashboard",
         "nytimes/covid-19-data",
         "cipriancraciun/covid19-datasets",
-        "pcm-dpc/COVID-19"
+        "colaboradados/colaboradados.github.io",
+        "jmcastagnetto/covid-19-peru-data",
+        "UCSD-AI4H/COVID-CT",
+        "openZH/covid_19",
+        "ieee8023/covid-chestxray-dataset",
+        "FoldingAtHome/coronavirus",
+        "cjvanlissa/COVID19_metadata",
+        "AlaeddineMessadi/COVID-19-REPORT-DASHBOARD",
+        "hmpandey/CoronaQs",
+        "github/covid19-dashboard",
+        "sebaxtian/colombia_covid_19_pipe"
       ]
     },
     {
@@ -71,13 +89,20 @@
         "daveselinger/covid-19-hackathon",
         "midas-network/COVID-19",
         "neherlab/covid19_scenarios",
-        "Mythobeast/epidemicmodels"
+        "Mythobeast/epidemicmodels",
+        "institutefordiseasemodeling/covasim",
+        "p-j-r/covid-19",
+        "funcional-health-analytics/covid19-analytics",
+        "WARMTeam/CoVid19",
+        "ImperialCollegeLondon/covid19model",
+        "microprediction/pandemic"
       ]
     },
     {
       "category": "Learning",
       "repositories": [
-        "mattroconnor/deep_learning_coronavirus_cure"
+        "mattroconnor/deep_learning_coronavirus_cure",
+        "jbesomi/Korono"
       ]
     },
     {
@@ -91,7 +116,8 @@
         "konradkalemba/korona.ws",
         "ankitchouhan1020/corona",
         "opencovid19-fr/dashboard",
-        "bustbyte/coronastatus"
+        "bustbyte/coronastatus",
+        "reach4help/reach4help"
       ]
     },
     {
@@ -127,6 +153,16 @@
         "nutboltu/australia-covid19",
         "Spiderpig86/sea-to-go",
         "nploi/corona_tracker",
+        "helloworldkr/Bluetooth-ble-beamer-and-scanner-for-tracing-corona-virus-infected-individual",
+        "boogheta/coronavirus-countries",
+        "onl1ner/CovidKazakhstan",
+        "dabigjoe6/react-native-covid19",
+        "varundeva/CoronaTracker",
+        "destructo570/CovidTracker",
+        "bluesquare-io/covid-19-app",
+        "calpt/CoronaPandemicBot",
+        "njoyard/corona",
+        "LeafyCode/survive-together-web",
         "Druhin13/corona"
       ]
     },
@@ -138,7 +174,8 @@
         "eebrown/data2019nCoV",
         "pdtyreus/coronavirus-ds",
         "eebrown/data2019nCoV",
-        "benhur07b/covid19-load-qgis"
+        "benhur07b/covid19-load-qgis",
+        "ghaake/stay-home-snackbar"
       ]
     },
     {
@@ -157,6 +194,12 @@
       "repositories": [
         "jcl5m1/ventilator",
         "ProtofyTeam/OxyGEN"
+      ]
+    },
+    {
+      "category": "Data Stream",
+      "repositories": [
+        "SolaceLabs/jhu-covid19-stream-processors"
       ]
     }
   ]
