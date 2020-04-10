@@ -187,7 +187,8 @@
         "sagarkarira/coronavirus-tracker-cli",
         "garrylachman/covid19-cli",
         "MouadBH/coronapy-cli",
-        "soroushchehresa/cli-corona"
+        "soroushchehresa/cli-corona",
+        "asprazz/covid19-cli"
       ]
     },
     {
