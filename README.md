@@ -360,6 +360,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [covid19dashboards](https://covid19dashboards.com) | an accessible way for data professionals to share dashboards (that are updated with new data automatically) without requiring any expertise in front-end development. |
 | [Corona Info - India](https://coronavirusapp.github.io) | Coronavirus Mobile Dashboard for India - Live Statistics (Refreshes every minute) | Helpline Numbers | Risks &amp; Precautions |
 | [nCovid-19](https://ncovid-19.live) | Real-time worldwide and India(state-wise) Covid-19 statistics along with map. |
+| [Track a Virus](https://trackavirus.app/) | Dashboard for comparing countries and analysing daily increases. Open for contributions. Has an extensive roadmap |
 
 #### Android Apps
 
