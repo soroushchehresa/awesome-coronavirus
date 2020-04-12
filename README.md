@@ -466,6 +466,8 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [Patient engagement resources - Patient Education document (Novel Coronavirus Infection)](https://www.elsevier.com/__data/assets/pdf_file/0011/974621/Novel-Coronavirus-Infection.pdf) | Patient engagement resources use plain language to support shared decision-making between patients and healthcare providers. |
 | [ScienceDirect Articles](https://www.sciencedirect.com/search/advanced?qs=%22COVID-19%22%20OR%20Coronavirus%20OR%20%22Corona%20virus%22%20OR%20%222019-nCoV%22%20OR%20%22SARS-CoV%22%20OR%20%22MERS-CoV%22%20OR%20%E2%80%9CSevere%20Acute%20Respiratory%20Syndrome%E2%80%9D%20OR%20%E2%80%9CMiddle%20East%20Respiratory%20Syndrome%E2%80%9D&amp;show=100&amp;ent=true) | ScienceDirect is a website based on explore and research about scientific, technical, medical and etc. |
 | [Coronavirus:Protect yourself and stand against racism](https://www.facinghistory.org/educator-resources/current-events/coronavirus-protect-yourself-stand-against-racism) | This Teaching Idea outlines the known facts about COVID-19 and gives students the opportunity to explore instances of discrimination related to this novel strain of coronavirus. |
+| [Coronavirus Tech Handbook](https://coronavirustechhandbook.com/home) | The Coronavirus Tech Handbook is a crowd-sourced library for technologists, civic organizations, public and private institutions, researchers, and specialists of all kinds working on responses to the pandemic. It is a rapidly evolving resource with thousands of expert contributors |
+
 
 
 ## Research Outlets
