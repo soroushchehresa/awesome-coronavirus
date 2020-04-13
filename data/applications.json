@@ -378,6 +378,11 @@
           "title": "nCovid-19",
           "url" : "https://ncovid-19.live",
           "description": "Real-time worldwide and India(state-wise) Covid-19 statistics along with map."
+        },
+        {
+          "title": "#StayTheFuckHome",
+          "url" : "https://staythefuckhome.com",
+          "description": "A Movement to Stop the COVID-19 Pandemic."
         }
       ]
     },
