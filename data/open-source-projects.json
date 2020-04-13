@@ -92,11 +92,11 @@
         "neherlab/covid19_scenarios",
         "Mythobeast/epidemicmodels",
         "institutefordiseasemodeling/covasim",
-        "p-j-r/covid-19",
         "funcional-health-analytics/covid19-analytics",
         "WARMTeam/CoVid19",
         "ImperialCollegeLondon/covid19model",
-        "microprediction/pandemic"
+        "microprediction/pandemic",
+        "p-j-r/covid-19"
       ]
     },
     {
