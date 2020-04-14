@@ -383,6 +383,11 @@
           "title": "#StayTheFuckHome",
           "url" : "https://staythefuckhome.com",
           "description": "A Movement to Stop the COVID-19 Pandemic."
+        },
+        {
+          "title": "Belgium vs Covid",
+          "url" : "https://covid.fifteenpeas.com",
+          "description": "Taking Belgian data on Covid-19 and confront it to other sources. It contains stats on tests and stats from hospitals."
         }
       ]
     },
