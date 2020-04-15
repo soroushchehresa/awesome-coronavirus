@@ -393,6 +393,11 @@
           "title": "COVID-19 Italy Monitor",
           "url": "https://covidashit.herokuapp.com",
           "description": "Real-time eng/ita dashboard to monitor the COVID-19 outbreak in Italy, using the dataset provided by the Italian Department of Civil Protection."
+        },
+        {
+          "title": "COVID19 Tracker - India",
+          "url": "https://pajaydev.github.io/covid19-india/",
+          "description": "Real time visualization of number of Covid19 cases across all state and districts in India."
         }
       ]
     },
