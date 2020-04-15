@@ -43,6 +43,11 @@
           "title": "The COVID Tracking Project",
           "url": "https://twitter.com/COVID19Tracking",
           "description": "Comprehensive US state-level coronavirus testing data"
+        },
+        {
+          "title": "Corona Tracker Bot",
+          "url": "https://twitter.com/Covid19Stat_bot",
+          "description": "Covid19 Global Statistics Tweets Each Hour and Replies Country and State Data When you mention"
         }
       ]
     },
