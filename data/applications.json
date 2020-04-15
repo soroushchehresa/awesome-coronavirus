@@ -383,6 +383,11 @@
           "title": "#StayTheFuckHome",
           "url" : "https://staythefuckhome.com",
           "description": "A Movement to Stop the COVID-19 Pandemic."
+        },
+        {
+          "title": "COVID-19 Italy Monitor",
+          "url": "https://covidashit.herokuapp.com",
+          "description": "Real-time eng/ita dashboard to monitor the COVID-19 outbreak in Italy, using the dataset provided by the Italian Department of Civil Protection."
         }
       ]
     },
