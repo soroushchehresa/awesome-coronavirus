@@ -187,7 +187,7 @@
       "category": "CLI",
       "repositories": [
         "ahmadawais/corona-cli",
-        "warengonzaga/covid19-tracker-cli",
+        "tracker-cli/covid19-tracker-cli",
         "sagarkarira/coronavirus-tracker-cli",
         "garrylachman/covid19-cli",
         "MouadBH/coronapy-cli",
