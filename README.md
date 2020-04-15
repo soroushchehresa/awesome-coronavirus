@@ -361,6 +361,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [Corona Info - India](https://coronavirusapp.github.io) | Coronavirus Mobile Dashboard for India - Live Statistics (Refreshes every minute) | Helpline Numbers | Risks &amp; Precautions |
 | [nCovid-19](https://ncovid-19.live) | Real-time worldwide and India(state-wise) Covid-19 statistics along with map. |
 | [#StayTheFuckHome](https://staythefuckhome.com) | A Movement to Stop the COVID-19 Pandemic. |
+| [Belgium vs Covid](https://covid.fifteenpeas.com) | Taking Belgian data on Covid-19 and confront it to other sources. It contains stats on tests and stats from hospitals. |
 | [COVID-19 Italy Monitor](https://covidashit.herokuapp.com) | Real-time eng/ita dashboard to monitor the COVID-19 outbreak in Italy, using the dataset provided by the Italian Department of Civil Protection. |
 
 #### Android Apps
