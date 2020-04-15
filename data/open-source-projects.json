@@ -31,7 +31,8 @@
         "Laeyoung/COVID-19-API",
         "alegoritma/covid-19-lite",
         "covid19india/api",
-        "yedhink/covid19-kerala-api"
+        "yedhink/covid19-kerala-api",
+        "slotix/COVID-19"
       ]
     },
     {
@@ -92,11 +93,11 @@
         "neherlab/covid19_scenarios",
         "Mythobeast/epidemicmodels",
         "institutefordiseasemodeling/covasim",
-        "p-j-r/covid-19",
         "funcional-health-analytics/covid19-analytics",
         "WARMTeam/CoVid19",
         "ImperialCollegeLondon/covid19model",
-        "microprediction/pandemic"
+        "microprediction/pandemic",
+        "p-j-r/covid-19"
       ]
     },
     {
@@ -166,7 +167,8 @@
         "njoyard/corona",
         "LeafyCode/survive-together-web",
         "Druhin13/corona",
-        "shaunsaker/covid-19-south-africa-app"
+        "shaunsaker/covid-19-south-africa-app",
+        "hissain/CoronaTracker"
       ]
     },
     {
