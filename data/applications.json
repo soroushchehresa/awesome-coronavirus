@@ -393,11 +393,6 @@
           "title": "COVID-19 Italy Monitor",
           "url": "https://covidashit.herokuapp.com",
           "description": "Real-time eng/ita dashboard to monitor the COVID-19 outbreak in Italy, using the dataset provided by the Italian Department of Civil Protection."
-        },
-        {
-          "title": "Track a Virus: COVID-19 Dashboard",
-          "url": "https://trackavirus.app/",
-          "description": "Dashboard for comparing countries and analysing daily increases. Open for contributions. Has an extensive roadmap."
         }
       ]
     },
@@ -448,6 +443,11 @@
           "title": "MeFee Temp Tracker",
           "url": "https://mefee.org",
           "description": "MeFee lets you easily track your temperature to build up baseline data so that you can get personalized early warning notifications if your temperature is out of your normal range."
+        },
+        {
+          "title": "Track a Virus: COVID-19 Dashboard",
+          "url": "https://trackavirus.app/",
+          "description": "Dashboard for comparing countries and analysing daily increases. Open for contributions. Has an extensive roadmap."
         }
       ]
     },
