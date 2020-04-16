@@ -362,6 +362,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [#StayTheFuckHome](https://staythefuckhome.com) | A Movement to Stop the COVID-19 Pandemic. |
 | [Belgium vs Covid](https://covid.fifteenpeas.com) | Taking Belgian data on Covid-19 and confront it to other sources. It contains stats on tests and stats from hospitals. |
 | [COVID-19 Italy Monitor](https://covidashit.herokuapp.com) | Real-time eng/ita dashboard to monitor the COVID-19 outbreak in Italy, using the dataset provided by the Italian Department of Civil Protection. |
+| [COVID19 Tracker - India](https://pajaydev.github.io/covid19-india) | Real time visualization of number of Covid19 cases across all state and districts in India. |
 
 #### Android Apps
 
