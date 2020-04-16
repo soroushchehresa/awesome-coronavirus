@@ -364,6 +364,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [Belgium vs Covid](https://covid.fifteenpeas.com) | Taking Belgian data on Covid-19 and confront it to other sources. It contains stats on tests and stats from hospitals. |
 | [COVID-19 Italy Monitor](https://covidashit.herokuapp.com) | Real-time eng/ita dashboard to monitor the COVID-19 outbreak in Italy, using the dataset provided by the Italian Department of Civil Protection. |
 | [COVID19 Tracker - India](https://pajaydev.github.io/covid19-india) | Real time visualization of number of Covid19 cases across all state and districts in India. |
+| [Covid19 Daily Digest](https://covid19dailydigest.com) | A daily newsletter which shows detailed information regarding your country |
 
 #### Android Apps
 
@@ -387,9 +388,6 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [Relief Central](https://apps.apple.com/us/app/relief-central/id353219185) | Coronavirus (COVID-19) Updates. |
 | [HEALTHLYNKED COVID-19 Tracker](https://apps.apple.com/us/app/healthlynked-covid-19-tracker/id1500575377) | Corona virus tracker. |
 | [Coronavírus - SUS](https://apps.apple.com/br/app/coronav%C3%ADrus-sus/id1408008382) | O Ministério da Saúde lança o app Coronavírus-SUS com o objetivo de conscientizar a população sobre o Corona Vírus COVID-19. |
-| [Covid19 Daily Digest](https://covid19dailydigest.com) | A daily newsletter which shows detailed information regarding your country |
-
-
 
 ## Education and Courses
 
