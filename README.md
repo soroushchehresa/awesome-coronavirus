@@ -411,6 +411,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [Coronavirus (COVID-19) Alerts](https://twitter.com/coronaviruscare) | #COVID19 (#Coronavirus) Alerts, News &amp; Info from reputed sources. Updates &amp; Verified Facts on #2019nCoV Research, Strategies &amp; Cures. Only truth, no rumours. |
 | [COVID19 Updates in Asia](https://twitter.com/SEACoronavirus) | Updates on #coronavirus #COVID19 #coronaoutbreak #SARSCoV2 #ไวรัสโคโรน่า #VirusCorona #코로나바이러스 #コロナウイルス in the Larger Western Pacific Region. |
 | [The COVID Tracking Project](https://twitter.com/COVID19Tracking) | Comprehensive US state-level coronavirus testing data |
+| [Corona Tracker Bot](https://twitter.com/Covid19Stat_bot) | Covid19 Global Statistics Tweets Each Hour and Replies Country and State Data When you mention. |
 | [GoCoronaBot India](https://twitter.com/GoCoronaBot) | Bot that tweets the latest coronavirus stats in India. |
 
 #### Telegram
