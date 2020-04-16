@@ -387,6 +387,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [Relief Central](https://apps.apple.com/us/app/relief-central/id353219185) | Coronavirus (COVID-19) Updates. |
 | [HEALTHLYNKED COVID-19 Tracker](https://apps.apple.com/us/app/healthlynked-covid-19-tracker/id1500575377) | Corona virus tracker. |
 | [Coronavírus - SUS](https://apps.apple.com/br/app/coronav%C3%ADrus-sus/id1408008382) | O Ministério da Saúde lança o app Coronavírus-SUS com o objetivo de conscientizar a população sobre o Corona Vírus COVID-19. |
+| [Covid19 Daily Digest](https://covid19dailydigest.com) | A daily newsletter which shows detailed information regarding your country |
 
 
 
