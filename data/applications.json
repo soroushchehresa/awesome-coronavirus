@@ -437,12 +437,17 @@
         {
           "title": "COVID-19 Tracker for Xamarin.Forms",
           "url": "https://github.com/anaselhajjaji/covid19.xamarin.forms",
-          "description": "Simple Xamarin.Forms Application for COVID-19 statistics, it shows the differents statistics by countries. Application deployed in: [Microsoft AppCenter](https://install.appcenter.ms/users/elhajjajianas/apps/covid19/distribution_groups/public%20release)"
+          "description": "Simple Xamarin.Forms Application for COVID-19 statistics, it shows the differents statistics by countries. Application deployed in: [Microsoft AppCenter](https://install.appcenter.ms/users/elhajjajianas/apps/covid19/distribution_groups/public%20release)."
         },
         {
           "title": "MeFee Temp Tracker",
           "url": "https://mefee.org",
           "description": "MeFee lets you easily track your temperature to build up baseline data so that you can get personalized early warning notifications if your temperature is out of your normal range."
+        },
+        {
+          "title": "Track a Virus: COVID-19 Dashboard",
+          "url": "https://trackavirus.app",
+          "description": "Dashboard for comparing countries and analysing daily increases. Open for contributions. Has an extensive roadmap."
         }
       ]
     },
