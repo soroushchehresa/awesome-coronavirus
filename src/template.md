@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<img src="/awesome-coronavirus.png" width="600px">
+	<img src="/awesome-coronavirus.png" width="450px">
 	<br>
 	<br>
 	<br>
@@ -18,7 +18,7 @@
 > Useful projects and resources for COVID-19 (2019 novel Coronavirus)
 
 COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers around the world are building applications for the public to get up-to-date and accurate information as quickly as possible. <br>
-If you are a developer, you may also be able to contribute to some of these projects. [[Contribution Guidelines](https://github.com/soroushchehresa/awesome-coronavirus/blob/master/contributing.md)]
+If you are a developer, you may also be able to contribute to some of these projects.
 
 
 ## <%= contents.title %>
@@ -123,7 +123,7 @@ Donate me with buying me some vitamins to boost my immune system during the coro
 
 <hr>
 
-You can become a sponsor of `awesome-coronavirus` and be placed at the top of this page under the logo. For this offer please contact me with the following Email address:
+You can become a sponsor of `awesome-coronavirus` and be placed at the top of this repository in the [sponsor's section](#sponsors). If you are interested to become a sponsor please contact me with the following Email address:
 #### `s1996ch@gmail.com`
 
 ## Contribution

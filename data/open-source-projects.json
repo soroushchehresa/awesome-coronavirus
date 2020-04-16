@@ -25,7 +25,14 @@
         "cinemast/covid19-at",
         "elias-garcia/covid-19-spain",
         "PotentialWeb/CoronaTab",
-        "ryo-ma/covid19-japan-web-api"
+        "ryo-ma/covid19-japan-web-api",
+        "AtilioA/COVID19-ES-Py",
+        "pastelsky/covid-19-mobility-tracker",
+        "Laeyoung/COVID-19-API",
+        "alegoritma/covid-19-lite",
+        "covid19india/api",
+        "yedhink/covid19-kerala-api",
+        "slotix/COVID-19"
       ]
     },
     {
@@ -52,7 +59,7 @@
         "globalcitizen/2019-wuhan-coronavirus-data",
         "arnoudbuzing/wolfram-coronavirus",
         "opencovid19-fr/data",
-        "covid19india/covid19india",
+        "covid19india/covid19india-react",
         "kalisio/covid-19",
         "OssamaRafique/Corona-Statistics-And-Tracker-Dashboard-Angular-9",
         "rfearing/temp-covid-resources",
@@ -63,9 +70,16 @@
         "cipriancraciun/covid19-datasets",
         "colaboradados/colaboradados.github.io",
         "jmcastagnetto/covid-19-peru-data",
+        "UCSD-AI4H/COVID-CT",
+        "openZH/covid_19",
         "ieee8023/covid-chestxray-dataset",
         "FoldingAtHome/coronavirus",
-        "cjvanlissa/COVID19_metadata"
+        "cjvanlissa/COVID19_metadata",
+        "AlaeddineMessadi/COVID-19-REPORT-DASHBOARD",
+        "hmpandey/CoronaQs",
+        "github/covid19-dashboard",
+        "sebaxtian/colombia_covid_19_pipe",
+        "UniversalDataTool/coronavirus-mask-image-dataset"
       ]
     },
     {
@@ -79,15 +93,18 @@
         "neherlab/covid19_scenarios",
         "Mythobeast/epidemicmodels",
         "institutefordiseasemodeling/covasim",
-        "p-j-r/covid-19",
         "funcional-health-analytics/covid19-analytics",
-        "WARMTeam/CoVid19"
+        "WARMTeam/CoVid19",
+        "ImperialCollegeLondon/covid19model",
+        "microprediction/pandemic",
+        "p-j-r/covid-19"
       ]
     },
     {
       "category": "Learning",
       "repositories": [
-        "mattroconnor/deep_learning_coronavirus_cure"
+        "mattroconnor/deep_learning_coronavirus_cure",
+        "jbesomi/Korono"
       ]
     },
     {
@@ -102,7 +119,8 @@
         "ankitchouhan1020/corona",
         "opencovid19-fr/dashboard",
         "bustbyte/coronastatus",
-        "reach4help/reach4help"
+        "reach4help/reach4help",
+        "Polunom/covid-inc"
       ]
     },
     {
@@ -140,7 +158,17 @@
         "nploi/corona_tracker",
         "helloworldkr/Bluetooth-ble-beamer-and-scanner-for-tracing-corona-virus-infected-individual",
         "boogheta/coronavirus-countries",
-        "onl1ner/CovidKazakhstan"
+        "onl1ner/CovidKazakhstan",
+        "dabigjoe6/react-native-covid19",
+        "varundeva/CoronaTracker",
+        "destructo570/CovidTracker",
+        "bluesquare-io/covid-19-app",
+        "calpt/CoronaPandemicBot",
+        "njoyard/corona",
+        "LeafyCode/survive-together-web",
+        "Druhin13/corona",
+        "shaunsaker/covid-19-south-africa-app",
+        "hissain/CoronaTracker"
       ]
     },
     {
@@ -163,7 +191,9 @@
         "sagarkarira/coronavirus-tracker-cli",
         "garrylachman/covid19-cli",
         "MouadBH/coronapy-cli",
-        "soroushchehresa/cli-corona"
+        "soroushchehresa/cli-corona",
+        "asprazz/covid19-cli",
+        "aayush-jaiswal/covid-in"
       ]
     },
     {
