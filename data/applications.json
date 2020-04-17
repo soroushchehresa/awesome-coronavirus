@@ -398,6 +398,11 @@
           "title": "COVID19 Tracker - India",
           "url": "https://pajaydev.github.io/covid19-india",
           "description": "Real time visualization of number of Covid19 cases across all state and districts in India."
+        },
+        {
+          "title": "COVID-19 By Country",
+          "url": "https://cityxdev.github.io/covid19ByCountry",
+          "description": "This is a comparison of the COVID-19 pandemic by country, weighted by population. Every data series begins on the day that the corresponding country reached the 100th confirmed case."
         }
       ]
     },
