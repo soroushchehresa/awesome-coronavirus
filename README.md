@@ -155,6 +155,7 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 2 | [@sebaxtian](https://github.com/sebaxtian)/[**colombia_covid_19_pipe**](https://github.com/sebaxtian/colombia_covid_19_pipe) | Pipeline to get datasets from Instituto Nacional de Salud daily report Coronavirus Covid 19 of Colombia. |
  | 1 | [@PhantasWeng](https://github.com/PhantasWeng)/[**coronavirus-daily-dashboard**](https://github.com/PhantasWeng/coronavirus-daily-dashboard) | Coronavirus daily dashboard. 新冠病毒每日追蹤 |
  | 1 | [@hmpandey](https://github.com/hmpandey)/[**CoronaQs**](https://github.com/hmpandey/CoronaQs) | HTML renderable dataset of FAQs with label collected from various trusted resources like government, UN, WHO etc. |
+ | 1 | [@cityxdev](https://github.com/cityxdevy)/[**covid19ByCountry**](https://github.com/cityxdev/covid19ByCountry) | Comparison charts of the COVID-19 pandemic by country, weighted by population. Data series aligned by the day that the country reached the 100th case |
 
 #### Models
 
