@@ -1,7 +1,7 @@
 
 # Contribution Guidelines
 
-If you want to contribute, note that you should only update `data/*.json`.
+**If you want to contribute, note that you should only update `data/*.json`.**
 
 Ensure your pull request adheres to the following guidelines:
 
