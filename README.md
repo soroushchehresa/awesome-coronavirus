@@ -366,6 +366,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [COVID-19 Italy Monitor](https://covidashit.herokuapp.com) | Real-time eng/ita dashboard to monitor the COVID-19 outbreak in Italy, using the dataset provided by the Italian Department of Civil Protection. |
 | [COVID19 Tracker - India](https://pajaydev.github.io/covid19-india) | Real time visualization of number of Covid19 cases across all state and districts in India. |
 | [COVID-19 By Country](https://cityxdev.github.io/covid19ByCountry) | This is a comparison of the COVID-19 pandemic by country, weighted by population. Every data series begins on the day that the corresponding country reached the 100th confirmed case. |
+| [FOSS Responders](https://fossresponders.com/)   | A website to help aid open source developers and companies which have suffered as the result of event cancellations or other impacts from COVID-19  |
 
 #### Android Apps
 
