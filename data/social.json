@@ -45,6 +45,11 @@
           "description": "Comprehensive US state-level coronavirus testing data"
         },
         {
+          "title": "Corona Tracker Bot",
+          "url": "https://twitter.com/Covid19Stat_bot",
+          "description": "Covid19 Global Statistics Tweets Each Hour and Replies Country and State Data When you mention."
+        },
+        {
           "title": "GoCoronaBot India",
           "url": "https://twitter.com/GoCoronaBot",
           "description": "Bot that tweets the latest coronavirus stats in India."

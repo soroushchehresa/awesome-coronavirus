@@ -31,7 +31,8 @@
         "Laeyoung/COVID-19-API",
         "alegoritma/covid-19-lite",
         "covid19india/api",
-        "yedhink/covid19-kerala-api"
+        "yedhink/covid19-kerala-api",
+        "slotix/COVID-19"
       ]
     },
     {
@@ -78,7 +79,8 @@
         "hmpandey/CoronaQs",
         "github/covid19-dashboard",
         "sebaxtian/colombia_covid_19_pipe",
-        "UniversalDataTool/coronavirus-mask-image-dataset"
+        "UniversalDataTool/coronavirus-mask-image-dataset",
+        "cityxdev/covid19ByCountry"
       ]
     },
     {
@@ -92,11 +94,11 @@
         "neherlab/covid19_scenarios",
         "Mythobeast/epidemicmodels",
         "institutefordiseasemodeling/covasim",
-        "p-j-r/covid-19",
         "funcional-health-analytics/covid19-analytics",
         "WARMTeam/CoVid19",
         "ImperialCollegeLondon/covid19model",
-        "microprediction/pandemic"
+        "microprediction/pandemic",
+        "p-j-r/covid-19"
       ]
     },
     {
@@ -118,7 +120,8 @@
         "ankitchouhan1020/corona",
         "opencovid19-fr/dashboard",
         "bustbyte/coronastatus",
-        "reach4help/reach4help"
+        "reach4help/reach4help",
+        "Polunom/covid-inc"
       ]
     },
     {
@@ -164,7 +167,9 @@
         "calpt/CoronaPandemicBot",
         "njoyard/corona",
         "LeafyCode/survive-together-web",
-        "Druhin13/corona"
+        "Druhin13/corona",
+        "shaunsaker/covid-19-south-africa-app",
+        "hissain/CoronaTracker"
       ]
     },
     {
@@ -183,7 +188,7 @@
       "category": "CLI",
       "repositories": [
         "ahmadawais/corona-cli",
-        "warengonzaga/covid19-tracker-cli",
+        "tracker-cli/covid19-tracker-cli",
         "sagarkarira/coronavirus-tracker-cli",
         "garrylachman/covid19-cli",
         "MouadBH/coronapy-cli",
