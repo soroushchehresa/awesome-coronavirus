@@ -32,7 +32,8 @@
         "alegoritma/covid-19-lite",
         "covid19india/api",
         "yedhink/covid19-kerala-api",
-        "slotix/COVID-19"
+        "slotix/COVID-19",
+        "cityxdev/covid19GoogleMobilityJSON"
       ]
     },
     {
