@@ -19,7 +19,7 @@
 
 COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers around the world are building applications for the public to get up-to-date and accurate information as quickly as possible. <br>
 
-**If you want to add your project to the following list, please read the [contribution guidelines](https://github.com/soroushchehresa/awesome-coronavirus/blob/master/contributing.md) first!**
+**If you are interested in being placed in the following list, please read the [contribution guidelines](https://github.com/soroushchehresa/awesome-coronavirus/blob/master/contributing.md) first!**
 
 
 ## <%= contents.title %>
