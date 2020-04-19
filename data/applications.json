@@ -376,22 +376,22 @@
         },
         {
           "title": "nCovid-19",
-          "url" : "https://ncovid-19.live",
+          "url": "https://ncovid-19.live",
           "description": "Real-time worldwide and India(state-wise) Covid-19 statistics along with map."
         },
         {
           "title": "Covid Data Live",
-          "url" : "https://coviddata.live",
+          "url": "https://coviddata.live",
           "description": "Live coronavirus dashboard. See data, maps, social media trends, and learn about prevention measures."
         },
         {
           "title": "#StayTheFuckHome",
-          "url" : "https://staythefuckhome.com",
+          "url": "https://staythefuckhome.com",
           "description": "A Movement to Stop the COVID-19 Pandemic."
         },
         {
           "title": "Belgium vs Covid",
-          "url" : "https://covid.fifteenpeas.com",
+          "url": "https://covid.fifteenpeas.com",
           "description": "Taking Belgian data on Covid-19 and confront it to other sources. It contains stats on tests and stats from hospitals."
         },
         {
@@ -488,6 +488,16 @@
           "title": "Coronavírus - SUS",
           "url": "https://apps.apple.com/br/app/coronav%C3%ADrus-sus/id1408008382",
           "description": "O Ministério da Saúde lança o app Coronavírus-SUS com o objetivo de conscientizar a população sobre o Corona Vírus COVID-19."
+        }
+      ]
+    },
+    {
+      "category": "Mac Apps",
+      "list": [
+        {
+          "title": "Covid-19 stats by country in the Mac status bar",
+          "url": "https://github.com/expelledboy/bitbar-covid",
+          "description": "Get updates on covid 19 for your country in your status bar. BitBar Plugin."
         }
       ]
     }
