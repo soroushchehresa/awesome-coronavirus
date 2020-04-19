@@ -111,6 +111,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 2 | [@alegoritma](https://github.com/alegoritma)/[**covid-19-lite**](https://github.com/alegoritma/covid-19-lite) |  |
  | 2 | [@episphere](https://github.com/episphere)/[**corona**](https://github.com/episphere/corona) | Exploring realtime interoperability with COVID-19 data |
  | 0 | [@AtilioA](https://github.com/AtilioA)/[**COVID19-ES-Py**](https://github.com/AtilioA/COVID19-ES-Py) | 🛠 API em Python para consulta de casos de COVID-19 no estado do Espírito Santo. |
+ | 0 | [@cityxdev](https://github.com/cityxdev)/[**covid19GoogleMobilityJSON**](https://github.com/cityxdev/covid19GoogleMobilityJSON) | A way to transform Google's mobility data during the COVID-19 pandemic to a JSON file per country |
 
 #### Statistics and Datasets
 
