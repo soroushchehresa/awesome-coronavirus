@@ -370,6 +370,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | [COVID19 Tracker - India](https://pajaydev.github.io/covid19-india) | Real time visualization of number of Covid19 cases across all state and districts in India. |
 | [COVID-19 By Country](https://cityxdev.github.io/covid19ByCountry) | This is a comparison of the COVID-19 pandemic by country, weighted by population. Every data series begins on the day that the corresponding country reached the 100th confirmed case. |
 | [FOSS Responders](https://fossresponders.com) | A website to help aid open source developers and companies which have suffered as the result of event cancellations or other impacts from COVID-19 |
+| [COVID-19 Footprint](https://chrome.google.com/webstore/detail/covid-19-footprint-corona/bakaphloijegjkaiekokeoffjnjocahn) | A Chrome extension that brings you real-time global and regional data of the novel coronavirus pandemic. |
 
 #### Android Apps
 
@@ -515,6 +516,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | [Coronavirus Country Comparator](https://boogheta.github.io/coronavirus-countries) | Rich web interface to control various d3.js visualizations of confirmed and deceased cases data reported by JHU CSSE in all countries. |
 | [Covid-19 Charts](https://corona.njoyard.fr) | Visualization tool for JHU CSSE Covid-19 data using EmberJS and Chart.js |
 | [Covid by region comparisons](https://covidbyregion.com) | Compare Coronavirus cases/deaths over time by state, county, and country. (Open Source) |
+| [Covid-19 UK and World Data Visualization Time Machine](https://covid19.uclcssa.cn) | 🧭 Interactive timeline for viewing worldwide historical data by country, with bar race animation. |
 
 
 ## Hackathons
