@@ -60,6 +60,11 @@
       "title": "Covid by region comparisons",
       "url": "https://covidbyregion.com",
       "description": "Compare Coronavirus cases/deaths over time by state, county, and country. (Open Source)"
+    },
+    {
+      "title": "Covid-19 UK and World Data Visualization Time Machine",
+      "url": "https://covid19.uclcssa.cn",
+      "description": "🧭 Interactive timeline for viewing worldwide historical data by country, with bar race animation."
     }
   ]
 }
