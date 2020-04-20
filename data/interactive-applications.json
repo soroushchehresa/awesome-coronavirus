@@ -55,6 +55,11 @@
       "title": "Covid-19 Charts",
       "url": "https://corona.njoyard.fr",
       "description": "Visualization tool for JHU CSSE Covid-19 data using EmberJS and Chart.js"
+    },
+    {
+      "title": "Covid by region comparisons",
+      "url": "https://covidbyregion.com",
+      "description": "Compare Coronavirus cases/deaths over time by state, county, and country. (Open Source)"
     }
   ]
 }
