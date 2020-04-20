@@ -413,6 +413,11 @@
           "title": "FOSS Responders",
           "url": "https://fossresponders.com",
           "description": "A website to help aid open source developers and companies which have suffered as the result of event cancellations or other impacts from COVID-19"
+        },
+        {
+          "title": "COVID-19 Footprint",
+          "url": "https://chrome.google.com/webstore/detail/covid-19-footprint-corona/bakaphloijegjkaiekokeoffjnjocahn",
+          "description": "A Chrome extension that brings you real-time global and regional data of the novel coronavirus pandemic."
         }
       ]
     },
