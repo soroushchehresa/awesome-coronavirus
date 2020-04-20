@@ -81,7 +81,8 @@
         "github/covid19-dashboard",
         "sebaxtian/colombia_covid_19_pipe",
         "UniversalDataTool/coronavirus-mask-image-dataset",
-        "cityxdev/covid19ByCountry"
+        "cityxdev/covid19ByCountry",
+        "xhlulu/covid-qa"
       ]
     },
     {
