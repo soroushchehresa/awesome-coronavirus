@@ -133,6 +133,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 363 | [@GuangchuangYu](https://github.com/GuangchuangYu)/[**nCov2019**](https://github.com/GuangchuangYu/nCov2019) | query stats of infected coronavirus cases |
  | 290 | [@openZH](https://github.com/openZH)/[**covid_19**](https://github.com/openZH/covid_19) | COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL) - case numbers include persons tested in the respective area. The data is updated at best once a day (times of collection and update may vary). Start with the README. |
  | 270 | [@RamiKrispin](https://github.com/RamiKrispin)/[**coronavirus**](https://github.com/RamiKrispin/coronavirus) | The coronavirus dataset |
+ | 269 | [@turicas](https://github.com/turicas)/[**covid19-br**](https://github.com/turicas/covid19-br) | Dados diários mais recentes do coronavírus por município brasileiro |
  | 222 | [@opencovid19-fr](https://github.com/opencovid19-fr)/[**data**](https://github.com/opencovid19-fr/data) | Consolidation des données de sources officielles concernant l&#39;épidémie de COVID19 |
  | 175 | [@colaboradados](https://github.com/colaboradados)/[**colaboradados.github.io**](https://github.com/colaboradados/colaboradados.github.io) | O VEÍCULO COLABORATIVO SOBRE TRANSPARÊNCIA E OPEN DATA NO BRASIL. |
  | 86 | [@jianxu305](https://github.com/jianxu305)/[**nCov2019_analysis**](https://github.com/jianxu305/nCov2019_analysis) | Analysis of 2019-nCov coronavirus data |
@@ -155,8 +156,8 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 8 | [@xhlulu](https://github.com/xhlulu)/[**covid-qa**](https://github.com/xhlulu/covid-qa) | A collection of COVID-19 question-answer pairs and transformer baselines for evaluating QA models (Official Repository) |
  | 6 | [@AlaeddineMessadi](https://github.com/AlaeddineMessadi)/[**COVID-19-REPORT-DASHBOARD**](https://github.com/AlaeddineMessadi/COVID-19-REPORT-DASHBOARD) | ⚕️ COVID-19 daily report dashboard of all cases worldwide ⚕️ |
  | 3 | [@sebaxtian](https://github.com/sebaxtian)/[**colombia_covid_19_pipe**](https://github.com/sebaxtian/colombia_covid_19_pipe) | Pipeline to get datasets from Instituto Nacional de Salud daily report Coronavirus Covid 19 of Colombia. |
- | 1 | [@PhantasWeng](https://github.com/PhantasWeng)/[**coronavirus-daily-dashboard**](https://github.com/PhantasWeng/coronavirus-daily-dashboard) | Coronavirus daily dashboard. 新冠病毒每日追蹤 |
  | 1 | [@hmpandey](https://github.com/hmpandey)/[**CoronaQs**](https://github.com/hmpandey/CoronaQs) | HTML renderable dataset of FAQs with label collected from various trusted resources like government, UN, WHO etc. |
+ | 1 | [@PhantasWeng](https://github.com/PhantasWeng)/[**coronavirus-daily-dashboard**](https://github.com/PhantasWeng/coronavirus-daily-dashboard) | Coronavirus daily dashboard. 新冠病毒每日追蹤 |
  | 1 | [@cityxdev](https://github.com/cityxdev)/[**covid19ByCountry**](https://github.com/cityxdev/covid19ByCountry) | A small dashboard providing country comparison on COVID-19 data |
 
 #### Models
