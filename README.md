@@ -290,6 +290,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 | Link | Description  |
 |:-----|:-------------|
+| [wearmask](http://mahendran-narayanan.github.io/) | A web app to create awareness for people to wear mask due to covid-19. Mask chases when you move. |
 | [coronatracker.com](https://www.coronatracker.com) | CORONATRACKER.com is a community-based project powered by over 460 volunteers from across the globe, ranging from data scientists, medical professionals, UI/UX designers, fullstack developers, to the general public. |
 | [coronavirus.app](https://coronavirus.app) | Coronavirus statistics by map. |
 | [coronavirusinfections.org](https://coronavirusinfections.org) | Health information on coronavirus infections with detailed statistics from around the world. Data can be exported in 7 different formats. |
