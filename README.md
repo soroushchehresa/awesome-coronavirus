@@ -290,7 +290,6 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 | Link | Description  |
 |:-----|:-------------|
-| [wearmask](http://mahendran-narayanan.github.io/) | A web app to create awareness for people to wear mask due to covid-19. Mask chases when you move. |
 | [coronatracker.com](https://www.coronatracker.com) | CORONATRACKER.com is a community-based project powered by over 460 volunteers from across the globe, ranging from data scientists, medical professionals, UI/UX designers, fullstack developers, to the general public. |
 | [coronavirus.app](https://coronavirus.app) | Coronavirus statistics by map. |
 | [coronavirusinfections.org](https://coronavirusinfections.org) | Health information on coronavirus infections with detailed statistics from around the world. Data can be exported in 7 different formats. |
@@ -374,6 +373,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | [COVID-19 By Country](https://cityxdev.github.io/covid19ByCountry) | This is a comparison of the COVID-19 pandemic by country, weighted by population. Every data series begins on the day that the corresponding country reached the 100th confirmed case. |
 | [FOSS Responders](https://fossresponders.com) | A website to help aid open source developers and companies which have suffered as the result of event cancellations or other impacts from COVID-19 |
 | [COVID-19 Footprint](https://chrome.google.com/webstore/detail/covid-19-footprint-corona/bakaphloijegjkaiekokeoffjnjocahn) | A Chrome extension that brings you real-time global and regional data of the novel coronavirus pandemic. |
+| [wearmask](http://mahendran-narayanan.github.io/) | A web app to create awareness for people to wear mask due to covid-19. Mask chases when you move. |
 
 #### Android Apps
 
