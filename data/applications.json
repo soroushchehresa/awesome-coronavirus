@@ -5,11 +5,6 @@
       "category": "Web Apps",
       "list": [
         {
-          "title": "WearMask",
-          "url": "http://mahendran-narayanan.github.io/",
-          "description": "A web app to create awareness for people to wear mask due to covid-19. Mask chases when you move."
-        },
-        {
           "title": "coronatracker.com",
           "url": "https://www.coronatracker.com",
           "description": "CORONATRACKER.com is a community-based project powered by over 460 volunteers from across the globe, ranging from data scientists, medical professionals, UI/UX designers, fullstack developers, to the general public."
@@ -423,6 +418,11 @@
           "title": "COVID-19 Footprint",
           "url": "https://chrome.google.com/webstore/detail/covid-19-footprint-corona/bakaphloijegjkaiekokeoffjnjocahn",
           "description": "A Chrome extension that brings you real-time global and regional data of the novel coronavirus pandemic."
+        },
+        {
+          "title": "WearMask",
+          "url": "http://mahendran-narayanan.github.io/",
+          "description": "A web app to create awareness for people to wear mask due to covid-19. Mask chases when you move."
         }
       ]
     },
