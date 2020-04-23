@@ -214,7 +214,7 @@
     {
       "category": "Data Stream",
       "repositories": [
-        "SolaceLabs/jhu-covid19-stream-processors"
+        "SolaceLabs/covid19-stream-processors"
       ]
     }
   ]
