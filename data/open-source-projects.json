@@ -83,7 +83,8 @@
         "UniversalDataTool/coronavirus-mask-image-dataset",
         "cityxdev/covid19ByCountry",
         "turicas/covid19-br",
-        "xhlulu/covid-qa"
+        "xhlulu/covid-qa",
+        "ActiveConclusion/COVID19_mobility"
       ]
     },
     {
