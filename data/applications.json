@@ -428,6 +428,11 @@
           "title": "COVID-19 SA Dashboard",
           "url": "https://sacovid.co.za",
           "description": "A simple COVID-19 tracker dashboard primarily for personal use by a South African citizen. Includes other countries statistics and timelines."
+        },
+        {
+          "title": "rkicasesdashboard",
+          "url": "https://rkicasesapi.web.app/",
+          "description": "(offline-capable) web application to display COVID-19 case numbers in Germany"
         }
       ]
     },
