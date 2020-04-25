@@ -513,6 +513,11 @@
           "title": "Covid-19 Tracker",
           "url": "https://coronatrends.live",
           "description": "A Chrome and Firefox browser popup utility to show countries and states stats with notifications related to increase in global confirmed cases"
+        },
+        {
+          "title": "COVID Heroes",
+          "url": "https://covidheroes.net",
+          "description": "A Ccommunity platform for exchanging needed materials using requests and fulfillments."
         }
       ]
     }
