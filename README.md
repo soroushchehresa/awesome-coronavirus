@@ -272,6 +272,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 28 | [@MouadBH](https://github.com/MouadBH)/[**coronapy-cli**](https://github.com/MouadBH/coronapy-cli) | A command line tool in python to fetch worldwide data about COVID-19 |
  | 16 | [@asprazz](https://github.com/asprazz)/[**covid19-cli**](https://github.com/asprazz/covid19-cli) | A CLI for getting covid-19 coronavirus status of your district or state or country at lightning speed right on your terminal built using https://api.covid19india.org. |
  | 10 | [@soroushchehresa](https://github.com/soroushchehresa)/[**cli-corona**](https://github.com/soroushchehresa/cli-corona) | 📈 Track the COVID-19 (2019 novel Coronavirus) in the command line |
+ | 0 | [@aethe](https://github.com/aethe)/[**corona**](https://github.com/aethe/corona) | CLI for tracking the ongoing pandemic of COVID-19 |
 
 #### Hardware
 
