@@ -120,7 +120,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 21309 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
  | 4342 | [@nytimes](https://github.com/nytimes)/[**covid-19-data**](https://github.com/nytimes/covid-19-data) | An ongoing repository of data on coronavirus cases and deaths in the U.S. |
  | 3253 | [@pcm-dpc](https://github.com/pcm-dpc)/[**COVID-19**](https://github.com/pcm-dpc/COVID-19) | COVID-19 Italia - Monitoraggio situazione |
- | 2882 | [@covid19india](https://github.com/covid19india)/[**covid19india-react**](https://github.com/covid19india/covid19india-react) | Tracking the impact of COVID-19 in India |
+ | 2883 | [@covid19india](https://github.com/covid19india)/[**covid19india-react**](https://github.com/covid19india/covid19india-react) | Tracking the impact of COVID-19 in India |
  | 1837 | [@ieee8023](https://github.com/ieee8023)/[**covid-chestxray-dataset**](https://github.com/ieee8023/covid-chestxray-dataset) | We are building an open database of COVID-19 cases with chest X-ray or CT images. |
  | 1470 | [@BlankerL](https://github.com/BlankerL)/[**DXY-COVID-19-Data**](https://github.com/BlankerL/DXY-COVID-19-Data) | 2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse |
  | 1060 | [@FoldingAtHome](https://github.com/FoldingAtHome)/[**coronavirus**](https://github.com/FoldingAtHome/coronavirus) | Folding@home COVID-19 efforts |
@@ -227,27 +227,28 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 15 | [@helloworldkr](https://github.com/helloworldkr)/[**Bluetooth-ble-beamer-and-scanner-for-tracing-corona-virus-infected-individual**](https://github.com/helloworldkr/Bluetooth-ble-beamer-and-scanner-for-tracing-corona-virus-infected-individual) | Bluetooth ble beacon beamer and scanner for tracing corona virus infected person similar to Trace Together app |
  | 13 | [@arik-so](https://github.com/arik-so)/[**coronavirus**](https://github.com/arik-so/coronavirus) |  |
  | 12 | [@hissain](https://github.com/hissain)/[**CoronaTracker**](https://github.com/hissain/CoronaTracker) | A full stack framework to trace possible close-contact candidates within last specified days for an already detected covid-19 positive patient |
+ | 9 | [@iamrohitsuthar](https://github.com/iamrohitsuthar)/[**gocoronago**](https://github.com/iamrohitsuthar/gocoronago) | gocoronago website shows the latest COVID-19 stats in india |
  | 9 | [@Druhin13](https://github.com/Druhin13)/[**corona**](https://github.com/Druhin13/corona) | Coronavirus Mobile Dashboard for India - Live Statistics (Refreshes every minute) | Helpline Numbers | Risks &amp; Precautions - https://coronavirusapp.github.io |
  | 9 | [@destructo570](https://github.com/destructo570)/[**CovidTracker**](https://github.com/destructo570/CovidTracker) | A minimal designed app to track current statistics of COVID-19 across the world and detailed state wise statistics of India. App also offers some useful information regarding COVID-19, along with helpline numbers(India only). |
- | 9 | [@iamrohitsuthar](https://github.com/iamrohitsuthar)/[**gocoronago**](https://github.com/iamrohitsuthar/gocoronago) | gocoronago website shows the latest COVID-19 stats in india |
- | 6 | [@onl1ner](https://github.com/onl1ner)/[**CovidKazakhstan**](https://github.com/onl1ner/CovidKazakhstan) | Track number of coronavirus cases in Kazakhstan 🇰🇿 |
- | 6 | [@bluesquare-io](https://github.com/bluesquare-io)/[**covid-19-app**](https://github.com/bluesquare-io/covid-19-app) | Starting point for a COVID-19 crisis app. |
  | 6 | [@nploi](https://github.com/nploi)/[**corona_tracker**](https://github.com/nploi/corona_tracker) | :bar_chart: Corona virus tracker app for IOS and Android. |
- | 5 | [@dabigjoe6](https://github.com/dabigjoe6)/[**react-native-covid19**](https://github.com/dabigjoe6/react-native-covid19) | A React Native app created to track COVID-19 cases and also provide users with important information |
+ | 6 | [@bluesquare-io](https://github.com/bluesquare-io)/[**covid-19-app**](https://github.com/bluesquare-io/covid-19-app) | Starting point for a COVID-19 crisis app. |
+ | 6 | [@onl1ner](https://github.com/onl1ner)/[**CovidKazakhstan**](https://github.com/onl1ner/CovidKazakhstan) | Track number of coronavirus cases in Kazakhstan 🇰🇿 |
  | 5 | [@soroushchehresa](https://github.com/soroushchehresa)/[**iran-coronavirus**](https://github.com/soroushchehresa/iran-coronavirus) | IOS &amp; Android app about Coronavirus in Iran built with React-Native and TypeScript  |
+ | 5 | [@dabigjoe6](https://github.com/dabigjoe6)/[**react-native-covid19**](https://github.com/dabigjoe6/react-native-covid19) | A React Native app created to track COVID-19 cases and also provide users with important information |
+ | 4 | [@cakebatterandsprinkles](https://github.com/cakebatterandsprinkles)/[**whereiscovid**](https://github.com/cakebatterandsprinkles/whereiscovid) | COVID19 tracking app made with React |
  | 4 | [@MG-ng](https://github.com/MG-ng)/[**Virus-Ticker-Widget**](https://github.com/MG-ng/Virus-Ticker-Widget) | See the spread of SARS-CoV-2 in your country - directly on your home screen |
+ | 4 | [@aleskandro](https://github.com/aleskandro)/[**covid19-charts-spreading-rapidity**](https://github.com/aleskandro/covid19-charts-spreading-rapidity) | Covid19 simple charts, spreading, rapidity and acceleration |
  | 4 | [@onlyphantom](https://github.com/onlyphantom)/[**coronavirus**](https://github.com/onlyphantom/coronavirus) | A Shiny Web App tutorial inspecting the COVID-19 (2019-nCoV) epidemic, data from https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series |
  | 4 | [@mayukh18](https://github.com/mayukh18)/[**covidexplore**](https://github.com/mayukh18/covidexplore) | exploring the impact of the COVID-19 crisis on the world through data |
- | 4 | [@aleskandro](https://github.com/aleskandro)/[**covid19-charts-spreading-rapidity**](https://github.com/aleskandro/covid19-charts-spreading-rapidity) | Covid19 simple charts, spreading, rapidity and acceleration |
- | 4 | [@cakebatterandsprinkles](https://github.com/cakebatterandsprinkles)/[**whereiscovid**](https://github.com/cakebatterandsprinkles/whereiscovid) | COVID19 tracking app made with React |
  | 4 | [@bluebillxp](https://github.com/bluebillxp)/[**android-covid19-reportviewer**](https://github.com/bluebillxp/android-covid19-reportviewer) | This is the COVID-19 daily report viewer on Android presents data from CSSE@JHU open-sourced data repo. |
  | 3 | [@nutboltu](https://github.com/nutboltu)/[**australia-covid19**](https://github.com/nutboltu/australia-covid19) | https://www.australiacovid19.com |
  | 2 | [@expelledboy](https://github.com/expelledboy)/[**bitbar-covid**](https://github.com/expelledboy/bitbar-covid) | Get updates on covid 19 for your country in your status bar. BitBar Plugin. |
- | 1 | [@LuisReinoso](https://github.com/LuisReinoso)/[**covid-19-community-tracker**](https://github.com/LuisReinoso/covid-19-community-tracker) | Check if you are near of suspected cases of covid-19. Self-report. No data is revealed. |
  | 1 | [@njoyard](https://github.com/njoyard)/[**corona**](https://github.com/njoyard/corona) | Covid-19 cases visualisation app using CSSE data |
- | 0 | [@calpt](https://github.com/calpt)/[**CoronaPandemicBot**](https://github.com/calpt/CoronaPandemicBot) | 🦠 Yet another Telegram bot tracking the worldwide spread of COVID-19 (Novel Coronavirus) |
+ | 1 | [@LuisReinoso](https://github.com/LuisReinoso)/[**covid-19-community-tracker**](https://github.com/LuisReinoso/covid-19-community-tracker) | Check if you are near of suspected cases of covid-19. Self-report. No data is revealed. |
  | 0 | [@shaunsaker](https://github.com/shaunsaker)/[**covid-19-south-africa-app**](https://github.com/shaunsaker/covid-19-south-africa-app) | A React-Native mobile app that displays the latest COVID-19 stats of any country and sends push notifications when the South African stats are released. |
+ | 0 | [@calpt](https://github.com/calpt)/[**CoronaPandemicBot**](https://github.com/calpt/CoronaPandemicBot) | 🦠 Yet another Telegram bot tracking the worldwide spread of COVID-19 (Novel Coronavirus) |
  | 0 | [@varundeva](https://github.com/varundeva)/[**CoronaTracker**](https://github.com/varundeva/CoronaTracker) | Corona Tracking App by Using Various Data Api Available on GitHub |
+ | 0 | [@amitay87](https://github.com/amitay87)/[**corona_touch_tracking**](https://github.com/amitay87/corona_touch_tracking) | A system that will track touch in common surfaces in order to prioriotize the cleaning/disinfection of the most touched surfaces |
 
 #### Packages and Scripts
 
