@@ -178,7 +178,8 @@
         "hissain/CoronaTracker",
         "WorldHealthOrganization/app",
         "expelledboy/bitbar-covid",
-        "amitay87/corona_touch_tracking"
+        "amitay87/corona_touch_tracking",
+        "dstotijn/ct-diag-server"
       ]
     },
     {
