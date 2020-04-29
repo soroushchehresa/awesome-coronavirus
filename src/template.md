@@ -40,7 +40,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 <% for (i in openSource.list) { %>#### <%= openSource.list[i].category %>
 
-| :star2:     | Repository   | Description  |
+| 🌟     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
 <% for (j in openSource.list[i].repositories) { %> | <%= openSource.list[i].repositories[j].stargazers_count %> | [@<%= openSource.list[i].repositories[j].owner.login %>](<%= openSource.list[i].repositories[j].owner.html_url %>)/[**<%= openSource.list[i].repositories[j].name %>**](<%= openSource.list[i].repositories[j].html_url %>) | <%= openSource.list[i].repositories[j].description %> |
 <% } %>
