@@ -33,7 +33,8 @@
         "covid19india/api",
         "yedhink/covid19-kerala-api",
         "slotix/COVID-19",
-        "cityxdev/covid19GoogleMobilityJSON"
+        "cityxdev/covid19GoogleMobilityJSON",
+        "yahoo/covid-19-api"
       ]
     },
     {
@@ -85,7 +86,8 @@
         "turicas/covid19-br",
         "xhlulu/covid-qa",
         "ActiveConclusion/COVID19_mobility",
-        "defeatcovid19/defeatcovid19-project"
+        "defeatcovid19/defeatcovid19-project",
+        "yahoo/covid-19-data"
       ]
     },
     {
@@ -179,7 +181,8 @@
         "WorldHealthOrganization/app",
         "expelledboy/bitbar-covid",
         "amitay87/corona_touch_tracking",
-        "dstotijn/ct-diag-server"
+        "dstotijn/ct-diag-server",
+        "yahoo/covid-19-dashboard"
       ]
     },
     {

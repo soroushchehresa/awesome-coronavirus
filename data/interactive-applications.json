@@ -65,6 +65,11 @@
       "title": "Covid-19 UK and World Data Visualization Time Machine",
       "url": "https://covid19.uclcssa.cn",
       "description": "🧭 Interactive timeline for viewing worldwide historical data by country, with bar race animation."
+    },
+    {
+      "title": "Yahoo Knowledge Graph COVID-19 Dashboard",
+      "url": "https://yahoo.github.io/covid-19-dashboard",
+      "description": "Dynamic COVID-19 dashboard using 100% government and public health authority sources."
     }
   ]
 }
