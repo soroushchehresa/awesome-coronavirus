@@ -433,6 +433,11 @@
           "title": "rkicasesdashboard",
           "url": "https://rkicasesapi.web.app",
           "description": "(offline-capable) web application to display COVID-19 case numbers in Germany."
+        },
+        {
+          "title": "COVID-19 Ask Miso Anything",
+          "url": "https://covid19-qa.demo.askmiso.com",
+          "description": "Ask questions, get answers."
         }
       ]
     },
