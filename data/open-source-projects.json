@@ -34,7 +34,8 @@
         "yedhink/covid19-kerala-api",
         "slotix/COVID-19",
         "cityxdev/covid19GoogleMobilityJSON",
-        "yahoo/covid-19-api"
+        "yahoo/covid-19-api",
+        "COVID19-SARS-CoV-2/web-covid-api"
       ]
     },
     {
