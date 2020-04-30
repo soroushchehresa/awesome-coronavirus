@@ -438,6 +438,11 @@
           "title": "Covidstat.info",
           "url": "https://covidstat.info",
           "description": "Beautiful interactive dashboard to know number of COVID19 case across the world, also country-wise data. Data updates every 3 mins from multiple sources"
+        },
+        {
+          "title": "COVID-19 Ask Miso Anything",
+          "url": "https://covid19-qa.demo.askmiso.com",
+          "description": "Ask questions, get answers."
         }
       ]
     },
