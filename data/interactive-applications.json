@@ -1,75 +1,75 @@
 {
-  "title": "Interactive Applications",
-  "list": [
+  "title":"Interactive Applications",
+  "list":[
     {
-      "title": "University of Virginia: COVID-19 Surveillance Dashboard",
-      "url": "http://nssac.bii.virginia.edu/covid-19/dashboard",
-      "description": "Dashboard showing."
+      "title":"University of Virginia: COVID-19 Surveillance Dashboard",
+      "url":"http://nssac.bii.virginia.edu/covid-19/dashboard",
+      "description":"Dashboard showing."
     },
     {
-      "title": "Johns Hopkins CSSE: Coronavirus COVID-19 Global Cases",
-      "url": "https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6",
-      "description": "Dashboard application providing interaction to global case data."
+      "title":"Johns Hopkins CSSE: Coronavirus COVID-19 Global Cases",
+      "url":"https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6",
+      "description":"Dashboard application providing interaction to global case data."
     },
     {
-      "title": "WHO Novel Coronavirus (COVID-19) Situation",
-      "url": "https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd",
-      "description": "WHO data visualization page."
+      "title":"WHO Novel Coronavirus (COVID-19) Situation",
+      "url":"https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd",
+      "description":"WHO data visualization page."
     },
     {
-      "title": "Worldometer",
-      "url": "https://www.worldometers.info/coronavirus",
-      "description": "Showcasing coronavirus stats."
+      "title":"Worldometer",
+      "url":"https://www.worldometers.info/coronavirus",
+      "description":"Showcasing coronavirus stats."
     },
     {
-      "title": "Coronalysis",
-      "url": "https://www.coronalysis.com",
-      "description": "Dashboard based on maps and graphs, along with scientific documentation."
+      "title":"Coronalysis",
+      "url":"https://www.coronalysis.com",
+      "description":"Dashboard based on maps and graphs, along with scientific documentation."
     },
     {
-      "title": "COVID-19 Dashboard",
-      "url": "https://www.cov19.xyz",
-      "description": "Coronavirus outbreak dashboard."
+      "title":"COVID-19 Dashboard",
+      "url":"https://www.cov19.xyz",
+      "description":"Coronavirus outbreak dashboard."
     },
     {
-      "title": "COVID-19 Live Dashboard",
-      "url": "https://coronavirus.davidb.dev/",
-      "description": "Responsive covid 19 Live data Dashboard with time travel and predictions"
+      "title":"COVID-19 Live Dashboard",
+      "url":"https://coronavirus.davidb.dev/",
+      "description":"Responsive covid 19 Live data Dashboard with time travel and predictions"
     },
     {
-      "title": "ADSP: COVID-19 Live Dashboard - England",
-      "url": "https://adsp.ai/demos/coronavirus-england/",
-      "description": "COVID-19 Dashboard for England case data including maps"
+      "title":"ADSP: COVID-19 Live Dashboard - England",
+      "url":"https://adsp.ai/demos/coronavirus-england/",
+      "description":"COVID-19 Dashboard for England case data including maps"
     },
     {
-      "title": "covid19-at: COVID-19 Live Dashboard - Austria",
-      "url": "https://covid19.spiessknafl.at",
-      "description": "COVID-19 Dashboard for Austria case data including maps"
+      "title":"covid19-at: COVID-19 Live Dashboard - Austria",
+      "url":"https://covid19.spiessknafl.at",
+      "description":"COVID-19 Dashboard for Austria case data including maps"
     },
     {
-      "title": "Coronavirus Country Comparator",
-      "url": "https://boogheta.github.io/coronavirus-countries",
-      "description": "Rich web interface to control various d3.js visualizations of confirmed and deceased cases data reported by JHU CSSE in all countries."
+      "title":"Coronavirus Country Comparator",
+      "url":"https://boogheta.github.io/coronavirus-countries",
+      "description":"Rich web interface to control various d3.js visualizations of confirmed and deceased cases data reported by JHU CSSE in all countries."
     },
     {
-      "title": "Covid-19 Charts",
-      "url": "https://corona.njoyard.fr",
-      "description": "Visualization tool for JHU CSSE Covid-19 data using EmberJS and Chart.js"
+      "title":"Covid-19 Charts",
+      "url":"https://corona.njoyard.fr",
+      "description":"Visualization tool for JHU CSSE Covid-19 data using EmberJS and Chart.js"
     },
     {
-      "title": "Covid by region comparisons",
-      "url": "https://covidbyregion.com",
-      "description": "Compare Coronavirus cases/deaths over time by state, county, and country. (Open Source)"
+      "title":"Covid by region comparisons",
+      "url":"https://covidbyregion.com",
+      "description":"Compare Coronavirus cases/deaths over time by state, county, and country. (Open Source)"
     },
     {
-      "title": "Covid-19 UK and World Data Visualization Time Machine",
-      "url": "https://covid19.uclcssa.cn",
-      "description": "🧭 Interactive timeline for viewing worldwide historical data by country, with bar race animation."
+      "title":"Covid-19 UK and World Data Visualization Time Machine",
+      "url":"https://covid19.uclcssa.cn",
+      "description":"🧭 Interactive timeline for viewing worldwide historical data by country, with bar race animation."
     },
     {
-      "title": "Yahoo Knowledge Graph COVID-19 Dashboard",
-      "url": "https://yahoo.github.io/covid-19-dashboard",
-      "description": "Dynamic COVID-19 dashboard using 100% government and public health authority sources."
+      "title":"Yahoo Knowledge Graph COVID-19 Dashboard",
+      "url":"https://yahoo.github.io/covid-19-dashboard",
+      "description":"Dynamic COVID-19 dashboard using 100% government and public health authority sources."
     }
   ]
 }
