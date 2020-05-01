@@ -1,163 +1,163 @@
 {
-  "title": "Social",
-  "list": [
+  "title":"Social",
+  "list":[
     {
-      "category": "Twitter",
-      "list": [
+      "category":"Twitter",
+      "list":[
         {
-          "title": "BotCorona",
-          "url": "https://twitter.com/BotCorona",
-          "description": "A bot that keeps track of the #CoronaVirus Data gets tweeted every 2 hours."
+          "title":"BotCorona",
+          "url":"https://twitter.com/BotCorona",
+          "description":"A bot that keeps track of the #CoronaVirus Data gets tweeted every 2 hours."
         },
         {
-          "title": "coronavcharts",
-          "url": "https://twitter.com/coronavcharts",
-          "description": "Your number #1 source on charts and “news” for #Coronavirus."
+          "title":"coronavcharts",
+          "url":"https://twitter.com/coronavcharts",
+          "description":"Your number #1 source on charts and “news” for #Coronavirus."
         },
         {
-          "title": "TrackerCorona",
-          "url": "https://twitter.com/TrackerCorona",
-          "description": "I am a bot that collects U.S nCoV data from John Hopkins University and the U.S CDC and makes graphs! I am still in early development so there may be some bugs."
+          "title":"TrackerCorona",
+          "url":"https://twitter.com/TrackerCorona",
+          "description":"I am a bot that collects U.S nCoV data from John Hopkins University and the U.S CDC and makes graphs! I am still in early development so there may be some bugs."
         },
         {
-          "title": "COVID19",
-          "url": "https://twitter.com/V2019N",
-          "description": "Everything we do before a pandemic will seem alarmist. Everything we do after will seem inadequate -M. Leavitt, DHHS."
+          "title":"COVID19",
+          "url":"https://twitter.com/V2019N",
+          "description":"Everything we do before a pandemic will seem alarmist. Everything we do after will seem inadequate -M. Leavitt, DHHS."
         },
         {
-          "title": "Coronavirus CoVid-19 Updates",
-          "url": "https://twitter.com/subgap",
-          "description": "This account will tweet the current confirmed CoronaVirus #Covid-19 #NCOV infections."
+          "title":"Coronavirus CoVid-19 Updates",
+          "url":"https://twitter.com/subgap",
+          "description":"This account will tweet the current confirmed CoronaVirus #Covid-19 #NCOV infections."
         },
         {
-          "title": "Coronavirus (COVID-19) Alerts",
-          "url": "https://twitter.com/coronaviruscare",
-          "description": "#COVID19 (#Coronavirus) Alerts, News & Info from reputed sources. Updates & Verified Facts on #2019nCoV Research, Strategies & Cures. Only truth, no rumours."
+          "title":"Coronavirus (COVID-19) Alerts",
+          "url":"https://twitter.com/coronaviruscare",
+          "description":"#COVID19 (#Coronavirus) Alerts, News & Info from reputed sources. Updates & Verified Facts on #2019nCoV Research, Strategies & Cures. Only truth, no rumours."
         },
         {
-          "title": "COVID19 Updates in Asia",
-          "url": "https://twitter.com/SEACoronavirus",
-          "description": "Updates on #coronavirus #COVID19 #coronaoutbreak #SARSCoV2 #ไวรัสโคโรน่า #VirusCorona #코로나바이러스 #コロナウイルス in the Larger Western Pacific Region."
+          "title":"COVID19 Updates in Asia",
+          "url":"https://twitter.com/SEACoronavirus",
+          "description":"Updates on #coronavirus #COVID19 #coronaoutbreak #SARSCoV2 #ไวรัสโคโรน่า #VirusCorona #코로나바이러스 #コロナウイルス in the Larger Western Pacific Region."
         },
         {
-          "title": "The COVID Tracking Project",
-          "url": "https://twitter.com/COVID19Tracking",
-          "description": "Comprehensive US state-level coronavirus testing data"
+          "title":"The COVID Tracking Project",
+          "url":"https://twitter.com/COVID19Tracking",
+          "description":"Comprehensive US state-level coronavirus testing data"
         },
         {
-          "title": "Corona Tracker Bot",
-          "url": "https://twitter.com/Covid19Stat_bot",
-          "description": "Covid19 Global Statistics Tweets Each Hour and Replies Country and State Data When you mention."
+          "title":"Corona Tracker Bot",
+          "url":"https://twitter.com/Covid19Stat_bot",
+          "description":"Covid19 Global Statistics Tweets Each Hour and Replies Country and State Data When you mention."
         },
         {
-          "title": "GoCoronaBot India",
-          "url": "https://twitter.com/GoCoronaBot",
-          "description": "Bot that tweets the latest coronavirus stats in India."
+          "title":"GoCoronaBot India",
+          "url":"https://twitter.com/GoCoronaBot",
+          "description":"Bot that tweets the latest coronavirus stats in India."
         }
       ]
     },
     {
-      "category": "Telegram",
-      "list": [
+      "category":"Telegram",
+      "list":[
         {
-          "title": "SG Fight Coronavirus",
-          "url": "https://t.me/sgFight",
-          "description": "Let's Fight Coronavirus together in Singapore."
+          "title":"SG Fight Coronavirus",
+          "url":"https://t.me/sgFight",
+          "description":"Let's Fight Coronavirus together in Singapore."
         },
         {
-          "title": "Coronavirus Updates",
-          "url": "https://t.me/coronavirusupdates",
-          "description": "Info-sharing on COVID-19."
+          "title":"Coronavirus Updates",
+          "url":"https://t.me/coronavirusupdates",
+          "description":"Info-sharing on COVID-19."
         },
         {
-          "title": "Coronavirus Info",
-          "url": "https://t.me/coronavirusinfo",
-          "description": "Today's top stories regarding the COVID-19 Pandemic."
+          "title":"Coronavirus Info",
+          "url":"https://t.me/coronavirusinfo",
+          "description":"Today's top stories regarding the COVID-19 Pandemic."
         },
         {
-          "title": "Wuhan 2019 Novel Coronavirus",
-          "url": "https://t.me/TheWuhanVirus",
-          "description": "A collation of Singapore News Articles on 2019-nCoV Wuhan Virus COVID-2019."
+          "title":"Wuhan 2019 Novel Coronavirus",
+          "url":"https://t.me/TheWuhanVirus",
+          "description":"A collation of Singapore News Articles on 2019-nCoV Wuhan Virus COVID-2019."
         },
         {
-          "title": "SG Wuhan Coronavirus Info Group",
-          "url": "https://t.me/SGWuhanCoronaVirusNews",
-          "description": "Providing news and updates on the Wuhan Coronavirus."
+          "title":"SG Wuhan Coronavirus Info Group",
+          "url":"https://t.me/SGWuhanCoronaVirusNews",
+          "description":"Providing news and updates on the Wuhan Coronavirus."
         },
         {
-          "title": "Wuhan Quarantine #nCoV #武汉封城",
-          "url": "https://t.me/wuhanquarantinefrom20200123",
-          "description": "点击标签查看相关消息：新闻 生活实景 求助信息 捐赠 应灾技巧 专家解答 辟谣 重要通知 疫情动态"
+          "title":"Wuhan Quarantine #nCoV #武汉封城",
+          "url":"https://t.me/wuhanquarantinefrom20200123",
+          "description":"点击标签查看相关消息：新闻 生活实景 求助信息 捐赠 应灾技巧 专家解答 辟谣 重要通知 疫情动态"
         },
         {
-          "title": "CoronaTracker-Public",
-          "url": "https://t.me/coronatracker_public",
-          "description": "CoronaTracker-Public super group."
+          "title":"CoronaTracker-Public",
+          "url":"https://t.me/coronatracker_public",
+          "description":"CoronaTracker-Public super group."
         },
         {
-          "title": "Covid19 live update",
-          "url": "https://t.me/covid19liveupdate",
-          "description": "Coronavirus outbreak COVID-19 live situation update."
+          "title":"Covid19 live update",
+          "url":"https://t.me/covid19liveupdate",
+          "description":"Coronavirus outbreak COVID-19 live situation update."
         },
         {
-          "title": "COVID-19 Norway",
-          "url": "https://t.me/covid19norge",
-          "description": "Live Coronavirus-statistics in Norway."
+          "title":"COVID-19 Norway",
+          "url":"https://t.me/covid19norge",
+          "description":"Live Coronavirus-statistics in Norway."
         },
         {
-          "title": "Coronavirus Germany Chat",
-          "url": "https://t.me/CoronavirusGermanyChat",
-          "description": "Super-group for News, Informationen, Updates & Austausch zum Thema Coronavirus in Germany."
+          "title":"Coronavirus Germany Chat",
+          "url":"https://t.me/CoronavirusGermanyChat",
+          "description":"Super-group for News, Informationen, Updates & Austausch zum Thema Coronavirus in Germany."
         },
         {
-          "title": "@COVID19NowBot",
-          "url": "https://t.me/COVID19NowBot",
-          "description": "A bot that can fetch information and numbers of COVID-19 cases around the globe. Available in 🇺🇸, 🇧🇷, 🇫🇷."
+          "title":"@COVID19NowBot",
+          "url":"https://t.me/COVID19NowBot",
+          "description":"A bot that can fetch information and numbers of COVID-19 cases around the globe. Available in 🇺🇸, 🇧🇷, 🇫🇷."
         },
         {
-          "title": "Covid19India",
-          "url": "https://t.me/CoronaUpdateLatest",
-          "description": "Telegram Channel for Latest Corona Virus Updates in India."
+          "title":"Covid19India",
+          "url":"https://t.me/CoronaUpdateLatest",
+          "description":"Telegram Channel for Latest Corona Virus Updates in India."
         },
         {
-          "title": "@coronapandemicbot",
-          "url": "https://t.me/coronapandemicbot",
-          "description": "A bot that gives you up-to-date statistics on the worldwide spread of the COVID-19 disease."
+          "title":"@coronapandemicbot",
+          "url":"https://t.me/coronapandemicbot",
+          "description":"A bot that gives you up-to-date statistics on the worldwide spread of the COVID-19 disease."
         },
         {
-          "title": "@CovidRadar",
-          "url": "https://t.me/CovidRradarBot",
-          "description": "Coronavirus Cases: statistics, charts and trends"
+          "title":"@CovidRadar",
+          "url":"https://t.me/CovidRradarBot",
+          "description":"Coronavirus Cases: statistics, charts and trends"
         }
       ]
     },
     {
-      "category": "WhatsApp",
-      "list": [
+      "category":"WhatsApp",
+      "list":[
         {
-          "title": "latest information about the COVID-19",
-          "url": "https://go.gov.sg/whatsapp",
-          "description": "Gov.sg WhatsApp Subscription"
+          "title":"latest information about the COVID-19",
+          "url":"https://go.gov.sg/whatsapp",
+          "description":"Gov.sg WhatsApp Subscription"
         },
         {
-          "title": "WHO Health Alert",
-          "url": "http://bit.ly/who-covid19-whatsapp",
-          "description": "WHO WhatsApp Subscription for COVID-19 related information"
+          "title":"WHO Health Alert",
+          "url":"http://bit.ly/who-covid19-whatsapp",
+          "description":"WHO WhatsApp Subscription for COVID-19 related information"
         },
         {
-          "title": "COVID19.GO.ID",
-          "url": "https://bit.ly/INDONESIACOVID19WABOT",
-          "description": "Indonesian WhatsApp Bot for COVID-19 information"
+          "title":"COVID19.GO.ID",
+          "url":"https://bit.ly/INDONESIACOVID19WABOT",
+          "description":"Indonesian WhatsApp Bot for COVID-19 information"
         }
       ]
     },
     {
-      "category": "Forum",
-      "list": [
+      "category":"Forum",
+      "list":[
         {
-          "title": "Entraide Coronavirus",
-          "url": "https://www.entraidecoronavirus.fr",
-          "description": "Forum pour favoriser l'entraide et la solidarité pendant la pandémie de COVID-19"
+          "title":"Entraide Coronavirus",
+          "url":"https://www.entraidecoronavirus.fr",
+          "description":"Forum pour favoriser l'entraide et la solidarité pendant la pandémie de COVID-19"
         }
       ]
     }
