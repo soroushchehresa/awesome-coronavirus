@@ -1,533 +1,533 @@
 {
-  "title": "Applications",
-  "list": [
+  "title":"Applications",
+  "list":[
     {
-      "category": "Web Apps",
-      "list": [
+      "category":"Web Apps",
+      "list":[
         {
-          "title": "coronatracker.com",
-          "url": "https://www.coronatracker.com",
-          "description": "CORONATRACKER.com is a community-based project powered by over 460 volunteers from across the globe, ranging from data scientists, medical professionals, UI/UX designers, fullstack developers, to the general public."
+          "title":"coronatracker.com",
+          "url":"https://www.coronatracker.com",
+          "description":"CORONATRACKER.com is a community-based project powered by over 460 volunteers from across the globe, ranging from data scientists, medical professionals, UI/UX designers, fullstack developers, to the general public."
         },
         {
-          "title": "coronavirus.app",
-          "url": "https://coronavirus.app",
-          "description": "Coronavirus statistics by map."
+          "title":"coronavirus.app",
+          "url":"https://coronavirus.app",
+          "description":"Coronavirus statistics by map."
         },
         {
-          "title": "coronavirusinfections.org",
-          "url": "https://coronavirusinfections.org",
-          "description": "Health information on coronavirus infections with detailed statistics from around the world. Data can be exported in 7 different formats."
+          "title":"coronavirusinfections.org",
+          "url":"https://coronavirusinfections.org",
+          "description":"Health information on coronavirus infections with detailed statistics from around the world. Data can be exported in 7 different formats."
         },
         {
-          "title": "thewuhanvirus.com",
-          "url": "https://thewuhanvirus.com",
-          "description": "Coronavirus statistics by the countries."
+          "title":"thewuhanvirus.com",
+          "url":"https://thewuhanvirus.com",
+          "description":"Coronavirus statistics by the countries."
         },
         {
-          "title": "sgwuhan.xose.net",
-          "url": "https://sgwuhan.xose.net",
-          "description": "Coronavirus map."
+          "title":"sgwuhan.xose.net",
+          "url":"https://sgwuhan.xose.net",
+          "description":"Coronavirus map."
         },
         {
-          "title": "coronavirus.site",
-          "url": "https://coronavirus.site",
-          "description": "RECOMENDACIONES Y MEDIDAS PREVENTIVAS PARA EVITAR QUE EL VIRUS AVANCE."
+          "title":"coronavirus.site",
+          "url":"https://coronavirus.site",
+          "description":"RECOMENDACIONES Y MEDIDAS PREVENTIVAS PARA EVITAR QUE EL VIRUS AVANCE."
         },
         {
-          "title": "the2019ncov.com",
-          "url": "https://the2019ncov.com",
-          "description": "Map, data and timeline of coronavirus (2019-nCoV)."
+          "title":"the2019ncov.com",
+          "url":"https://the2019ncov.com",
+          "description":"Map, data and timeline of coronavirus (2019-nCoV)."
         },
         {
-          "title": "wuflu.live",
-          "url": "https://wuflu.live",
-          "description": "Real-time updates and stats for the Coronavirus."
+          "title":"wuflu.live",
+          "url":"https://wuflu.live",
+          "description":"Real-time updates and stats for the Coronavirus."
         },
         {
-          "title": "outbreak.my",
-          "url": "https://www.outbreak.my",
-          "description": "Malaysia outbreakmMonitor and live updates."
+          "title":"outbreak.my",
+          "url":"https://www.outbreak.my",
+          "description":"Malaysia outbreakmMonitor and live updates."
         },
         {
-          "title": "epidemictracker.com",
-          "url": "https://www.epidemictracker.com/2019-Novel-Coronavirus-2019-nCoV",
-          "description": "Epidemic Tracking and Data Science."
+          "title":"epidemictracker.com",
+          "url":"https://www.epidemictracker.com/2019-Novel-Coronavirus-2019-nCoV",
+          "description":"Epidemic Tracking and Data Science."
         },
         {
-          "title": "COVID19Japan.com",
-          "url": "https://COVID19Japan.com",
-          "description": "Japan COVID-19 Coronavirus Tracker."
+          "title":"COVID19Japan.com",
+          "url":"https://COVID19Japan.com",
+          "description":"Japan COVID-19 Coronavirus Tracker."
         },
         {
-          "title": "coronavirus.visualdatahq.com",
-          "url": "https://coronavirus.visualdatahq.com",
-          "description": "Coronavirus Tracker."
+          "title":"coronavirus.visualdatahq.com",
+          "url":"https://coronavirus.visualdatahq.com",
+          "description":"Coronavirus Tracker."
         },
         {
-          "title": "go.gov.sg/covid-19-dashboard",
-          "url": "https://go.gov.sg/covid-19-dashboard",
-          "description": "Official Update of COVID -19 Situation in Singapore."
+          "title":"go.gov.sg/covid-19-dashboard",
+          "url":"https://go.gov.sg/covid-19-dashboard",
+          "description":"Official Update of COVID -19 Situation in Singapore."
         },
         {
-          "title": "shiny.john-coene.com/coronavirus",
-          "url": "https://shiny.john-coene.com/coronavirus",
-          "description": "Coronavirus Tracker."
+          "title":"shiny.john-coene.com/coronavirus",
+          "url":"https://shiny.john-coene.com/coronavirus",
+          "description":"Coronavirus Tracker."
         },
         {
-          "title": "corona.rade.ir",
-          "url": "https://corona.rade.ir",
-          "description": "نقشه‌ی مبتلایان به ویروس COVID-19 در ایران."
+          "title":"corona.rade.ir",
+          "url":"https://corona.rade.ir",
+          "description":"نقشه‌ی مبتلایان به ویروس COVID-19 در ایران."
         },
         {
-          "title": "coronavirus.zone",
-          "url": "https://coronavirus.zone",
-          "description": "Outbreak map of novel coronavirus 2019-nCoV."
+          "title":"coronavirus.zone",
+          "url":"https://coronavirus.zone",
+          "description":"Outbreak map of novel coronavirus 2019-nCoV."
         },
         {
-          "title": "balad.ir",
-          "url": "https://balad.ir/search/corona-test-hospitals",
-          "description": "مراکز درمانی ویژه کرونا بر روی نقشه."
+          "title":"balad.ir",
+          "url":"https://balad.ir/search/corona-test-hospitals",
+          "description":"مراکز درمانی ویژه کرونا بر روی نقشه."
         },
         {
-          "title": "talksub.com/covid19",
-          "url": "https://talksub.com/covid19",
-          "description": "For US. Interactive map, per state data table, chart, news articles."
+          "title":"talksub.com/covid19",
+          "url":"https://talksub.com/covid19",
+          "description":"For US. Interactive map, per state data table, chart, news articles."
         },
         {
-          "title": "veille-coronavirus.fr",
-          "url": "https://veille-coronavirus.fr",
-          "description": "Tableau de bord de suivi de l’épidémie de coronavirus en France."
+          "title":"veille-coronavirus.fr",
+          "url":"https://veille-coronavirus.fr",
+          "description":"Tableau de bord de suivi de l’épidémie de coronavirus en France."
         },
         {
-          "title": "opendatadpc.maps.arcgis.com",
-          "url": "http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1",
-          "description": "COVID-19 ITALIA."
+          "title":"opendatadpc.maps.arcgis.com",
+          "url":"http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1",
+          "description":"COVID-19 ITALIA."
         },
         {
-          "title": "alessiodl.github.io/COVID19Dashboard",
-          "url": "https://alessiodl.github.io/COVID19Dashboard/dist/index.html",
-          "description": "CoViD-19 Dashboard Italia."
+          "title":"alessiodl.github.io/COVID19Dashboard",
+          "url":"https://alessiodl.github.io/COVID19Dashboard/dist/index.html",
+          "description":"CoViD-19 Dashboard Italia."
         },
         {
-          "title": "coronaviruslive.it",
-          "url": "https://coronaviruslive.it",
-          "description": "Situazione Coronavirus in Italia - LIVE."
+          "title":"coronaviruslive.it",
+          "url":"https://coronaviruslive.it",
+          "description":"Situazione Coronavirus in Italia - LIVE."
         },
         {
-          "title": "stayinghome.club",
-          "url": "https://stayinghome.club",
-          "description": "A list of all the companies WFH or events changed because of covid-19."
+          "title":"stayinghome.club",
+          "url":"https://stayinghome.club",
+          "description":"A list of all the companies WFH or events changed because of covid-19."
         },
         {
-          "title": "korona.ws",
-          "url": "https://korona.ws",
-          "description": "Koronawirus w Polsce."
+          "title":"korona.ws",
+          "url":"https://korona.ws",
+          "description":"Koronawirus w Polsce."
         },
         {
-          "title": "coronainusa.com",
-          "url": "https://www.coronainusa.com",
-          "description": "Corona Virus Near Me."
+          "title":"coronainusa.com",
+          "url":"https://www.coronainusa.com",
+          "description":"Corona Virus Near Me."
         },
         {
-          "title": "covid19esp.herokuapp.com",
-          "url": "https://covid19esp.herokuapp.com",
-          "description": "Coronavirus en Español - Panel de estadísticas en Español con los últimos datos recibidos."
+          "title":"covid19esp.herokuapp.com",
+          "url":"https://covid19esp.herokuapp.com",
+          "description":"Coronavirus en Español - Panel de estadísticas en Español con los últimos datos recibidos."
         },
         {
-          "title": "italy.coronavirusinfections.org",
-          "url": "https://italy.coronavirusinfections.org",
-          "description": "Health information on coronavirus infections with detailed statistics from Italy. The data can be exported in 7 different formats."
+          "title":"italy.coronavirusinfections.org",
+          "url":"https://italy.coronavirusinfections.org",
+          "description":"Health information on coronavirus infections with detailed statistics from Italy. The data can be exported in 7 different formats."
         },
         {
-          "title": "covid-api.com",
-          "url": "https://covid-api.com",
-          "description": "COVID-19 Statistics API based on public data by Johns Hopkins CSSE."
+          "title":"covid-api.com",
+          "url":"https://covid-api.com",
+          "description":"COVID-19 Statistics API based on public data by Johns Hopkins CSSE."
         },
         {
-          "title": "CovidStats",
-          "url": "https://www.covidstats.com",
-          "description": "Coronavirus charts and reports."
+          "title":"CovidStats",
+          "url":"https://www.covidstats.com",
+          "description":"Coronavirus charts and reports."
         },
         {
-          "title": "covidabruzzo.it",
-          "url": "https://covidabruzzo.it",
-          "description": "Coronavirus in Abruzzo - I dati aggiornati."
+          "title":"covidabruzzo.it",
+          "url":"https://covidabruzzo.it",
+          "description":"Coronavirus in Abruzzo - I dati aggiornati."
         },
         {
-          "title": "Work From Home Gigs",
-          "url": "https://bit.ly/WFH143",
-          "description": "A weekly updated list of work from home jobs during the COVID-19 Pandemic."
+          "title":"Work From Home Gigs",
+          "url":"https://bit.ly/WFH143",
+          "description":"A weekly updated list of work from home jobs during the COVID-19 Pandemic."
         },
         {
-          "title": "Corona-tracker",
-          "url": "https://corona-tracker-2020.netlify.com",
-          "description": "Web app to track Coronavirus with primary focus on India."
+          "title":"Corona-tracker",
+          "url":"https://corona-tracker-2020.netlify.com",
+          "description":"Web app to track Coronavirus with primary focus on India."
         },
         {
-          "title": "Covid-19 statistics",
-          "url": "https://souryvath.github.io/ng-covid-19",
-          "description": "Web app to get covid-19 statistics around the world, built for french people."
+          "title":"Covid-19 statistics",
+          "url":"https://souryvath.github.io/ng-covid-19",
+          "description":"Web app to get covid-19 statistics around the world, built for french people."
         },
         {
-          "title": "Covid-19 Philippines",
-          "url": "https://covid19ph.com",
-          "description": "Website to get covid-19 statistics for the Philippines."
+          "title":"Covid-19 Philippines",
+          "url":"https://covid19ph.com",
+          "description":"Website to get covid-19 statistics for the Philippines."
         },
         {
-          "title": "Official Covid-19 Philippines",
-          "url": "https://ncovtracker.doh.gov.ph/",
-          "description": "Official government website for tracking covid-19 for the Philippines."
+          "title":"Official Covid-19 Philippines",
+          "url":"https://ncovtracker.doh.gov.ph/",
+          "description":"Official government website for tracking covid-19 for the Philippines."
         },
         {
-          "title": "Coronavirus Monitor",
-          "url": "https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit",
-          "description": "Coronavirus monitor, mainly for Germany."
+          "title":"Coronavirus Monitor",
+          "url":"https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit",
+          "description":"Coronavirus monitor, mainly for Germany."
         },
         {
-          "title": "Covid-19 in Morocco",
-          "url": "http://covidmaroc.ma/",
-          "description": "Morocco COVID-19 Coronavirus Tracker."
+          "title":"Covid-19 in Morocco",
+          "url":"http://covidmaroc.ma/",
+          "description":"Morocco COVID-19 Coronavirus Tracker."
         },
         {
-          "title": "CORONAFLASH",
-          "url": "https://coronaflash.com",
-          "description": "World-wide Coronavirus stats and predictions, and a toilet-paper predictor."
+          "title":"CORONAFLASH",
+          "url":"https://coronaflash.com",
+          "description":"World-wide Coronavirus stats and predictions, and a toilet-paper predictor."
         },
         {
-          "title": "California Coronavirus",
-          "url": "https://californiacoronavirus.org/",
-          "description": "California Coronavirus Map."
+          "title":"California Coronavirus",
+          "url":"https://californiacoronavirus.org/",
+          "description":"California Coronavirus Map."
         },
         {
-          "title": "COVID-19 World dashboard",
-          "url": "https://cov19.xyz",
-          "description": "Coronavirus outbreak COVID-19 World dashboard. Data updated everyminute, for every country, state/region, province/city."
+          "title":"COVID-19 World dashboard",
+          "url":"https://cov19.xyz",
+          "description":"Coronavirus outbreak COVID-19 World dashboard. Data updated everyminute, for every country, state/region, province/city."
         },
         {
-          "title": "class4corona",
-          "url": "https://class4corona.com",
-          "description": "Teach/learn during the global pandemic."
+          "title":"class4corona",
+          "url":"https://class4corona.com",
+          "description":"Teach/learn during the global pandemic."
         },
         {
-          "title": "corona helden",
-          "url": "https://corona-helden-app-prod.azurewebsites.net/search",
-          "description": "Platform to connect medical institutions with qualified helpers in case of health care system overload (prototype, oss)."
+          "title":"corona helden",
+          "url":"https://corona-helden-app-prod.azurewebsites.net/search",
+          "description":"Platform to connect medical institutions with qualified helpers in case of health care system overload (prototype, oss)."
         },
         {
-          "title": "GocoronaGo",
-          "url": "https://gocoronago.ml",
-          "description": "GocoronaGo website shows the latest COVID-19 (CoronaVirus) stats in India along with charts, maps and Growth Rate."
+          "title":"GocoronaGo",
+          "url":"https://gocoronago.ml",
+          "description":"GocoronaGo website shows the latest COVID-19 (CoronaVirus) stats in India along with charts, maps and Growth Rate."
         },
         {
-          "title": "coronastatistics.live",
-          "url": "https://coronastatistics.live",
-          "description": "Get the latest toll numbers for the Novel Coronavirus epidemic, see affected regions, stats, casualties and more information to track, stay vigilant and travel safe."
+          "title":"coronastatistics.live",
+          "url":"https://coronastatistics.live",
+          "description":"Get the latest toll numbers for the Novel Coronavirus epidemic, see affected regions, stats, casualties and more information to track, stay vigilant and travel safe."
         },
         {
-          "title": "covidstatus.com",
-          "url": "http://covidstatus.com",
-          "description": "CovidStatus - A location-aware app with clean UI that puts you at the center of local covid-19 news with realtime updates."
+          "title":"covidstatus.com",
+          "url":"http://covidstatus.com",
+          "description":"CovidStatus - A location-aware app with clean UI that puts you at the center of local covid-19 news with realtime updates."
         },
         {
-          "title": "COVID-19 Tracker Ita",
-          "url": "https://polilluminato.github.io/covid19trackerita",
-          "description": "Charts with the data on the emergency of Codiv-19 in Italy with data provided by the Department of Civil Protection."
+          "title":"COVID-19 Tracker Ita",
+          "url":"https://polilluminato.github.io/covid19trackerita",
+          "description":"Charts with the data on the emergency of Codiv-19 in Italy with data provided by the Department of Civil Protection."
         },
         {
-          "title": "worldcoronavirus.org",
-          "url": "https://worldcoronavirus.org",
-          "description": "Coronavirus (COVID-19) Pandemic Global Information & Statistics."
+          "title":"worldcoronavirus.org",
+          "url":"https://worldcoronavirus.org",
+          "description":"Coronavirus (COVID-19) Pandemic Global Information & Statistics."
         },
         {
-          "title": "worldometers.info",
-          "url": "https://www.worldometers.info/coronavirus",
-          "description": "Coronavirus Live Update Stats."
+          "title":"worldometers.info",
+          "url":"https://www.worldometers.info/coronavirus",
+          "description":"Coronavirus Live Update Stats."
         },
         {
-          "title": "COVID-19 Tracker For Pakistan",
-          "url": "https://pakistan-covid19.herokuapp.com",
-          "description": "COVID 19 Tracker For Pakistan."
+          "title":"COVID-19 Tracker For Pakistan",
+          "url":"https://pakistan-covid19.herokuapp.com",
+          "description":"COVID 19 Tracker For Pakistan."
         },
         {
-          "title": "Help with COVID",
-          "url": "https://helpwithcovid.com",
-          "description": "COVID-19 projects looking for volunteers."
+          "title":"Help with COVID",
+          "url":"https://helpwithcovid.com",
+          "description":"COVID-19 projects looking for volunteers."
         },
         {
-          "title": "COVID19 statistics Pakistan",
-          "url": "https://covid-19-pk.herokuapp.com",
-          "description": "COVID-19 Data Tracker For Pakistan."
+          "title":"COVID19 statistics Pakistan",
+          "url":"https://covid-19-pk.herokuapp.com",
+          "description":"COVID-19 Data Tracker For Pakistan."
         },
         {
-          "title": "COVID Explore",
-          "url": "https://www.covidexplore.com",
-          "description": "Assessing the different impacts of COVID-19 on the world through data."
+          "title":"COVID Explore",
+          "url":"https://www.covidexplore.com",
+          "description":"Assessing the different impacts of COVID-19 on the world through data."
         },
         {
-          "title": "contactracing.app",
-          "url": "https://contacttracing.app",
-          "description": "Notify your friends & family (and their peers) if you fall ill."
+          "title":"contactracing.app",
+          "url":"https://contacttracing.app",
+          "description":"Notify your friends & family (and their peers) if you fall ill."
         },
         {
-          "title": "CVOID-19 India",
-          "url": "https://covid-19india.netlify.com",
-          "description": "Covid 19 Tracker for India With Awesome UI + PWA, Made with Svelte."
+          "title":"CVOID-19 India",
+          "url":"https://covid-19india.netlify.com",
+          "description":"Covid 19 Tracker for India With Awesome UI + PWA, Made with Svelte."
         },
         {
-          "title": "rona19.live",
-          "url": "https://rona19.live",
-          "description": "Web app displaying COVID-19 statistics and information."
+          "title":"rona19.live",
+          "url":"https://rona19.live",
+          "description":"Web app displaying COVID-19 statistics and information."
         },
         {
-          "title": "covidtrack.net",
-          "url": "https://covidtrack.net",
-          "description": "SVG map of Covid Data via John Hopkins & Covidtrack.com github.com/SeanQuinn781/react-maps-flask-covid."
+          "title":"covidtrack.net",
+          "url":"https://covidtrack.net",
+          "description":"SVG map of Covid Data via John Hopkins & Covidtrack.com github.com/SeanQuinn781/react-maps-flask-covid."
         },
         {
-          "title": "2019ncov.chinacdc.cn",
-          "url": "http://2019ncov.chinacdc.cn/2019-nCoV",
-          "description": "新型冠状病毒肺炎疫情分布"
+          "title":"2019ncov.chinacdc.cn",
+          "url":"http://2019ncov.chinacdc.cn/2019-nCoV",
+          "description":"新型冠状病毒肺炎疫情分布"
         },
         {
-          "title": "australia-covid19.herokuapp.com",
-          "url": "https://australia-covid19.herokuapp.com",
-          "description": "Update of COVID-19 Situation in Australia.(Including New south wales situation)"
+          "title":"australia-covid19.herokuapp.com",
+          "url":"https://australia-covid19.herokuapp.com",
+          "description":"Update of COVID-19 Situation in Australia.(Including New south wales situation)"
         },
         {
-          "title": "The Cost of COVID-19",
-          "url": "https://covidcost.now.sh",
-          "description": "Tracking the cost of COVID-19 across China, Europe and the United States in human lives and economies."
+          "title":"The Cost of COVID-19",
+          "url":"https://covidcost.now.sh",
+          "description":"Tracking the cost of COVID-19 across China, Europe and the United States in human lives and economies."
         },
         {
-          "title": "Flattening the curve - COVID-19 🦠",
-          "url": "https://flattening-the-curve.commutatus.com",
-          "description": "A simple dashboard to track flattening of the curve by plotting the no.of active COVID-19 / Coronavirus cases over a period of time by countries."
+          "title":"Flattening the curve - COVID-19 🦠",
+          "url":"https://flattening-the-curve.commutatus.com",
+          "description":"A simple dashboard to track flattening of the curve by plotting the no.of active COVID-19 / Coronavirus cases over a period of time by countries."
         },
         {
-          "title": "covintern.com",
-          "url": "https://covintern.com/jobs",
-          "description": "Internship cancellation tracker and remote internship aggregator for affected students."
+          "title":"covintern.com",
+          "url":"https://covintern.com/jobs",
+          "description":"Internship cancellation tracker and remote internship aggregator for affected students."
         },
         {
-          "title": "COVID-2019.es",
-          "url": "http://covid-2019.es",
-          "description": "Spain coronavirus tracker. Offers daily JSON data parsed from official government sources."
+          "title":"COVID-2019.es",
+          "url":"http://covid-2019.es",
+          "description":"Spain coronavirus tracker. Offers daily JSON data parsed from official government sources."
         },
         {
-          "title": "viruscovid.tech (COVID-19 Tracker)",
-          "url": "https://viruscovid.tech",
-          "description": "Track the spread of the COVID-19 outbreak in real-time for your country."
+          "title":"viruscovid.tech (COVID-19 Tracker)",
+          "url":"https://viruscovid.tech",
+          "description":"Track the spread of the COVID-19 outbreak in real-time for your country."
         },
         {
-          "title": "CoronaTab",
-          "url": "https://coronatab.app",
-          "description": "Free & Open Source Dashboard + Browser Extension + RESTful API"
+          "title":"CoronaTab",
+          "url":"https://coronatab.app",
+          "description":"Free & Open Source Dashboard + Browser Extension + RESTful API"
         },
         {
-          "title": "COVID-19 en Perú",
-          "url": "https://castagnetto.site/peru/dashboard-peru-covid-19.html",
-          "description": "COVID-19: Casos totales tamizados en el Perú"
+          "title":"COVID-19 en Perú",
+          "url":"https://castagnetto.site/peru/dashboard-peru-covid-19.html",
+          "description":"COVID-19: Casos totales tamizados en el Perú"
         },
         {
-          "title": "COVID-19 Türkiye",
-          "url": "https://ozdemirburak.com/koronavirus-haritasi",
-          "description": "Coronavirus dashboard and map in Turkish."
+          "title":"COVID-19 Türkiye",
+          "url":"https://ozdemirburak.com/koronavirus-haritasi",
+          "description":"Coronavirus dashboard and map in Turkish."
         },
         {
-          "title": "COVID-19 projects aggregator",
-          "url": "https://covid19projects.now.sh?source=awesome-coronavirus-github",
-          "description": "COVID-19 projects in one place"
+          "title":"COVID-19 projects aggregator",
+          "url":"https://covid19projects.now.sh?source=awesome-coronavirus-github",
+          "description":"COVID-19 projects in one place"
         },
         {
-          "title": "stats-coronavirus.com",
-          "url": "https://stats-coronavirus.com",
-          "description": "STATS-CORONAVIRUS.com is an open source project that aims to collect data about the Novel Cornavirus. It acts as a portal for the public to keep track of the latest analytics and news development about the COVID-19"
+          "title":"stats-coronavirus.com",
+          "url":"https://stats-coronavirus.com",
+          "description":"STATS-CORONAVIRUS.com is an open source project that aims to collect data about the Novel Cornavirus. It acts as a portal for the public to keep track of the latest analytics and news development about the COVID-19"
         },
         {
-          "title": "covidaid.ch",
-          "url": "https://covidaid.ch",
-          "description": "covidaid.ch is an open source website that aims to help swiss companies and entrepreneurs to calculate the amount of state aid they can get during the COVID 19 crisis."
+          "title":"covidaid.ch",
+          "url":"https://covidaid.ch",
+          "description":"covidaid.ch is an open source website that aims to help swiss companies and entrepreneurs to calculate the amount of state aid they can get during the COVID 19 crisis."
         },
         {
-          "title": "CoronaBoard",
-          "url": "https://corona-board.soaple.endpoint.ainize.ai",
-          "description": "Global dashboard for monitoring Corona virus(COVID-19) powered by [StickyBoard](https://github.com/soaple/stickyboard/) open source project."
+          "title":"CoronaBoard",
+          "url":"https://corona-board.soaple.endpoint.ainize.ai",
+          "description":"Global dashboard for monitoring Corona virus(COVID-19) powered by [StickyBoard](https://github.com/soaple/stickyboard/) open source project."
         },
         {
-          "title": "Corona Virüsü Bilgilendirme Merkezi",
-          "url": "https://kov19.com",
-          "description": "Coronavirus dashboard and map in Turkish. Also include other informations."
+          "title":"Corona Virüsü Bilgilendirme Merkezi",
+          "url":"https://kov19.com",
+          "description":"Coronavirus dashboard and map in Turkish. Also include other informations."
         },
         {
-          "title": "Coronavirus Chrome Extension",
-          "url": "https://chrome.google.com/webstore/detail/coronavirus-tips-new-tab/konbgoghafhpdebefnmcbbmbgoakjfkp",
-          "description": "A chrome extension to help promote the W.H.O. coronavirus guidelines."
+          "title":"Coronavirus Chrome Extension",
+          "url":"https://chrome.google.com/webstore/detail/coronavirus-tips-new-tab/konbgoghafhpdebefnmcbbmbgoakjfkp",
+          "description":"A chrome extension to help promote the W.H.O. coronavirus guidelines."
         },
         {
-          "title": "covid19dashboards",
-          "url": "https://covid19dashboards.com",
-          "description": "an accessible way for data professionals to share dashboards (that are updated with new data automatically) without requiring any expertise in front-end development."
+          "title":"covid19dashboards",
+          "url":"https://covid19dashboards.com",
+          "description":"an accessible way for data professionals to share dashboards (that are updated with new data automatically) without requiring any expertise in front-end development."
         },
         {
-          "title": "Corona Info - India",
-          "url": "https://coronavirusapp.github.io",
-          "description": "Coronavirus Mobile Dashboard for India - Live Statistics (Refreshes every minute) | Helpline Numbers | Risks & Precautions"
+          "title":"Corona Info - India",
+          "url":"https://coronavirusapp.github.io",
+          "description":"Coronavirus Mobile Dashboard for India - Live Statistics (Refreshes every minute) | Helpline Numbers | Risks & Precautions"
         },
         {
-          "title": "nCovid-19",
-          "url" : "https://ncovid-19.live",
-          "description": "Real-time worldwide and India(state-wise) Covid-19 statistics along with map."
+          "title":"nCovid-19",
+          "url":"https://ncovid-19.live",
+          "description":"Real-time worldwide and India(state-wise) Covid-19 statistics along with map."
         },
         {
-          "title": "Covid Data Live",
-          "url" : "https://coviddata.live",
-          "description": "Live coronavirus dashboard. See data, maps, social media trends, and learn about prevention measures."
+          "title":"Covid Data Live",
+          "url":"https://coviddata.live",
+          "description":"Live coronavirus dashboard. See data, maps, social media trends, and learn about prevention measures."
         },
         {
-          "title": "#StayTheFuckHome",
-          "url" : "https://staythefuckhome.com",
-          "description": "A Movement to Stop the COVID-19 Pandemic."
+          "title":"#StayTheFuckHome",
+          "url":"https://staythefuckhome.com",
+          "description":"A Movement to Stop the COVID-19 Pandemic."
         },
         {
-          "title": "Belgium vs Covid",
-          "url" : "https://covid.fifteenpeas.com",
-          "description": "Taking Belgian data on Covid-19 and confront it to other sources. It contains stats on tests and stats from hospitals."
+          "title":"Belgium vs Covid",
+          "url":"https://covid.fifteenpeas.com",
+          "description":"Taking Belgian data on Covid-19 and confront it to other sources. It contains stats on tests and stats from hospitals."
         },
         {
-          "title": "COVID-19 Italy Monitor",
-          "url": "https://covidashit.herokuapp.com",
-          "description": "Real-time eng/ita dashboard to monitor the COVID-19 outbreak in Italy, using the dataset provided by the Italian Department of Civil Protection."
+          "title":"COVID-19 Italy Monitor",
+          "url":"https://covidashit.herokuapp.com",
+          "description":"Real-time eng/ita dashboard to monitor the COVID-19 outbreak in Italy, using the dataset provided by the Italian Department of Civil Protection."
         },
         {
-          "title": "COVID19 Tracker - India",
-          "url": "https://pajaydev.github.io/covid19-india",
-          "description": "Real time visualization of number of Covid19 cases across all state and districts in India."
+          "title":"COVID19 Tracker - India",
+          "url":"https://pajaydev.github.io/covid19-india",
+          "description":"Real time visualization of number of Covid19 cases across all state and districts in India."
         },
         {
-          "title": "COVID-19 By Country",
-          "url": "https://cityxdev.github.io/covid19ByCountry",
-          "description": "This is a comparison of the COVID-19 pandemic by country, weighted by population. Every data series begins on the day that the corresponding country reached the 100th confirmed case."
+          "title":"COVID-19 By Country",
+          "url":"https://cityxdev.github.io/covid19ByCountry",
+          "description":"This is a comparison of the COVID-19 pandemic by country, weighted by population. Every data series begins on the day that the corresponding country reached the 100th confirmed case."
         },
         {
-          "title": "FOSS Responders",
-          "url": "https://fossresponders.com",
-          "description": "A website to help aid open source developers and companies which have suffered as the result of event cancellations or other impacts from COVID-19"
+          "title":"FOSS Responders",
+          "url":"https://fossresponders.com",
+          "description":"A website to help aid open source developers and companies which have suffered as the result of event cancellations or other impacts from COVID-19"
         },
         {
-          "title": "COVID-19 Footprint",
-          "url": "https://chrome.google.com/webstore/detail/covid-19-footprint-corona/bakaphloijegjkaiekokeoffjnjocahn",
-          "description": "A Chrome extension that brings you real-time global and regional data of the novel coronavirus pandemic."
+          "title":"COVID-19 Footprint",
+          "url":"https://chrome.google.com/webstore/detail/covid-19-footprint-corona/bakaphloijegjkaiekokeoffjnjocahn",
+          "description":"A Chrome extension that brings you real-time global and regional data of the novel coronavirus pandemic."
         },
         {
-          "title": "WearMask",
-          "url": "http://mahendran-narayanan.github.io",
-          "description": "A web app to create awareness for people to wear mask due to covid-19. Mask chases when you move."
+          "title":"WearMask",
+          "url":"http://mahendran-narayanan.github.io",
+          "description":"A web app to create awareness for people to wear mask due to covid-19. Mask chases when you move."
         },
         {
-          "title": "COVID-19 SA Dashboard",
-          "url": "https://sacovid.co.za",
-          "description": "A simple COVID-19 tracker dashboard primarily for personal use by a South African citizen. Includes other countries statistics and timelines."
+          "title":"COVID-19 SA Dashboard",
+          "url":"https://sacovid.co.za",
+          "description":"A simple COVID-19 tracker dashboard primarily for personal use by a South African citizen. Includes other countries statistics and timelines."
         },
         {
-          "title": "rkicasesdashboard",
-          "url": "https://rkicasesapi.web.app",
-          "description": "(offline-capable) web application to display COVID-19 case numbers in Germany."
+          "title":"rkicasesdashboard",
+          "url":"https://rkicasesapi.web.app",
+          "description":"(offline-capable) web application to display COVID-19 case numbers in Germany."
         },
         {
-          "title": "Covidstat.info",
-          "url": "https://covidstat.info",
-          "description": "Beautiful interactive dashboard to know number of COVID19 case across the world, also country-wise data. Data updates every 3 mins from multiple sources"
+          "title":"Covidstat.info",
+          "url":"https://covidstat.info",
+          "description":"Beautiful interactive dashboard to know number of COVID19 case across the world, also country-wise data. Data updates every 3 mins from multiple sources"
         },
         {
-          "title": "COVID-19 Ask Miso Anything",
-          "url": "https://covid19-qa.demo.askmiso.com",
-          "description": "Ask questions, get answers."
+          "title":"COVID-19 Ask Miso Anything",
+          "url":"https://covid19-qa.demo.askmiso.com",
+          "description":"Ask questions, get answers."
         }
       ]
     },
     {
-      "category": "Android Apps",
-      "list": [
+      "category":"Android Apps",
+      "list":[
         {
-          "title": "코로나맵100m",
-          "url": "https://play.google.com/store/apps/details?id=com.tina3d.corona100m&amp;hl=en_US",
-          "description": "코백 - 코로나맵 정보 알림 서비스."
+          "title":"코로나맵100m",
+          "url":"https://play.google.com/store/apps/details?id=com.tina3d.corona100m&amp;hl=en_US",
+          "description":"코백 - 코로나맵 정보 알림 서비스."
         },
         {
-          "title": "~~CoronaVirus Tracker 2019-nCoV~~",
-          "url": "https://play.google.com/store/apps/details?id=com.agmostudio.coronatracker&hl=en",
-          "description": "Statistics, map of cases."
+          "title":"~~CoronaVirus Tracker 2019-nCoV~~",
+          "url":"https://play.google.com/store/apps/details?id=com.agmostudio.coronatracker&hl=en",
+          "description":"Statistics, map of cases."
         },
         {
-          "title": "~~Coronavirus Tracker - latest information and news~~",
-          "url": "https://play.google.com/store/apps/details?id=com.R4yan.CoronavirusTracker",
-          "description": "Location based statistics, news, charts, maps based dashboard."
+          "title":"~~Coronavirus Tracker - latest information and news~~",
+          "url":"https://play.google.com/store/apps/details?id=com.R4yan.CoronavirusTracker",
+          "description":"Location based statistics, news, charts, maps based dashboard."
         },
         {
-          "title": "COVID-19 Tracker",
-          "url": "https://github.com/madhavtripathi05/COVID_19_TRACKER",
-          "description": "A Minimal Design application made with Flutter for checking current info on Novel Corona Virus Outbreak."
+          "title":"COVID-19 Tracker",
+          "url":"https://github.com/madhavtripathi05/COVID_19_TRACKER",
+          "description":"A Minimal Design application made with Flutter for checking current info on Novel Corona Virus Outbreak."
         },
         {
-          "title": "Corona Tracker",
-          "url": "https://github.com/PsychoDevs69/CoronaTracker",
-          "description": "Open Source project of an Android App for tracking corona virus spread, using public API."
+          "title":"Corona Tracker",
+          "url":"https://github.com/PsychoDevs69/CoronaTracker",
+          "description":"Open Source project of an Android App for tracking corona virus spread, using public API."
         },
         {
-          "title": "Corona Finder",
-          "url": "https://github.com/dastpeyman/corona_finder",
-          "description": "An Android application with language kotlin and java that shows the statistics of people with corona on the map using public API and informs a person about corona with a questionnaire."
+          "title":"Corona Finder",
+          "url":"https://github.com/dastpeyman/corona_finder",
+          "description":"An Android application with language kotlin and java that shows the statistics of people with corona on the map using public API and informs a person about corona with a questionnaire."
         },
         {
-          "title": "Reach4Help",
-          "url": "https://www.reach4help.org",
-          "description": "Connecting Persons In Need with Volunteers in a simple and efficient way."
+          "title":"Reach4Help",
+          "url":"https://www.reach4help.org",
+          "description":"Connecting Persons In Need with Volunteers in a simple and efficient way."
         },
         {
-          "title": "COVID-19 Tracker for Xamarin.Forms",
-          "url": "https://github.com/anaselhajjaji/covid19.xamarin.forms",
-          "description": "Simple Xamarin.Forms Application for COVID-19 statistics, it shows the differents statistics by countries. Application deployed in: [Microsoft AppCenter](https://install.appcenter.ms/users/elhajjajianas/apps/covid19/distribution_groups/public%20release)."
+          "title":"COVID-19 Tracker for Xamarin.Forms",
+          "url":"https://github.com/anaselhajjaji/covid19.xamarin.forms",
+          "description":"Simple Xamarin.Forms Application for COVID-19 statistics, it shows the differents statistics by countries. Application deployed in: [Microsoft AppCenter](https://install.appcenter.ms/users/elhajjajianas/apps/covid19/distribution_groups/public%20release)."
         },
         {
-          "title": "MeFee Temp Tracker",
-          "url": "https://mefee.org",
-          "description": "MeFee lets you easily track your temperature to build up baseline data so that you can get personalized early warning notifications if your temperature is out of your normal range."
+          "title":"MeFee Temp Tracker",
+          "url":"https://mefee.org",
+          "description":"MeFee lets you easily track your temperature to build up baseline data so that you can get personalized early warning notifications if your temperature is out of your normal range."
         },
         {
-          "title": "Track a Virus: COVID-19 Dashboard",
-          "url": "https://trackavirus.app",
-          "description": "Dashboard for comparing countries and analysing daily increases. Open for contributions. Has an extensive roadmap."
+          "title":"Track a Virus: COVID-19 Dashboard",
+          "url":"https://trackavirus.app",
+          "description":"Dashboard for comparing countries and analysing daily increases. Open for contributions. Has an extensive roadmap."
         }
       ]
     },
     {
-      "category": "IOS Apps",
-      "list": [
+      "category":"IOS Apps",
+      "list":[
         {
-          "title": "Relief Central",
-          "url": "https://apps.apple.com/us/app/relief-central/id353219185",
-          "description": "Coronavirus (COVID-19) Updates."
+          "title":"Relief Central",
+          "url":"https://apps.apple.com/us/app/relief-central/id353219185",
+          "description":"Coronavirus (COVID-19) Updates."
         },
         {
-          "title": "HEALTHLYNKED COVID-19 Tracker",
-          "url": "https://apps.apple.com/us/app/healthlynked-covid-19-tracker/id1500575377",
-          "description": "Corona virus tracker."
+          "title":"HEALTHLYNKED COVID-19 Tracker",
+          "url":"https://apps.apple.com/us/app/healthlynked-covid-19-tracker/id1500575377",
+          "description":"Corona virus tracker."
         },
         {
-          "title": "Coronavírus - SUS",
-          "url": "https://apps.apple.com/br/app/coronav%C3%ADrus-sus/id1408008382",
-          "description": "O Ministério da Saúde lança o app Coronavírus-SUS com o objetivo de conscientizar a população sobre o Corona Vírus COVID-19."
+          "title":"Coronavírus - SUS",
+          "url":"https://apps.apple.com/br/app/coronav%C3%ADrus-sus/id1408008382",
+          "description":"O Ministério da Saúde lança o app Coronavírus-SUS com o objetivo de conscientizar a população sobre o Corona Vírus COVID-19."
         },
         {
-          "title": "Covid-19 Tracker",
-          "url": "https://coronatrends.live",
-          "description": "A Chrome and Firefox browser popup utility to show countries and states stats with notifications related to increase in global confirmed cases"
+          "title":"Covid-19 Tracker",
+          "url":"https://coronatrends.live",
+          "description":"A Chrome and Firefox browser popup utility to show countries and states stats with notifications related to increase in global confirmed cases"
         },
         {
-          "title": "COVID Heroes",
-          "url": "https://covidheroes.net",
-          "description": "A Ccommunity platform for exchanging needed materials using requests and fulfillments."
+          "title":"COVID Heroes",
+          "url":"https://covidheroes.net",
+          "description":"A Ccommunity platform for exchanging needed materials using requests and fulfillments."
         }
       ]
     }
