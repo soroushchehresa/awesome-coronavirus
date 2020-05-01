@@ -1,4 +1,4 @@
-Please check the following items before submitting the pull request:
+I checked the following items before submitting this pull request:
 
 - [ ] **I only updated `data/*.json`.**
 - [ ] The updated JSON file doesn't have any errors and has the correct indent style. (Recommended online tools: [JSONLint](https://jsonlint.com) or [JSON Formatter](https://jsonformatter.curiousconcept.com))
