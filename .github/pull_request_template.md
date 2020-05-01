@@ -2,8 +2,8 @@ I checked the following items before submitting this pull request:
 
 - [ ] **I only updated `data/*.json`.**
 - [ ] The updated JSON file doesn't have any errors and has the correct indent style (2 Space Tab). (Recommended online validator: [JSON Formatter](https://jsonformatter.curiousconcept.com))
-- [ ] I placed my item at the end of the related list.
-- [ ] My suggestion is not a duplicate.
+- [ ] I placed the suggested item at the end of the related list.
+- [ ] This suggested item is not a duplicate.
 - [ ] This pull request contains one item.
-- [ ] My item descriptions are short and simple, but descriptive.
-- [ ] I checked my item spelling and grammar.
+- [ ] Item descriptions are short and simple, but descriptive.
+- [ ] Item spelling and grammar are correct.
