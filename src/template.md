@@ -15,7 +15,7 @@
 
 # Awesome Coronavirus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://img.shields.io/github/license/soroushchehresa/awesome-coronavirus"> <img src="https://img.shields.io/travis/soroushchehresa/awesome-coronavirus" alt="build status"> [<img src="https://img.shields.io/badge/sponsors-become%20a%20sponsor-blueviolet">](#donation-and-sponsoring)
 
-> Useful projects and resources for COVID-19 (2019 novel Coronavirus)
+> Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)
 
 COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers around the world are building applications for the public to get up-to-date and accurate information as quickly as possible. <br>
 
