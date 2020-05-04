@@ -443,6 +443,11 @@
           "title":"COVID-19 Ask Miso Anything",
           "url":"https://covid19-qa.demo.askmiso.com",
           "description":"Ask questions, get answers."
+        },
+        {
+          "title":"PocovidScreen",
+          "url":"https://pocovidscreen.org",
+          "description":"An AI tool for early screening of COVID-19 & pneumonia from ultrasound recordings (POCUS)."
         }
       ]
     },
