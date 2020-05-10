@@ -35,6 +35,11 @@
       "title":"#hackfromhome",
       "url":"https://www.hackfromhome.com",
       "description":"An anti-viral virtual hackathon."
+    },
+    {
+      "title":"COVID-19 DREAM Challenge",
+      "url":"https://www.synapse.org/ehr_challenge_covid19",
+      "description":"A continuous benchmarking project to support testing analytic and machine learning hypotheses on clinical data without data sharing to rapidly discover and implement approaches for care."
     }
   ]
 }
