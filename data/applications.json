@@ -448,6 +448,11 @@
           "title":"PocovidScreen",
           "url":"https://pocovidscreen.org",
           "description":"An AI tool for early screening of COVID-19 & pneumonia from ultrasound recordings (POCUS)."
+        },
+        {
+          "title":"Rt-INDIA",
+          "url":"https://www.rt-india.live",
+          "description":"R-naught stats for India and its states."
         }
       ]
     },
