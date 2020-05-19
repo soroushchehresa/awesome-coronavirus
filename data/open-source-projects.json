@@ -187,7 +187,8 @@
         "expelledboy/bitbar-covid",
         "amitay87/corona_touch_tracking",
         "dstotijn/ct-diag-server",
-        "yahoo/covid-19-dashboard"
+        "yahoo/covid-19-dashboard",
+        "GabrielTavernini/Covid19Stats"
       ]
     },
     {
