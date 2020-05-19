@@ -396,6 +396,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | [COVID-19 Ask Miso Anything](https://covid19-qa.demo.askmiso.com) | Ask questions, get answers. |
 | [PocovidScreen](https://pocovidscreen.org) | An AI tool for early screening of COVID-19 &amp; pneumonia from ultrasound recordings (POCUS). |
 | [Rt-INDIA](https://www.rt-india.live) | R-naught stats for India and its states. |
+| [mkvats.science/COVID-19](https://mkvats.science/COVID-19) | डैशबोर्ड तथा स्टैट्स ट्रैकर - भारतीय राज्यों एवं विश्व के देशों के आंकड़ों का विश्लेषण (मैप, डेटा टेबल, टाइमलाइन, रिपोर्ट्स एवं चार्ट्स के माध्यम से) |
 
 #### Android Apps
 
