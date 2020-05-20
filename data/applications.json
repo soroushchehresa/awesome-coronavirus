@@ -453,6 +453,11 @@
           "title":"Rt-INDIA",
           "url":"https://www.rt-india.live",
           "description":"R-naught stats for India and its states."
+        },
+        {
+          "title":"COVID-19 Pandemic Statistics",
+          "url":"https://pandemic19.herokuapp.com",
+          "description":"Shows statistics, graphs and a heat map, as well as news about coronavirus from different media. Also allows registering and managing new cases of infected people, offering a real-time notification service to those users who are nearby."
         }
       ]
     },
