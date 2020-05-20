@@ -184,6 +184,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 5 | [@daveselinger](https://github.com/daveselinger)/[**covid-19-hackathon**](https://github.com/daveselinger/covid-19-hackathon) | COVID state-by-state analysis. Please look at by_state_covid_analysis.ipynb. It can be opened directly into Google Colab. See the readme below for accompanying video and summary result presentations. |
  | 4 | [@p-j-r](https://github.com/p-j-r)/[**covid-19**](https://github.com/p-j-r/covid-19) | Stochastic SIR models; adding age-structures and social contact data for the spread of covid-19. Lattice model for identifying and isolating hotspots. This has been further developed into a network(graph) of multiple clusters(lattices) and tracing the infection in such a population. |
  | 2 | [@microprediction](https://github.com/microprediction)/[**pandemic**](https://github.com/microprediction/pandemic) | A 2d contagion model with commuting modeled as regime switching Ornstein-Uhlenbeck walks on the plane |
+ | 0 | [@Elzawawy](https://github.com/Elzawawy)/[**covid-case-estimator**](https://github.com/Elzawawy/covid-case-estimator) | A Daily cases and Total cases By Country Estimators for COVID-19 crisis. |
 
 #### Learning
 
