@@ -91,7 +91,8 @@
         "defeatcovid19/defeatcovid19-project",
         "yahoo/covid-19-data",
         "elComrades/coronaindia",
-        "ml-workgroup/covid-19-image-repository"
+        "ml-workgroup/covid-19-image-repository",
+        "owid/covid-19-data"
       ]
     },
     {
