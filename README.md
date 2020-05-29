@@ -258,6 +258,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 2 | [@expelledboy](https://github.com/expelledboy)/[**bitbar-covid**](https://github.com/expelledboy/bitbar-covid) | Get updates on covid 19 for your country in your status bar. BitBar Plugin. |
  | 2 | [@amitay87](https://github.com/amitay87)/[**corona_touch_tracking**](https://github.com/amitay87/corona_touch_tracking) | A system that will track touch in common surfaces in order to prioriotize the cleaning/disinfection of the most touched surfaces |
  | 2 | [@Spiderpig86](https://github.com/Spiderpig86)/[**to-go**](https://github.com/Spiderpig86/to-go) | :ramen: Simple web app for aggregating open restaurants in US/Canada cities during Covid-19. |
+ | 2 | [@ravindraten](https://github.com/ravindraten)/[**CoronaWorldStatsBot**](https://github.com/ravindraten/Covid19WorldStats) | Telegram bot which gives you #COVID19🦠 stats and graph when you share any location from around the world. |
  | 1 | [@LuisReinoso](https://github.com/LuisReinoso)/[**covid-19-community-tracker**](https://github.com/LuisReinoso/covid-19-community-tracker) | Check if you are near of suspected cases of covid-19. Self-report. No data is revealed. |
  | 1 | [@njoyard](https://github.com/njoyard)/[**corona**](https://github.com/njoyard/corona) | Covid-19 cases visualisation app using CSSE data |
  | 0 | [@varundeva](https://github.com/varundeva)/[**CoronaTracker**](https://github.com/varundeva/CoronaTracker) | Corona Tracking App by Using Various Data Api Available on GitHub |
@@ -473,6 +474,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | [Covid19India](https://t.me/CoronaUpdateLatest) | Telegram Channel for Latest Corona Virus Updates in India. |
 | [@coronapandemicbot](https://t.me/coronapandemicbot) | A bot that gives you up-to-date statistics on the worldwide spread of the COVID-19 disease. |
 | [@CovidRadar](https://t.me/CovidRradarBot) | Coronavirus Cases: statistics, charts and trends |
+| [@CoronaWorldStatsBot](https://t.me/CoronaWorldStatsBot) | Telegram bot which gives you #COVID19🦠 stats and graph when you share any location from around the world. |
 
 #### WhatsApp
 
