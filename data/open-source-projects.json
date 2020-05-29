@@ -192,7 +192,8 @@
         "amitay87/corona_touch_tracking",
         "dstotijn/ct-diag-server",
         "yahoo/covid-19-dashboard",
-        "GabrielTavernini/Covid19Stats"
+        "GabrielTavernini/Covid19Stats",
+        "ravindraten/CoronaWorldStatsBot"
       ]
     },
     {
