@@ -463,6 +463,11 @@
           "title":"mkvats.science/COVID-19",
           "url":"https://mkvats.science/COVID-19",
           "description":"डैशबोर्ड तथा स्टैट्स ट्रैकर - भारतीय राज्यों एवं विश्व के देशों के आंकड़ों का विश्लेषण (मैप, डेटा टेबल, टाइमलाइन, रिपोर्ट्स एवं चार्ट्स के माध्यम से)"
+        },
+        {
+          "title":"SaveDemic",
+          "url":"https://savedemic.com",
+          "description":"View epidemic data graphically and with great quality, also see predictions for the future and export the data."
         }
       ]
     },
