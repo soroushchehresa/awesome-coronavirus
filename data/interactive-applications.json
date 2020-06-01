@@ -70,6 +70,11 @@
       "title":"Yahoo Knowledge Graph COVID-19 Dashboard",
       "url":"https://yahoo.github.io/covid-19-dashboard",
       "description":"Dynamic COVID-19 dashboard using 100% government and public health authority sources."
+    },
+    {
+      "title":"The U.S. COVID-19 Testing Gap",
+      "url":"https://testing.predictcovid.com/",
+      "description":"This is a website visualizing each state’s testing relative to their population."
     }
   ]
 }
