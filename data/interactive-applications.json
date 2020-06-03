@@ -72,6 +72,11 @@
       "description":"Dynamic COVID-19 dashboard using 100% government and public health authority sources."
     },
     {
+      "title":"Japan's New Coronavirus Infection Bulletin",
+      "url":"https://covid-2019.live",
+      "description":"Interactive dashboard for real-time recording of COVID-19 outbreak in Japan."
+    },
+    {
       "title":"The U.S. COVID-19 Testing Gap",
       "url":"https://testing.predictcovid.com",
       "description":"This is a website visualizing each state’s testing relative to their population."
