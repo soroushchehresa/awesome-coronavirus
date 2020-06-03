@@ -468,6 +468,11 @@
           "title":"SaveDemic",
           "url":"https://savedemic.com",
           "description":"View epidemic data graphically and with great quality, also see predictions for the future and export the data."
+        },
+        {
+          "title":"COVID-19 Trends",
+          "url":"https://sl4wa.info/covid-19/",
+          "description":"Visualised daily stats by top-20 countries + Poland + Ukraine."
         }
       ]
     },
