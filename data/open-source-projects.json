@@ -194,7 +194,8 @@
         "dstotijn/ct-diag-server",
         "yahoo/covid-19-dashboard",
         "GabrielTavernini/Covid19Stats",
-        "ravindraten/CoronaWorldStatsBot"
+        "ravindraten/CoronaWorldStatsBot",
+        "google/exposure-notifications-android"
       ]
     },
     {
