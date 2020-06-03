@@ -93,7 +93,8 @@
         "elComrades/coronaindia",
         "ml-workgroup/covid-19-image-repository",
         "owid/covid-19-data",
-        "trekhleb/covid-19"
+        "trekhleb/covid-19",
+        "covidatlas/coronadatascraper"
       ]
     },
     {
