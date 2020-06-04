@@ -563,7 +563,12 @@
           "title":"COVID Heroes",
           "url":"https://covidheroes.net",
           "description":"A Ccommunity platform for exchanging needed materials using requests and fulfillments."
-        }
+        },
+        {
+          "title":"covid19-dash",
+          "url":"https://covidnineteendash.herokuapp.com/world",
+          "description":"A fully updated, interactive dashboard to track the corona virus cases made using the dash python framework. Contains diferent page and layouts for India and World and a good structure for a multi-page dash application."
+        },
       ]
     }
   ]
