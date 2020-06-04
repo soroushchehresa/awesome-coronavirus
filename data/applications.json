@@ -469,14 +469,14 @@
           "url":"https://savedemic.com",
           "description":"View epidemic data graphically and with great quality, also see predictions for the future and export the data."
         },
-        { 
+        {
           "title":"Covid19Monitor-India",
           "url":"https://covid19monitor-india.now.sh",
           "description":"A map-based, interactive web application dashboard that visualizes the spread of Covid19 in India and across the world."
         },
         {
           "title":"COVID-19 Trends",
-          "url":"https://sl4wa.info/covid-19/",
+          "url":"https://sl4wa.info/covid-19",
           "description":"Visualised daily stats by top-20 countries + Poland + Ukraine."
         }
       ]
