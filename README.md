@@ -410,6 +410,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | [mkvats.science/COVID-19](https://mkvats.science/COVID-19) | डैशबोर्ड तथा स्टैट्स ट्रैकर - भारतीय राज्यों एवं विश्व के देशों के आंकड़ों का विश्लेषण (मैप, डेटा टेबल, टाइमलाइन, रिपोर्ट्स एवं चार्ट्स के माध्यम से) |
 | [SaveDemic](https://savedemic.com) | View epidemic data graphically and with great quality, also see predictions for the future and export the data. |
 | [Covid19Monitor-India](https://covid19monitor-india.now.sh) | A map-based, interactive web application dashboard that visualizes the spread of Covid19 in India and across the world. |
+| [COVID-19 Trends](https://sl4wa.info/covid-19) | Visualised daily stats by top-20 countries + Poland + Ukraine. |
 
 #### Android Apps
 
