@@ -94,7 +94,8 @@
         "ml-workgroup/covid-19-image-repository",
         "owid/covid-19-data",
         "trekhleb/covid-19",
-        "covidatlas/coronadatascraper"
+        "covidatlas/coronadatascraper",
+        "sl4wa/covid-19"
       ]
     },
     {
@@ -115,7 +116,8 @@
         "p-j-r/covid-19",
         "Elzawawy/covid-case-estimator",
         "Nu-AI/Livid-About-COVID",
-        "Yu-Group/covid19-severity-prediction"
+        "Yu-Group/covid19-severity-prediction",
+        "lindawangg/COVID-Net"
       ]
     },
     {
