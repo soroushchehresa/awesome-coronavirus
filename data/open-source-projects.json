@@ -94,6 +94,7 @@
         "ml-workgroup/covid-19-image-repository",
         "owid/covid-19-data",
         "trekhleb/covid-19",
+        "covidatlas/coronadatascraper",
         "sl4wa/covid-19"
       ]
     },
