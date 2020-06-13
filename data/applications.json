@@ -478,6 +478,11 @@
           "title":"COVID-19 Trends",
           "url":"https://sl4wa.info/covid-19",
           "description":"Visualised daily stats by top-20 countries + Poland + Ukraine."
+        },
+        {
+          "title":"Postman COVID-19 API Resource Center",
+          "url":"https://covid-19-apis.postman.com",
+          "description":"API Collections to Help in the COVID-19 Fight"
         }
       ]
     },
