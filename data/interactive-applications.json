@@ -80,6 +80,11 @@
       "title":"The U.S. COVID-19 Testing Gap",
       "url":"https://testing.predictcovid.com",
       "description":"This is a website visualizing each state’s testing relative to their population."
+    },
+    {
+      "title":"COVID-19 Outcomes and Countries' BCG Vaccination Coverage",
+      "url":"https://covi.shinyapps.io/COVID19/",
+      "description":"An interactive webtool to test adjusted correlations of COVID-19 outcomes like number of cases and deaths with BCG vacination coverage in different countries."
     }
   ]
 }
