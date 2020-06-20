@@ -97,6 +97,7 @@
         "trekhleb/covid-19",
         "covidatlas/coronadatascraper",
         "sl4wa/covid-19",
+        "v7labs/covid-19-xray-dataset",
         "seandavi/sars2pack"
       ]
     },
