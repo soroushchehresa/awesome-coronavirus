@@ -115,7 +115,7 @@ Donate me with buying me some vitamins to boost my immune system during the coro
 
 <hr>
 
-You can become a sponsor of `awesome-coronavirus` and be placed at the top of this repository. If you are interested to become a sponsor please contact me with the following Email address:
+You can become a sponsor of `awesome-coronavirus` and be placed at the top of this repository readme. If you are interested to become a sponsor please contact me with the following Email address:
 #### `s1996ch@gmail.com`
 
 ## Contribution
