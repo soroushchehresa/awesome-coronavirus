@@ -483,6 +483,11 @@
           "title":"Postman COVID-19 API Resource Center",
           "url":"https://covid-19-apis.postman.com",
           "description":"API Collections to Help in the COVID-19 Fight"
+        },
+        {
+          "title":"Covid Markets Dashboard",
+          "url":"https://covidmarkets.com",
+          "description":"Collections of Applications including Vaccine Tracker, Reopening, Travel, and more."
         }
       ]
     },
