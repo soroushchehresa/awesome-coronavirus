@@ -201,7 +201,8 @@
         "yahoo/covid-19-dashboard",
         "GabrielTavernini/Covid19Stats",
         "ravindraten/CoronaWorldStatsBot",
-        "google/exposure-notifications-android"
+        "google/exposure-notifications-android",
+        "BrianRuizy/covid19-dashboard",
       ]
     },
     {
