@@ -10,4 +10,4 @@ Ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - New categories or improvements to the existing categorization are welcome, but should be done in a separate pull request.
 
-Thank you for your suggestion!
+Thank you for your suggestion 🙏
