@@ -97,14 +97,15 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 15 | [@COVID19-SARS-CoV-2](https://github.com/COVID19-SARS-CoV-2)/[**web-covid-api**](https://github.com/COVID19-SARS-CoV-2/web-covid-api) | 🦠COVID-19 Coronavirus 🔥Tracker Dashboard and 🚀Super fast API&#39;s (&lt; 200ms) 🆕Updates every 3 mins |
  | 14 | [@AlaeddineMessadi](https://github.com/AlaeddineMessadi)/[**COVID-19-REPORT-API**](https://github.com/AlaeddineMessadi/COVID-19-REPORT-API) | ⚕️🚑    COVID-19 API Service to keep tracking cases worldwide 🌍 |
  | 12 | [@yedhink](https://github.com/yedhink)/[**covid19-kerala-api**](https://github.com/yedhink/covid19-kerala-api) | A fast API service for retrieving day to day stats about Coronavirus(COVID-19, SARS-CoV-2) outbreak in Kerala(India). |
- | 9 | [@mahabub81](https://github.com/mahabub81)/[**covid-19-api**](https://github.com/mahabub81/covid-19-api) | Covid-19 Data in Json and SQL format |
  | 9 | [@marlon360](https://github.com/marlon360)/[**rki-covid-api**](https://github.com/marlon360/rki-covid-api) | An API for the spread of covid-19 in Germany. Data from Robert-Koch-Institut. |
+ | 9 | [@mahabub81](https://github.com/mahabub81)/[**covid-19-api**](https://github.com/mahabub81/covid-19-api) | Covid-19 Data in Json and SQL format |
  | 9 | [@ExpDev07](https://github.com/ExpDev07)/[**coronavirus-tracker**](https://github.com/ExpDev07/coronavirus-tracker) | 🦠 A live tracker and visualization of the coronavirus (2019-nCoV). Consists purely of a frontend written in EmberJS. |
  | 7 | [@lkd70](https://github.com/lkd70)/[**coronapi**](https://github.com/lkd70/coronapi) | A Coronavirus (COVID-19) tracking API (Bing data) |
  | 5 | [@elias-garcia](https://github.com/elias-garcia)/[**covid-19-spain**](https://github.com/elias-garcia/covid-19-spain) | 🇪🇸 REST API which exposes all of the COVID-19 stats for Spain extracted from the official spanish government daily reports. |
  | 3 | [@slotix](https://github.com/slotix)/[**COVID-19**](https://github.com/slotix/COVID-19) | Coronavirus (COVID-19) open API  |
  | 2 | [@alegoritma](https://github.com/alegoritma)/[**covid-19-lite**](https://github.com/alegoritma/covid-19-lite) |  |
  | 2 | [@episphere](https://github.com/episphere)/[**corona**](https://github.com/episphere/corona) | Exploring realtime interoperability with COVID-19 data |
+ | 2 | [@ffflorian](https://github.com/ffflorian)/[**api-clients**](https://github.com/ffflorian/api-clients) | API clients for various services |
  | 1 | [@AtilioA](https://github.com/AtilioA)/[**COVID19-ES-Py**](https://github.com/AtilioA/COVID19-ES-Py) | 🛠 API em Python para consulta de casos de COVID-19 no estado do Espírito Santo. |
  | 1 | [@Spiderpig86](https://github.com/Spiderpig86)/[**coronavirus-us-api**](https://github.com/Spiderpig86/coronavirus-us-api) | 🦠🇺🇸 A fast microservice for live statistics on Coronavirus/Covid-19/SARS-CoV-2 impact on the US. |
  | 0 | [@cityxdev](https://github.com/cityxdev)/[**covid19GoogleMobilityJSON**](https://github.com/cityxdev/covid19GoogleMobilityJSON) | A way to transform Google&#39;s mobility data during the COVID-19 pandemic to a JSON file per country |
