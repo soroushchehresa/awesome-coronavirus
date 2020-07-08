@@ -217,7 +217,8 @@
         "eebrown/data2019nCoV",
         "benhur07b/covid19-load-qgis",
         "ghaake/stay-home-snackbar",
-        "ffflorian/exposure-keys"
+        "ffflorian/exposure-keys",
+        "ahmednafies/covid"
       ]
     },
     {
