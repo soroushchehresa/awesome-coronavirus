@@ -407,7 +407,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | [Covidstat.info](https://covidstat.info) | Beautiful interactive dashboard to know number of COVID19 case across the world, also country-wise data. Data updates every 3 mins from multiple sources |
 | [COVID-19 Ask Miso Anything](https://covid19-qa.demo.askmiso.com) | Ask questions, get answers. |
 | [PocovidScreen](https://pocovidscreen.org) | An AI tool for early screening of COVID-19 &amp; pneumonia from ultrasound recordings (POCUS). |
-| [Rt-INDIA](https://www.rt-india.live) | R-naught stats for India and its states. |
+| [Rt-INDIA](rt-india.live) | R-naught stats for India and its states. |
 | [COVID-19 Pandemic Statistics](https://pandemic19.herokuapp.com) | Shows statistics, graphs and a heat map, as well as news about coronavirus from different media. Also allows registering and managing new cases of infected people, offering a real-time notification service to those users who are nearby. |
 | [mkvats.science/COVID-19](https://mkvats.science/COVID-19) | डैशबोर्ड तथा स्टैट्स ट्रैकर - भारतीय राज्यों एवं विश्व के देशों के आंकड़ों का विश्लेषण (मैप, डेटा टेबल, टाइमलाइन, रिपोर्ट्स एवं चार्ट्स के माध्यम से) |
 | [SaveDemic](https://savedemic.com) | View epidemic data graphically and with great quality, also see predictions for the future and export the data. |
