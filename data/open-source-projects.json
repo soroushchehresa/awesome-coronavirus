@@ -204,7 +204,8 @@
         "GabrielTavernini/Covid19Stats",
         "ravindraten/CoronaWorldStatsBot",
         "google/exposure-notifications-android",
-        "BrianRuizy/covid19-dashboard"
+        "BrianRuizy/covid19-dashboard",
+        "aerogear/OpenVolunteerPlatform"
       ]
     },
     {
