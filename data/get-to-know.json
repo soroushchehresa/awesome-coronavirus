@@ -1,25 +1,25 @@
 {
-  "title": "Get to Know",
-  "list": [
+  "title":"Get to Know",
+  "list":[
     {
-      "title": "Coronavirus",
-      "url": "https://www.who.int/health-topics/coronavirus",
-      "description": "World Health Organisation."
+      "title":"Coronavirus",
+      "url":"https://www.who.int/health-topics/coronavirus",
+      "description":"World Health Organization."
     },
     {
-      "title": "Novel coronavirus (COVID-19)",
-      "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
-      "description": "World Health Organisation."
+      "title":"Novel coronavirus (COVID-19)",
+      "url":"https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+      "description":"World Health Organization."
     },
     {
-      "title": "Coronavirus disease (COVID-19) advice for the public",
-      "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
-      "description": "World Health Organisation."
+      "title":"Coronavirus disease (COVID-19) advice for the public",
+      "url":"https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
+      "description":"World Health Organization."
     },
     {
-      "title": "Q&A on coronaviruses (COVID-19)",
-      "url": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses",
-      "description": "World Health Organisation."
+      "title":"Q&A on coronaviruses (COVID-19)",
+      "url":"https://www.who.int/news-room/q-a-detail/q-a-coronaviruses",
+      "description":"World Health Organization."
     }
   ]
 }

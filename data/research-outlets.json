@@ -1,45 +1,55 @@
 {
-  "title": "Research Outlets",
-  "list": [
+  "title":"Research Outlets",
+  "list":[
     {
-      "title": "The Lancet COVID-19 Resource Centre",
-      "url": "https://www.thelancet.com/coronavirus",
-      "description": "Journal page that aggregates coronavirus related research output."
+      "title":"The Lancet COVID-19 Resource Centre",
+      "url":"https://www.thelancet.com/coronavirus",
+      "description":"Journal page that aggregates coronavirus related research output."
     },
     {
-      "title": "American Society for Microbiology",
-      "url": "https://journals.asm.org/search/coronavirus%20jcode%3Aaem%7C%7Caac%7C%7Ccdli%7C%7Ccmr%7C%7Ceukcell%7C%7Ciai%7C%7Cjb%7C%7Cjcm%7C%7Cjvi%7C%7Cmbio%7C%7Cmmbr%7C%7Cga%7C%7Cmcb%7C%7Cmsph%7C%7Cmsys%20limit_from%3A2019-01-01%20limit_to%3A2020-01-23%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard?_ga=2.34252577.1885462816.1583650093-393486013.1583650093",
-      "description": "AMS search portal."
+      "title":"American Society for Microbiology",
+      "url":"https://journals.asm.org/search/coronavirus%20jcode%3Aaem%7C%7Caac%7C%7Ccdli%7C%7Ccmr%7C%7Ceukcell%7C%7Ciai%7C%7Cjb%7C%7Cjcm%7C%7Cjvi%7C%7Cmbio%7C%7Cmmbr%7C%7Cga%7C%7Cmcb%7C%7Cmsph%7C%7Cmsys%20limit_from%3A2019-01-01%20limit_to%3A2020-01-23%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard?_ga=2.34252577.1885462816.1583650093-393486013.1583650093",
+      "description":"AMS search portal."
     },
     {
-      "title": "American Chemical Society",
-      "url": "https://pubs.acs.org/page/vi/chemistry_coronavirus_research?utm_source=pubs_content_marketing&utm_medium=axial&utm_campaign=0120_JHS_coronavirus&ref=pubs_content_marketing",
-      "description": "Free issue of ACS with a focus on coronavirus."
+      "title":"American Chemical Society",
+      "url":"https://pubs.acs.org/page/vi/chemistry_coronavirus_research?utm_source=pubs_content_marketing&utm_medium=axial&utm_campaign=0120_JHS_coronavirus&ref=pubs_content_marketing",
+      "description":"Free issue of ACS with a focus on coronavirus."
     },
     {
-      "title": "Annals of Internal Medicine",
-      "url": "https://annals.org/aim/pages/coronavirus-content",
-      "description": "Annals page showcasing paper submissions."
+      "title":"Annals of Internal Medicine",
+      "url":"https://annals.org/aim/pages/coronavirus-content",
+      "description":"Annals page showcasing paper submissions."
     },
     {
-      "title": "European Respiratory Journal",
-      "url": "https://erj.ersjournals.com/cc/sars-cov-2-and-covid-19",
-      "description": "ERJ journal portal on coronaviruses."
+      "title":"European Respiratory Journal",
+      "url":"https://erj.ersjournals.com/cc/sars-cov-2-and-covid-19",
+      "description":"ERJ journal portal on coronaviruses."
     },
     {
-      "title": "Oxford Academic",
-      "url": "https://academic.oup.com/journals/pages/coronavirus?cc=us&lang=en&#997df937b5eb5a4ab1a9",
-      "description": "age of journal articles on the coronavirus."
+      "title":"Oxford Academic",
+      "url":"https://academic.oup.com/journals/pages/coronavirus?cc=us&lang=en&#997df937b5eb5a4ab1a9",
+      "description":"age of journal articles on the coronavirus."
     },
     {
-      "title": "Jama Network",
-      "url": "https://jamanetwork.com/journals/jama/pages/coronavirus-alert",
-      "description": "A variery of papers that span clinicians and researchers."
+      "title":"Jama Network",
+      "url":"https://jamanetwork.com/journals/jama/pages/coronavirus-alert",
+      "description":"A variery of papers that span clinicians and researchers."
     },
     {
-      "title": "Springer Nature",
-      "url": "https://www.springernature.com/gp/researchers/campaigns/coronavirus",
-      "description": "Springer Nature campaign page."
+      "title":"Springer Nature",
+      "url":"https://www.springernature.com/gp/researchers/campaigns/coronavirus",
+      "description":"Springer Nature campaign page."
+    },
+    {
+      "title":"COVID-19 Open Research Dataset (CORD-19)",
+      "url":"https://pages.semanticscholar.org/coronavirus-research",
+      "description":"Coronavirus papers in machine-readable (JSON) format."
+    },
+    {
+      "title":"COVID-19 Community Mobility Reports",
+      "url":"https://www.google.com/covid19/mobility",
+      "description":"Google's Community Mobility Reports aimed to provide insights into what has changed in response to policies aimed at combating COVID-19."
     }
   ]
 }
