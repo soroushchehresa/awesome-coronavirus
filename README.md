@@ -443,6 +443,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | [Covid-19 Tracker](https://coronatrends.live) | A Chrome and Firefox browser popup utility to show countries and states stats with notifications related to increase in global confirmed cases |
 | [COVID Heroes](https://covidheroes.net) | A Ccommunity platform for exchanging needed materials using requests and fulfillments. |
 | [covid19-dash](https://covidnineteendash.herokuapp.com/world) | A fully updated, interactive dashboard to track the corona virus cases made using the dash python framework. Contains diferent page and layouts for India and World and a good structure for a multi-page dash application. |
+| [Covid19 - Data Visualization RS](https://github.com/Gabriellavoura/covidAnalytics) | Open source data visualization platform, to make information about covid-19 easily available in the state of Rio Grande do Sul - Brazil. |
 
 
 
