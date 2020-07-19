@@ -486,7 +486,7 @@
         },
         {
           "title":"Pandemic Covid-19 Tracker",
-          "url":"https://pandemiccovid19.netlify.app/",
+          "url":"https://pandemiccovid19.netlify.app",
           "description":"A simple Web app and PWA compatible worldwide tracker of Pandemic Covid-19, with visualization of graph, table, and map."
         }
       ]
