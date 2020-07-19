@@ -416,7 +416,6 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | [COVID-19 Trends](https://sl4wa.info/covid-19) | Visualised daily stats by top-20 countries + Poland + Ukraine. |
 | [Postman COVID-19 API Resource Center](https://covid-19-apis.postman.com) | API Collections to Help in the COVID-19 Fight |
 | [Covid Markets Dashboard](https://covidmarkets.com) | Collections of Applications including Vaccine Tracker, Reopening, Travel, and more. |
-| [Pandemic Covid-19 Tracker](https://pandemiccovid19.netlify.app/) | A Web app and PWA compatible worldwide tracker of Pandemic Covid-19, with visualization of graph, table, and map. |
 
 #### Android Apps
 
