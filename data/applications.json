@@ -493,6 +493,11 @@
           "title":"Covid19 - Data Visualization RS",
           "url":"https://github.com/Gabriellavoura/covidAnalytics",
           "description":"Open source Web app, about covid-19 in the state of Rio Grande do Sul - Brazil."
+        },
+        {
+          "title":"rnnh.shinyapps.io/covidgraphics/",
+          "url":"https://rnnh.shinyapps.io/covidgraphics/",
+          "description":"A web application that creates graphs using international Covid-19 data, which can also be run locally."
         }
       ]
     },
