@@ -503,6 +503,11 @@
           "title":"Co-ronaBD.info",
           "url":"https://www.co-ronabd.info",
           "description":"Interactive Dashboard for Tracking Covid-19 Situatuion in Bangladesh."
+        },
+        {
+          "title":"COVID-19 Dashboard",
+          "url":"https://federico-dondi.github.io/COVID-19-dashboard",
+          "description":"Coronavirus (as COVID-19) web-application to show contagions, statistics and more. Made with Vue and Vuetify. Written in TypeScript."
         }
       ]
     },
