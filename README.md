@@ -591,6 +591,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | [IBM call for code - COVID-19](https://developer.ibm.com/callforcode/getstarted/covid-19/) | With the unprecedented effect of COVID-19, unite to help communities across the globe deal with the impact of the greatest crisis of modern times. |
 | [#hackfromhome](https://www.hackfromhome.com) | An anti-viral virtual hackathon. |
 | [COVID-19 DREAM Challenge](https://www.synapse.org/ehr_challenge_covid19) | A continuous benchmarking project to support testing analytic and machine learning hypotheses on clinical data without data sharing to rapidly discover and implement approaches for care. |
+| [Virtual Hacks](https://virtualhacks.ca/) | This isn’t your ordinary Hackathon.. Join us over the course of 8 weeks to tackle some of the most pressing challenges that we are facing today. |
 
 
 ## Current Status
