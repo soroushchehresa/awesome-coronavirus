@@ -40,6 +40,11 @@
       "title":"COVID-19 DREAM Challenge",
       "url":"https://www.synapse.org/ehr_challenge_covid19",
       "description":"A continuous benchmarking project to support testing analytic and machine learning hypotheses on clinical data without data sharing to rapidly discover and implement approaches for care."
+    },
+    {
+      "title":"Virtual Hacks",
+      "url":"https://virtualhacks.ca",
+      "description":"This isn’t your ordinary Hackathon.. Join us over the course of 8 weeks to tackle some of the most pressing challenges that we are facing today."
     }
   ]
 }
