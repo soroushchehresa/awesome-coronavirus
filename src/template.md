@@ -121,5 +121,5 @@ You can become a sponsor of `awesome-coronavirus` and be placed at the top of th
 #### `s1996ch@gmail.com`
 
 ## Contribution
-Contributions welcome! Read the [contribution guidelines](https://github.com/soroushchehresa/awesome-coronavirus/blob/master/contributing.md) first.
+Contributions are welcomed! Read the [contribution guidelines](https://github.com/soroushchehresa/awesome-coronavirus/blob/master/contributing.md) first.
 
