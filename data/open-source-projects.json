@@ -1,9 +1,9 @@
 {
-  "title":"Open Source Projects",
-  "list":[
+  "title": "Open Source Projects",
+  "list": [
     {
-      "category":"API",
-      "repositories":[
+      "category": "API",
+      "repositories": [
         "ExpDev07/coronavirus-tracker",
         "ExpDev07/coronavirus-tracker-api",
         "nat236919/Covid2019API",
@@ -43,8 +43,8 @@
       ]
     },
     {
-      "category":"Statistics and Datasets",
-      "repositories":[
+      "category": "Statistics and Datasets",
+      "repositories": [
         "CSSEGISandData/COVID-19",
         "globalcitizen/2019-wuhan-coronavirus-dat",
         "nextstrain/ncov",
@@ -104,8 +104,8 @@
       ]
     },
     {
-      "category":"Models",
-      "repositories":[
+      "category": "Models",
+      "repositories": [
         "HopkinsIDD/ncov_incubation",
         "coronafighter/coronaSEIR",
         "pennsignals/chime",
@@ -126,16 +126,16 @@
       ]
     },
     {
-      "category":"Learning",
-      "repositories":[
+      "category": "Learning",
+      "repositories": [
         "mattroconnor/deep_learning_coronavirus_cure",
         "jbesomi/Korono",
         "BNext-IQT/antivirals"
       ]
     },
     {
-      "category":"Maps",
-      "repositories":[
+      "category": "Maps",
+      "repositories": [
         "ncovis/choropleth",
         "jakobzhao/virus",
         "antonlukin/2019-nCoV",
@@ -151,8 +151,8 @@
       ]
     },
     {
-      "category":"Applications and Bots",
-      "repositories":[
+      "category": "Applications and Bots",
+      "repositories": [
         "RamiKrispin/coronavirus_dashboard",
         "hysios/coronavirus",
         "sorxrob/2019-ncov-frontend",
@@ -207,12 +207,13 @@
         "BrianRuizy/covid19-dashboard",
         "aerogear/OpenVolunteerPlatform",
         "MM-coder/coronavirus-wallpaper",
-        "federico-dondi/COVID-19-dashboard"
+        "federico-dondi/COVID-19-dashboard",
+        "thchong-code/covid-dash"
       ]
     },
     {
-      "category":"Packages and Scripts",
-      "repositories":[
+      "category": "Packages and Scripts",
+      "repositories": [
         "datasets/covid-19",
         "koushikkothagal/coronavirus-tracker",
         "eebrown/data2019nCoV",
@@ -225,8 +226,8 @@
       ]
     },
     {
-      "category":"CLI",
-      "repositories":[
+      "category": "CLI",
+      "repositories": [
         "ahmadawais/corona-cli",
         "trackercli/covid19-tracker-cli",
         "sagarkarira/coronavirus-tracker-cli",
@@ -241,16 +242,16 @@
       ]
     },
     {
-      "category":"Hardware",
-      "repositories":[
+      "category": "Hardware",
+      "repositories": [
         "jcl5m1/ventilator",
         "ProtofyTeam/OxyGEN",
         "makers-for-life/makair"
       ]
     },
     {
-      "category":"Data Stream",
-      "repositories":[
+      "category": "Data Stream",
+      "repositories": [
         "SolaceLabs/covid19-stream-processors"
       ]
     }
