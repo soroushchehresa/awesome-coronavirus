@@ -511,8 +511,8 @@
         },
         {
           "title":"covid-dash",
-          "url":"https://hauchongtang.github.io/covid-dash/#/",
-          "description":"A web app created with chartjs and material-ui to bring covid data to the masses"
+          "url":"https://hauchongtang.github.io/covid-dash",
+          "description":"A web app created with chartjs and material-ui to bring covid data to the masses."
         }
       ]
     },
