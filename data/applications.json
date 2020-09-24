@@ -513,6 +513,11 @@
           "title":"covid-dash",
           "url":"https://hauchongtang.github.io/covid-dash",
           "description":"A web app created with chartjs and material-ui to bring covid data to the masses."
+        },
+        {
+          "title":"COVID-19 Info",
+          "url":"https://covid19-aj.now.sh/",
+          "description":"A web app developed with angular and chartjs to show COVID-19 data for India, Germany & USA"
         }
       ]
     },
