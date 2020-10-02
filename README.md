@@ -10,7 +10,7 @@
 
 > Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)
 
-COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers around the world are building applications for the public to get up-to-date and accurate information as quickly as possible. <br>
+COVID-19 (Coronavirus December 2019) is a current epidemic as of today. Developers around the world are building applications for the public to get up-to-date and accurate information as quickly as possible. <br>
 
 **If you are interested to add your project to this list, please read the [contribution guidelines](https://github.com/soroushchehresa/awesome-coronavirus/blob/master/contributing.md) first!**
 
