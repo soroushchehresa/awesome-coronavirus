@@ -516,7 +516,7 @@
         },
         {
           "title":"COVID-19 Info",
-          "url":"https://covid19-aj.now.sh/",
+          "url":"https://covid19-aj.now.sh",
           "description":"A web app developed with angular and chartjs to show COVID-19 data for India, Germany & USA"
         }
       ]
