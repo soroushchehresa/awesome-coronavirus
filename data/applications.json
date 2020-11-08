@@ -608,6 +608,11 @@
           "title":"covid19-dash",
           "url":"https://covidnineteendash.herokuapp.com/world",
           "description":"A fully updated, interactive dashboard to track the corona virus cases made using the dash python framework. Contains diferent page and layouts for India and World and a good structure for a multi-page dash application."
+        },
+        {
+          "title":"covid-ampel-widget",
+          "url":"https://github.com/stritti/covid-ampel-widget",
+          "description":"Traffic light widget to display the current RKI corona figures for the districts in Germany on the smartphone."
         }
       ]
     }
