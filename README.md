@@ -128,13 +128,13 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 993 | [@datasets](https://github.com/datasets)/[**covid-19**](https://github.com/datasets/covid-19) | Novel Coronavirus 2019 time series data on cases |
  | 738 | [@UCSD-AI4H](https://github.com/UCSD-AI4H)/[**COVID-CT**](https://github.com/UCSD-AI4H/COVID-CT) | COVID-CT-Dataset: A CT Scan Dataset about COVID-19 |
  | 627 | [@globalcitizen](https://github.com/globalcitizen)/[**2019-wuhan-coronavirus-data**](https://github.com/globalcitizen/2019-wuhan-coronavirus-data) | 2019 Wuhan Coronavirus data (COVID-19 / 2019-nCoV) |
- | 468 | [@turicas](https://github.com/turicas)/[**covid19-br**](https://github.com/turicas/covid19-br) | Dados diários mais recentes do coronavírus por município brasileiro |
+ | 469 | [@turicas](https://github.com/turicas)/[**covid19-br**](https://github.com/turicas/covid19-br) | Dados diários mais recentes do coronavírus por município brasileiro |
  | 411 | [@GuangchuangYu](https://github.com/GuangchuangYu)/[**nCov2019**](https://github.com/GuangchuangYu/nCov2019) | query stats of infected coronavirus cases |
  | 383 | [@openZH](https://github.com/openZH)/[**covid_19**](https://github.com/openZH/covid_19) | COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL). The data is updated at best once a day (times of collection and update may vary). Start with the README. |
  | 371 | [@covidatlas](https://github.com/covidatlas)/[**coronadatascraper**](https://github.com/covidatlas/coronadatascraper) | COVID-19 Coronavirus data scraped from government and curated data sources. |
  | 350 | [@RamiKrispin](https://github.com/RamiKrispin)/[**coronavirus**](https://github.com/RamiKrispin/coronavirus) | The coronavirus dataset |
  | 273 | [@opencovid19-fr](https://github.com/opencovid19-fr)/[**data**](https://github.com/opencovid19-fr/data) | Consolidation des données de sources officielles concernant l&#39;épidémie de COVID19 |
- | 240 | [@trekhleb](https://github.com/trekhleb)/[**covid-19**](https://github.com/trekhleb/covid-19) | 📈 Coronavirus (COVID-19) dashboard to show the dynamics of Сoronavirus distribution per country |
+ | 241 | [@trekhleb](https://github.com/trekhleb)/[**covid-19**](https://github.com/trekhleb/covid-19) | 📈 Coronavirus (COVID-19) dashboard to show the dynamics of Сoronavirus distribution per country |
  | 199 | [@colaboradados](https://github.com/colaboradados)/[**colaboradados.github.io**](https://github.com/colaboradados/colaboradados.github.io) | O VEÍCULO COLABORATIVO SOBRE TRANSPARÊNCIA E OPEN DATA NO BRASIL. |
  | 114 | [@ActiveConclusion](https://github.com/ActiveConclusion)/[**COVID19_mobility**](https://github.com/ActiveConclusion/COVID19_mobility) | COVID-19 Mobility Data Aggregator. Scraper of Google, Apple and Waze COVID-19 Mobility Reports🚶🚘🚉 |
  | 104 | [@jianxu305](https://github.com/jianxu305)/[**nCov2019_analysis**](https://github.com/jianxu305/nCov2019_analysis) | Analysis of 2019-nCov coronavirus data |
