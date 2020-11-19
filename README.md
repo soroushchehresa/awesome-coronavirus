@@ -114,7 +114,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 | 🌟     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 24752 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
+ | 24753 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
  | 5836 | [@nytimes](https://github.com/nytimes)/[**covid-19-data**](https://github.com/nytimes/covid-19-data) | An ongoing repository of data on coronavirus cases and deaths in the U.S. |
  | 4914 | [@covid19india](https://github.com/covid19india)/[**covid19india-react**](https://github.com/covid19india/covid19india-react) | Tracking the impact of COVID-19 in India |
  | 3669 | [@pcm-dpc](https://github.com/pcm-dpc)/[**COVID-19**](https://github.com/pcm-dpc/COVID-19) | COVID-19 Italia - Monitoraggio situazione |
@@ -258,11 +258,11 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 5 | [@soroushchehresa](https://github.com/soroushchehresa)/[**iran-coronavirus**](https://github.com/soroushchehresa/iran-coronavirus) | IOS &amp; Android app about Coronavirus in Iran built with React-Native and TypeScript  |
  | 4 | [@bluebillxp](https://github.com/bluebillxp)/[**android-covid19-reportviewer**](https://github.com/bluebillxp/android-covid19-reportviewer) | This is the COVID-19 daily report viewer on Android presents data from CSSE@JHU open-sourced data repo. |
  | 4 | [@MG-ng](https://github.com/MG-ng)/[**Virus-Ticker-Widget**](https://github.com/MG-ng/Virus-Ticker-Widget) | See the spread of SARS-CoV-2 in your country - directly on your home screen |
- | 4 | [@cakebatterandsprinkles](https://github.com/cakebatterandsprinkles)/[**whereiscovid**](https://github.com/cakebatterandsprinkles/whereiscovid) | COVID19 tracking app made with React |
  | 4 | [@aleskandro](https://github.com/aleskandro)/[**covid19-charts-spreading-rapidity**](https://github.com/aleskandro/covid19-charts-spreading-rapidity) | Covid19 simple charts, spreading, rapidity and acceleration |
- | 2 | [@expelledboy](https://github.com/expelledboy)/[**bitbar-covid**](https://github.com/expelledboy/bitbar-covid) | Get updates on covid 19 for your country in your status bar. BitBar Plugin. |
+ | 4 | [@cakebatterandsprinkles](https://github.com/cakebatterandsprinkles)/[**whereiscovid**](https://github.com/cakebatterandsprinkles/whereiscovid) | COVID19 tracking app made with React |
+ | 3 | [@calpt](https://github.com/calpt)/[**CoronaPandemicBot**](https://github.com/calpt/CoronaPandemicBot) | 🦠 Yet another Telegram bot tracking the worldwide spread of COVID-19 (Novel Coronavirus) |
  | 2 | [@amitay87](https://github.com/amitay87)/[**corona_touch_tracking**](https://github.com/amitay87/corona_touch_tracking) | A system that will track touch in common surfaces in order to prioriotize the cleaning/disinfection of the most touched surfaces |
- | 2 | [@calpt](https://github.com/calpt)/[**CoronaPandemicBot**](https://github.com/calpt/CoronaPandemicBot) | 🦠 Yet another Telegram bot tracking the worldwide spread of COVID-19 (Novel Coronavirus) |
+ | 2 | [@expelledboy](https://github.com/expelledboy)/[**bitbar-covid**](https://github.com/expelledboy/bitbar-covid) | Get updates on covid 19 for your country in your status bar. BitBar Plugin. |
  | 1 | [@Jxyme](https://github.com/Jxyme)/[**covid-19-discord-custom-status**](https://github.com/Jxyme/covid-19-discord-custom-status) | Automatically adjust your Discord Custom Status with the latest COVID-19 Figures. |
  | 1 | [@Spiderpig86](https://github.com/Spiderpig86)/[**to-go**](https://github.com/Spiderpig86/to-go) | :ramen: Simple web app for aggregating open restaurants in US/Canada cities during Covid-19. |
  | 1 | [@shaunsaker](https://github.com/shaunsaker)/[**covid-19-south-africa-app**](https://github.com/shaunsaker/covid-19-south-africa-app) | A React-Native mobile app that displays the latest COVID-19 stats of any country and sends push notifications when the South African stats are released. |
