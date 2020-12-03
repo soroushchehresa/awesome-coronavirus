@@ -76,7 +76,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 | 🌟     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 2120 | [@disease-sh](https://github.com/disease-sh)/[**API**](https://github.com/disease-sh/API) | API for Current cases and more stuff about COVID-19 and Influenza |
+ | 2119 | [@disease-sh](https://github.com/disease-sh)/[**API**](https://github.com/disease-sh/API) | API for Current cases and more stuff about COVID-19 and Influenza |
  | 1744 | [@BlankerL](https://github.com/BlankerL)/[**DXY-COVID-19-Crawler**](https://github.com/BlankerL/DXY-COVID-19-Crawler) | 2019新型冠状病毒疫情实时爬虫及API | COVID-19/2019-nCoV Realtime Infection Crawler and API |
  | 1459 | [@ExpDev07](https://github.com/ExpDev07)/[**coronavirus-tracker-api**](https://github.com/ExpDev07/coronavirus-tracker-api) | 🦠 A simple and fast (&lt; 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It&#39;s written in python using the 🔥 FastAPI framework. Supports multiple sources! |
  | 1188 | [@mathdroid](https://github.com/mathdroid)/[**covid-19-api**](https://github.com/mathdroid/covid-19-api) | COVID-19 global data (from JHU CSSE for now) as-a-service |
@@ -87,7 +87,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 81 | [@rlindskog](https://github.com/rlindskog)/[**covid19-graphql**](https://github.com/rlindskog/covid19-graphql) | COVID-19 GraphQL API |
  | 81 | [@pastelsky](https://github.com/pastelsky)/[**covid-19-mobility-tracker**](https://github.com/pastelsky/covid-19-mobility-tracker) | Google Mobility Reports, reverse-engineered into a JSON / CSV API |
  | 71 | [@COVID19Tracking](https://github.com/COVID19Tracking)/[**covid-tracking-api**](https://github.com/COVID19Tracking/covid-tracking-api) | COVID-19 Rest &amp; GraphQL API for US data, using Cloudflare Workers |
- | 69 | [@ChrisMichaelPerezSantiago](https://github.com/ChrisMichaelPerezSantiago)/[**covid19**](https://github.com/ChrisMichaelPerezSantiago/covid19) | This API provides updated real-time data on coronavirus cases from the worldometers page, provided by the most reputable organizations and statistical offices in the world. |
+ | 68 | [@ChrisMichaelPerezSantiago](https://github.com/ChrisMichaelPerezSantiago)/[**covid19**](https://github.com/ChrisMichaelPerezSantiago/covid19) | This API provides updated real-time data on coronavirus cases from the worldometers page, provided by the most reputable organizations and statistical offices in the world. |
  | 67 | [@M-Media-Group](https://github.com/M-Media-Group)/[**Covid-19-API**](https://github.com/M-Media-Group/Covid-19-API) | This is the code running in AWS Lambda powering covid-api.mmediagroup.fr/v1. The API provides realtime and historical data on Coronavirus COVID-19 confirmed cases, deaths, and recovered cases. This API has now been called over 1 million times, thank you! |
  | 55 | [@bizz84](https://github.com/bizz84)/[**coronavirus_rest_api_flutter_course**](https://github.com/bizz84/coronavirus_rest_api_flutter_course) | Coronavirus REST API Flutter Course |
  | 53 | [@andreagrandi](https://github.com/andreagrandi)/[**covid-api**](https://github.com/andreagrandi/covid-api) | COVID19 Api based on Johns Hopkins CSSE data |
@@ -116,8 +116,8 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 | 🌟     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 24932 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
- | 5914 | [@nytimes](https://github.com/nytimes)/[**covid-19-data**](https://github.com/nytimes/covid-19-data) | An ongoing repository of data on coronavirus cases and deaths in the U.S. |
+ | 24935 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
+ | 5913 | [@nytimes](https://github.com/nytimes)/[**covid-19-data**](https://github.com/nytimes/covid-19-data) | An ongoing repository of data on coronavirus cases and deaths in the U.S. |
  | 4939 | [@covid19india](https://github.com/covid19india)/[**covid19india-react**](https://github.com/covid19india/covid19india-react) | Tracking the impact of COVID-19 in India |
  | 3682 | [@pcm-dpc](https://github.com/pcm-dpc)/[**COVID-19**](https://github.com/pcm-dpc/COVID-19) | COVID-19 Italia - Monitoraggio situazione |
  | 2447 | [@ieee8023](https://github.com/ieee8023)/[**covid-chestxray-dataset**](https://github.com/ieee8023/covid-chestxray-dataset) | We are building an open database of COVID-19 cases with chest X-ray or CT images. |
