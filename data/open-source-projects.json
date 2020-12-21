@@ -105,7 +105,8 @@
         "v7labs/covid-19-xray-dataset",
         "seandavi/sars2pack",
         "akshayajeevan/covid19-us-states",
-        "newaaa41/COVID19-Dataset"
+        "newaaa41/COVID19-Dataset",
+        "ozanerturk/covid19-turkey-api"
       ]
     },
     {

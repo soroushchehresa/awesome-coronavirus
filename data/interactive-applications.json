@@ -83,8 +83,13 @@
     },
     {
       "title":"COVID-19 Outcomes and Countries' BCG Vaccination Coverage",
-      "url":"https://covi.shinyapps.io/COVID19/",
+      "url":"https://covi.shinyapps.io/COVID19",
       "description":"An interactive webtool to test adjusted correlations of COVID-19 outcomes like number of cases and deaths with BCG vacination coverage in different countries."
+    },
+    {
+      "title":"Turkey's coronavirus dashboard",
+      "url":"https://ozanerturk.github.io/covid19-turkey-api",
+      "description":"This application updates data sets by scarping data from the web site of of Turkish Ministry of Health (https://covid19.saglik.gov.tr) every 5 minutes."
     }
   ]
 }
