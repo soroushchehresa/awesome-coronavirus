@@ -117,7 +117,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | 🌟     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
  | 25167 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
- | 6006 | [@nytimes](https://github.com/nytimes)/[**covid-19-data**](https://github.com/nytimes/covid-19-data) | An ongoing repository of data on coronavirus cases and deaths in the U.S. |
+ | 6007 | [@nytimes](https://github.com/nytimes)/[**covid-19-data**](https://github.com/nytimes/covid-19-data) | An ongoing repository of data on coronavirus cases and deaths in the U.S. |
  | 4981 | [@covid19india](https://github.com/covid19india)/[**covid19india-react**](https://github.com/covid19india/covid19india-react) | Tracking the impact of COVID-19 in India |
  | 3696 | [@pcm-dpc](https://github.com/pcm-dpc)/[**COVID-19**](https://github.com/pcm-dpc/COVID-19) | COVID-19 Italia - Monitoraggio situazione |
  | 2490 | [@ieee8023](https://github.com/ieee8023)/[**covid-chestxray-dataset**](https://github.com/ieee8023/covid-chestxray-dataset) | We are building an open database of COVID-19 cases with chest X-ray or CT images. |
@@ -189,7 +189,6 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 7 | [@p-j-r](https://github.com/p-j-r)/[**covid-19**](https://github.com/p-j-r/covid-19) | Stochastic SIR models; adding age-structures and social contact data for the spread of covid-19. Lattice model for identifying and isolating hotspots. This has been further developed into a network(graph) of multiple clusters(lattices) and tracing the infection in such a population. |
  | 7 | [@Nu-AI](https://github.com/Nu-AI)/[**Livid-About-COVID**](https://github.com/Nu-AI/Livid-About-COVID) | Forecasting the spread of the novel coronavirus |
  | 5 | [@daveselinger](https://github.com/daveselinger)/[**covid-19-hackathon**](https://github.com/daveselinger/covid-19-hackathon) | COVID state-by-state analysis. Please look at by_state_covid_analysis.ipynb. It can be opened directly into Google Colab. See the readme below for accompanying video and summary result presentations. |
- | 4 | [@microprediction](https://github.com/microprediction)/[**pandemic**](https://github.com/microprediction/pandemic) | A 2d contagion model with commuting modeled as regime switching Ornstein-Uhlenbeck walks on the plane |
  | 1 | [@Elzawawy](https://github.com/Elzawawy)/[**covid-case-estimator**](https://github.com/Elzawawy/covid-case-estimator) | A daily and total number of cases by country estimators for the COVID-19 crisis in hopes to help the community survive this pandemic. |
 
 #### Learning
