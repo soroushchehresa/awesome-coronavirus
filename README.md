@@ -116,8 +116,8 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 | 🌟     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 25264 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
- | 6053 | [@nytimes](https://github.com/nytimes)/[**covid-19-data**](https://github.com/nytimes/covid-19-data) | An ongoing repository of data on coronavirus cases and deaths in the U.S. |
+ | 25265 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
+ | 6054 | [@nytimes](https://github.com/nytimes)/[**covid-19-data**](https://github.com/nytimes/covid-19-data) | An ongoing repository of data on coronavirus cases and deaths in the U.S. |
  | 4999 | [@covid19india](https://github.com/covid19india)/[**covid19india-react**](https://github.com/covid19india/covid19india-react) | Tracking the impact of COVID-19 in India |
  | 3711 | [@pcm-dpc](https://github.com/pcm-dpc)/[**COVID-19**](https://github.com/pcm-dpc/COVID-19) | COVID-19 Italia - Monitoraggio situazione |
  | 2505 | [@ieee8023](https://github.com/ieee8023)/[**covid-chestxray-dataset**](https://github.com/ieee8023/covid-chestxray-dataset) | We are building an open database of COVID-19 cases with chest X-ray or CT images. |
@@ -281,8 +281,8 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 |:-----------:|:-------------|:-------------|
  | 1021 | [@datasets](https://github.com/datasets)/[**covid-19**](https://github.com/datasets/covid-19) | Novel Coronavirus 2019 time series data on cases |
  | 74 | [@koushikkothagal](https://github.com/koushikkothagal)/[**coronavirus-tracker**](https://github.com/koushikkothagal/coronavirus-tracker) | Spring Boot Java app to track coronavirus confirmed cases across the globe |
- | 38 | [@eebrown](https://github.com/eebrown)/[**data2019nCoV**](https://github.com/eebrown/data2019nCoV) | COVID-19 Pandemic Data R Package |
- | 38 | [@eebrown](https://github.com/eebrown)/[**data2019nCoV**](https://github.com/eebrown/data2019nCoV) | COVID-19 Pandemic Data R Package |
+ | 39 | [@eebrown](https://github.com/eebrown)/[**data2019nCoV**](https://github.com/eebrown/data2019nCoV) | COVID-19 Pandemic Data R Package |
+ | 39 | [@eebrown](https://github.com/eebrown)/[**data2019nCoV**](https://github.com/eebrown/data2019nCoV) | COVID-19 Pandemic Data R Package |
  | 38 | [@ahmednafies](https://github.com/ahmednafies)/[**covid**](https://github.com/ahmednafies/covid) | Python package to fetch information regarding the novel corona virus provided by Johns Hopkins university and worldometers.info |
  | 30 | [@pdtyreus](https://github.com/pdtyreus)/[**coronavirus-ds**](https://github.com/pdtyreus/coronavirus-ds) | Jupyter notebooks and python scripts for investigating the 2019 coronavirus outbreak |
  | 3 | [@benhur07b](https://github.com/benhur07b)/[**covid19-load-qgis**](https://github.com/benhur07b/covid19-load-qgis) | A Python script you can run in QGIS that loads the data from https://github.com/CSSEGISandData/COVID-19 provided by Johns Hopkins University CSSE. |
