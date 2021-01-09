@@ -517,12 +517,12 @@
         {
           "title":"COVID-19 Info",
           "url":"https://covid19-aj.now.sh",
-          "description":"A web app developed with angular and chartjs to show COVID-19 data for India, Germany & USA"
+          "description":"A web app developed with angular and chartjs to show COVID-19 data for India, Germany & USA."
         },
         {
           "title":"COVID-19 Gatherings Risk Assessment Tool",
-          "url":"https://mmahdigh.github.io/covid-risk/",
-          "description":"COVID-19 Risk Calculator For Gatherings in Almost 4000 Regions All Over The World"
+          "url":"https://mmahdigh.github.io/covid-risk",
+          "description":"COVID-19 Risk Calculator For Gatherings in Almost 4000 Regions All Over The World."
         }
       ]
     },
