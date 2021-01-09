@@ -612,7 +612,7 @@
         {
           "title":"wildgrube.com - Outbreak",
           "url":"https://wildgrube.com/outbreak",
-          "description":"Visualization of the Johns Hopkins data on the Covid19 pandemic build on SteelPHP, Javascript, React and d3."
+          "description":"Visualization of the Johns Hopkins data on the Covid19 pandemic build on SteelPHP, Javascript, React and D3."
         }
       ]
     }
