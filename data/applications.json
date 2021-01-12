@@ -618,6 +618,11 @@
           "title":"wildgrube.com - Outbreak",
           "url":"https://wildgrube.com/outbreak",
           "description":"Visualization of the Johns Hopkins data on the Covid19 pandemic build on SteelPHP, Javascript, React and D3."
+        },
+        {
+          "title":"Apocalypse Travel",
+          "url":"http://apocalypsetravel.com/",
+          "description":"COVID travel restrictions between US states and countries around the world."
         }
       ]
     }
