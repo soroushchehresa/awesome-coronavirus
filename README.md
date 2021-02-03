@@ -228,7 +228,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 476 | [@phildini](https://github.com/phildini)/[**stayinghomeclub**](https://github.com/phildini/stayinghomeclub) | A list of all the companies WFH or events changed because of covid-19 |
  | 451 | [@AaronWard](https://github.com/AaronWard)/[**covidify**](https://github.com/AaronWard/covidify) | Covidify - corona virus report and dataset generator for python 📈 |
  | 315 | [@JohnCoene](https://github.com/JohnCoene)/[**coronavirus**](https://github.com/JohnCoene/coronavirus) | 🦠 Novel Coronavirus (COVID-19) Tracker |
- | 305 | [@alfianlosari](https://github.com/alfianlosari)/[**CoronaVirusTrackerSwiftUI**](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI) | Corona Virus Tracker &amp; Advices iOS App with SwiftUI |
+ | 306 | [@alfianlosari](https://github.com/alfianlosari)/[**CoronaVirusTrackerSwiftUI**](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI) | Corona Virus Tracker &amp; Advices iOS App with SwiftUI |
  | 260 | [@julianschiavo](https://github.com/julianschiavo)/[**Covidcheck**](https://github.com/julianschiavo/Covidcheck) | Open source iOS app to track COVID-19 cases in a beautiful, easy-to-use interface |
  | 205 | [@dsfsi](https://github.com/dsfsi)/[**covid19za**](https://github.com/dsfsi/covid19za) | Coronavirus COVID-19 (2019-nCoV) Data Repository and Dashboard for South Africa |
  | 199 | [@heremaps](https://github.com/heremaps)/[**here-covid-19-tracker**](https://github.com/heremaps/here-covid-19-tracker) | Using HERE Technologies APIs, fork and build your own COVID-19 Tracker. For a live version, see the website. |
