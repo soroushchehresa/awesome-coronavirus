@@ -103,7 +103,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 ## Donation and Sponsoring
 
-Donate me with buying me some vitamins to boost my immune system during the coronavirus outbreak, I would maintain this repository if I was alive :) 
+Donate me by buying me some vitamins to boost my immune system during the coronavirus outbreak, I would maintain this repository if I was alive :) 
 
 #### Bitcoin
 <img src="https://i.imgur.com/9IgberJ.png" width="120" >
@@ -117,7 +117,7 @@ Donate me with buying me some vitamins to boost my immune system during the coro
 
 <hr>
 
-You can become a sponsor of `awesome-coronavirus` and be placed at the top of this repository readme. If you are interested to become a sponsor please contact me with the following Email address:
+You can become a sponsor of `awesome-coronavirus` and be placed at the top of this repository readme. If you are interested to become a sponsor please contact me by the following Email address:
 #### `s1996ch@gmail.com`
 
 ## Contribution
