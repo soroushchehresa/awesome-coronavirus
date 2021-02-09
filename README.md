@@ -121,7 +121,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 5051 | [@covid19india](https://github.com/covid19india)/[**covid19india-react**](https://github.com/covid19india/covid19india-react) | Tracking the impact of COVID-19 in India |
  | 3762 | [@pcm-dpc](https://github.com/pcm-dpc)/[**COVID-19**](https://github.com/pcm-dpc/COVID-19) | COVID-19 Italia - Monitoraggio situazione |
  | 2540 | [@ieee8023](https://github.com/ieee8023)/[**covid-chestxray-dataset**](https://github.com/ieee8023/covid-chestxray-dataset) | We are building an open database of COVID-19 cases with chest X-ray or CT images. |
- | 2455 | [@owid](https://github.com/owid)/[**covid-19-data**](https://github.com/owid/covid-19-data) | Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data |
+ | 2456 | [@owid](https://github.com/owid)/[**covid-19-data**](https://github.com/owid/covid-19-data) | Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data |
  | 1909 | [@BlankerL](https://github.com/BlankerL)/[**DXY-COVID-19-Data**](https://github.com/BlankerL/DXY-COVID-19-Data) | 2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse |
  | 1184 | [@github](https://github.com/github)/[**covid19-dashboard**](https://github.com/github/covid19-dashboard) | A site that displays up to date COVID-19 stats, powered by fastpages. |
  | 1167 | [@nextstrain](https://github.com/nextstrain)/[**ncov**](https://github.com/nextstrain/ncov) | Nextstrain build for novel coronavirus SARS-CoV-2 |
@@ -192,7 +192,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 7 | [@Nu-AI](https://github.com/Nu-AI)/[**Livid-About-COVID**](https://github.com/Nu-AI/Livid-About-COVID) | Forecasting the spread of the novel coronavirus |
  | 5 | [@microprediction](https://github.com/microprediction)/[**pandemic**](https://github.com/microprediction/pandemic) | A 2d contagion model with commuting modeled as regime switching Ornstein-Uhlenbeck walks on the plane |
  | 5 | [@daveselinger](https://github.com/daveselinger)/[**covid-19-hackathon**](https://github.com/daveselinger/covid-19-hackathon) | COVID state-by-state analysis. Please look at by_state_covid_analysis.ipynb. It can be opened directly into Google Colab. See the readme below for accompanying video and summary result presentations. |
- | 4 | [@mmahdigh](https://github.com/mmahdigh)/[**covid-risk**](https://github.com/mmahdigh/covid-risk) | Assess the risk of indoor gatherings, events and parties using Covid Risk Calculator. |
+ | 5 | [@mmahdigh](https://github.com/mmahdigh)/[**covid-risk**](https://github.com/mmahdigh/covid-risk) | Assess the risk of indoor gatherings, events and parties using Covid Risk Calculator. |
  | 1 | [@Elzawawy](https://github.com/Elzawawy)/[**covid-case-estimator**](https://github.com/Elzawawy/covid-case-estimator) | A daily and total number of cases by country estimators for the COVID-19 crisis in hopes to help the community survive this pandemic. |
 
 #### Learning
