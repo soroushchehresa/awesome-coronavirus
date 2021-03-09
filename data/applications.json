@@ -528,6 +528,11 @@
           "title":"COVIDPorPartido",
           "url":"https://eduardoconx.github.io/COVIDPorPartido",
           "description":"Página web para el seguimiento del COVID-19 según los partidos políticos que gobiernan en México."
+        },
+        {
+          "title":"covid19stats",
+          "url":"https://abhishar.herokuapp.com/",
+          "description":"A web applicatiomn for showing map and graph representation for worldwide coronavirus cases."
         }
       ]
     },
