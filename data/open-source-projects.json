@@ -140,7 +140,8 @@
       "repositories":[
         "mattroconnor/deep_learning_coronavirus_cure",
         "jbesomi/Korono",
-        "BNext-IQT/antivirals"
+        "BNext-IQT/antivirals",
+        "xyjigsaw/COVID19-KBQA-DEMO"
       ]
     },
     {
