@@ -109,6 +109,7 @@
         "ozanerturk/covid19-turkey-api",
         "pranavmishra90/COVID-19",
         "sociepy/covid19-vaccination-subnational",
+        "xyjigsaw/COVID-19-traces-Knowledge-Graph",
         "masdot/cdp-corona-data-project"
       ]
     },
@@ -140,7 +141,8 @@
       "repositories":[
         "mattroconnor/deep_learning_coronavirus_cure",
         "jbesomi/Korono",
-        "BNext-IQT/antivirals"
+        "BNext-IQT/antivirals",
+        "xyjigsaw/COVID19-KBQA-DEMO"
       ]
     },
     {
