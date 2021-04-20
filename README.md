@@ -202,7 +202,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 | 🌟     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 362 | [@mattroconnor](https://github.com/mattroconnor)/[**deep_learning_coronavirus_cure**](https://github.com/mattroconnor/deep_learning_coronavirus_cure) | Using deep learning to generate novel molecules as candidates for binding with coronavirus protease |
+ | 363 | [@mattroconnor](https://github.com/mattroconnor)/[**deep_learning_coronavirus_cure**](https://github.com/mattroconnor/deep_learning_coronavirus_cure) | Using deep learning to generate novel molecules as candidates for binding with coronavirus protease |
  | 27 | [@xyjigsaw](https://github.com/xyjigsaw)/[**COVID19-KBQA-DEMO**](https://github.com/xyjigsaw/COVID19-KBQA-DEMO) | COVID-2019 中文知识问答系统 |
  | 9 | [@jbesomi](https://github.com/jbesomi)/[**Korono**](https://github.com/jbesomi/Korono) | 👑Korono: question answering platform for COVID-19 papers |
  | 3 | [@BNext-IQT](https://github.com/BNext-IQT)/[**antivirals**](https://github.com/BNext-IQT/antivirals) | Finding antivirals for the novel coronavirus using machine learning. Experimental. |
