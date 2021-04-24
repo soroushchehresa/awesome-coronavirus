@@ -536,7 +536,7 @@
         },
         {
           "title":"Optimising Lockdowns",
-          "url":"https://optimising-lockdowns.herokuapp.com/",
+          "url":"https://optimising-lockdowns.herokuapp.com",
           "description":"Optimise multiple lockdowns using a user defined cost function and disease dynamics."
         }
       ]
