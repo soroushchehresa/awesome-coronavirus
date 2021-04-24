@@ -538,6 +538,11 @@
           "title":"Optimising Lockdowns",
           "url":"https://optimising-lockdowns.herokuapp.com",
           "description":"Optimise multiple lockdowns using a user defined cost function and disease dynamics."
+        },
+        {
+          "title":"HealthBadge",
+          "url":"https://www.healthbadge.org/",
+          "description":"Health management and verification system for communities during epidemic outbreaks."
         }
       ]
     },
