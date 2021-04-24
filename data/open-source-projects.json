@@ -134,7 +134,8 @@
         "Yu-Group/covid19-severity-prediction",
         "lindawangg/COVID-Net",
         "mmahdigh/covid-risk",
-        "healthbadge/episimmer"
+        "healthbadge/episimmer",
+        "inavamsi/Custom_epidemic_model"
       ]
     },
     {
