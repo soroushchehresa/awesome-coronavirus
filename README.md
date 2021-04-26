@@ -632,6 +632,16 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | [ECDC](https://www.ecdc.europa.eu/en/novel-coronavirus-china) |  European Centre for Disease Prevention and Control |
 
 
+## Vaccinations
+
+| Link  | Description  |
+|:------|:-------------|
+| [Statistics and research](https://ourworldindata.org/covid-vaccinations) | The international COVID-19 vaccination dataset that we make available on this page is updated each morning (London time). |
+| [Pfizer-BioNTech](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/Pfizer-BioNTech.html) | Pfizer-BioNTech COVID-19 Vaccine Overview and Safety. |
+| [Moderna](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/Moderna.html) | Moderna COVID-19 Vaccine Overview and Safety. |
+| [Johnson &amp; Johnson’s Janssen](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/janssen.html) | Johnson &amp; Johnson’s Janssen COVID-19 Vaccine Overview and Safety. |
+
+
 ## Donation and Sponsoring
 
 Donate me by buying me some vitamins to boost my immune system during the coronavirus outbreak, I would maintain this repository if I was alive :) 
