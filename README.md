@@ -447,6 +447,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | [covid19stats](https://abhishar.herokuapp.com) | A web applicatiomn for showing map and graph representation for worldwide coronavirus cases. |
 | [Optimising Lockdowns](https://optimising-lockdowns.herokuapp.com) | Optimise multiple lockdowns using a user defined cost function and disease dynamics. |
 | [HealthBadge](https://www.healthbadge.org) | Health management and verification system for communities during epidemic outbreaks. |
+| [NCOVDashboard](https://quantalabs.github.io/NCOVDashboard/us) | NCOVDashboard is a COVID-19 Dashboard with graphs and data for the US, built with a python backend. |
 
 #### Android Apps
 
