@@ -1,0 +1,25 @@
+{
+  "title":"Vaccinations",
+  "list":[
+    {
+      "title":"Statistics and research",
+      "url":"https://ourworldindata.org/covid-vaccinations",
+      "description":"The international COVID-19 vaccination dataset that we make available on this page is updated each morning (London time)."
+    },
+    {
+      "title":"Pfizer-BioNTech",
+      "url":"https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/Pfizer-BioNTech.html",
+      "description":"Pfizer-BioNTech COVID-19 Vaccine Overview and Safety."
+    },
+    {
+      "title":"Moderna",
+      "url":"https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/Moderna.html",
+      "description":"Moderna COVID-19 Vaccine Overview and Safety."
+    },
+    {
+      "title":"Johnson & Johnson’s Janssen",
+      "url":"https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/janssen.html",
+      "description":"Johnson & Johnson’s Janssen COVID-19 Vaccine Overview and Safety."
+    }
+  ]
+}
