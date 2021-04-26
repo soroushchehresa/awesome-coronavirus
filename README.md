@@ -632,7 +632,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | [ECDC](https://www.ecdc.europa.eu/en/novel-coronavirus-china) |  European Centre for Disease Prevention and Control |
 
 
-## Vaccinations
+## Vaccination
 
 | Link  | Description  |
 |:------|:-------------|
