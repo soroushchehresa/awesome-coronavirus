@@ -53,11 +53,11 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 - [Current Status](#current-status)
 
+- [Vaccination](#vaccination)
+
 - [Donation and Sponsoring](#donation-and-sponsoring)
 
 - [Contribution](#contribution)
-
-- [Vaccination](#vaccination)
 
 
 
