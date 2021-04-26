@@ -543,6 +543,11 @@
           "title":"HealthBadge",
           "url":"https://www.healthbadge.org",
           "description":"Health management and verification system for communities during epidemic outbreaks."
+        },
+        {
+          "title":"NCOVDashboard",
+          "url":"https://quantalabs.github.io/NCOVDashboard/us",
+          "description":"NCOVDashboard is a COVID-19 Dashboard with graphs and data for the US, built with a python backend."
         }
       ]
     },
