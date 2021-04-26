@@ -101,6 +101,13 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 <% for (i in currentStatus.list) { %>| [<%= currentStatus.list[i].title %>](<%= currentStatus.list[i].url %>) | <%= currentStatus.list[i].description %> |
 <% } %>
 
+## <%= vaccinations.title %>
+
+| Link  | Description  |
+|:------|:-------------|
+<% for (i in vaccinations.list) { %>| [<%= vaccinations.list[i].title %>](<%= vaccinations.list[i].url %>) | <%= vaccinations.list[i].description %> |
+<% } %>
+
 ## Donation and Sponsoring
 
 Donate me by buying me some vitamins to boost my immune system during the coronavirus outbreak, I would maintain this repository if I was alive :) 
