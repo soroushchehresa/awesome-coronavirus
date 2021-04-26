@@ -137,6 +137,13 @@
       ]
     },
     {
+      "category":"Vaccination",
+      "anchor":"vaccination",
+      "list":[
+
+      ]
+    },
+    {
       "category":"Donation and Sponsoring",
       "anchor":"donation-and-sponsoring",
       "list":[
@@ -146,13 +153,6 @@
     {
       "category":"Contribution",
       "anchor":"contribution",
-      "list":[
-
-      ]
-    },
-    {
-      "category":"Vaccination",
-      "anchor":"vaccination",
       "list":[
 
       ]
