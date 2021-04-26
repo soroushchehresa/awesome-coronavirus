@@ -101,11 +101,11 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 <% for (i in currentStatus.list) { %>| [<%= currentStatus.list[i].title %>](<%= currentStatus.list[i].url %>) | <%= currentStatus.list[i].description %> |
 <% } %>
 
-## <%= vaccinations.title %>
+## <%= vaccination.title %>
 
 | Link  | Description  |
 |:------|:-------------|
-<% for (i in vaccinations.list) { %>| [<%= vaccinations.list[i].title %>](<%= vaccinations.list[i].url %>) | <%= vaccinations.list[i].description %> |
+<% for (i in vaccination.list) { %>| [<%= vaccination.list[i].title %>](<%= vaccination.list[i].url %>) | <%= vaccination.list[i].description %> |
 <% } %>
 
 ## Donation and Sponsoring
