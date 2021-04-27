@@ -20,6 +20,11 @@
       "title":"Johnson & Johnson’s Janssen",
       "url":"https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/janssen.html",
       "description":"Johnson & Johnson’s Janssen COVID-19 Vaccine Overview and Safety."
+    },
+    {
+      "title":"Vaxzevria (previously COVID-19 Vaccine AstraZeneca)",
+      "url":"https://www.ema.europa.eu/en/medicines/human/EPAR/vaxzevria-previously-covid-19-vaccine-astrazeneca",
+      "description":"AstraZeneca COVID-19 Vaccine Overview and Safety."
     }
   ]
 }
