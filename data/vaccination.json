@@ -25,6 +25,16 @@
       "title":"Vaxzevria (previously COVID-19 Vaccine AstraZeneca)",
       "url":"https://www.ema.europa.eu/en/medicines/human/EPAR/vaxzevria-previously-covid-19-vaccine-astrazeneca",
       "description":"AstraZeneca COVID-19 Vaccine Overview and Safety."
+    },
+    {
+      "title":"COVAXIN",
+      "url":"https://www.bharatbiotech.com/covaxin.html",
+      "description":"Bharat Biotech's COVAXIN official information and update page"
+    },
+    {
+      "title":"Sputnik V",
+      "url":"https://sputnikvaccine.com",
+      "description":"Russia's COVID-19 vaccine official page"
     }
   ]
 }
