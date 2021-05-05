@@ -136,7 +136,8 @@
         "lindawangg/COVID-Net",
         "mmahdigh/covid-risk",
         "healthbadge/episimmer",
-        "inavamsi/Custom_epidemic_model"
+        "inavamsi/Custom_epidemic_model",
+        "epispot/epispot"
       ]
     },
     {
