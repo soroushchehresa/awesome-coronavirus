@@ -481,6 +481,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | [covid19-dash](https://covidnineteendash.herokuapp.com/world) | A fully updated, interactive dashboard to track the corona virus cases made using the dash python framework. Contains diferent page and layouts for India and World and a good structure for a multi-page dash application. |
 | [wildgrube.com - Outbreak](https://wildgrube.com/outbreak) | Visualization of the Johns Hopkins data on the Covid19 pandemic build on SteelPHP, Javascript, React and D3. |
 | [Apocalypse Travel](http://apocalypsetravel.com) | COVID travel restrictions between US states and countries around the world. |
+| [COVID-19 Hub](https://covid19-hub.herokuapp.com) | Covid19 Hub is an information center providing covid 19 related stats, graphs and news in one place. It also has some additional features such as inspirational quotes as well as an activity generator for those that are in self isolation. |
 
 
 
