@@ -648,6 +648,11 @@
           "title":"Apocalypse Travel",
           "url":"http://apocalypsetravel.com",
           "description":"COVID travel restrictions between US states and countries around the world."
+        },
+        {
+          "title":"COVID-19 Hub",
+          "url":"https://covid19-hub.herokuapp.com",
+          "description":"Covid19 Hub is an information center providing covid 19 related stats, graphs and news in one place. It also has some additional features such as inspirational quotes as well as an activity generator for those that are in self isolation."
         }
       ]
     }
