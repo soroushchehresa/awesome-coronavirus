@@ -110,22 +110,15 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 ## Donation and Sponsoring
 
-Donate me by buying me some vitamins to boost my immune system during the coronavirus outbreak, I would maintain this repository if I was alive :) 
+You can help me by buying me vitamins to boost my immune system when the Coronavirus outbreak is happening. I would maintain this repository if I were still alive :)
 
-#### Bitcoin
-<img src="https://i.imgur.com/9IgberJ.png" width="120" >
-
-`1CddWa57gyqTQEgf5oiQ4DbpLufAiEyMTm`
-
-#### Patreon
+#### Donation
 <a href="https://www.patreon.com/soroushchehresa">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
-<hr>
-
-You can become a sponsor of `awesome-coronavirus` and be placed at the top of this repository readme. If you are interested to become a sponsor please contact me by the following Email address:
-#### `s1996ch@gmail.com`
+#### Sponsoring
+We have an option to let you sponsor awesome-coronavirus and place your name at the top of the repository readme. Please contact me by [email](mailto:s1996ch@gmail.com) if you are interested in becoming a sponsor.
 
 ## Contribution
 Contributions are welcomed! Read the [contribution guidelines](https://github.com/soroushchehresa/awesome-coronavirus/blob/master/contributing.md) first.
