@@ -112,12 +112,12 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 You can help me by buying me vitamins to boost my immune system when the Coronavirus outbreak is happening. I would maintain this repository if I were still alive :)
 
-#### Donation
+#### Support this project by donating:
 <a href="https://www.patreon.com/soroushchehresa">
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
-#### Sponsoring
+#### Join this project as a sponsor:
 We have an option to let you sponsor awesome-coronavirus and place your name at the top of the repository readme. Please contact me by [email](mailto:s1996ch@gmail.com) if you are interested in becoming a sponsor.
 
 ## Contribution
