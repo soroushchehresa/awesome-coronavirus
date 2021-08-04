@@ -1,18 +1,14 @@
-'use strict';
+import fs from 'fs';
+import GitHubAPI from 'github';
+import ejs from 'ejs';
+import dotenv from 'dotenv';
 
-const fs = require('fs');
-const GitHubApi = require('github');
-const ejs = require('ejs');
-
-require('dotenv')
-  .config();
+dotenv.config();
 
 const DEBUG = process.env.NODE_ENV === 'development';
 const GITHUB_AUTH_TOKEN = process.env.GITHUB_AUTH_TOKEN;
-
 const templateFilePath = `${__dirname}/template.md`;
 const outputFilePath = `${__dirname}/../README.md`;
-
 const getToKnowData = require('../data/get-to-know.json');
 let openSourceProjectsData = require('../data/open-source-projects.json');
 const applicationsData = require('../data/applications.json');
@@ -26,7 +22,7 @@ const booksData = require('../data/books.json');
 const hackathonsData = require('../data/hackathons.json');
 const vaccinationData = require('../data/vaccination.json');
 
-const github = new GitHubApi({
+const github = new GitHubAPI({
   debug: DEBUG,
   followRedirects: false,
   timeout: 10000,
@@ -39,9 +35,9 @@ github.authenticate({
 });
 
 const repositories = openSourceProjectsData.list
-  .map(item => {
+  .map((item: {repositories: string[], category: string, anchor: string}) => {
     const fetchReposPromise = item.repositories
-      .map(repoPath => {
+      .map((repoPath: string) => {
         const separatedRepoPath = repoPath.split('/');
         return github.repos.get({
           user: separatedRepoPath[0],
@@ -56,15 +52,15 @@ const repositories = openSourceProjectsData.list
       .all(allSettled)
       .then(rawResult => {
         const result = rawResult
-          .filter(({ state, value, reason }) => {
+          .filter(({ state, value }: {state: string, value: {name: string, owner: string, stargazers_count: number}}) => {
             if (state === 'fulfilled' && value && value.name && value.owner) {
               return true;
             }
           })
-          .map(({ value }) => value);
+          .map(({ value }: {state: string, value: {name: string, owner: string, stargazers_count: number}}) => value);
         return {
           category: item.category,
-          repositories: result.sort((a, b) => a.stargazers_count < b.stargazers_count ? 1 : -1),
+          repositories: result.sort((a: {stargazers_count: number}, b: {stargazers_count: number}) => a.stargazers_count < b.stargazers_count ? 1 : -1),
           anchor: item.anchor || item.category.toLowerCase(),
         };
       });
@@ -72,7 +68,7 @@ const repositories = openSourceProjectsData.list
 
 Promise
   .all(repositories)
-  .then(openSourceList => {
+  .then((openSourceList: object) => {
     const data = {
       contents: contentsData,
       openSource: { list: openSourceList, title: openSourceProjectsData.title },
