@@ -15,14 +15,13 @@
   "author": "Soroush Chehresa",
   "license": "MIT",
   "dependencies": {
+    "@octokit/rest": "^18.10.0",
     "dotenv": "^8.2.0",
-    "ejs": "^2.4.2",
-    "github": "^2.1.0"
+    "ejs": "^2.4.2"
   },
   "devDependencies": {
     "@types/dotenv": "^8.2.0",
     "@types/ejs": "^3.0.7",
-    "@types/github": "^7.1.0",
     "@types/node": "^16.4.11",
     "@types/node-fetch": "^2.5.12",
     "ts-node": "^10.1.0",

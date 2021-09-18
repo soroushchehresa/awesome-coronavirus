@@ -1,14 +1,14 @@
 Arguments: 
-  /usr/local/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js build
+  /usr/local/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js add --dev @types/@octokit/rest
 
 PATH: 
-  /Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/bin:~/android-sdk/platform-tools:/Users/soroushchehresa/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/go/bin:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Wireshark.app/Contents/MacOS:/Users/soroushchehresa/Desktop/awesome-coronavirus/node_modules/.bin:/Users/soroushchehresa/android-sdk/platform-tools
+  /Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/bin:~/android-sdk/platform-tools:/Users/soroushchehresa/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/go/bin:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Wireshark.app/Contents/MacOS:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/bin:~/android-sdk/platform-tools:/Users/soroushchehresa/.bin:/Users/soroushchehresa/android-sdk/platform-tools:/Users/soroushchehresa/android-sdk/platform-tools
 
 Yarn version: 
   1.5.1
 
 Node version: 
-  15.5.0
+  14.17.6
 
 Platform: 
   darwin x64
@@ -257,15 +257,22 @@ Lockfile:
 
 Trace: 
   Error: Command failed.
-  Exit code: 1
-  Command: sh
-  Arguments: -c ts-node -T src/index.ts
-  Directory: /Users/soroushchehresa/Desktop/awesome-coronavirus
+  Exit code: 128
+  Command: git
+  Arguments: ls-remote --tags --heads ssh://git@github.com/octokit/rest.git
+  Directory: /Users/soroushchehresa/Desktop/awesome-coronavirus/src
   Output:
+  Warning: Permanently added the RSA host key for IP address '140.82.121.3' to the list of known hosts.
+  ERROR: Repository not found.
+  fatal: Could not read from remote repository.
   
+  Please make sure you have the correct access rights
+  and the repository exists.
       at ProcessTermError.MessageError (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:186:110)
       at new ProcessTermError (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:226:113)
       at ChildProcess.<anonymous> (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:30281:17)
-      at ChildProcess.emit (node:events:376:20)
-      at maybeClose (node:internal/child_process:1063:16)
-      at Process.ChildProcess._handle.onexit (node:internal/child_process:295:5)
+      at ChildProcess.emit (events.js:400:28)
+      at maybeClose (internal/child_process.js:1055:16)
+      at Socket.<anonymous> (internal/child_process.js:441:11)
+      at Socket.emit (events.js:400:28)
+      at Pipe.<anonymous> (net.js:675:12)

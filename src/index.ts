@@ -1,69 +1,58 @@
 import fs from 'fs';
-import GitHubAPI from 'github';
+import {Octokit as GitHubAPI, } from '@octokit/rest';
 import ejs from 'ejs';
 import dotenv from 'dotenv';
+import getToKnowData from '../data/get-to-know.json';
+import openSourceProjectsData from '../data/open-source-projects.json';
+import applicationsData from '../data/applications.json';
+import socialData from '../data/social.json';
+import researchOutletsData from '../data/research-outlets.json';
+import interactiveApplicationsData from '../data/interactive-applications.json';
+import currentStatusData from '../data/current-status.json';
+import contentsData from '../data/contents.json';
+import educationData from '../data/education.json';
+import booksData from '../data/books.json';
+import hackathonsData from '../data/hackathons.json';
+import vaccinationData from '../data/vaccination.json';
 
 dotenv.config();
 
-const DEBUG = process.env.NODE_ENV === 'development';
-const GITHUB_AUTH_TOKEN = process.env.GITHUB_AUTH_TOKEN;
-const templateFilePath = `${__dirname}/template.md`;
-const outputFilePath = `${__dirname}/../README.md`;
-const getToKnowData = require('../data/get-to-know.json');
-let openSourceProjectsData = require('../data/open-source-projects.json');
-const applicationsData = require('../data/applications.json');
-const socialData = require('../data/social.json');
-const researchOutletsData = require('../data/research-outlets.json');
-const interactiveApplicationsData = require('../data/interactive-applications.json');
-const currentStatusData = require('../data/current-status.json');
-const contentsData = require('../data/contents.json');
-const educationData = require('../data/education.json');
-const booksData = require('../data/books.json');
-const hackathonsData = require('../data/hackathons.json');
-const vaccinationData = require('../data/vaccination.json');
-
 const github = new GitHubAPI({
-  debug: DEBUG,
   followRedirects: false,
   timeout: 10000,
   Promise: Promise,
-});
-
-github.authenticate({
-  type: 'oauth',
-  token: GITHUB_AUTH_TOKEN,
+  auth: process.env.GITHUB_AUTH_TOKEN,
+  // log: console,
 });
 
 const repositories = openSourceProjectsData.list
-  .map((item: {repositories: string[], category: string, anchor: string}) => {
+  .map(async (item: any) => {
     const fetchReposPromise = item.repositories
       .map((repoPath: string) => {
         const separatedRepoPath = repoPath.split('/');
-        return github.repos.get({
-          user: separatedRepoPath[0],
+        return github.rest.repos.get({
+          owner: separatedRepoPath[0],
           repo: separatedRepoPath[1],
         });
       });
-    const allSettled = fetchReposPromise.map(p => Promise.resolve(p)
+    const allSettled = fetchReposPromise.map((p: any) => Promise.resolve(p)
       .then(
         val => ({ state: 'fulfilled', value: val }),
         err => ({ state: 'rejected', reason: err })));
-    return Promise
-      .all(allSettled)
-      .then(rawResult => {
-        const result = rawResult
-          .filter(({ state, value }: {state: string, value: {name: string, owner: string, stargazers_count: number}}) => {
-            if (state === 'fulfilled' && value && value.name && value.owner) {
-              return true;
-            }
-          })
-          .map(({ value }: {state: string, value: {name: string, owner: string, stargazers_count: number}}) => value);
-        return {
-          category: item.category,
-          repositories: result.sort((a: {stargazers_count: number}, b: {stargazers_count: number}) => a.stargazers_count < b.stargazers_count ? 1 : -1),
-          anchor: item.anchor || item.category.toLowerCase(),
-        };
-      });
+    const rawResult = await Promise
+      .all(allSettled);
+    const result = rawResult
+      .filter(({ state, value: value_1 }: any) => {
+        if (state === 'fulfilled' && value_1 && value_1.data && value_1.data.name && value_1.data.owner) {
+          return true;
+        }
+      })
+      .map(({ value: value_2 }: any) => value_2);
+    return {
+      category: item.category,
+      repositories: result.sort((a: any, b: any) => a.stargazers_count < b.stargazers_count ? 1 : -1),
+      anchor: item.anchor || item.category.toLowerCase(),
+    };
   });
 
 Promise
@@ -83,9 +72,9 @@ Promise
       hackathons: hackathonsData,
       vaccination: vaccinationData,
     };
-    const template = fs.readFileSync(templateFilePath, 'utf8');
+    const template = fs.readFileSync(`${__dirname}/template.md`, 'utf8');
     const markdown = ejs.render(template, data);
-    fs.writeFileSync(outputFilePath, markdown);
+    fs.writeFileSync(`${__dirname}/../README.md`, markdown);
   })
   .catch(error => {
     console.error(error);
