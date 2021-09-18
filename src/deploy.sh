@@ -1,3 +1,4 @@
+echo "===================Start deploying to GitHub==================="
 git config --global user.email "deploy@travis-ci.org"
 git config --global user.name "Deployment Bot (from Travis CI)"
 git status
