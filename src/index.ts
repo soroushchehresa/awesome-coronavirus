@@ -50,7 +50,7 @@ const repositories = openSourceProjectsData.list
       .map(({ value: value_2 }: any) => value_2);
     return {
       category: item.category,
-      repositories: result.sort((a: any, b: any) => a.stargazers_count < b.stargazers_count ? 1 : -1),
+      repositories: result.sort((a: any, b: any) => a.data.stargazers_count < b.data.stargazers_count ? 1 : -1),
       anchor: item.anchor || item.category.toLowerCase(),
     };
   });
