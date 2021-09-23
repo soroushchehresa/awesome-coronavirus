@@ -105,6 +105,11 @@
       "title":"Coronavirus Tech Handbook",
       "url": "https://coronavirustechhandbook.com/home",
       "description": "The Coronavirus Tech Handbook is a crowd-sourced library for technologists, civic organizations, public and private institutions, researchers, and specialists of all kinds working on responses to the pandemic. It is a rapidly evolving resource with thousands of expert contributors."
+    },
+    {
+      "title":"Response to COVID-19 with Probabilistic Programming",
+      "url": "https://arxiv.org/abs/2106.00192",
+      "description": "Probabilistic programming approach to (1) inferring parameters for COVID-19 simulation, (2) evaluating the efficacy of the COVID-19 policies, and (3) simulating policies considering the economic loss."
     }
   ]
 }
