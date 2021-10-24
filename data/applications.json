@@ -548,6 +548,11 @@
           "title":"NCOVDashboard",
           "url":"https://quantalabs.github.io/NCOVDashboard/us",
           "description":"NCOVDashboard is a COVID-19 Dashboard with graphs and data for the US, built with a python backend."
+        },
+        {
+          "title":"Plansafe.xyz",
+          "url":"https://www.plansafe.xyz",
+          "description":"Plansafe provides daily statistics and projections for COVID-19 infection surges and vaccination efforts in any county in the United States, as well as any territory in the world."
         }
       ]
     },
