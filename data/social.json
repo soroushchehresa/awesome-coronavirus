@@ -133,6 +133,11 @@
           "title":"@coronaworldstatsbot",
           "url":"https://t.me/coronaworldstatsbot",
           "description":"Telegram bot which gives you COVID19🦠 stats and Timeline graph when you share any location from around the world."
+        },
+        {
+          "title":"@covidtron19000_bot",
+          "url":"https://t.me/covidtron19000_bot",
+          "description":"Telegram bot that gives you up-to-date statistics about the spread of COVID-19 in Italy."
         }
       ]
     },
