@@ -87,7 +87,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 602 | [@OxCGRT](https://github.com/OxCGRT)/[**covid-policy-tracker**](https://github.com/OxCGRT/covid-policy-tracker) | Systematic dataset of Covid-19 policy, from Oxford University |
  | 389 | [@M-Media-Group](https://github.com/M-Media-Group)/[**Covid-19-API**](https://github.com/M-Media-Group/Covid-19-API) | This is the code running in AWS Lambda powering covid-api.mmediagroup.fr/v1. The API provides realtime and historical data on Coronavirus COVID-19 confirmed cases, deaths, and recovered cases. This API has now been called over 40 million times, thank you! |
  | 325 | [@amodm](https://github.com/amodm)/[**api-covid19-in**](https://github.com/amodm/api-covid19-in) | COVID Rest API for India data, using Cloudflare Workers |
- | 235 | [@marlon360](https://github.com/marlon360)/[**rki-covid-api**](https://github.com/marlon360/rki-covid-api) | 🦠🇩🇪📈 An API for the spread of covid-19 in Germany. Data from Robert-Koch-Institut. |
+ | 236 | [@marlon360](https://github.com/marlon360)/[**rki-covid-api**](https://github.com/marlon360/rki-covid-api) | 🦠🇩🇪📈 An API for the spread of covid-19 in Germany. Data from Robert-Koch-Institut. |
  | 124 | [@nat236919](https://github.com/nat236919)/[**covid19-api**](https://github.com/nat236919/covid19-api) | API for exploring COVID-19 cases around the globe |
  | 121 | [@Laeyoung](https://github.com/Laeyoung)/[**COVID-19-API**](https://github.com/Laeyoung/COVID-19-API) | API Service for tracking the COVID-19 |
  | 114 | [@ryo-ma](https://github.com/ryo-ma)/[**covid19-japan-web-api**](https://github.com/ryo-ma/covid19-japan-web-api) | 🇯🇵 Web API to get 🦠COVID-19(coronavirus) information of each prefecture in Japan |
@@ -122,21 +122,21 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 | 🌟     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 28410 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
- | 6873 | [@covid19india](https://github.com/covid19india)/[**covid19india-react**](https://github.com/covid19india/covid19india-react) | Tracking the impact of COVID-19 in India |
- | 6789 | [@nytimes](https://github.com/nytimes)/[**covid-19-data**](https://github.com/nytimes/covid-19-data) | An ongoing repository of data on coronavirus cases and deaths in the U.S. |
- | 5098 | [@owid](https://github.com/owid)/[**covid-19-data**](https://github.com/owid/covid-19-data) | Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data |
+ | 28421 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
+ | 6876 | [@covid19india](https://github.com/covid19india)/[**covid19india-react**](https://github.com/covid19india/covid19india-react) | Tracking the impact of COVID-19 in India |
+ | 6793 | [@nytimes](https://github.com/nytimes)/[**covid-19-data**](https://github.com/nytimes/covid-19-data) | An ongoing repository of data on coronavirus cases and deaths in the U.S. |
+ | 5107 | [@owid](https://github.com/owid)/[**covid-19-data**](https://github.com/owid/covid-19-data) | Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data |
  | 3923 | [@pcm-dpc](https://github.com/pcm-dpc)/[**COVID-19**](https://github.com/pcm-dpc/COVID-19) | COVID-19 Italia - Monitoraggio situazione |
  | 2784 | [@ieee8023](https://github.com/ieee8023)/[**covid-chestxray-dataset**](https://github.com/ieee8023/covid-chestxray-dataset) | We are building an open database of COVID-19 cases with chest X-ray or CT images. |
- | 2052 | [@BlankerL](https://github.com/BlankerL)/[**DXY-COVID-19-Data**](https://github.com/BlankerL/DXY-COVID-19-Data) | 2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse |
- | 1518 | [@github](https://github.com/github)/[**covid19-dashboard**](https://github.com/github/covid19-dashboard) | A site that displays up to date COVID-19 stats, powered by fastpages. |
+ | 2054 | [@BlankerL](https://github.com/BlankerL)/[**DXY-COVID-19-Data**](https://github.com/BlankerL/DXY-COVID-19-Data) | 2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse |
+ | 1521 | [@github](https://github.com/github)/[**covid19-dashboard**](https://github.com/github/covid19-dashboard) | A site that displays up to date COVID-19 stats, powered by fastpages. |
  | 1265 | [@nextstrain](https://github.com/nextstrain)/[**ncov**](https://github.com/nextstrain/ncov) | Nextstrain build for novel coronavirus SARS-CoV-2 |
- | 1223 | [@pomber](https://github.com/pomber)/[**covid19**](https://github.com/pomber/covid19) | JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily |
+ | 1224 | [@pomber](https://github.com/pomber)/[**covid19**](https://github.com/pomber/covid19) | JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily |
  | 1140 | [@datasets](https://github.com/datasets)/[**covid-19**](https://github.com/datasets/covid-19) | Novel Coronavirus 2019 time series data on cases |
  | 1115 | [@FoldingAtHome](https://github.com/FoldingAtHome)/[**coronavirus**](https://github.com/FoldingAtHome/coronavirus) | Folding@home COVID-19 efforts |
- | 937 | [@UCSD-AI4H](https://github.com/UCSD-AI4H)/[**COVID-CT**](https://github.com/UCSD-AI4H/COVID-CT) | COVID-CT-Dataset: A CT Scan Dataset about COVID-19 |
+ | 939 | [@UCSD-AI4H](https://github.com/UCSD-AI4H)/[**COVID-CT**](https://github.com/UCSD-AI4H/COVID-CT) | COVID-CT-Dataset: A CT Scan Dataset about COVID-19 |
  | 620 | [@globalcitizen](https://github.com/globalcitizen)/[**2019-wuhan-coronavirus-data**](https://github.com/globalcitizen/2019-wuhan-coronavirus-data) | 2019 Wuhan Coronavirus data (COVID-19 / 2019-nCoV) |
- | 541 | [@turicas](https://github.com/turicas)/[**covid19-br**](https://github.com/turicas/covid19-br) | Dados diários mais recentes do coronavírus por município brasileiro |
+ | 542 | [@turicas](https://github.com/turicas)/[**covid19-br**](https://github.com/turicas/covid19-br) | Dados diários mais recentes do coronavírus por município brasileiro |
  | 451 | [@RamiKrispin](https://github.com/RamiKrispin)/[**coronavirus**](https://github.com/RamiKrispin/coronavirus) | The coronavirus dataset |
  | 434 | [@openZH](https://github.com/openZH)/[**covid_19**](https://github.com/openZH/covid_19) | COVID19 case numbers of Cantons of Switzerland and Principality of Liechtenstein (FL). The data is updated at best once a day (times of collection and update may vary). Start with the README. |
  | 428 | [@GuangchuangYu](https://github.com/GuangchuangYu)/[**nCov2019**](https://github.com/GuangchuangYu/nCov2019) | query stats of infected coronavirus cases |
@@ -144,10 +144,10 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 289 | [@opencovid19-fr](https://github.com/opencovid19-fr)/[**data**](https://github.com/opencovid19-fr/data) | Consolidation des données de sources officielles concernant l&#39;épidémie de COVID19 |
  | 283 | [@OssamaRafique](https://github.com/OssamaRafique)/[**Covid-19-Statistics-Dashboard-Angular-9**](https://github.com/OssamaRafique/Covid-19-Statistics-Dashboard-Angular-9) | 🦠Corona Virus / Covid 19 Tracker Dashboard With Awesome UI + PWA + NodeJS Scraper |
  | 262 | [@trekhleb](https://github.com/trekhleb)/[**covid-19**](https://github.com/trekhleb/covid-19) | 📈 Coronavirus (COVID-19) dashboard to show the dynamics of Сoronavirus distribution per country |
- | 227 | [@ActiveConclusion](https://github.com/ActiveConclusion)/[**COVID19_mobility**](https://github.com/ActiveConclusion/COVID19_mobility) | COVID-19 Mobility Data Aggregator. Scraper of Google, Apple, Waze and TomTom COVID-19 Mobility Reports🚶🚘🚉 |
+ | 228 | [@ActiveConclusion](https://github.com/ActiveConclusion)/[**COVID19_mobility**](https://github.com/ActiveConclusion/COVID19_mobility) | COVID-19 Mobility Data Aggregator. Scraper of Google, Apple, Waze and TomTom COVID-19 Mobility Reports🚶🚘🚉 |
  | 201 | [@colaboradados](https://github.com/colaboradados)/[**colaboradados.github.io**](https://github.com/colaboradados/colaboradados.github.io) | O VEÍCULO COLABORATIVO SOBRE TRANSPARÊNCIA E OPEN DATA NO BRASIL. |
  | 183 | [@jihoo-kim](https://github.com/jihoo-kim)/[**Data-Science-for-COVID-19**](https://github.com/jihoo-kim/Data-Science-for-COVID-19) | DS4C: Data Science for COVID-19 in South Korea |
- | 132 | [@artic-network](https://github.com/artic-network)/[**artic-ncov2019**](https://github.com/artic-network/artic-ncov2019) | ARTIC nanopore protocol for nCoV2019 novel coronavirus |
+ | 133 | [@artic-network](https://github.com/artic-network)/[**artic-ncov2019**](https://github.com/artic-network/artic-ncov2019) | ARTIC nanopore protocol for nCoV2019 novel coronavirus |
  | 113 | [@ozanerturk](https://github.com/ozanerturk)/[**covid19-turkey-api**](https://github.com/ozanerturk/covid19-turkey-api) | https://ozanerturk.github.io/covid19-turkey-api/ Corona türkiye güncel dataset |
  | 113 | [@jianxu305](https://github.com/jianxu305)/[**nCov2019_analysis**](https://github.com/jianxu305/nCov2019_analysis) | Analysis of 2019-nCov coronavirus data |
  | 103 | [@yahoo](https://github.com/yahoo)/[**covid-19-data**](https://github.com/yahoo/covid-19-data) | COVID-19 datasets are constructed entirely from primary (government and public agency) sources |
@@ -189,11 +189,11 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | 🌟     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
  | 1381 | [@neherlab](https://github.com/neherlab)/[**covid19_scenarios**](https://github.com/neherlab/covid19_scenarios) | Models of COVID-19 outbreak trajectories and hospital demand |
- | 1080 | [@lindawangg](https://github.com/lindawangg)/[**COVID-Net**](https://github.com/lindawangg/COVID-Net) | COVID-Net Open Source Initiative |
+ | 1081 | [@lindawangg](https://github.com/lindawangg)/[**COVID-Net**](https://github.com/lindawangg/COVID-Net) | COVID-Net Open Source Initiative |
  | 944 | [@ImperialCollegeLondon](https://github.com/ImperialCollegeLondon)/[**covid19model**](https://github.com/ImperialCollegeLondon/covid19model) | Code for modelling estimated deaths and cases for COVID19.  |
  | 642 | [@midas-network](https://github.com/midas-network)/[**COVID-19**](https://github.com/midas-network/COVID-19) | 2019 novel coronavirus repository |
  | 203 | [@Yu-Group](https://github.com/Yu-Group)/[**covid19-severity-prediction**](https://github.com/Yu-Group/covid19-severity-prediction) | Extensive and accessible COVID-19 data + forecasting for counties and hospitals. 📈 |
- | 179 | [@InstituteforDiseaseModeling](https://github.com/InstituteforDiseaseModeling)/[**covasim**](https://github.com/InstituteforDiseaseModeling/covasim) | COVID-19 Agent-based Simulator (Covasim): a model for exploring coronavirus dynamics and interventions |
+ | 180 | [@InstituteforDiseaseModeling](https://github.com/InstituteforDiseaseModeling)/[**covasim**](https://github.com/InstituteforDiseaseModeling/covasim) | COVID-19 Agent-based Simulator (Covasim): a model for exploring coronavirus dynamics and interventions |
  | 138 | [@pennsignals](https://github.com/pennsignals)/[**chime**](https://github.com/pennsignals/chime) | COVID-19 Hospital Impact Model for Epidemics |
  | 76 | [@coronafighter](https://github.com/coronafighter)/[**coronaSEIR**](https://github.com/coronafighter/coronaSEIR) | Simple SEIR model Python script for the COVID-19 pandemic with real world data comparison. |
  | 59 | [@HopkinsIDD](https://github.com/HopkinsIDD)/[**ncov_incubation**](https://github.com/HopkinsIDD/ncov_incubation) | Estimating the incubation time of the novel coronavirus (nCoV-2019) based on traveler data using coarse data tools |
@@ -243,17 +243,17 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 | 🌟     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
- | 2089 | [@WorldHealthOrganization](https://github.com/WorldHealthOrganization)/[**app**](https://github.com/WorldHealthOrganization/app) | COVID-19 App |
- | 1459 | [@mhdhejazi](https://github.com/mhdhejazi)/[**CoronaTracker**](https://github.com/mhdhejazi/CoronaTracker) | Coronavirus tracker app for iOS &amp; macOS with maps &amp; charts |
+ | 2088 | [@WorldHealthOrganization](https://github.com/WorldHealthOrganization)/[**app**](https://github.com/WorldHealthOrganization/app) | COVID-19 App |
+ | 1458 | [@mhdhejazi](https://github.com/mhdhejazi)/[**CoronaTracker**](https://github.com/mhdhejazi/CoronaTracker) | Coronavirus tracker app for iOS &amp; macOS with maps &amp; charts |
  | 528 | [@google](https://github.com/google)/[**exposure-notifications-android**](https://github.com/google/exposure-notifications-android) | Exposure Notifications Android Reference Design |
  | 477 | [@phildini](https://github.com/phildini)/[**stayinghomeclub**](https://github.com/phildini/stayinghomeclub) | A list of all the companies WFH or events changed because of covid-19 |
  | 456 | [@AaronWard](https://github.com/AaronWard)/[**covidify**](https://github.com/AaronWard/covidify) | Covidify - corona virus report and dataset generator for python 📈 [no longer being updated] |
- | 339 | [@alfianlosari](https://github.com/alfianlosari)/[**CoronaVirusTrackerSwiftUI**](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI) | Corona Virus Tracker &amp; Advices iOS App with SwiftUI |
+ | 341 | [@alfianlosari](https://github.com/alfianlosari)/[**CoronaVirusTrackerSwiftUI**](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI) | Corona Virus Tracker &amp; Advices iOS App with SwiftUI |
  | 316 | [@JohnCoene](https://github.com/JohnCoene)/[**coronavirus**](https://github.com/JohnCoene/coronavirus) | 🦠 Novel Coronavirus (COVID-19) Tracker |
  | 259 | [@julianschiavo](https://github.com/julianschiavo)/[**Covidcheck**](https://github.com/julianschiavo/Covidcheck) | Open source iOS app to track COVID-19 cases in a beautiful, easy-to-use interface |
  | 251 | [@dsfsi](https://github.com/dsfsi)/[**covid19za**](https://github.com/dsfsi/covid19za) | Coronavirus COVID-19 (2019-nCoV) Data Repository and Dashboard for South Africa |
  | 206 | [@heremaps](https://github.com/heremaps)/[**here-covid-19-tracker**](https://github.com/heremaps/here-covid-19-tracker) | Using HERE Technologies APIs, fork and build your own COVID-19 Tracker. For a live version, see the website. |
- | 153 | [@BrianRuizy](https://github.com/BrianRuizy)/[**covid19-dashboard**](https://github.com/BrianRuizy/covid19-dashboard) | 🦠 Django + Plotly Coronavirus dashboard. Powerful data driven Python web-app, with an awesome UI. Contributions welcomed! Featured on 🕶Awesome-list  |
+ | 154 | [@BrianRuizy](https://github.com/BrianRuizy)/[**covid19-dashboard**](https://github.com/BrianRuizy/covid19-dashboard) | 🦠 Django + Plotly Coronavirus dashboard. Powerful data driven Python web-app, with an awesome UI. Contributions welcomed! Featured on 🕶Awesome-list  |
  | 147 | [@GabrielTavernini](https://github.com/GabrielTavernini)/[**Covid19Stats**](https://github.com/GabrielTavernini/Covid19Stats) | A simple mobile app developed with Flutter to visualize Covid19 statistics 🦠 |
  | 145 | [@wobsoriano](https://github.com/wobsoriano)/[**2019-ncov-frontend**](https://github.com/wobsoriano/2019-ncov-frontend) | 🌏 Map, data and timeline of coronavirus (COVID-19) |
  | 92 | [@RamiKrispin](https://github.com/RamiKrispin)/[**coronavirus_dashboard**](https://github.com/RamiKrispin/coronavirus_dashboard) | The Coronavirus Dashboard  |
@@ -324,7 +324,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 964 | [@sagarkarira](https://github.com/sagarkarira)/[**coronavirus-tracker-cli**](https://github.com/sagarkarira/coronavirus-tracker-cli) | Track conronavirus cases from command line. curl https://corona-stats.online/ |
  | 272 | [@wareneutron](https://github.com/wareneutron)/[**covid19-tracker-cli**](https://github.com/wareneutron/covid19-tracker-cli) | A curl-based command line tracker for Novel Coronavirus or COVID-19 pandemic. It Supports terminal for linux and macos, command prompt for windows, and termux for android with real-time updates. |
  | 91 | [@garrylachman](https://github.com/garrylachman)/[**covid19-cli**](https://github.com/garrylachman/covid19-cli) | Corona Virus (Covid 19) BASH Tracking CLI |
- | 90 | [@OpenGene](https://github.com/OpenGene)/[**fastv**](https://github.com/OpenGene/fastv) | An ultra-fast tool for identification of SARS-CoV-2 and other microbes from sequencing data. This tool can be used to detect viral infectious diseases, like COVID-19. |
+ | 89 | [@OpenGene](https://github.com/OpenGene)/[**fastv**](https://github.com/OpenGene/fastv) | An ultra-fast tool for identification of SARS-CoV-2 and other microbes from sequencing data. This tool can be used to detect viral infectious diseases, like COVID-19. |
  | 45 | [@MouadBH](https://github.com/MouadBH)/[**coronapy-cli**](https://github.com/MouadBH/coronapy-cli) | A command line tool in python to fetch worldwide data about COVID-19 |
  | 19 | [@asprazz](https://github.com/asprazz)/[**covid19-cli**](https://github.com/asprazz/covid19-cli) | A CLI for getting covid-19 coronavirus status of your district or state or country at lightning speed right on your terminal built using https://api.covid19india.org. |
  | 15 | [@soroushchehresa](https://github.com/soroushchehresa)/[**cli-corona**](https://github.com/soroushchehresa/cli-corona) | 📈 Track COVID-19 (2019 novel Coronavirus) statistics via the command line. |
