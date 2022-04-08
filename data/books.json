@@ -103,8 +103,8 @@
     },
     {
       "title":"Coronavirus Tech Handbook",
-      "url": "https://coronavirustechhandbook.com/home",
-      "description": "The Coronavirus Tech Handbook is a crowd-sourced library for technologists, civic organizations, public and private institutions, researchers, and specialists of all kinds working on responses to the pandemic. It is a rapidly evolving resource with thousands of expert contributors."
+      "url":"https://coronavirustechhandbook.com/home",
+      "description":"The Coronavirus Tech Handbook is a crowd-sourced library for technologists, civic organizations, public and private institutions, researchers, and specialists of all kinds working on responses to the pandemic. It is a rapidly evolving resource with thousands of expert contributors."
     },
     {
       "title":"Response to COVID-19 with Probabilistic Programming",
@@ -113,8 +113,8 @@
     },
     {
       "title":"Disruption in the Chinese E-Commerce During COVID-19",
-      "url": "https://www.frontiersin.org/articles/10.3389/fcomp.2021.668711/full",
-      "description": "This study examines the impact of COVID-19 on Chinese e-commerce by analyzing behavioral changes observed on a large online shopping platform."
+      "url":"https://www.frontiersin.org/articles/10.3389/fcomp.2021.668711/full",
+      "description":"This study examines the impact of COVID-19 on Chinese e-commerce by analyzing behavioral changes observed on a large online shopping platform."
     }
   ]
 }
