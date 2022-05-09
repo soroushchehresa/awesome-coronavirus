@@ -110,7 +110,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 ## Donation and Sponsoring
 
-You can help me by buying me vitamins to boost my immune system when the Coronavirus outbreak is happening. I would maintain this repository if I were still alive :)
+During Coronavirus outbreaks, you can help me by buying me some vitamins to boost my immune system. As long as I am alive, I will maintain this repository :)
 
 #### Support this project by donating:
 <a href="https://www.patreon.com/soroushchehresa">
