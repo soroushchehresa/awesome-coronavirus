@@ -108,18 +108,6 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 <% for (i in vaccination.list) { %>| [<%= vaccination.list[i].title %>](<%= vaccination.list[i].url %>) | <%= vaccination.list[i].description %> |
 <% } %>
 
-## Donation and Sponsoring
-
-During Coronavirus outbreaks, you can help me by buying me some vitamins to boost my immune system. As long as I am alive, I will maintain this repository :)
-
-#### Support this project by donating:
-<a href="https://www.patreon.com/soroushchehresa">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-#### Join this project as a sponsor:
-We have an option to let you sponsor awesome-coronavirus and place your name at the top of the repository readme. Please contact me by [email](mailto:s1996ch@gmail.com) if you are interested in becoming a sponsor.
-
 ## Contribution
-Contributions are welcomed! Read the [contribution guidelines](https://github.com/soroushchehresa/awesome-coronavirus/blob/master/contributing.md) first.
+Contributions are welcomed! Read the [contribution guidelines](https://github.com/soroushchehresa/awesome-coronavirus/blob/master/contributing.md) first!
 
