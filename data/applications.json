@@ -608,6 +608,11 @@
           "title":"Track a Virus: COVID-19 Dashboard",
           "url":"https://trackavirus.app",
           "description":"Dashboard for comparing countries and analysing daily increases. Open for contributions. Has an extensive roadmap."
+        },
+        {
+          "title":"outbreak.info",
+          "url":"https://outbreak.info/",
+          "description":"variant surveillance reports, data on cases and deaths, and a standardized, searchable research library"
         }
       ]
     },
