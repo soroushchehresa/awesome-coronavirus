@@ -608,6 +608,11 @@
           "title":"Track a Virus: COVID-19 Dashboard",
           "url":"https://trackavirus.app",
           "description":"Dashboard for comparing countries and analysing daily increases. Open for contributions. Has an extensive roadmap."
+        },
+        {
+          "title":"CoV-Spectrum",
+          "url":"https://cov-spectrum.org/",
+          "description":"Dashboard for identifying and characterizing new variants. It supports advanced searches, variant comparisons, and growth advantage and reproduction number estimations."
         }
       ]
     },
