@@ -553,6 +553,11 @@
           "title":"Plansafe.xyz",
           "url":"https://www.plansafe.xyz",
           "description":"Plansafe provides daily statistics and projections for COVID-19 infection surges and vaccination efforts in any county in the United States, as well as any territory in the world."
+        },
+        {
+          "title":"CoVariants",
+          "url":"https://covariants.org/",
+          "description":"Overview of SARS-CoV-2 variants and mutations of interest"
         }
       ]
     },
